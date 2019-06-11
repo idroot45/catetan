@@ -15,8 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Seluk Beluk
 email:
-description: >- # this means to ignore newlines until "baseurl:"
-  Seluk Beluk catatan yang tak terlalu penting.
+description: Seluk Beluk catatan yang tak terlalu penting.
 # twitter_username: username
 # github_username: username
 minimal_mistakes_skin: default
@@ -29,7 +28,7 @@ remote_theme: mmistakes/minimal-mistakes
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: +07:00 # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Jakarta # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 include:
   - _pages
@@ -56,7 +55,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Idlohulhaq Nasyrih"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Pria kesepian yang kesulitan mendeskripsikan kegelisahan."
   links:
@@ -65,25 +64,22 @@ author:
       url: "https://www.paciran.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: #"https://twitter.com/"
+      url: "https://twitter.com/knoacc"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: #"https://github.com/"
+      url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/lautansyair"
 
 footer:
   links:
-    - label: "Twitter"
+    - label: "Web"
       icon: "fab fa-fw fa-twitter-square"
-      url: #"https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: #"https://github.com/"
+      url: "https://www.knoacc.org/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: #"https://instagram.com/"
+      url: "https://instagram.com/lautansyair"
 
 defaults:
   # _posts
