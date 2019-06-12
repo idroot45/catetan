@@ -1,7 +1,7 @@
 ---
 title: Using Python and Gitlab to create a ticketing system
 header:
-  overlay_image: /assets/images/sebastian-unrau-47679-unsplash.jpg
+  overlay_image: https:/kayjukh.github.io/assets/images/sebastian-unrau-47679-unsplash.jpg
 categories: [programming]
 tags: [python, gitlab, gitlab premium, rest api, ticketing system, service desk]
 classes: wide
@@ -20,7 +20,7 @@ A ticketing system is a system that centralizes all your customers and/or collea
 # Setting up a new Gitlab repository
 
 The first step is to setup a new blank Gitlab repository for your ticketing system. I called mine `ticketing`, but you can give it any name.
-![Create a new blank project](/assets/images/2019-06-11-using-gitlab-and-python-to-create-a-ticketing-system/new_project.png)
+![Create a new blank project](https://kayjukh.github.io/assets/images/2019-06-11-using-gitlab-and-python-to-create-a-ticketing-system/new_project.png)
 
 As with any repository, you can give it a description, choose to make it public, internal or private and you can initialize it with a README file. I will keep the default settings for the sake of demonstration.
 
@@ -33,7 +33,7 @@ The most important feature that we will be using in this tutorial is the Gitlab 
 We can take advantage of this feature and use it to send support tickets directly to our new repository via email.
 
 To enable Service Desk, simply go to the repository's general settings and scroll down to **Service Desk**. Clock *Expand* and enable it (it may already be enabled by default). You will see that Gitlab automatically generated an email address for the support requests to be sent to.
-![Enabling Service Desk](/assets/images/2019-06-11-using-gitlab-and-python-to-create-a-ticketing-system/enable_service_desk.png)
+![Enabling Service Desk](https://kayjukh.github.io/assets/images/2019-06-11-using-gitlab-and-python-to-create-a-ticketing-system/enable_service_desk.png)
 
 Now that everything is set up, we can start scripting our very own ticketing system!
 
@@ -53,7 +53,7 @@ The general form of a Gitlab API request is as follows:
 https://gitlab.com/api/v/projects/<projectId>/<request>?private_token=<privateToken>
 ```
 You can get your projects ID on your project repository's home page.
-![Finding your project's ID](/assets/images/2019-06-11-using-gitlab-and-python-to-create-a-ticketing-system/project_id.png)
+![Finding your project's ID](https://kayjukh.github.io/assets/images/2019-06-11-using-gitlab-and-python-to-create-a-ticketing-system/project_id.png)
 
 To make the code more readable, let us add the following lines in the Python script:
 ```python
@@ -174,9 +174,9 @@ Message:
 Note that I use one of the category IDs inside square brackets in the subject of my email. This is very important, as it will allow our script to give the right label to the resulting Gitlab issue.
 
 The new issue is now visible on the repository.
-![Newly created Service Desk issue](/assets/images/2019-06-11-using-gitlab-and-python-to-create-a-ticketing-system/new_issue.png)
+![Newly created Service Desk issue](https://kayjukh.github.io/assets/images/2019-06-11-using-gitlab-and-python-to-create-a-ticketing-system/new_issue.png)
 and we can respond to it like any other issue. The answer will automatically be forwarded to the mailbox of the person who posted the request.
-![Answering a ticket](/assets/images/2019-06-11-using-gitlab-and-python-to-create-a-ticketing-system/new_issue_detail.png)
+![Answering a ticket](https://kayjukh.github.io/assets/images/2019-06-11-using-gitlab-and-python-to-create-a-ticketing-system/new_issue_detail.png)
 
 # Concluding thoughts
 
