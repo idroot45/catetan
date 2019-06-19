@@ -2,6 +2,7 @@
 title: Using Python and Gitlab to create a ticketing system
 header:
   overlay_image: https://kayjukh.github.io/assets/images/sebastian-unrau-47679-unsplash.jpg
+  teaser: https://i0.wp.com/kayjukh.github.io/assets/images/2019-06-11-using-gitlab-and-python-to-create-a-ticketing-system/new_issue_detail.png?resize=320,160
 categories: [programming]
 tags: [python, gitlab, gitlab premium, rest api, ticketing system, service desk]
 classes: wide
