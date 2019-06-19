@@ -23,7 +23,7 @@ minimal_mistakes_skin: default
 
 # Images
 teaser: https://source.unsplash.com/weekly/640x320/?notepad
-og_image: https://source.unsplash.com/weekly/1200x640/?writing
+og_image: https://source.unsplash.com/random/920x460/?writing
 logo: https://source.unsplash.com/random/88x88/?notepad
 #Search
 search: true
