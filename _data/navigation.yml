@@ -1,9 +1,9 @@
 main:
-  - title: "Posts"
+  - title: "Catetan"
     url: /
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "About"
+  - title: "Ketegori"
+    url: /kategori/
+  - title: "Penandaan"
+    url: /tanda/
+  - title: "Tentang"
     url: /about/
