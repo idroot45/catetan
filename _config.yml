@@ -21,6 +21,11 @@ description: Seluk Beluk catatan yang tak terlalu penting.
 # github_username: username
 minimal_mistakes_skin: default
 
+# Images
+teaser: https://source.unsplash.com/weekly/640x320/?notepad
+og_image: https://source.unsplash.com/weekly/1200x640/?writing
+logo: https://source.unsplash.com/random/88x88/?notepad
+#Search
 search: true
 search_provider: google
 google:
