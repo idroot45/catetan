@@ -14,13 +14,22 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Seluk Beluk
-email:
+# email:
 description: Seluk Beluk catatan yang tak terlalu penting.
 # twitter_username: username
 # github_username: username
 minimal_mistakes_skin: default
 search: true
-
+search_provider: google
+google:
+ search_engine_id: 
+comments:
+ provider: utterances
+ utterances:
+  theme: github-dark
+  issue_term: pathname
+   
+   
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
@@ -80,6 +89,13 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/lautansyair"
+sass:
+  style: compressed
+
+compress_html:
+  clippings: all
+  ignore:
+    envs: development
 
 defaults:
   # _posts
@@ -99,7 +115,7 @@ defaults:
       type: pages
     values:
       layout: single
-      author_profile: true
+      author_profile: false
 
 category_archive:
   type: liquid
