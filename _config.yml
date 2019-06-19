@@ -20,18 +20,17 @@ description: Seluk Beluk catatan yang tak terlalu penting.
 # github_username: username
 minimal_mistakes_skin: default
 
-search: "true"
-search_provider: "google"
+search: true
+search_provider: google
 google:
  search_engine_id: "012409504556434517711:oxyvbv1u6ko"
- instant_search: "true"
+ instant_search: true
 comments:
- provider: "utterances"
- utterances:
-  theme: "github-dark"
-  issue_term: "pathname"
-   
-   
+ provider: utterances
+# utterances:
+#  theme: github-dark
+#  issue_term: pathname
+
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
