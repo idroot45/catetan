@@ -1,5 +1,5 @@
 ---
-title: Xamzone Linux v1.2 Telah Dirilis
+title: "Xamzone Linux v1.2 Telah Dirilis [download/referensi]"
 excerpt: Xamzone adalah sebuah paket software client-server untuk mengelola pelaksanaan Ujian Berbasis Komputer di sisi client.
 header:
  image: https://1.bp.blogspot.com/-odYaYNl3yhY/XQSPlF_5ZJI/AAAAAAAANGo/hmpTln6YIF4SFfJrNdC6UmAX10pFQyavwCLcBGAs/s1600/xamzone-wallpaper-v1.2.jpg
