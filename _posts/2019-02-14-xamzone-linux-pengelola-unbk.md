@@ -1,10 +1,9 @@
 ---
 title: Xamzone Linux v1.0 Telah Dirilis
-excerpt: sebuah paket software client-server untuk mengelola pelaksanaan Ujian Berbasis Komputer di sisi Client.
-
+excerpt: sebuah paket software client-server untuk mengelola pelaksanaan Ujian Berbasis Komputer di sisi client.
 header:
  image: https://3.bp.blogspot.com/-b1JKofXvCoU/XGJf6j8XuWI/AAAAAAAABkA/obhjWbPGz18hLgivw_vZnxjXtxQa9wLzwCLcBGAs/s1600/logok.png
-teaser: https://3.bp.blogspot.com/-b1JKofXvCoU/XGJf6j8XuWI/AAAAAAAABkA/obhjWbPGz18hLgivw_vZnxjXtxQa9wLzwCLcBGAs/w180-h100-c/logok.png
+ teaser: https://3.bp.blogspot.com/-b1JKofXvCoU/XGJf6j8XuWI/AAAAAAAABkA/obhjWbPGz18hLgivw_vZnxjXtxQa9wLzwCLcBGAs/w180-h100-c/logok.png
 categories: [linux]
 tags: [goUNBK, Xamzone Linux, Diskless OS]
 permalink: https://xamzone.haliminfo.com
