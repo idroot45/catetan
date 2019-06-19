@@ -19,15 +19,15 @@ description: Seluk Beluk catatan yang tak terlalu penting.
 # twitter_username: username
 # github_username: username
 minimal_mistakes_skin: default
-search: true
-search_provider: google
+search: "true"
+search_provider: "google"
 google:
- search_engine_id: 
+ search_engine_id: "012409504556434517711:oxyvbv1u6ko"
 comments:
- provider: utterances
+ provider: "utterances"
  utterances:
-  theme: github-dark
-  issue_term: pathname
+  theme: "github-dark"
+  issue_term: "pathname"
    
    
 # Build settings
