@@ -1,12 +1,12 @@
 ---
-title: Xamzone Linux v1.0 Telah Dirilis
+title: Xamzone Linux v1.2 Telah Dirilis
 excerpt: sebuah paket software client-server untuk mengelola pelaksanaan Ujian Berbasis Komputer di sisi client.
 header:
- image: https://3.bp.blogspot.com/-b1JKofXvCoU/XGJf6j8XuWI/AAAAAAAABkA/obhjWbPGz18hLgivw_vZnxjXtxQa9wLzwCLcBGAs/s1600/logok.png
+ image: https://1.bp.blogspot.com/-odYaYNl3yhY/XQSPlF_5ZJI/AAAAAAAANGo/hmpTln6YIF4SFfJrNdC6UmAX10pFQyavwCLcBGAs/s1600/xamzone-wallpaper-v1.2.jpg
  teaser: https://3.bp.blogspot.com/-b1JKofXvCoU/XGJf6j8XuWI/AAAAAAAABkA/obhjWbPGz18hLgivw_vZnxjXtxQa9wLzwCLcBGAs/w180-h100-c/logok.png
 categories: [linux]
 tags: [goUNBK, Xamzone Linux, Diskless OS]
-permalink: https://xamzone.haliminfo.com
+permalink: https://xamzone-linux.blogspot.com/2019/05/rilis-xamzone-linux-versi-12.html
 ---
 Xamzone adalah sebuah paket software client-server untuk mengelola pelaksanaan Ujian Berbasis Komputer di sisi Client.
 
@@ -20,35 +20,41 @@ xamzone Client merupakan sistem operasi yang didistribusikan melalui jaringan ol
 
 Berikut ini timeline rilis xamzone
 ```
-Xamzone Linux v 1.0 Rilis
+Alhamdulillah, kami masih diberikan kesempatan, dan kesehatan untuk merilis Xamzone Linux versi 1.2 dengan penambahan dan perbaikan sebagai berikut :
 
-Bismillahirrohmanirrohim
+1. Penambahan di sisi Client
+2. Batery Indikator pd Panel
+3. Wake-on-LAN
+4. File Manager PCManFM
 
-Alhamdulillah kami segenap team Pengembang GoUNBK telah merilis versi 1.0 dari distro Xamzone Linux.
+Perbaikan di sisi Client :
 
-Xamzone Linux memiliki fungsi utama untuk menjalankan Ujian Berbasis Komputer di sisi Client.
+1. Fix Run CBT yg mengakibatkan blokir Shortcut keyboard tidak berfungsi
+2. Fix Setting Openbox yg sebelumnya dapat diunmaximize ketika ujian
+3. Fix service Remote Command yg sudah tidak berfungsi
+dan beberapa bug minor lainnya.
 
-Xamzone Linux dapat dijalankan pada PC Client yang tidak memiliki Harddisk melalui booting jaringan. Sehingga cocok untuk digunakan disaat PC Windows Anda bermasalah, seperti kena virus, blue screen, Harddisk corrupt, tidak sempat install ulang, dll.
+Penambahan di sisi Server :
 
-Xamzone Linux v1.0 dibuat berdasarkan Image OS GoUNBK Client versi 1.4 dengan spesifikasi sebagai berikut :
+1. Nyalakan PC Client secara serentak
+2. Menjalankan cek sound via Browser
+3. Web based file manager utk kemudahan upload file update dan instalasi fonts
+4. Menu ganti Timezone dan datetime
+5. Install File Manager ke semua PC Client
+6. Penambahan menu Tentang Xamzone dan menu Donasi.
 
-1. Mengganti Exambro Linux dengan Chromium
-2. URL Server CBT dapat diset pada Server Xamzone Linux
-3. Password untuk keluar dari Chromium dapat diset dari Server
-4. Sama seperti GoUNBK, Xamzone Client dapat dimanajement dari Server, seperti menjalankan Chromium secara massal, kirim token, kirim pesan, kunci/buka layar, shutdown semua PC Client, dll
-5. Dilengkapi Multimedia Codecs dan Firmware Driver Free dan Non-free untuk menunjang deteksi perangkat keras
-6. Ditambahkan URL untuk booting dari Web Server External untuk menambah kinerja booting jaringan.
-7. IP Address default Xamzone Server 192.168.0.253
-8. Xamzone Server dilengkapi DHCP Server sehingga PC Client otomatis mendapat IP Address, teknisi tidak perlu melakukan setting IP Address secara manual
-9. Sudah dilengkapi fonts dari project Wine dan lain-lain untuk menunjang keterbacaan soal
-10. Dilengkapi fasilitas Install Flash Player dari Server untuk semua PC Client Xamzone.
+Untuk pengguna baru yang ingin download harap isi form dulu di http://gg.gg/xamzone_universe
 
-Xamzone Linux dapat digunakan untuk berbagai keperluan Ujian Berbasis Komputer Mandiri seperti Try Out, Ujian Sekolah, UAMBN-BK, dll
-
-Silakan kunjungi blog Xamzone Linux untuk mengunduhnya
-
-Salam Hangat,
-Segenap Tim Pengembang GoUNBK (Xamzone Linux)
+Bagi yg sudah mengisi form silakan langsung ke http://gg.gg/xamzonev12
 
 ```
-Xamzone Linux bisa digunakan untuk PC Client yang akan menghadapi Try Out, UAMBN-BK, Ujian Sekolah, dll
+
+![goUNBK](https://lh5.googleusercontent.com/proxy/iIlOzvCa_ngdrd8dmuJCcmCuxUGbJab2Hbrj6Ej4vCw9HJl6SahjYh7anZXucie7AOvvVZwL3-MUz5XRe3eFUxO7uiZiVCzlgTdydA=w512-h288-nc)
+
+Xamzone Linux bisa digunakan untuk PC Client yang akan menghadapi Try Out, UAMBN-BK, Ujian Sekolah, dll.  Xamzone dikembangkan oleh pak Maman Sulaeman, hampir sama dengan [GoUNBK](https://www.facebook.com/gounbk/), namun Xamzone ini bisa digunakan untuk hampir semua CBT berbasis web. 
+
+_Artikel terkait :_
+1. [setting router Nat](https://xamzone-linux.blogspot.com/2019/06/setting-xamzone-sebagai-router-nat.html)
+2. [seting diskless](https://xamzone-linux.blogspot.com/2019/06/setting-diskless-pembelajaran-TIK-Xamzone-linux.html)
+
+_note: berdasarkan versi terbaru [goUNBK v.1.5.1](https://www.facebook.com/story.php?story_fbid=3215913105101085&id=2957910584234673)_
