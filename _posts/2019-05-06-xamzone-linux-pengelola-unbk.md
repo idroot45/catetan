@@ -18,7 +18,8 @@ Di dalam Xamzone Server terdapat file Image Xamzone Client yang akan diunduh ol
 
 xamzone Client merupakan sistem operasi yang didistribusikan melalui jaringan oleh Xamzone Server secara terpusat dengan tampilan yang mudah dioperasikan, ringan dan relatif cepat untuk operasional Ujian Berbasis Komputer.
 
-Berikut ini timeline rilis xamzone
+Berikut ini timeline rilis xamzone 1.2 yang berdasarkan versi terbaru [goUNBK v.1.5.1](https://www.facebook.com/story.php?story_fbid=3215913105101085&id=2957910584234673)_
+
 ```
 Alhamdulillah, kami masih diberikan kesempatan, dan kesehatan untuk merilis Xamzone Linux versi 1.2 dengan penambahan dan perbaikan sebagai berikut :
 
@@ -57,4 +58,3 @@ _Artikel terkait :_
 1. [setting router Nat](https://xamzone-linux.blogspot.com/2019/06/setting-xamzone-sebagai-router-nat.html)
 2. [seting diskless](https://xamzone-linux.blogspot.com/2019/06/setting-diskless-pembelajaran-TIK-Xamzone-linux.html)
 
-_note: berdasarkan versi terbaru [goUNBK v.1.5.1](https://www.facebook.com/story.php?story_fbid=3215913105101085&id=2957910584234673)_
