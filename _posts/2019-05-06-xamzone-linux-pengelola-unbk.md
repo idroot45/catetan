@@ -3,7 +3,7 @@ title: "Xamzone Linux v1.2 Telah Dirilis [download/referensi]"
 excerpt: Xamzone adalah sebuah paket software client-server untuk mengelola pelaksanaan Ujian Berbasis Komputer di sisi client.
 header:
  image: https://1.bp.blogspot.com/-odYaYNl3yhY/XQSPlF_5ZJI/AAAAAAAANGo/hmpTln6YIF4SFfJrNdC6UmAX10pFQyavwCLcBGAs/s1600/xamzone-wallpaper-v1.2.jpg
- teaser: https://3.bp.blogspot.com/-b1JKofXvCoU/XGJf6j8XuWI/AAAAAAAABkA/obhjWbPGz18hLgivw_vZnxjXtxQa9wLzwCLcBGAs/w180-h100-c/logok.png
+ teaser: https://3.bp.blogspot.com/-b1JKofXvCoU/XGJf6j8XuWI/AAAAAAAABkA/obhjWbPGz18hLgivw_vZnxjXtxQa9wLzwCLcBGAs/w320-h160-c/logok.png
 categories: [linux]
 tags: [goUNBK, Xamzone Linux, Diskless OS]
 link: https://xamzone-linux.blogspot.com/2019/05/rilis-xamzone-linux-versi-12.html
