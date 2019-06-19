@@ -1,7 +1,7 @@
 main:
   - title: "Catetan"
     url: /
-  - title: "Ketegori"
+  - title: "Kategori"
     url: /kategori/
   - title: "Penandaan"
     url: /tanda/
