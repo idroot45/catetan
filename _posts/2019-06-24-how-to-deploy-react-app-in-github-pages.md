@@ -33,7 +33,7 @@ _Make sure you have Node.js and Npm installed in your machine._
 
 **Procedure :**
 
-1- First create a repository named my-appusing [create-react-app](https://github.com/facebook/create-react-app).
+1 - First create a repository named my-appusing [create-react-app](https://github.com/facebook/create-react-app).
 
 `npm init react-app my-app`
 
@@ -64,14 +64,14 @@ Second in the existing `scripts` property we to need to add `predeploy| and�
 
 ![](https://thepracticaldev.s3.amazonaws.com/i/)
 
-4- Create a Github repository and initialize it and add it as a remote in your local git repository.
+4 - Create a Github repository and initialize it and add it as a remote in your local git repository.
 
 Now, create a remote GitHub repository with your app name and go back initialize this
 `git init`
 add it as remote
 `git remote add origin git@github.com:Yuribenjamin/my-app.git`
 
-5- Now deploy it to GitHub Pages.
+5 - Now deploy it to GitHub Pages.
 
 just run the following command :
 
@@ -83,7 +83,7 @@ this command will create a branch named `gh-pages` this branch host your app, 
 
 ![](https://thepracticaldev.s3.amazonaws.com/i/573f5s4jgcn1a6caq65s.png)
 
-6- commit and push your commit to GitHub. Optionally
+6 - commit and push your commit to GitHub. Optionally
 
 ```
 git add .
@@ -95,14 +95,14 @@ git push origin master
 
 We created React App using `create-react-app`
 then we installed `gh-pages` as a `dev-dependency`
-and in `package.json` file we added some properties homepage also in existing |scripts` property we added `predeploy` and `deploy`
+and in `package.json` file we added some properties homepage also in existing `scripts` property we added `predeploy` and `deploy`
 and created a remote repository and initialize it
 and run `npm run deploy` to generate a production build and deploy it to GitHub Pages.
 
 if you have any questions, please don't hesitate to ask.
 Always happy to hear from you
 
-4- Create a Github repository and initialize it and add it as a remote in your local git repository.
+4 - Create a Github repository and initialize it and add it as a remote in your local git repository.
 
 Now, create a remote GitHub repository with your app name and go back initialize this
 
@@ -112,7 +112,7 @@ add it as remote
 git remote add origin git@github.com:Yuribenjamin/my-app.git
 ```
 
-5- Now deploy it to GitHub Pages.
+5 - Now deploy it to GitHub Pages.
 
 just run the following command :
 
