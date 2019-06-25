@@ -5,21 +5,13 @@ header:
  image: https://d585tldpucybw.cloudfront.net/sfimages/default-source/blogs/templates/vuet-dark_870x220.png?sfvrsn=83bce1fb_3
  teaser: https://i0.wp.com/paper-attachments.dropbox.com/s_591039DD415F66F18804BF2A265ECE66244A5CAA5FFA5AABF40F4660051BE767_1558605032516_Screen+Shot+2019-05-23+at+10.49.40+AM.png?resize=320,160
 link: https://www.telerik.com/blogs/building-a-blog-with-vue-and-markdown-using-gridsome
+toc: "true"
+toc_label: "Table of Content"
 ---
 
 The web is ever evolving and the need to stay updated as developers is really important. In [this article](#), I’ll be introducing you to the world of static site generation and the JAMstack using Gridsome. At the end of the article we’ll build a blog using Markdown as the generated content and GraphQL to query posts that will be displayed on the pages, and then we’ll see how to deploy it to Netlify.
 
 Static Site Generators are part of a new hybrid approach to web development that allows you to build a powerful website locally on your computer but pre-builds the site into static files for deployment. [JAMstack](https://jamstack.org/) is a new way of building websites and applications that delivers better performance, higher security, lower cost of scaling and better developer experience.
-
-> Table of Contents:
-> - Introduction to Gridsome
-> - Prerequisites
-> - Setting up Gridsome Project
-> - Building A Blog With Gridsome
-> - Creating the Page Layout
-> - Displaying the Post Layout
-> - Deploying Blog To Netlify
-> - Conclusion
 
 ![Gridsome official website](https://paper-attachments.dropbox.com/s_591039DD415F66F18804BF2A265ECE66244A5CAA5FFA5AABF40F4660051BE767_1558605032516_Screen+Shot+2019-05-23+at+10.49.40+AM.png)
 
