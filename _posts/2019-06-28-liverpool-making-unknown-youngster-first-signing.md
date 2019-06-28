@@ -1,10 +1,10 @@
 ---
-title: Liverpool signal summer intent by making unknown youngster their first signing
-excerpt: Reds fans should not expect their club to splash big money in this window
+title: "Liverpool signal summer intent by making unknown youngster their first signing"
+excerpt: "Reds fans should not expect their club to splash big money in this window"
 header:
- video: https://webviews.mirror.co.uk/sport/football/video/transfer-round-up-david-maddock-17265140?videoId=6052906928001
-&service=ampVideo
- teaser: https://cf-images.eu-west-1.prod.boltdns.net/v1/static/4221396001/50ff65f3-690b-43ec-8f22-f5390b55bdcd/bf440c62-f30e-46db-a922-45c5045f6d1e/1280x720/match/image.jpg
+ video: "https://webviews.mirror.co.uk/sport/football/video/transfer-round-up-david-maddock-17265140?videoId=6052906928001
+&service=ampVideo"
+ teaser: "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/4221396001/50ff65f3-690b-43ec-8f22-f5390b55bdcd/bf440c62-f30e-46db-a922-45c5045f6d1e/1280x720/match/image.jpg"
 categories: 
  - olahraga
 tags:
