@@ -43,7 +43,8 @@ Dalam buku **Mikrotik Kungfu: Kitab 1** akan dijelaskan materi-materi sebagai be
 | Halaman | 202 |
 | Level | All Level |
 | Terbit | 2016 (Edisi Revisi) |
-{:.align-center}
+
+### Cover Buku
 
 {% include gallery %}
 
