@@ -2,7 +2,8 @@
 title: "Mikrotik Kungfu: Kitab 1 (Edisi Revisi 2016)"
 excerpt: "Download e-book Mikrotik Kung Fu : Kitab 1 edisi revisi 2016 PDF di sini"
 header:
- image_overlay: https://i0.wp.com/www.tokomahal.com/wp-content/uploads/2017/06/cover.114.Mikrotik-KungFu-Kitab-1-2016-Front.jpg
+ overlay_image: https://i0.wp.com/www.tokomahal.com/wp-content/uploads/2017/06/cover.114.Mikrotik-KungFu-Kitab-1-2016-Front.jpg
+ overlay_filter: rgba(255, 0, 0, 0.5)
 gallery:
  - image_path: https://i0.wp.com/www.tokomahal.com/wp-content/uploads/2017/06/cover.114.Mikrotik-KungFu-Kitab-1-2016-Front.jpg
    alt: "Mikrotik-KungFu-Kitab-1-2016-Front.jpg"
