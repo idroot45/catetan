@@ -52,4 +52,4 @@ Dalam buku **Mikrotik Kungfu: Kitab 1** akan dijelaskan materi-materi sebagai be
 
 Sebenarnya tidak ada versi e-book dari buku *Mikrotik Kung Fu : Kitab 1*. Namun di internet banyak beredar versi scan dari dalam bentuk PDF. Salah satu hasil scan **Mikrotik Kung Fu : Kitab 1** PDF tersebut bisa di download pada tautan berikut ini:
 
-[MediaFire]() [Google Drive]()
+[MediaFire](){:.btn .btn-primary} [Google Drive](){:.btn .btn-primary}
