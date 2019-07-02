@@ -10,9 +10,16 @@ gallery:
  - image_path: https://i1.wp.com/www.tokomahal.com/wp-content/uploads/2017/06/cover.114.Mikrotik-KungFu-Kitab-1-2016-Back.jpg
    alt: "Mikrotik-KungFu-Kitab-1-2016-Back.jpg"
    title: "Mikrotik KungFu Kitab-1 2016 Back"
+categories:
+ - e-book
+ - wireless
+tags:
+ - mikrotik kungfu
+ - ebook mikrotik
+ - buku mikrotik
 link: https://www.knoacc.org
 ---
-Router [MikroTik](https://www.knoacc.org/search/label/Mikrotik) dikenal sebagai router yang irit hardware, memiliki banyak fitur, mudah dikonfigurasi (user friendly) dan dapat diinstall pada PC (Personal Computer) dan tersedia dalam bentuk dedicated router yang murah.
+**Router [MikroTik](https://www.knoacc.org/search/label/Mikrotik)** dikenal sebagai router yang irit hardware, memiliki banyak fitur, mudah dikonfigurasi (user friendly) dan dapat diinstall pada PC (Personal Computer) dan tersedia dalam bentuk dedicated [router yang murah](/).
 
 Seri pertama dari empat buku ini ditulis secara khusus untuk para pemula dan bagi yang sudah menggunakan Router MikroTik yang ingin memperdalam ilmu MikroTik. Buku ini membahas konfigurasi yang ditujukan untuk membagi koneksi Internet di jaringan LAN.
 
