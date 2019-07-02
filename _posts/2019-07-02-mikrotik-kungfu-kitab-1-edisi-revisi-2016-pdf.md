@@ -10,9 +10,7 @@ gallery:
  - image_path: https://i1.wp.com/www.tokomahal.com/wp-content/uploads/2017/06/cover.114.Mikrotik-KungFu-Kitab-1-2016-Back.jpg
    alt: "Mikrotik-KungFu-Kitab-1-2016-Back.jpg"
    title: "Mikrotik KungFu Kitab-1 2016 Back"
-categories:
- - e-book
- - wireless
+categories: [e-book]
 tags:
  - mikrotik kungfu
  - ebook mikrotik
