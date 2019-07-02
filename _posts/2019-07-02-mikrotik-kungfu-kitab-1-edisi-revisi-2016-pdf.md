@@ -32,7 +32,7 @@ Dalam buku **Mikrotik Kungfu: Kitab 1** akan dijelaskan materi-materi sebagai be
 
 ### Detail Buku
 
-| Judul | Mikrotik Kung Fu : Kitab 1 (Edisi Revisi 2016) |
+| Judul | Mikrotik Kung Fu : Kitab 1 |
 |:---:|:---|
 | Penulis | Rendra Towidjojo |
 | ISBN | 978-602-0823-13-3 |
@@ -42,7 +42,7 @@ Dalam buku **Mikrotik Kungfu: Kitab 1** akan dijelaskan materi-materi sebagai be
 | Full Color | Tidak |
 | Halaman | 202 |
 | Level | All Level |
-| Terbit | 2016 |
+| Terbit | 2016 (Edisi Revisi) |
 
 {% include gallery %}
 
