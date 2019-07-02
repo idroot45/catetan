@@ -55,7 +55,6 @@ Dalam buku **Mikrotik Kungfu: Kitab 1** akan dijelaskan materi-materi sebagai be
 
 Sebenarnya tidak ada versi e-book dari buku *Mikrotik Kung Fu : Kitab 1*. Namun di internet banyak beredar versi scan dari dalam bentuk PDF. Salah satu hasil scan **Mikrotik Kung Fu : Kitab 1** PDF tersebut bisa di download pada tautan berikut ini:
 
-| File | MikrotikKungfuJilid1.zip |
+| Nama File | Ukuran | Google Drive |
 |:---:|:---:|
-| Ukuran | 60 MB |
-| Download | [Google Drive](https://mi.knoacc.org/bitly?cde=320GLvz&st1=MikrotikKungfuJilid1.zip&st2=60MB){:.btn .btn--primary} |
+| `MikrotikKungfuJilid1.zip` | 60 MB | [Download](https://mi.knoacc.org/bitly?cde=320GLvz&st1=MikrotikKungfuJilid1.zip&st2=60MB){:.btn .btn--primary} |
