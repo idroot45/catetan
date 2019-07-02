@@ -58,4 +58,5 @@ Tahapan konfigurasi akan dibahas dengan bahasa yang sederhana dan disertai pijak
 Sebenarnya tidak ada versi e-boom dari buku *Mikrotik Kung Fu : Kitab 2*. E-book dalam bentuk PDF yang beredar di internet kebanyakan adalah hasil scan. Salah satu dari sekian banyak **Mikrotik Kung Fu : Kitab 2** PDF tersebut bisa di download pada tautan berikut ini:
 
 | Nama File | Ukuran | Google Drive |
+|:---:|:---:|:---:|
 | `MikrotikKungfuJilid2.zip` | **159 MB** |[Google Drive](https://mi.knoacc.org/bitly?st1=MikrotikKungfuJilid2.zip&st2=159MB&cde=2KQMIFS){:.btn .btn--primary} |
