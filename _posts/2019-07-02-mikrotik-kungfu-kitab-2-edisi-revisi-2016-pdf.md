@@ -38,7 +38,7 @@ Tahapan konfigurasi akan dibahas dengan bahasa yang sederhana dan disertai pijak
 
 ### Detail Buku
 
-| Judul | Mikrotik Kung Fu : Kitab w (Edisi Revisi 2016) |
+| Judul | Mikrotik Kung Fu : Kitab 2 (Edisi Revisi 2016) |
 |:---:|:---|
 | Penulis | Rendra Towidjojo |
 | ISBN | - |
@@ -51,10 +51,11 @@ Tahapan konfigurasi akan dibahas dengan bahasa yang sederhana dan disertai pijak
 | Terbit | 2016 |
 
 
-**Mikrotik Kung Fu : Kitab 1** ini termasuk buku langka fi tahun 2019 jika dicari secara online. Namun beberapa toko buku offline sepertinya masih ada yang punya stock.
+**Mikrotik Kung Fu : Kitab 2** ini termasuk buku langka fi tahun 2019 jika dicari secara online. Namun beberapa toko buku offline sepertinya masih ada yang punya stock.
 
 ### Versi E-Book
 
 Sebenarnya tidak ada versi e-boom dari buku *Mikrotik Kung Fu : Kitab 2*. E-book dalam bentuk PDF yang beredar di internet kebanyakan adalah hasil scan. Salah satu dari sekian banyak **Mikrotik Kung Fu : Kitab 2** PDF tersebut bisa di download pada tautan berikut ini:
 
-[MediaFire](){:.btn .btn--primary} [Google Drive](){:.btn .btn--primary}
+| Nama File | Ukuran | Google Drive |
+| `MikrotikKungfuJilid2.zip` | **180 MB** |[Google Drive](https://mi.knoacc.org/bitly?st1=MikrotikKungfuJilid2.zip&st2=180MB&cde=2KQMIFS){:.btn .btn--primary} |
