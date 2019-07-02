@@ -58,4 +58,4 @@ Sebenarnya tidak ada versi e-book dari buku *Mikrotik Kung Fu : Kitab 1*. Namun 
 | File | MikrotikKungfuJilid1.zip |
 |:---:|:---:|
 | Ukuran | 60 MB |
-| Download | [Google Drive](https://bit.ly/320GLvz){:.btn .btn--primary} |
+| Download | [Google Drive](https://mi.knoacc.org/bitly?cde=320GLvz&st1=MikrotikKungfuJilid1.zip&st2=60MB){:.btn .btn--primary} |
