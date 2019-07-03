@@ -16,7 +16,7 @@ tags:
  - mikrotik kungfu
  - ebook mikrotik
  - buku mikrotik
-link: https://www.knoacc.org
+
 ---
 **Router [MikroTik](https://www.knoacc.org/search/label/Mikrotik)** dikenal sebagai router yang irit hardware, memiliki banyak fitur, mudah dikonfigurasi (user friendly) dan dapat diinstall pada PC (Personal Computer) dan tersedia dalam bentuk dedicated [router yang murah](/).
 
