@@ -57,6 +57,6 @@ Sebenarnya tidak ada versi e-book dari buku *Mikrotik Kung Fu : Kitab 1*. Namun 
 
 | Nama File | Ukuran | Google Drive |
 |:---:|:---:|:---:|
-| `MikrotikKungfuJilid1.zip` | 60 MB | [Download](https://mi.knoacc.org/bitly?cde=320GLvz&st1=MikrotikKungfuJilid1.zip&st2=60MB){:.btn .btn--primary} |
+| `MikrotikKungfuJilid1.zip` | 60 MB | [Download](https://mi.knoacc.org/bitly?cde=320GLvz&st1=MikrotikKungfuJilid1.zip&st2=60MB){:.btn .btn--disable} |
 
 E-book di atas berupa file terkompresi yang didalamnya terdapat 2 file pdf terpisah dari buku karangan **Rendra Towidjojo** yang terbit pertamakali tahun 2013. Sedangkan e-book tersebut merupakan edisi revisi tahun 2016 yang secara resmi **TIDAK ADA**. Buku ini juga punya edisi revisi tahun 2019 yang bisa dicari di marketplace populer. Terakhir saya lihat ada yang jual di Shopee dijual seharga Rp. 85.000,- belum ongkir. Padahal secara resmi buku ini dihargai Rp. 80.000 di [halaman resminya](https://www.jasakom.com/mikrotik-kung-fu-kitab-1-edisi-2019/), bahkan ada diskon menjadi Rp. 70.000.    
