@@ -51,12 +51,14 @@ Tahapan konfigurasi akan dibahas dengan bahasa yang sederhana dan disertai pijak
 | Terbit | 2016 |
 
 
-**Mikrotik Kung Fu : Kitab 2** ini termasuk buku langka fi tahun 2019 jika dicari secara online. Namun beberapa toko buku offline sepertinya masih ada yang punya stock.
+**Mikrotik Kung Fu : Kitab 2** ini termasuk buku langka di tahun 2019 jika dicari secara online. Ada beberapa toko buku online yang masih memajangnya namun _out of stock_. Sementara di marketplace populer semacam Bukalapak atau tokopedia harganya sudah melambung hingga yang termurah dihargai 90 ribu rupiah belum ongkir. Mau tidak mau harus berburu ke toko-toko buku secara off-line. Sayangnya, toko buku offline pun sudah jarang yang masih menjual buku ini. Kalau mau benar-benar berusaha, mesti berburu di toko-toko buku ternsma di kota besar yang sepertinya masih ada beberapa punya stock sisa.
 
 ### Versi E-Book
 
-Sebenarnya tidak ada versi e-boom dari buku *Mikrotik Kung Fu : Kitab 2*. E-book dalam bentuk PDF yang beredar di internet kebanyakan adalah hasil scan. Salah satu dari sekian banyak **Mikrotik Kung Fu : Kitab 2** PDF tersebut bisa di download pada tautan berikut ini:
+Kalau ditanya versi buku elektroniknya, sebenarnya tidak ada yang namanya versi e-book dari buku *Mikrotik Kung Fu : Kitab 2*. Kalaupun ada, e-book biasanya bisa diunduh secara gratis di blog-blog tentang jarkom atau layanan berbagi file. E-book dalam bentuk PDF yang beredar di internet tersebut bukanlah rilis resmi dari penulis. Kebanyakan adalah hasil scan yang di jadikan file PDF. Salah satu dari sekian banyak **Mikrotik Kung Fu : Kitab 2** PDF tersebut bisa di download pada tautan berikut ini:
 
 | Nama File | Ukuran | Google Drive |
 |:---:|:---:|:---:|
 | `MikrotikKungfuJilid2.zip` | **159 MB** |[Google Drive](https://mi.knoacc.org/bitly?st1=MikrotikKungfuJilid2.zip&st2=159MB&cde=2KQMIFS){:.btn .btn--primary} |
+
+E-book di atas berupa file terkompresi yang didalamnya terdapat 4 file pdf terpisah dari buku karangan **Rendra Towidjojo** yang terbit pertamakali tahun 2013. Sedangkan e-book tersebut merupakan edisi revisi tahun 2016 yang secara resmi **TIDAK ADA**. Buku ini juga punya edisi revisi tahun 2019 yang bisa dicari di marketplace populer. Terakhir saya lihat ada yang jual di Shopper seharga Rp. 85.000,-
