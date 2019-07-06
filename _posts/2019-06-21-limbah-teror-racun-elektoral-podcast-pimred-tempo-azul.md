@@ -4,8 +4,9 @@ excerpt: "Tempo menelusuri terjadinya pratik terlarang pembuangan limbah di mark
 header:
  image: /assets/images/sampul-tempo-limbah-markas-tni.jpg
  caption: "Buanglah limbah pada markasnya"
+categories: [podcast]
+tags: [limbah b3, teror jateng, racun elektoral]
 ---
-
 Tempo menelusuri terjadinya pratik terlarang pembuangan limbah di markas tentara.  Yang punya lahan adalah TNI. Mereka mendapat uang dari tiap kilogram limbah yang dibuang di sana.  Selain itu, ada juga obrolan tentang peristiwa teror di Jawa Tengah yang memunculkan usulan mengaktifkan kembali siskamling.  Bagaimana kita bersikap soal ini? Selengkapnya di Ngobrol Opini bareng Azul, Pemimpin Redaksi majalah Tempo.
 
 <audio controls>
