@@ -11,6 +11,6 @@ Tempo menelusuri terjadinya pratik terlarang pembuangan limbah di markas tentara
 
 <audio controls>
   <!--source src="horse.ogg" type="audio/ogg"-->
-  <source src="/assets/podcasts/limbah-teror-dan-racun-tempo-podcast.mp3" type="audio/mpeg">
+  <source src="https://knoacc.github.io/catetan/assets/podcasts/limbah-teror-dan-racun-tempo-podcast.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
