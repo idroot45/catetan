@@ -3,7 +3,7 @@ title: Meja Perundingan Liverpool Dijilati Kuntilanak dan Diludahi Pocong
 excerpt: "Menarik waktu ke belakang hingga musim panas saat ini, manajemen Liverpool boleh disebut sebagai pemenang di kategori “lomba” jualan pemain."
 header:
  overlay_image: https://i0.wp.com/mojok.co/wp-content/uploads/2019/07/liverpool.jpg
- caption: "{:.fa fa-copyright} mojok.co"
+ caption: "_copyright_{:.fa fa-copyright} mojok.co"
 link: https://mojok.co/yms/balbalan/meja-perundingan-liverpool-dijilati-kuntilanak-dan-diludahi-pocong/
 categories: [olahraga]
 tags: [liverpool fc, bursa transfer, kuntilanak, pocong]
