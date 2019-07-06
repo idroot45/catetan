@@ -1,5 +1,5 @@
 ---
-title: "Liverpool signal summer intent by making unknown youngster their first signing"
+title: "Liverpool signal summer intent by making unknown youngster their first signing _video_{:.fa fa-video}"
 excerpt: "Reds fans should not expect their club to splash big money in this window"
 header:
  video:
