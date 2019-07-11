@@ -1,5 +1,5 @@
 ---
-title: "Traverse vs Liverpool FC - _LFCTV_{:.fa fa-youtube-play}"
+title: "Traverse vs Liverpool FC - _LFCTV_{:.fa .fa-youtube-play}"
 excerpt: "Livestream Liverpool FC Pre-Season Tour (ujicoba)"
 header:
  video:
