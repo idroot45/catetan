@@ -6,13 +6,22 @@ tags: [industri rokok, rokok skt, pelinting rokok]
 header:
  overlay_images: /assets/images/industri-rokok-bag-1.jpg
  caption: pegawai pabrik rokok
-link: https://prime.kbr.id/industri-rokok-bertarung-anak-mati-di-tengah-tengah
 ---
 
 > {% page.excerpt %}
+
+<audio controls>
+<source src="/assets/podcasts/industri-rokok-bag-1.mp3" type="audio/mpeg" />
+Your browser does not support the audio element.
+</audio>
+
+[sumber](https://prime.kbr.id/industri-rokok-bertarung-anak-mati-di-tengah-tengah){:.btn btn--default}
+
+![Pabrik rokok Gagak Hitam](/assets/images/industri-rokok-bag-2.jpg){:.align-center}
 
 <audio controls>
 <source src="/assets/podcasts/industri-rokok-bag-2.mp3" type="audio/mpeg" />
 Your browser does not support the audio element.
 </audio>
 
+[sumber](https://prime.kbr.id/industri-rokok-bertarung-anak-mati-di-tengah-tengah-part-2){:.btn btn--default}
