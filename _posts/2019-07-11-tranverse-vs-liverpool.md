@@ -1,5 +1,5 @@
 ---
-title: "Traverse vs Liverpool FC - _LFCTV_{:.fa fa-video}"
+title: "Traverse vs Liverpool FC - _LFCTV_{:.fa fa-youtube-play}"
 excerpt: "Livestream Liverpool FC Pre-Season Tour (ujicoba)"
 header:
  video:
@@ -9,4 +9,4 @@ categories: [live]
 tags: [liverpool, traverse, pre-season]
 ---
 
-
+_play_{:.fa fa-youtube-play} 
