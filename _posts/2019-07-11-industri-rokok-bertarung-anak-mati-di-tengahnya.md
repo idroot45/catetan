@@ -16,7 +16,7 @@ header:
 Your browser does not support the audio element.
 </audio>
 
-[sumber](https://prime.kbr.id/industri-rokok-bertarung-anak-mati-di-tengah-tengah){:.btn btn--default}
+[sumber](https://prime.kbr.id/industri-rokok-bertarung-anak-mati-di-tengah-tengah){:.btn .btn--default}
 
 ### Bagian 2
 
@@ -29,4 +29,4 @@ Your browser does not support the audio element.
 Your browser does not support the audio element.
 </audio>
 
-[sumber](https://prime.kbr.id/industri-rokok-bertarung-anak-mati-di-tengah-tengah-part-2){:.btn btn--default}
+[sumber](https://prime.kbr.id/industri-rokok-bertarung-anak-mati-di-tengah-tengah-part-2){:.btn .btn--default}
