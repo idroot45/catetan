@@ -4,8 +4,8 @@ excerpt: ""
 categories: [podcasts]
 tags: [industri rokok, rokok skt, pelinting rokok]
 header:
- overlay_image: "/catetan/assets/images/industri-rokok-bag-2.jpg"
- caption: pegawai pabrik rokok
+ overlay_image: "https://knoacc.github.io/catetan/assets/images/industri-rokok-bag-2.jpg"
+ caption: Rokok Gagak Hitam
 ---
 ### Bagian 1
 
