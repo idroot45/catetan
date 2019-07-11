@@ -1,5 +1,5 @@
 ---
-title: "Tranmere Rovers vs Liverpool FC _live_{:.fa .fa-youtube-play}"
+title: "Tranmere Rovers vs Liverpool FC _live_{:.fa fa-youtube-play}"
 excerpt: "Livestream Liverpool FC Pre-Season Tour (ujicoba)"
 header:
  video:
