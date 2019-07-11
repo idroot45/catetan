@@ -9,7 +9,7 @@ header:
 link: https://prime.kbr.id/industri-rokok-bertarung-anak-mati-di-tengah-tengah
 ---
 
-> {% include page.excerpt %}
+> {% page.excerpt %}
 
 <audio controls>
 <source src="/assets/podcasts/industri-rokok-bag-2.mp3" type="audio/mpeg" />
