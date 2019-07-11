@@ -4,7 +4,7 @@ excerpt: ""
 categories: [podcasts]
 tags: [industri rokok, rokok skt, pelinting rokok]
 header:
- overlay_image: "/catetan/assets/images/industri-rokok-bag-1.jpg"
+ overlay_image: "/catetan/assets/images/industri-rokok-bag-2.jpg"
  caption: pegawai pabrik rokok
 ---
 ### Bagian 1
