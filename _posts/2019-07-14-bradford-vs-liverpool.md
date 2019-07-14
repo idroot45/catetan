@@ -9,4 +9,6 @@ categories: [live]
 tags: [liverpool, bradford, pre-season]
 ---
 
-Pre-Season US Tour _live_{:.fa fa-youtube-play} Bradford vs Liverpool FC
+Pre-Season US Tour _live_{:.fa fa-video} Bradford vs Liverpool FC
+
+Use this [LINK](https://mola.tv/watch?v=vd62834611){:.btn .btn--primary rel="external nofollow noopener"} if the video can not loaded
