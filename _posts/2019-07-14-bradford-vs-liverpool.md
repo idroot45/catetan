@@ -1,6 +1,6 @@
 ---
-title: "Bradford vs Liverpool FC _video_{:.fa fa-video}"
-excerpt: "Livestream Liverpool FC Pre-Season Tour (ujicoba) vs Bradford"
+title: "Bradford AFC vs Liverpool FC _video_{:.fa fa-video}"
+excerpt: "Livestream Liverpool FC Pre-Season Tour (ujicoba) vs Bradford AFC"
 header:
  video:
   id: "https://mola.tv/watch?v=vd62834611"
@@ -9,6 +9,6 @@ categories: [live]
 tags: [liverpool, bradford, pre-season]
 ---
 
-Pre-Season US Tour _live_{:.fa fa-video} Bradford vs Liverpool FC
+Pre-Season US Tour _live_{:.fa fa-video} Bradford AFC vs Liverpool FC
 
 Use this [LINK](https://mola.tv/watch?v=vd62834611){:.btn .btn--primary rel="external nofollow noopener"} if the video can not loaded
