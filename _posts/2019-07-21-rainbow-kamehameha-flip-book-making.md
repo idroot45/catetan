@@ -1,6 +1,6 @@
 ---
-title: "Amazing ‘Rainbow Kamehameha’ Flip Book Making Proccess"
-excerpt: The longest flip book ever made by Andymation 
+title: "Amazing ‘Rainbow Kamehameha’ Flip Book Making Proccess _video_{:.fa .fa-video}"
+excerpt: "The longest ‘Rainbow Kamehameha’ flip book ever made by Andymation"
 header:
  video:
   provider: youtube
@@ -16,5 +16,6 @@ tags:
 ---
 
 
-Making proccess of this Rainbow Kamehameha Flip Book was Andymation's video documentation of his greatest flip book making proccess. This could be the biggest creation of flib book ever.
+Making proccess of this **Rainbow Kamehameha** Flip Book was Andymation's video documentation of his greatest flip book making proccess. This could be the biggest creation of flip book ever.
 
+Love it!
