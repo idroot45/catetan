@@ -12,6 +12,8 @@ Jogja nggak mengalami mati listrik waktu lini masa media sosial ramai dengan kel
 
 Seorang kawan di Bandung baru bisa membalas WhatsApp saya menjelang Subuh karena baterai hapenya habis total dan dia harus nge-charge dulu waktu listrik akhirnya nyala sekitar pukul dua pagi. Melalui jawaban pesannya, saya tahu dia kesal setengah mati. Reaksi ini wajar, mengingat di media sosial orang-orang pun marah-marah semua, meski kemudian marahnya pelan-pelan berkurang setelah disodori foto-foto petugas PLN yang lagi di atas tiang listrik.
 
+{% include ads.html %}
+
 Kekesalan netizen pun mendadak berubah menjadi tagar romantis: #TerimakasihPLN. Hadeeeh.
 
 Tapi, yah, sekali lagi, Jogja nggak mengalami mati listrik, jadi kekesalan itu nggak relate dengan kami.
