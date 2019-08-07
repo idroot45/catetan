@@ -5,6 +5,7 @@ header:
   id: "xwq73u545g-r23r"
   provider: "fembed"
 excerpt: "Film ini masih berkualitas rendah (HDCAM). Perkiraan release BluRay November 2019."
+categories: [video]
 ---
 
 > Posting ujicoba video header dengan embed iframe dari situs fembed.com
