@@ -21,6 +21,8 @@ The Reds have agreed an initial fee of £1.3m for Netherlands U19 international 
 
 Significantly though, club officials have stressed the 17-year-old PEC Zwolle centre half is NOT an academy signing, and will join the first team squad for pre-season training and warm up games.
 
+{% include ads.html %}
+
 And that is a clear indication of the club’s decision to pursue a low-key transfer policy during the current window.
 
 As things stand, the Reds are adamant there will be NO signings to come anywhere near the £60m capture of Alisson and £50m deal for Naby Keita last summer… and there won’t be any high profile signings at all.
