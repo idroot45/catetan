@@ -142,7 +142,7 @@ defaults:
 
 category_archive:
   type: liquid
-  path: /categories/
+  path: /kategori/
 tag_archive:
   type: liquid
-  path: /tags/
+  path: /tanda/
