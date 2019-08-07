@@ -49,6 +49,8 @@ import requests
 
 Most of the API functionalities require some form of authentication. You can either use OAUTH tokens or use a personal access token. I chose the latter solution. The instructions to create a personal access token are available in [the Gitlab documentation](https://docs.gitlab.com/ee/user/profile/personal_access_tokens.html).
 
+{% include ads.html %}
+
 The general form of a Gitlab API request is as follows:
 ```
 https://gitlab.com/api/v/projects/<projectId>/<request>?private_token=<privateToken>
