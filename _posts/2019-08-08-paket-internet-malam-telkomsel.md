@@ -9,6 +9,8 @@ header:
 
 Telkomsel memang memiliki beberapa paket internet malam yang disebut dengan **MDS** pada beberapa layanannya. Namun, apakah kamu sudah tahu kalau Telkomsel juga menjualnya secara terpisah?
 
+{% include ads.html %}
+
 MDS atau yang memiliki kepanjangan _Midnight Data Services_ atau Layanan Data Tengah Malam merupakan paket internet dari Telkomsel yang bisa digunakan pada malam hari, tepatnya dari pukul 00.00 hingga 07.00 WIB.
 
 Paket MDS ini biasanya terdapat pada beberapa paket dari Telkomsel sebagai kuota tambahan, dimana biasanya **kuota internet malam** ini mengambil porsi yang lebih besar dibandingkan dengan kuota internet utama.
