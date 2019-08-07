@@ -12,16 +12,27 @@ excerpt: "Film ini masih berkualitas rendah (HDCAM). Perkiraan release BluRay No
 ## Detail video:
 
 Judul: Fast & Furious Presents: Hobbs & Shaw
+
 Kualitas: HDCAM
-Negara: Usa
+
+Negara: USA
+
 Bintang film: Dwayne Johnson, Idris Elba, Jason Statham, Vanessa Kirby
+
 Genre: Action, Adventure
+
 IMDb: 7.3 / 10 from 7554 users
+
 Diterbitkan: August 1, 2019
+
 Synopsis: **Fast & Furious Presents: Hobbs & Shaw** is a movie starring Dwayne Johnson, Jason Statham, and Idris Elba. Lawman Luke Hobbs and outcast Deckard Shaw form an unlikely alliance when a cyber-genetically enhanced villain threatens the...
 
 Awards: 3 nominations.
+
 Budget: $200,000,000 (estimated)
+
 Soundtrack: Taku Uo Pele Written by Opetaia Foa'i Performed by Te Vaka feat. Opetaia Foa'i Courtesy of Warm Earth Records By arrangement with Spirit of Play Productions
-Diupload: August 3, 2019 2:49 am
+
+Diupload: August 3, 2019 2:49 AM
+
 Durasi: 2 jam 13 menit
