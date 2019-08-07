@@ -24,7 +24,7 @@ Dalam hal ini, paket ini dijual dengan harga dari mulai **Rp 2.000 untuk kuota 1
 Berikut ini rincian harga dari paket tersebut. Namun perlu diperhatikan, rincian ini merupakan paket yang tersedia di layanan Simpati, Loop maupun Kartu As. Oleh karena itu, bisa saja berbeda dengan yang ditampilkan pada layanan [Telkomsel](https://id.m.wikipedia.org/wiki/Telkomsel) lainnya.
 
 | Kuota | Masa Berlaku | Harga |
-|---|---|---|
+|:---|:---:|---:|
 | 15 GB | 30 Hari | Rp 22.000 |
 | 5 GB | 30 Hari | Rp 15.000 |
 | 10 GB | 7 Hari | Rp 12.000 |
@@ -35,6 +35,8 @@ Berikut ini rincian harga dari paket tersebut. Namun perlu diperhatikan, rincian
 ### Cara Memperoleh Paket Internet Malam Telkomsel
 
 Jika kebanyakan paket data, SMS, atau telepon bisa dibeli melalui aplikasi MyTelkomsel, paket internet malam dari Telkomsel ini tidak bisa kita temukan di layanan tersebut.
+
+{% include ads.html %}
 
 ### Cara daftar Paket Internet Malam Telkomsel
 
