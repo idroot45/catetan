@@ -9,7 +9,7 @@ header:
 ---
 ### Bagian 1
 
-![Pegawai Pabrik Rokok](/catetan/assets/images/industri-rokok-bag-1.jpg){:.align-center}
+![Pegawai Pabrik Rokok](/assets/images/industri-rokok-bag-1.jpg){:.align-center}
 
 > "Perusahaan memang tidak paham soal Undang-Undang itu. Jika alasannya untuk membantu perekonomian warga sekitar, tidak harus dengan mempekerjaan anak."
 
@@ -22,7 +22,7 @@ Your browser does not support the audio element.
 
 ### Bagian 2
 
-![Pabrik Rokok Gagak Hitam](/catetan/assets/images/industri-rokok-bag-2.jpg){:.align-center}
+![Pabrik Rokok Gagak Hitam](/assets/images/industri-rokok-bag-2.jpg){:.align-center}
 
 > “Sepengetahuan kami, tidak ada anak yang bekerja. Kalau orang desa, umur 16 tahun itu sudah kawin atau putus sekolah. Jadi sudah bukan anak lagi. Kami ini hanya membantu memberikan pekerjaan pada warga sekitar,”
 
