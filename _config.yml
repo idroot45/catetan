@@ -22,7 +22,7 @@ description: Seluk Beluk catatan yang tak terlalu penting.
 minimal_mistakes_skin: default
 
 # Images
-teaser: https://source.unsplash.com/weekly/640x320/?notepad
+teaser: https://source.unsplash.com/weekly/640x320/?beauty
 og_image: https://source.unsplash.com/random/920x460/?writing
 logo: https://source.unsplash.com/random/88x88/?notepad
 #Search
@@ -88,13 +88,13 @@ author:
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://www.paciran.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/knoacc"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://www.paciran.com/author/mukidi"
+#    - label: "Twitter"
+#      icon: "fab fa-fw fa-twitter-square"
+#      url: "https://twitter.com/knoacc"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook"
+      url: "https://www.facebook.com/idlohulhaq"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/lautansyair"
@@ -103,7 +103,7 @@ footer:
   links:
     - label: "Web"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://www.knoacc.org/"
+      url: "https://www.paciran.com/author/mukidi"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/lautansyair"
@@ -112,8 +112,13 @@ sass:
 
 compress_html:
   clippings: all
+  comments: ["<!-- ", " -->"]
+  endings: all
   ignore:
-    envs: development
+    envs: [local] # default: local
+  blanklines: true
+  profile: false
+  startings: [html, head, body]
 
 defaults:
   # _posts
