@@ -12,10 +12,13 @@ header:
 intro:
   - title: "What's new"
     excerpt: "Safest GFX Tool on Google Play is now compatible with newer game update **PUBGM Season 8**"
-excerpt: "PUB gfx+ no-ads, premium tool from trilokia **What's New**: Safest GFX Tool on Google Play is now compatible with newer game update" 
+excerpt: "PUB gfx+ no-ads, premium tool from trilokia. **What's New**: Safest GFX Tool on Google Play is now compatible with newer game update" 
 categories: [aplikasi]
 tags: [pubg mobile, gfx pubgm]
 ---
+Aplikasi ini untuk membantu memperbaiki pengalaman bermain gim *Player Unknown's Battleground Mobile* [(android)](https://play.google.com/store/apps/details?id=com.tencent.ig) dengan berbagai konfigurasi otomatis (one-click).
+
+Untuk versi terbaru (v0.16.9) PUB Gfx+ sudah mendukung **update Season 8** baik versi _global_, _korea_ maupun _china_ yang paling baru, yakni update untuk bulan Agustus 2019.
 {% include ads.html %}
 
 {% include feature_row id="intro" type="center" %}
