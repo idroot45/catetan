@@ -9,9 +9,9 @@ header:
   - label: Playstore
     url: "https://play.google.com/store/apps/details?id=inc.trilokia.pubgfxtool"
  caption: "PUB GFX+, **Update Season 8**"
- intro:
-  title: "What's new"
-  excerpt: "Safest GFX Tool on Google Play is now compatible with newer game update **PUBGM Season 8**"
+intro:
+  - title: "What's new"
+    excerpt: "Safest GFX Tool on Google Play is now compatible with newer game update **PUBGM Season 8**"
 excerpt: "PUB gfx+ no-ads, premium tool from trilokia **What's New**: Safest GFX Tool on Google Play is now compatible with newer game update" 
 categories: [aplikasi]
 tags: [pubg mobile, gfx pubgm]
