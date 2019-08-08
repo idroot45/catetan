@@ -9,6 +9,8 @@ categories: [video]
 tags: [anime, relative world]
 ---
 
+## Detail video
+
 | Judul | Ashita Sekai ga Owaru to Shite mo |
 |---|---|
 | Kualitas | BluRay |
