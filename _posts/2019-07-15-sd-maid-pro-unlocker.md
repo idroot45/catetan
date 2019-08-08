@@ -8,11 +8,11 @@ header:
     url: "https://bit.ly/2M6TOXr"
   - label: Playstore
     url: "https://play.google.com/store/apps/details?id=eu.thedarken.sdm.unlocker"
- caption: "SD Maid Pro, **Unlocker**"
+ caption: "SD Maid Pro, **Unlocker** v3.4.9"
 intro:
   - title: "Aplikasi apa ini?"
     excerpt: "SD Maid Pro bukan aplikasi yang berjalan sendiri. Anda tetap perlu instal **SD Maid versi gratis**"
-excerpt: "SD Maid Pro v3.4.9 membuka fitur "Pro" pada SD Maid versi gratis." 
+excerpt: "SD Maid Pro v3.4.9 membuka fitur **Pro** pada SD Maid versi gratis." 
 categories: [aplikasi]
 tags: [pubg mobile, gfx pubgm]
 ---
