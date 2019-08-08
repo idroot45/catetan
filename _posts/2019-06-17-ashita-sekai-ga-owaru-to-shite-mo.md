@@ -1,5 +1,5 @@
 ---
-title: "The Relative World _video_{:.fa fa-video}"
+title: "The Relative World [BluRay] _video_{:.fa fa-video}"
 excerpt: "Judul asli: Ashita Sekai ga Owaru to Shite mo"
 header:
  video:
