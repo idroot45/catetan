@@ -2,7 +2,7 @@
 title: "Script Game On-line dan Browsing Mikrotik-Mikhmon V.4"
 excerpt: "Pemisahan trafik game online dan browsing dengan mikrotik untuk usaha RT/RW net yang memakai mikhmon"
 header:
- overlay_image: "https://laksa19.github.io/img/5a.png"
+ overlay_image: "https://4.bp.blogspot.com/-bAAqJU6hVyc/W18OLvg9DSI/AAAAAAAAA8Y/ZkXWxy0XFQ41845DqBeEnqGprn4nEUDKACLcBGAs/s1600/Mikhmon%252C%2BSolusi%2BPengganti%2BUserman%2BPada%2BMikrotik.png"
  caption: "Mikrotik X Mikhmon"
 categories: [mikrotik]
 tags: [mikhmon, mikrotik script, hotspot]
