@@ -16,4 +16,6 @@ excerpt: "PUB gfx+ no-ads, premium tool from trilokia **What's New**: Safest GFX
 categories: [aplikasi]
 tags: [pubg mobile, gfx pubgm]
 ---
+{% include ads.html %}
+
 {% include feature_row id="intro" type="center" %}
