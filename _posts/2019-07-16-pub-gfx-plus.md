@@ -12,7 +12,7 @@ header:
 excerpt: "Update on Play Store : July 16, 2019"
 intro:
   - excerpt: "PUB gfx+ no-ads, premium tool from trilokia **What's New**: Safest GFX Tool on Google Play is now compatible with newer game update" 
-categories: [android app]
+categories: [aplikasi]
 tags: [pubg mobile, gfx pubgm]
 ---
 {% include feature_row id="intro" type="center" %}
