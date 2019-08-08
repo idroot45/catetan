@@ -41,4 +41,4 @@ Untuk cara mengupdate scrip mikhmon pada tiap-tiap profil user hotspot sudah ada
 
 Supaya _IP Binding_ masuk ke _queu tree_ silahkan pindahkan user ip binding ke user hotspot (login by mac) yang artinya sama dengan ip binding hanya saja login by mac akan tampil di user active.
 
-_**Credit: Video dan Script by [**Ega**](https://www.facebook.com/carisajakalaubisa) via Group FB **Mikrotik Indonesia**_.
+_**Credit**: Video dan Script by **[Ega](https://www.facebook.com/carisajakalaubisa)** via Group FB **Mikrotik Indonesia**_.
