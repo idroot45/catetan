@@ -16,7 +16,7 @@ excerpt: "SD Maid Pro v3.4.9 membuka fitur **Pro** pada SD Maid versi gratis."
 categories: [aplikasi]
 tags: [pubg mobile, gfx pubgm]
 ---
-Aplikasi ini (SD Maid Pro v.3.4.9) membuka fitur "Pro" pada SD Maid versi gratis terbaru, mengaktifkan semua fitur tambahan yang hanya muncul setelah aplikasi ini terpasang.
+Aplikasi ini (SD Maid Pro v.3.4.9) membuka fitur "Pro" pada SD Maid versi gratis terbaru, mengaktifkan semua fitur tambahan yang hanya muncul setelah aplikasi ini terpasang. SD Maid sendiri berfungsi untuk [mebersihkan memori android secara efektif](https://www.knoacc.org/2019/08/cara-melegakan-memori-android-dengan-sd-maid.html).
 
 Ini bukan aplikasi yang berjalan sendiri. Anda tetap perlu instal [SD Maid versi gratis](https://play.google.com/store/apps/details?id=eu.thedarken.sdm). Versi terbarunya **SD Maid v4.14.31** yang update 29 Juli 2019.  
 
