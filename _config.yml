@@ -34,8 +34,9 @@ google:
 comments:
  provider: utterances
  utterances:
-  theme: github-light
-  issue_term: pathname
+  repo: "knoacc/catetan"
+  theme: "github-light"
+  issue_term: "pathname"
 
 # SEO Related
 google_site_verification : "KYQFq-wZMFvxDMR5G5rak58D-IwrgM8B_CuGS0To5AU"
