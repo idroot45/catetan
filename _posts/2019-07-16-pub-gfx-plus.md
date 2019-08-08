@@ -18,7 +18,7 @@ tags: [pubg mobile, gfx pubgm]
 ---
 Aplikasi ini untuk membantu memperbaiki pengalaman bermain gim *Player Unknown's Battleground Mobile* [(android)](https://play.google.com/store/apps/details?id=com.tencent.ig) dengan berbagai konfigurasi otomatis (one-click).
 
-Untuk versi terbaru (v0.16.9) PUB Gfx+ sudah mendukung **update Season 8** baik versi _global_, _korea_ maupun _china_ yang paling baru, yakni update untuk bulan Agustus 2019.
+Untuk versi terbaru (v0.16.9) PUB Gfx+ sudah mendukung **update Season 8** baik versi _global_, _korea_ maupun _china_ yang paling baru, yakni akni update 4 Juli 2019 (versi global: v0.13.0).
 {% include ads.html %}
 
 {% include feature_row id="intro" type="center" %}
