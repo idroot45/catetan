@@ -26,4 +26,4 @@ Untuk versi terbaru (v0.16.9) PUB Gfx+ sudah mendukung **update Season 8** baik 
 
 ### Teaser PUBGM Season 8
 
-{% include video id="-Dhur8LJnnk" video_provider="youtube" %}
+{% include video id="-Dhur8LJnnk" provider="youtube" %}
