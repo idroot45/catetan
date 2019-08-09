@@ -8,12 +8,12 @@ figure1:
  - url: https://asset-a.grid.id/photo/2019/04/13/2661137169.jpg
    image_path: https://asset-a.grid.id/photo/2019/04/13/2661137169.jpg
    alt: "Manajer Liverpool, Juergen Klopp"
-   caption: "Manajer Liverpool, Juergen Klopp **(TWITTER.COM/ENGLISH_AS)**"
+   title: "Manajer Liverpool, Juergen Klopp (TWITTER.COM/ENGLISH_AS)"
 figure2:
  - url: /assets/images/bill-shankly-gettyimages.jpg
    image_path: /assets/images/bill-shankly-gettyimages.jpg
    alt: "Manajer Liverpool, Bill Shankly"
-   caption: "Manajer Liverpool, Bill Shankly. **GettyImages**"
+   title: "Manajer Liverpool, Bill Shankly. GettyImages"
 categories: [sepakbola]
 tags: [this is anfield, tradisi liverpool]
 ---
@@ -29,7 +29,7 @@ Juergen Klopp pernah mengatakannya pada 2016 mengenai pelarangan itu.
 
 "Saya melarang para pemain untuk menyentuh simbol 'This Is Anfied' sampai mereka memenangi sesuatu," kata Klopp dilansir dari Liverpool Echo.
 
-{% include gallery id="figure1" %}
+{% include gallery id="figure1" caption="Manajer Liverpool, Juergen Klopp **(TWITTER.COM/ENGLISH_AS)**" %}
 
 "Itu adalah simbol kerhormatan."
 
@@ -61,7 +61,7 @@ Tradisi itu nantinya dapat dilakukan kembali ketika Liverpool menghadapi Norwich
 
 Hal itu seiring The Reds menjadi tuan rumah pada laga yang dimainkan pada Jumat (9/8/2019) atau Sabtu dini hari WIB.
 
-{% include gallery id="figure2" %}
+{% include gallery id="figure2" "Manajer Liverpool, Bill Shankly. **GettyImages*"" %}
 
 Simbol 'This Is Anfield' diperkenalkan sejak Bill Shankly yang menjabat pelatih dari 1959-1974.
 
