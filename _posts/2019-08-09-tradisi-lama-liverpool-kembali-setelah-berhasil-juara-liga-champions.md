@@ -29,7 +29,7 @@ Juergen Klopp pernah mengatakannya pada 2016 mengenai pelarangan itu.
 
 "Saya melarang para pemain untuk menyentuh simbol 'This Is Anfied' sampai mereka memenangi sesuatu," kata Klopp dilansir dari Liverpool Echo.
 
-{% include figure id="figure1" %}
+{% include gallery id="figure1" %}
 
 "Itu adalah simbol kerhormatan."
 
@@ -61,7 +61,7 @@ Tradisi itu nantinya dapat dilakukan kembali ketika Liverpool menghadapi Norwich
 
 Hal itu seiring The Reds menjadi tuan rumah pada laga yang dimainkan pada Jumat (9/8/2019) atau Sabtu dini hari WIB.
 
-{% include figure id="figure2" %}
+{% include gallery id="figure2" %}
 
 Simbol 'This Is Anfield' diperkenalkan sejak Bill Shankly yang menjabat pelatih dari 1959-1974.
 
