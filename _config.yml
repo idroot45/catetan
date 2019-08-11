@@ -29,14 +29,14 @@ logo: https://source.unsplash.com/random/88x88/?notepad
 search: true
 search_provider: google
 google:
- search_engine_id: "012409504556434517711:oxyvbv1u6ko"
- instant_search: true
+  search_engine_id: "012409504556434517711:oxyvbv1u6ko"
+  instant_search: true
 comments:
- provider: utterances
- utterances:
-  theme: "github-light"
-  issue_term: "pathname"
-  repos: "knoacc/catetan"
+  provider: utterances
+  utterances:
+   theme: "github-light"
+   issue_term: "pathname"
+repository: "knoacc/catetan"
 # SEO Related
 google_site_verification : "KYQFq-wZMFvxDMR5G5rak58D-IwrgM8B_CuGS0To5AU"
 bing_site_verification   : "DA3D4C0368D7AE1105218F7F5B5BD6AC"
