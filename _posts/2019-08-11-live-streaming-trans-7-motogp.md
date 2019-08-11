@@ -5,7 +5,7 @@ header:
  video:
   id: "x6p1gw7"
   provider: "dailymotion"
- og_image: "https://i0.wp.com/asset-a.grid.id/photo/gridoto/2018/04/21/4161747480.jpg"
+ teaser: "https://i0.wp.com/asset-a.grid.id/photo/gridoto/2018/04/21/4161747480.jpg"
 categories:
  - live
 tags:
