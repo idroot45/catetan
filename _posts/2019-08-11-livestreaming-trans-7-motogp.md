@@ -5,6 +5,7 @@ header:
  video:
   id: https://www.dailymotion.com/embed/video/x6p1gw7?autoplay=1
   provider: full_link
+ og_image: https://asset-a.grid.id/photo/gridoto/2018/04/21/4161747480.jpg
 categories: [balapan]
 tags: [moto gp, trans 7, live streaming]
 ---
