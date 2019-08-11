@@ -22,9 +22,9 @@ description: Seluk Beluk catatan yang tak terlalu penting.
 minimal_mistakes_skin: default
 
 # Images
-teaser: https://dummyimage.com/320x4:3/00/f.png&text=Seluk+Beluk
-og_image: https://dummyimage.com/1200x600/00/f.png&text=Seluk+Beluk
-logo: https://dummyimage.com/88x88/00/f.png&text=SeBel
+teaser: https://dummyimage.com/320x4:3/00/f.gif&text=Se+Bel
+og_image: https://dummyimage.com/1200x600/00/f.gif&text=Seluk+Beluk
+logo: https://dummyimage.com/88x88/00/f.gif&text=SeBel
 #Search
 search: true
 search_provider: google
