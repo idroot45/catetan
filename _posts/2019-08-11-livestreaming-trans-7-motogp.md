@@ -3,9 +3,9 @@ title: "Live Streaming TV Trans7. Jagan Paten Nonton MotoGP 😁 _video_{:.fa fa
 excerpt: "Embedding stream TV Nasional Trans7 untuk jaga-jaga kalau ingin nonton MotoGP saat sedang di jalan"
 header:
  video:
-  id: https://www.dailymotion.com/embed/video/x6p1gw7?autoplay=1
-  provider: full_link
- og_image: https://asset-a.grid.id/photo/gridoto/2018/04/21/4161747480.jpg
+  id: "https://www.dailymotion.com/embed/video/x6p1gw7?autoplay=1"
+  provider: "full_link"
+ og_image: "https://i0.wp.com/asset-a.grid.id/photo/gridoto/2018/04/21/4161747480.jpg"
 categories: [balapan]
 tags: [moto gp, trans 7, live streaming]
 ---
