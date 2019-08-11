@@ -6,6 +6,7 @@ header:
     id: "x4nwi47"
     provider: "dailymotion"
   og_image: "https://i.ytimg.com/vi/3pzxzxB25f8/hqdefault.jpg"
+  teaser: "https://i.ytimg.com/vi/3pzxzxB25f8/hqdefault.jpg"
 categories: [live]
 tags: [bioskop indonesia, live trans tv, bioskop trans tv]
 ---
