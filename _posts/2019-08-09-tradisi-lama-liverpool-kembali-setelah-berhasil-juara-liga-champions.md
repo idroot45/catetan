@@ -61,7 +61,7 @@ Tradisi itu nantinya dapat dilakukan kembali ketika Liverpool menghadapi Norwich
 
 Hal itu seiring The Reds menjadi tuan rumah pada laga yang dimainkan pada Jumat (9/8/2019) atau Sabtu dini hari WIB.
 
-{% include gallery id="figure2" caption="Manajer Liverpool, Bill Shankly. **GettyImages*"" %}
+{% include gallery id="figure2" caption="Manajer Liverpool, Bill Shankly. **GettyImages**" %}
 
 Simbol 'This Is Anfield' diperkenalkan sejak Bill Shankly yang menjabat pelatih dari 1959-1974.
 
