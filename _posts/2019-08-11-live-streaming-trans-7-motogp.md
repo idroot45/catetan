@@ -1,5 +1,5 @@
 ---
-title: "Live Streaming TV Trans7. Jagan Paten Nonton MotoGP Online _video_{:.fa fa-video}"
+title: "Live Streaming TV Trans7. _Jagan Paten_ Nonton MotoGP Online"
 excerpt: "Embedding stream TV Nasional Trans7 untuk jaga-jaga kalau ingin **nonton MotoGP** saat sedang di jalan"
 header:
  video:
