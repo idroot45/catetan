@@ -10,8 +10,8 @@ figure1:
    alt: "Manajer Liverpool, Juergen Klopp"
    title: "Manajer Liverpool, Juergen Klopp (TWITTER.COM/ENGLISH_AS)"
 figure2:
- - url: /assets/images/bill-shankly-gettyimages.jpg
-   image_path: /assets/images/bill-shankly-gettyimages.jpg
+ - url: "/assets/images/bill-shankly-gettyimages.jpg"
+   image_path: "/assets/images/bill-shankly-gettyimages.jpg"
    alt: "Manajer Liverpool, Bill Shankly"
    title: "Manajer Liverpool, Bill Shankly. GettyImages"
 categories: [sepakbola]
