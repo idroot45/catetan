@@ -4,6 +4,8 @@ header:
  video:
   id: "xwq73u545g-r23r"
   provider: "fembed"
+ og_image: https://i.ytimg.com/vi/5Lxu75r3-kI/maxresdefault.jpg
+ teaser: https://i.ytimg.com/vi/5Lxu75r3-kI/mqdefault.jpg
 excerpt: "Film ini masih berkualitas rendah (HDCAM). Perkiraan release BluRay November 2019."
 categories: [video]
 ---
