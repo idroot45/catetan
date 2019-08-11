@@ -14,3 +14,5 @@ Tayangan langsung streaming TV Nasional Trans 7 untuk **nonton MotoGP online**.
 Tidak punya TV? Mau tidak mau harus [nonton MotoGP secara online via live streaming](/live/streaming-moto-gp-trans-7/).
 
 Biar tidak kesulitan, embed saja di sini. 😁 Itung-itung buat jaga-jaga kalau sedang berada di jalan.
+
+Kalau sedang banyak sisa kuota mending nonton [Bioskop Trans TV](/live/streaming-bioskop-trans-tv/) saja
