@@ -1,9 +1,10 @@
+{% include ads.html %}
+
 <div class="page__comments">
-{% capture comments_label %}{{ site.data.ui-text[site.locale].comments_label | default: "Comments" }}{% endcapture %}
 {% if site.comments.provider="utterances" %}
 <h4 class="page__comments-title">{{ comments_label }}</h4>
-{% include ads.html %}
 <section id="utterances-comments"></section>
 {% else %}
-<section id="custom-comments"> {% include ads.html %} </section>
+<section id="custom-comments"></section>
 {% endif %}
+
