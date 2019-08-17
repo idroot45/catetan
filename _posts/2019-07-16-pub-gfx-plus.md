@@ -27,6 +27,6 @@ Aplikasi ini untuk membantu memperbaiki pengalaman bermain gim *Player Unknown's
 
 ## Arsip Unduhan
 
-| Versi PUB Gfx+ | Download | Log |
-|---:|:---|---|
-| v.0.16.9 | [Link](https://mi.knoacc.org/bitly?cde=31jaZZs&st1=Download&st2=APK) | Untuk versi (v0.16.9) PUB Gfx+ sudah mendukung **update Season 8** baik versi _global_, _korea_ maupun _china_ yang paling baru, yakni update 4 Juli 2019 (versi global: v0.13.0). Termasuk juga versi beta. |
+| Versi | Catatan Perubahan PUB Gfx+ | Download |
+|---|:---:|---:|
+| v.0.16.9 | Untuk versi (v0.16.9) PUB Gfx+ sudah mendukung **update Season 8** baik versi _global_, _korea_ maupun _china_ yang paling baru, yakni update 4 Juli 2019 (versi global: v0.13.0). Termasuk juga versi beta. | [Link](https://mi.knoacc.org/bitly?cde=31jaZZs&st1=Download&st2=APK) |
