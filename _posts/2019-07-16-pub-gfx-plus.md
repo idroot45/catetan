@@ -29,4 +29,6 @@ Aplikasi ini untuk membantu memperbaiki pengalaman bermain gim *Player Unknown's
 
 | Versi | Catatan Perubahan PUB Gfx+ | Download |
 |---|:---:|---:|
-| v.0.16.9 | Untuk versi (v0.16.9) PUB Gfx+ sudah mendukung **update Season 8** baik versi _global_, _korea_ maupun _china_ yang paling baru, yakni update 4 Juli 2019 (versi global: v0.13.0). Termasuk juga versi beta. | [Link](https://mi.knoacc.org/bitly?cde=31jaZZs&st1=Download&st2=APK) |
+| v.0.17.0 | Update terbaru PUB Gfx+ v.0.17.0 (no-ads) untuk dukungan Patch 0.14 PUBG Mobile yang mendapatkan pembaruan peta **Erangel 2.0** dan mode zombie baru: **infection** | [Link](https://bit.ly/2zaxwLP){:.btn .btn--success} |
+| v.0.16.9 | Untuk versi PUB Gfx+ v.16.9 sudah mendukung **update Season 8** baik versi _global_, _korea_ maupun _china_ yang paling baru, yakni update 4 Juli 2019 (versi global: v0.13.xx). Termasuk juga versi beta. | [Link](https://mi.knoacc.org/bitly?cde=31jaZZs&st1=Download&st2=APK){:.btn .btn--warning} |
+
