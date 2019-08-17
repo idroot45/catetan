@@ -13,17 +13,13 @@ header:
  caption: "PUB GFX+, **Update Season 8**"
 intro:
   - title: "What's new"
-    excerpt: "Safest GFX Tool on Google Play is now compatible with newer game update **PUBGM Season 8**"
-excerpt: "PUB gfx+ no-ads, premium tool from trilokia. **What's New**: Safest GFX Tool on Google Play is now compatible with newer game update" 
+    excerpt: "Update terbaru **PUB Gfx+ v.0.17.0** (no-ads) untuk dukungan Patch PUBGM 0.14.xx yang mendapatkan pembaruan peta **Erangel 2.0** dan mode zombie baru: **infection**"
+excerpt: "Last Update PUB gfx+ no-ads, premium tool from trilokia. v.0.17.0" 
 categories: [aplikasi]
 tags: [pubg mobile, gfx pubgm]
 last_modified_at: 2019-08-18 00:00 +7
 ---
 Aplikasi ini untuk membantu memperbaiki pengalaman bermain gim *Player Unknown's Battleground Mobile* [(android)](https://play.google.com/store/apps/details?id=com.tencent.ig) dengan berbagai konfigurasi otomatis (one-click).
-
-### Yang baru
-
-Update terbaru **PUB Gfx+ v.0.17.0** (no-ads) untuk dukungan Patch PUBGM 0.14.xx yang mendapatkan pembaruan peta **Erangel 2.0** dan mode zombie baru: **infection**
 
 {% include feature_row id="intro" type="center" %}
 
@@ -31,7 +27,7 @@ Update terbaru **PUB Gfx+ v.0.17.0** (no-ads) untuk dukungan Patch PUBGM 0.14.xx
 
 {% include video id="-Dhur8LJnnk" provider="youtube" %}
 
-### Arsip
+## Arsip
 
 | Versi PUB Gfx+ | Download | Log |
 |---:|:---|---|
