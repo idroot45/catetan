@@ -8,8 +8,6 @@ header:
     url: "https://bit.ly/2zaxwLP"
   - label: Playstore
     url: "https://play.google.com/store/apps/details?id=inc.trilokia.pubgfxtool"
-  - label: "Arsip"
-    url: "#arsip"
  caption: "PUB GFX+, **Update Season 8**"
 intro:
   - title: "What's new"
@@ -23,11 +21,11 @@ Aplikasi ini untuk membantu memperbaiki pengalaman bermain gim *Player Unknown's
 
 {% include feature_row id="intro" type="center" %}
 
-### Teaser PUBGM Season 8
+## Teaser PUBGM Season 8
 
 {% include video id="-Dhur8LJnnk" provider="youtube" %}
 
-## Arsip
+## Arsip Unduhan
 
 | Versi PUB Gfx+ | Download | Log |
 |---:|:---|---|
