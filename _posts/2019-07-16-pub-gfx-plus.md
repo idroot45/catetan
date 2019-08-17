@@ -17,6 +17,7 @@ intro:
 excerpt: "PUB gfx+ no-ads, premium tool from trilokia. **What's New**: Safest GFX Tool on Google Play is now compatible with newer game update" 
 categories: [aplikasi]
 tags: [pubg mobile, gfx pubgm]
+last_modified_at: 2019-08-18 00:00 +7
 ---
 Aplikasi ini untuk membantu memperbaiki pengalaman bermain gim *Player Unknown's Battleground Mobile* [(android)](https://play.google.com/store/apps/details?id=com.tencent.ig) dengan berbagai konfigurasi otomatis (one-click).
 
