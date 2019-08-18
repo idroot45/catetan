@@ -19,16 +19,14 @@ last_modified_at: 2019-08-17 11:00:02
 | Negara | Japan, USA |
 | Bintang film | Ken Watanabe, Kyle Chandler, Millie Bobby Brown, Vera Farmiga |
 | Genre | Action, Adventure, Fantasy, Sci-fi |
-| IMDb 6.6 / 10 from 42287 users |
+| IMDb | 6.6 / 10 from 42287 users |
 | Tayang | May 29, 2019 |
 | Penerjemah | pein-akatsuki |
-| Awards: | 2 nominations. |
-| Budget: | $170,000,000 (estimated) |
-| Worldwide Gross: $339,488,172, 16 June 2019 |
-| Soundtrack: GODZILLA MAIN TITLE Written by Akira Ifukube |
+| Awards | 2 nominations. |
+| Budget | $170,000,000 (estimated) |
+| Worldwide Gross | $339,488,172, 16 June 2019 |
+| Soundtrack | GODZILLA MAIN TITLE Written by Akira Ifukube |
 | Upload | August 17, 2019 10:37 am |
-
-{% include ads.html %}
 
 ### Synopsis:
 
