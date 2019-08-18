@@ -4,8 +4,8 @@ header:
  video:
   id: "g85WfdLZhOo"
   provider: "youtube"
- teaser: "https://dummyimage.com/320x180/ff.gif&text=ILC"
- og_image: "https://dummyimage.com/1200x640/ff.gif&text=ILC+TV+One"
+ teaser: "https://dummyimage.com/320x180/00/f.gif&text=ILC"
+ og_image: "https://dummyimage.com/1200x640/00/f.gif&text=ILC+TV+One"
 categories: [live]
 tags: [tv one, tv nasional, live streaming]
 ---
