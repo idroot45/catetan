@@ -4,8 +4,8 @@ header:
  video:
   id: "T6b5TAey728"
   provider: "youtube"
- teaser: "https://dummyimage.com/320x180/ff.gif&text=SUCI"
- og_image: "https://dummyimage.com/1200x640/ff.gif&text=SUCI+KompasTV"
+ teaser: "https://dummyimage.com/320x180/00/f.gif&text=SUCI"
+ og_image: "https://dummyimage.com/1200x640/00/f.gif&text=SUCI+KompasTV"
 categories: [live]
 tags: [kompas tv, tv nasional, live streaming]
 ---
