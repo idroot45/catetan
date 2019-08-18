@@ -2,17 +2,19 @@
 title: "Godzilla: King of the Monsters [HDrip] _video_{:.fa fa-video}"
 header:
  video:
-  id: xwq73u5415lpd5m
+  id: xwq73u54k6n87nm
   provider: fembed
 excerpt: "The crypto-zoological agency Monarch faces off against a battery of god-sized monsters, including the mighty Godzilla"
 categories: [video]
+tags: [godzilla, bluray]
+last_modified_at: 2019-08-17 11:00:02
 ---
 
 ## Detail video
 
 | Judul | Godzilla: King of the Monsters |
 |---|:---:|
-| Kualitas | HDRip |
+| Kualitas | Bluray |
 | Negara | Japan, USA |
 | Bintang film | Ken Watanabe, Kyle Chandler, Millie Bobby Brown, Vera Farmiga |
 | Genre | Action, Adventure, Fantasy, Sci-fi |
@@ -23,7 +25,7 @@ categories: [video]
 | Budget: | $170,000,000 (estimated) |
 | Worldwide Gross: $339,488,172, 16 June 2019 |
 | Soundtrack: GODZILLA MAIN TITLE Written by Akira Ifukube |
-| Upload | July 28, 2019 8:44 am |
+| Upload | August 17, 2019 10:37 am |
 
 {% include ads.html %}
 
