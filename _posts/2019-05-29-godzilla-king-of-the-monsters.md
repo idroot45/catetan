@@ -1,5 +1,6 @@
 ---
-title: "Godzilla: King of the Monsters [HDrip] _video_{:.fa fa-video}"
+title: "Godzilla: King of the Monsters [BluRay]"
+excerpt: "17 Agustus 2019: update kualitas HDrip -> BluRay"
 header:
  video:
   id: xwq73u54k6n87nm
