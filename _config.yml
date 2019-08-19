@@ -50,7 +50,7 @@ analytics:
 
 # Build settings
 markdown: kramdown
-remote_theme: mmistakes/minimal-mistakes
+remote_theme: "mmistakes/minimal-mistakes@4.16.5"
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
@@ -111,9 +111,8 @@ sass:
   style: compressed
 
 compress_html:
+  clippings: all
   comments: ["<!-- ", " -->"]
-  ignore:
-    envs: [local] # default: local
   blanklines: true
 
 defaults:
