@@ -1,6 +1,6 @@
 ---
-title: "Friend Zone - Zona yang Paling Berbahaya dan Nyaman"
-excerpt: "Sebuah review film Thailand, tentang zona yang paling berbahaya dan nyaman"
+title: "Friend Zone - Zona yang Paling Nyaman dan Berbahaya"
+excerpt: "Sebuah review film Thailand. Kisah tentang zona yang paling nyaman sekaligus berbahaya"
 header:
  video:
   id: yxqd6uew1w77pg2
