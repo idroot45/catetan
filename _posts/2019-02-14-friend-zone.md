@@ -40,7 +40,7 @@ Pimchanok Luevisadpaibul / Baifern (**Crazy Little Thing Called Love**) yang dis
 
 Kebanyakan film percintaan seringkali memperlihatkan kebodohan salah satu atau kedua pemeran utamanya, awalnya penonton berpikir seperti itu dan pertanyaan klasik yang muncul dalam benak penonton di semua film romantis adalah “Apa susahnya mengutarakan perasaan cinta kepada seseorang?”. Namun setelah film memasuki babak akhir yang puncaknya pertemuan mereka di suatu tempat itu, penonton dapat sangat memahami mengapa mereka masuk dalam friend zone. Adegan tersebut sungguh powerful dan pastinya tidak sedikit membuat mata penonton berkaca-kaca ataupun meneteskan air mata.
 
-![Adu Konyol](https://i1.wp.com/movieden.net/wp-content/uploads/2019/03/friendzone-thailand-movie-5-1024x680.jpg
+![Adu Konyol](https://i1.wp.com/movieden.net/wp-content/uploads/2019/03/friendzone-thailand-movie-5-1024x680.jpg)
 
 Film Friend Zone memberikan alur cerita yang hampir semuanya flashback dan dari sudut pandang pihak pria yang dinarasikan langsung oleh tokoh utamanya. Dari awal hingga menjelang akhir, penonton dibuat tertipu / misleading dengan apa maksud dari Palm dalam menceritakan hal itu, sehingga dapat dikatakan memberikan kejutan yang tidak terduga-duga di akhir.
 
