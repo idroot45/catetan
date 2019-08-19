@@ -4,16 +4,16 @@
 <!-- Courtesy of embedresponsively.com //-->
 <div class="responsive-video-container">
 {% if video_provider == "vimeo" %}
-  <iframe src="https://player.vimeo.com/video/{{ video_id }}?dnt=true" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+  <iframe src="https://player.vimeo.com/video/{{ video_id }}?dnt=true" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen />>
 {% elsif video_provider == "youtube" %}
-  <iframe src="https://www.youtube-nocookie.com/embed/{{ video_id }}" frameborder="0" allowfullscreen></iframe>
+  <iframe src="https://www.youtube-nocookie.com/embed/{{ video_id }}" frameborder="0" allowfullscreen />
 {% elsif video_provider == "fembed"%}
-  <iframe src="https://www.fembed.com/v/{{ video_id }}" frameborder="0" allowfullscreen></iframe>
+  <iframe src="https://www.fembed.com/v/{{ video_id }}" frameborder="0" allowfullscreen />
 {% elsif video_provider == "google-drive" %}
-  <iframe src="https://drive.google.com/file/d/{{ video_id }}/preview" frameborder="0" allowfullscreen></iframe>
+  <iframe src="https://drive.google.com/file/d/{{ video_id }}/preview" frameborder="0" allowfullscreen />
 {% elsif video_provider == "dailymotion" %}
-  <iframe src="https://www.dailymotion.com/embed/video/{{ video_id }}" frameborder="0" allowfullscreen></iframe>
+  <iframe src="https://www.dailymotion.com/embed/video/{{ video_id }}" frameborder="0" allowfullscreen />
 {% elsif video_provider == "full_link" %}
-  <iframe src="{{ video_id }}" frameborder="0" allowfullscreen></iframe>
+  <iframe src="{{ video_id }}" frameborder="0" allowfullscreen />
 {% endif %}
 </div>
