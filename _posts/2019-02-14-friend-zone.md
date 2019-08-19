@@ -18,7 +18,7 @@ last_modified_at: 2019-08-19 02:48:00
 
 [**Friend Zone**](/video/friend-zone/) sesuai judulnya kembali mengangkat tema cinta yang bertepuk sebelah tangan karena sudah dianggap sebagai teman dekat atau bisa jadi karena tidak ada salah satu yang berani mengungkapkan perasaannya. Friend zone dapat dikatakan zona yang berbahaya, apalagi jika mengalaminya selama bertahun-tahun atau puluhan tahun! Karena tentu sudah kadung terlalu nyaman sebagai teman/sahabat, sehingga susah keluar dari zona mematikan ini.
 
-![adegan dalam film friend zone](https://i0.wp.com/movieden.net/wp-content/uploads/2019/03/friendzone-thailand-movie-1-1024x680.jpg){:.aligncenter}
+![adegan dalam film friend zone](https://i1.wp.com/movieden.net/wp-content/uploads/2019/03/friendzone-thailand-movie-1-1024x680.jpg){:.aligncenter}
 
 Kemudian lagi sudah tahu segala macam keburukan masing-masing yang telah dilakukan sehingga sudah ilfeel duluan. Walau tentu ada anggapan lain kalau jika sudah nyaman dan sudah tahu keburukan masing-masing, sehingga sudah tidak perlu memakai topeng apa-apa lagi. Karena memang sifat dari suatu hubungan percintaan tentu tidak takut atau sudah tidak malu-malu / jaim lagi dalam melakukan apapun dan saling terbuka satu dengan lainnya, seperti halnya seorang sahabat.
 
@@ -34,7 +34,7 @@ Paling spesial dari film **Friend Zone** adalah chemistry yang luar biasa memika
 
 Nine Naphat Siangsomboon, selain wajah rupawannya itu sehingga para penonton wanita pasti akan tergila-gila olehnya, berakting sangat cemerlang. Tatapan matanya mengisyaratkan rasa cintanya yang mendalam terhadap teman baiknya itu, kemudian lagi saat dia berada di suatu adegan “panas” dengan teman baiknya itu, terlihat jelas dia sangat tegang sekaligus memiliki hasrat yang tinggi saat berhadapan langsung dengan wanita idamannya itu. Pimchanok Luevisadpaibul / Baifern (Crazy Little Thing Called Love) yang disebut-sebut merupakan salah satu aktris Thailand tercantik ini, turut memberikan akting yang sangat baik. Dia berhasil memerankan seseorang yang sedang kalut karena pacarnya diduga berselingkuh, kemudian berkat dia chemistry dengan Naphat Siangsomboon / Nine mengalir begitu sempurna.
 
-![Zona yang Paling Berbahaya dan Nyaman](https://movieden.net/wp-content/uploads/2019/03/friendzone-thailand-movie-4-1024x680.jpg)
+![Zona yang Paling Berbahaya dan Nyaman](https://i0.wp.com/movieden.net/wp-content/uploads/2019/03/friendzone-thailand-movie-4-1024x680.jpg)
 
 Kebanyakan film percintaan seringkali memperlihatkan kebodohan salah satu atau kedua pemeran utamanya, awalnya penonton berpikir seperti itu dan pertanyaan klasik yang muncul dalam benak penonton di semua film romantis adalah “Apa susahnya mengutarakan perasaan cinta kepada seseorang?”. Namun setelah film memasuki babak akhir yang puncaknya pertemuan mereka di suatu tempat itu, penonton dapat sangat memahami mengapa mereka masuk dalam friend zone. Adegan tersebut sungguh powerful dan pastinya tidak sedikit membuat mata penonton berkaca-kaca ataupun meneteskan air mata.
 
