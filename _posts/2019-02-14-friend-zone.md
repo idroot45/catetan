@@ -32,7 +32,9 @@ Humornya sungguh komikal, kocak dan paling terpenting mengalir apa adanya, tidak
 
 Paling spesial dari film **Friend Zone** adalah chemistry yang luar biasa memikat dari Pimchanok Luevisadpaibul / Baifern dan Naphat Siangsomboon / Nine. Penonton dapat merasakan betul mereka seperti memang benar-benar telah terjebak dalam zona friend zone selama lebih dari 10 tahun.
 
-Nine Naphat Siangsomboon, selain wajah rupawannya itu sehingga para penonton wanita pasti akan tergila-gila olehnya, berakting sangat cemerlang. Tatapan matanya mengisyaratkan rasa cintanya yang mendalam terhadap teman baiknya itu, kemudian lagi saat dia berada di suatu adegan “panas” dengan teman baiknya itu, terlihat jelas dia sangat tegang sekaligus memiliki hasrat yang tinggi saat berhadapan langsung dengan wanita idamannya itu. Pimchanok Luevisadpaibul / Baifern (Crazy Little Thing Called Love) yang disebut-sebut merupakan salah satu aktris Thailand tercantik ini, turut memberikan akting yang sangat baik. Dia berhasil memerankan seseorang yang sedang kalut karena pacarnya diduga berselingkuh, kemudian berkat dia chemistry dengan Naphat Siangsomboon / Nine mengalir begitu sempurna.
+Nine Naphat Siangsomboon, selain wajah rupawannya itu sehingga para penonton wanita pasti akan tergila-gila olehnya, berakting sangat cemerlang. Tatapan matanya mengisyaratkan rasa cintanya yang mendalam terhadap teman baiknya itu, kemudian lagi saat dia berada di suatu adegan “panas” dengan teman baiknya itu, terlihat jelas dia sangat tegang sekaligus memiliki hasrat yang tinggi saat berhadapan langsung dengan wanita idamannya itu.
+
+Pimchanok Luevisadpaibul / Baifern (**Crazy Little Thing Called Love**) yang disebut-sebut merupakan salah satu aktris Thailand tercantik ini, turut memberikan akting yang sangat baik. Dia berhasil memerankan seseorang yang sedang kalut karena pacarnya diduga berselingkuh, kemudian berkat dia chemistry dengan Naphat Siangsomboon / Nine mengalir begitu sempurna.
 
 ![Zona yang Paling Berbahaya dan Nyaman](https://i0.wp.com/movieden.net/wp-content/uploads/2019/03/friendzone-thailand-movie-4-1024x680.jpg)
 
