@@ -118,7 +118,7 @@ compress_html:
     envs: [local] # default: local
   blanklines: true
   profile: false
-  startings: [html, head, body]
+  startings: false
 
 defaults:
   # _posts
