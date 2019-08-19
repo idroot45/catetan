@@ -111,12 +111,10 @@ sass:
   style: compressed
 
 compress_html:
-  clippings: all
   comments: ["<!-- ", " -->"]
   ignore:
     envs: [local] # default: local
   blanklines: true
-  profile: false
 
 defaults:
   # _posts
