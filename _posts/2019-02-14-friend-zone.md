@@ -5,8 +5,8 @@ header:
  video:
   id: yxqd6uew1w77pg2
   provider: fembed
- og_image: https://i.ytimg.com/vi/0JQoehjnjZw/maxresdefault.jpg
- teaser: https://i.ytimg.com/vi/0JQoehjnjZw/hqdefault.jpg
+ og_image: https://i.ytimg.com/vi/0JQoehjnjZw/hqdefault.jpg
+ teaser: https://i.ytimg.com/vi/0JQoehjnjZw/mqdefault.jpg
 categories: [video]
 tags: [friend zone, film thailand]
 last_modified_at: 2019-08-19 02:48:00
