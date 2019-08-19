@@ -12,7 +12,7 @@ tags: [friend zone, film thailand]
 last_modified_at: 2019-08-19 02:48:00
 ---
 
-**Palm (Naphat Siangsomboon / Nine)** terjebak di zona pertemanan dengan sahabatnya **Gink (Pimchanok Luevisadpaibul / Baifern)** selama 10 tahun. Setiap kali Palm putus dengan salah satu pacarnya yang tak terhitung jumlahnya, Gink menjadi teman curhatnya. Setiap kali Gink berkelahi dengan pacarnya di mana pun Palm berada, Myanmar, Malaysia, atau Hong Kong, ia (Gink) akan menelepon Palm dan memaksanya menggunakan tunjangan pramugara miliknya untuk naik pesawat menemani Gink.
+**Palm** (_Naphat Siangsomboon / Nine_) terjebak di zona pertemanan dengan sahabatnya **Gink** (_Pimchanok Luevisadpaibul / Baifern_) selama 10 tahun. Setiap kali Palm putus dengan salah satu pacarnya yang tak terhitung jumlahnya, Gink menjadi teman curhatnya. Setiap kali Gink berkelahi dengan pacarnya di mana pun Palm berada, Myanmar, Malaysia, atau Hong Kong, ia (Gink) akan menelepon Palm dan memaksanya menggunakan tunjangan pramugara miliknya untuk naik pesawat menemani Gink.
 
 ## Review:
 
