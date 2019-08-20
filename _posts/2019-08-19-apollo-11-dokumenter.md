@@ -1,5 +1,5 @@
 ---
-title: "Apollo 11, Dokumenter Terbaru Pemdaratan Manusia di Bulan"
+title: "Apollo 11, Dokumenter Terbaru Pendaratan Manusia di Bulan"
 excerpt: "Film Dokumenter manusia pertama yang mendarat di Bulan menyusul kontroversi film First Man"
 header:
  video:
