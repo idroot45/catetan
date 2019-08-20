@@ -2,7 +2,7 @@
 title: "Aplikasi Koding: Quoda Premium vs AIDE Web Unlocked"
 excerpt: "Dua aplikasi koding (premium/unlocked) andalan untuk ponsel-ponsel Android nih gais!"
 header:
- overlay_image: https://dummyimage.com/640x640/600/f.png?text=CODING
+ overlay_image: https://dummyimage.com/640x640/600/00.png?text=CODING
  og_image: https://dummyimage.com/1200x640/600/f.png?text=CODING
  teaser: https://dummyimage.com/340x340/600/f.png?text=CODING
 categories: [aplikasi]
