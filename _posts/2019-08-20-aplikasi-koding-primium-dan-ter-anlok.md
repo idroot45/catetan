@@ -39,8 +39,8 @@ _**Quoda** is a sophisticated yet easy to use source code editor or IDE with int
 
 ### Playstore
 
-- **[1](https://play.google.com/store/apps/details?id=com.aide.web){: target="_blank" rel="nofollow"}** _com.aide.web_
-- **[2](https://play.google.com/store/apps/details?id=com.henrythompson.quoda){: target="_blank" rel="nofollow"}** _com.henrythompson.quoda_
-- **[3](https://play.google.com/store/apps/details?id=com.aide.ui){: target="_blank" rel="nofollow"}** _com.aide.ui_
+1. *[com.aide.web](https://play.google.com/store/apps/details?id=com.aide.web){: target="_blank" rel="nofollow"}*
+2. *[com.henrythompson.quoda](https://play.google.com/store/apps/details?id=com.henrythompson.quoda){: target="_blank" rel="nofollow"}*
+3. *[com.aide.ui](https://play.google.com/store/apps/details?id=com.aide.ui){: target="_blank" rel="nofollow"}*
 
 Oh, ingat ini baik-baik: Gak usah protes kalau tautan yang saya berikan **melewati [link receh](https://www.knoacc.org/2014/06/pemendek-url-domain-sendiri-dibayar-dolar.html){: target="_blank"}**, kalau tidak suka link receh, silahkan beli di [Playstore](#playstore). Ok 😘 ?
