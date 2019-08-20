@@ -34,3 +34,19 @@ Film ini tanpa narasi dan wawancara langsung, hanya materi asli yang disinkronka
 Merangkum dari review [The Guardian](https://www.google.com/amp/s/amp.theguardian.com/film/2019/feb/25/apollo-11-review-eye-opening-documentary-is-a-five-star-triumph), Senin (25/02/2019), dalam film ini ada empat momen penting pada misi ke Bulan. Mulai dari adegan lepas landas, pendaratan modul bulan Eagle, menghubungkan kembali Eagle dengan pesawat ruang angkasa Columbia untuk kembali ke Bumi, hingga masuk ke atmosfer Bumi.
 
 Meski urutannya bisa ditebak, tapi penggambaran ini masih memikat. Di samping itu, "Apollo 11" adalah kisah terpenting teknologi dan kemanusiaan.
+
+### Detail video
+
+|Judul|Apollo 11|
+|---|:---:|
+|Kualitas|BluRay|
+|Negara|Usa|
+|Bintang film|Buzz Aldrin, Janet Armstrong, Joan Ann Archer, Neil Armstrong|
+|Genre|Documentary, History|
+|IMDb|8.4 / 10 from 3740 users|
+|Diterbitkan|March 1, 2019|
+|Penerjemah|Captain_Cold|
+|Awards|1 win & 1 nomination|
+|Upload| (BluRay) Aug 20, 2019 9:55 am|
+
+**Durasi** 1 jam 30 menit
