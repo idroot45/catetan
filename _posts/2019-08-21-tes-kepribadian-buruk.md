@@ -9,9 +9,7 @@ tags: [sifat jelek, tes gambar, tes kepribadian]
 
 Sebagai manusia, tentu saja kita memiliki [sifat baik dan sifat buruk](/tanda/#tes-kepribadian). Sebabnya, karakter manusia terbentuk dari kepribadian yang turut dipengaruhi oleh lingkungan.
 
-Mengambil referensi dari [YourTango](#notes), untuk mengetahui apa sifat buruk Anda, lihat gambar di bawah ini.
-
-Gambar pertama yang menarik perhatian Anda menandakan sifat buruk yang Anda miliki. Apa itu? 
+Mengambil referensi dari [YourTango](#notes), untuk mengetahui apa sifat buruk Anda, lihat gambar di bawah ini. Gambar pertama yang menarik perhatian Anda menandakan sifat buruk yang Anda miliki. Apa itu? 
 
 {% include figure alt="Tes Kepribadian ini tunjukkan sifat buruk Anda"
 caption="Tes Kepribadian ini tunjukkan sifat buruk Anda. Yang mana ya? _(Dok. Your Tango)_" image_path="https://i0.wp.com/media.suara.com/pictures/original/2019/08/18/47177-tes-kepribadian-wajah.jpg" %}
