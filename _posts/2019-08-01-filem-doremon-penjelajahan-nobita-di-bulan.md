@@ -13,7 +13,7 @@ last_modified_at: 2019-08-21 17:19:00
 ---
 ### Sinopsis
 
-Nobita melihat bulan menguning tadi malam dan memberi tahu kelasnya tentang hal itu tetapi mereka pikir itu lucu. Doraemon memberinya "Lencana Penjelajah Sejarah Klub" dan menemukan ada kehidupan di bulan. Sampai seorang siswa baru mengubahnya selamanya.
+Berkisah tentang Nobita yang melihat bulan menguning pada malam sebelumnya dan memberi tahu kelasnya tentang hal itu tetapi mereka menertawakannya. Doraemon kemudian  memberinya “Lencana Kluo Penjelajah Sejarah” dan menemukan ada kehidupan di bulan. Sampai muncul seorang siswa baru yang membuat semua berubah
 
 ![Doraemon: Nobita's Chronicle of the moon exploration](https://i0.wp.com/img.hdv.fun/backdrop/tt9735672.jpg?resize=640,360&ssl=1)
 
