@@ -6,13 +6,13 @@ tags: [UAS, kontroversi salib]
 last_modified_at: 2017-08-21 23:03:01
 ---
 
-## UAS: Apa Saya Mesti Minta Maaf?
+### UAS: Apa Saya Mesti Minta Maaf?
 
 {% include video id="https://vod.detik.com/mc/_definst_/smil:http/mc/video/detiktv/videoservice/AdminTV/2019/08/21//d98d589777414df5a426522690ed6838.smil/playlist.m3u8" provider="full_link" %}
 
 > Ustadz Abdul Somad menegaskan dirinya tak perlu minta maaf atas kontroversi soal video salib yang beredar luas. UAS menuturkan hal tersebut berdasarkan kutipan ayat Al-Quran.
 
-## Bukan Bandingkan Agama, UAS Singgung Salib untuk Jaga Akidah
+### Bukan Bandingkan Agama, UAS Singgung Salib untuk Jaga Akidah
 
 {% include video id="https://vod.detik.com/mc/_definst_/smil:http/mc/video/detiktv/videoservice/AdminTV/2019/08/21//ff508a3a31c841d8b56b778c69dcb151.smil/playlist.m3u8" provider="full_link %}
 
