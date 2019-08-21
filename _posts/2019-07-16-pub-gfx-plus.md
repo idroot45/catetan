@@ -15,7 +15,7 @@ intro:
 excerpt: "Last Update PUB gfx+ no-ads, premium tool from trilokia. v.0.17.0" 
 categories: [aplikasi]
 tags: [pubg mobile, gfx pubgm]
-last_modified_at: 2019-08-21 22:02:00
+last_modified_at: 2019-08-21 22:04:00
 ---
 Aplikasi ini untuk membantu memperbaiki pengalaman bermain gim *Player Unknown's Battleground Mobile* [(android)](https://play.google.com/store/apps/details?id=com.tencent.ig) dengan berbagai konfigurasi otomatis (one-click).
 
