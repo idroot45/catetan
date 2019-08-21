@@ -14,7 +14,7 @@ last_modified_at: 2017-08-21 23:03:01
 
 ## Bukan Bandingkan Agama, UAS Singgung Salib untuk Jaga Akidah
 
-{% include video id="https://vod.detik.com/mc/_definst_/smil:http/mc/video/detiktv/videoservice/AdminTV/2019/08/21//ff508a3a31c841d8b56b778c69dcb151.smil/playlist.m3u8" provider="full_link
+{% include video id="https://vod.detik.com/mc/_definst_/smil:http/mc/video/detiktv/videoservice/AdminTV/2019/08/21//ff508a3a31c841d8b56b778c69dcb151.smil/playlist.m3u8" provider="full_link %}
 
 > Ustadz Abdul Somad (UAS) menegaskan dirinya menyinggung salib dalam ceramahnya bukan dalam rangka berdebat atau membandingkan agama. Melainkan untuk menjaga akidah umat muslim. 
 
