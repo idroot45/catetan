@@ -24,17 +24,17 @@ Di satu sisi, baik bagi seseorang untuk memiliki rasa percaya diri. Namun jika t
 
 Mulai sekarang, coba tahan diri untuk mengkritik orang lain dan merasa diri sendiri paling benar ya!
 
-Lalu apa penjelasannya bila gambar pertama yang lain yang menarik perhatian Anda, Cari tahu yuk di halaman berikutnya!
-
-Berikut penjelasan atau makna di balik gambar yang pertama dilihat atau menarik perhatian Anda terkait dengan kepribadian. 
+Lalu apa penjelasannya jika ada bagian gambar lain yang menarik perhatian Anda? Berikut penjelasan atau makna di balik **gambar yang pertama dilihat** atau **menarik perhatian Anda** terkait dengan kepribadian. 
 
 ### 2. Lelaki memainkan kecapi
 
 Gambar lelaki dengan kecapi menarik perhatian Anda? Tandanya **amarah dan kontrol emosi yang buruk** adalah sifat jelek Anda.
 
-Tak melulu dengan marah-marah, kontrol emosi yang buruk tetap terlihat meski Anda sedang diam lho! Coba lihat disekeliling Anda, orang cenderung menghindari orang lain yang terlihat tidak menyenangkan karena menahan amarah.
+Tak melulu dengan marah-marah, kontrol emosi yang buruk tetap terlihat meski Anda sedang diam lho! Coba lihat di sekeliling Anda, orang cenderung menghindari orang lain yang terlihat tidak menyenangkan karena menahan amarah.
 
 Daripada berdiam diri dan merengut tak jelas, lebih baik tenangkan diri dengan berjalan kaki ketika emosi susah terkontrol ya!
+
+> Mengenai hal ini, Nabi Muhammad SAW pernah memberikan petunjuk. "Jika kamu marah dalam keadaan berdiri, duduklah. Jika kamu masih marah, padahal sudah dalam keadaan duduk, berbaringlah. Jika kamu masih marah, padahal sudah dalam keadaan berbaring, segera bangkit dan ambil air wudu untuk bersuci dan lakukan shalat sunah dua rakaat." Yang esensinya adalah bergerak, berpindah posisi, atau melakukan kegiatan lain untuk mengalihkan perhatian.  
 
 ### 3. Keranjang yang tergantung
 
