@@ -55,4 +55,4 @@ Mulai saat ini, coba **tahan diri untuk tidak berkomentar lebih banyak**, dan de
 Lantas, gambar manakah yang kali pertama menarik perhatian Anda di tes kepribadian ini?
 
 > YourTango ini semacam situs yang membagikan tips-tips dan ulasan terkait psikologi, utamanya mengenai _relationship_ dan _self improvement_. Bisa dikunjungi [di sini](https://yourtango.com/){: target="_blank" rel="external nofollow noopener"}.
-{: name="notes"}
+{: id="notes"}
