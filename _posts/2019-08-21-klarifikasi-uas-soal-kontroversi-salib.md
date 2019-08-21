@@ -1,6 +1,6 @@
 ---
-title: "Klarifilasi UAS Viralnya Video Kontroversi Salib"
-excerpt: "2 Video Klarifikasi Ustadz Abdul Somad Viralnya Video Kontroversi Salib"
+title: "Klarifikasi UAS Tentang Viralnya Kontroversi Salib"
+excerpt: "2 video klarifikasi Ustadz Abdul Somad mengenai kontroversi salib dalam ceramahnya"
 categories: [video]
 tags: [UAS, kontroversi salib]
 last_modified_at: 2017-08-21 23:03:01
