@@ -27,7 +27,9 @@ Aplikasi ini untuk membantu memperbaiki pengalaman bermain gim *Player Unknown's
 
 ## Teaser PUBGM Infection Mode
 
-{% include video id="DkYEhtxSuo" provider="youtube" %}
+{% include video id="rLgZ28TWgFQ" provider="youtube" %}
+
+{% include video id="uDkYEhtxSuo" provider="youtube" %}
 
 ## Arsip Unduhan
 
