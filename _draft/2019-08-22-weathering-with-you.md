@@ -1,6 +1,6 @@
 ---
 title: "Tenki no Ko a.k.a. Weathering with You"
-excerpt: "Karya terbaru dari Makoto Shinkai yang sering meraih penghargaan.
+excerpt: "Karya terbaru dari Makoto Shinkai yang sering meraih penghargaan."
 ---
 
 Setelah cukup lama dinanti-nanti, akhirnya film terbaru dari Makoto Shinkai, **Weathering With You** atau _Tenki no Ko_ akan segera dirilis di Indonesia mulai 21 Agustus 2019. Sejumlah jaringan bioskop akan turut memutar film ini. Berdasarkan informasi dari laman Facebook Encore Films Indonesia, Weathering With You akan diputar di seluruh jaringan bioskop GCV Cinemas Indonesia. Selain itu film ini juga akan diputar di sejumlah cabang bioskop Cinemaxx Theater, Flix Cinema, Platinum Cineplex, Kota Cinema, dan Lotte Cinema.
