@@ -36,8 +36,8 @@ Tersedia radio lokal Indonesia populer.
 
 |Versi|Yang baru di versi ini|Tautan|Status|
 |---|:---:|:---:|---:|
-|22.7|Fix Bug|[unduh apk]()|mod by Kirlif|
-|22.6|Bug fixes, crash fixes and improvements|[unduh apk](https://bit.ly/2TUKHu6)||mod by Kirlif|
-|22.5|-|[unduh apk](https://bit.ly/2Zg887f)|mod by Kirlif|
+|22.7|Fix Bug|[unduh apk](https://bit.ly/2Zmqo9Y){:.btn .btn--success}|mod by Kirlif|
+|22.6|Bug fixes, crash fixes and improvements|[unduh apk](https://bit.ly/2TUKHu6){:.btn .btn--warning}||mod by Kirlif|
+|22.5|-|[unduh apk](https://bit.ly/2Zg887f){:.btn .btn--warning}|mod by Kirlif|
 
 > Gak usah protes **tautan receh!** Kalau gampang, beli saja di [Playstore](https://play.google.com/store/apps/details?id=radiotime.player){: target="_blank" rel="nofollow noreferrer noopener" }
