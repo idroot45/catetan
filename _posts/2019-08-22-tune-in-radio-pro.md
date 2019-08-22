@@ -12,11 +12,11 @@ last_modified_at: 3019-08-23 14-55-02
 
 TuneIn Radio (PRO) adalah solusi untuk mendengarkan lagu lokal dan mancanegara untuk tempat publik seperti cafe atau warung kopi. Selama ini sebagian besar warung kopi atau cafe yang punya koneksi internet (AP/Wi-Fi) menggunakan YouTube untuk memutar lagu-lagu. Namun karena bandwith yang dipakai besar, client seringkali tidak kebagian.
 
-## TuneIn Radio and TuneIn Radio Pro?
+## TuneIn Radio atau TuneIn Radio Pro?
 
 TuneIn Radio Pro is free of display ads and lets you record what you are listening to and listen later offline.
 
-Listen to your favorite **radio stations for free** with TuneIn Radio Pro. With over 100,000 stations, TuneIn Radio Pro has the largest selection of sports, news, music and talk radio from around the world.
+Listen to your favorite **radio stations for free** with [TuneIn Radio Pro](#unduhan). With over 100,000 stations, **TuneIn Radio Pro** has the largest selection of sports, news, music and talk radio from around the world.
 
 ## Features
 
