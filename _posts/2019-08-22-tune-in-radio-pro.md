@@ -1,5 +1,5 @@
 ---
-title: "Aplikasi Radio Online Streaming: TuneIn Radio PRO"
+title: "TuneIn Radio PRO, Aplikasi Streaming Radio Online"
 excerpt: "Solusi untuk mendengarkan lagu lokal dan mancanegara untuk tempat publik seperti cafe atau warung kopi"
 header:
  overlay_image: https://i0.wp.com/www.apkisland.net/wp-content/uploads/2015/11/tunein-radio-pro-live-radio.jpg?resize=640,360
