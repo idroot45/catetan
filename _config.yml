@@ -110,11 +110,6 @@ footer:
 sass:
   style: compressed
 
-compress_html:
-  clippings: all
-  comments: ["<!-- ", " -->"]
-  blanklines: true
-
 defaults:
   # _posts
   - scope:
