@@ -50,7 +50,7 @@ analytics:
 
 # Build settings
 markdown: kramdown
-remote_theme: "mmistakes/minimal-mistakes"
+remote_theme: "mmistakes/minimal-mistakes@4.16.6"
 # Outputting
 permalink: /:categories/:title/
 paginate: 10 # amount of posts to show
@@ -60,13 +60,16 @@ timezone: Asia/Jakarta # https://en.wikipedia.org/wiki/List_of_tz_database_time_
 include:
   - _pages
 
+exclude:
+  - _draft
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
-exclude:
+# exclude:
 #   - Gemfile
 #   - Gemfile.lock
-   - _draft
+#   - _draft
 #   - vendor/bundle/
 #   - vendor/cache/
 #   - vendor/gems/
