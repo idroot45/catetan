@@ -32,6 +32,6 @@ Yang dimaksud oleh Samat adalah Android itu adalah merek global, dan bahkan peng
 
 Samat pun mencontohkan nama Pie yang tak selalu sebuah makanan penutup, atau lollipop yang sulit diucapkan oleh sebagian bangsa, atau marshmallow yang tak dikenal di banyak tempat.
 
-"Nomor, setidaknya, adalah hal yang universal," pungkas Samat, demikian dikutip detikINET dari The Verge, Jumat (23/8/2019).
+"Nomor, setidaknya, adalah hal yang universal," pungkas Samat, demikian mengutip dari The Verge.
 
 Meski sudah punya nama untuk Q, namun nama itu tak akan dipublikasikan oleh Google. Bahkan, tim pengembang Android pun sebenarnya sudah menyiapkan nama untuk Android R, meski nama tersebut tentunya hanya akan digunakan secara internal.
