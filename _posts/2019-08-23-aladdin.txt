@@ -1,6 +1,6 @@
 ---
 title: "Aladdin, Musikal Segar Berbalut Nuansa Magis"
-excerpt: "Film musikal segar dibalut nuansa magis dengan sentuhan visual yang modern dan spektakuler"
+#excerpt: "Film musikal segar dibalut nuansa magis dengan sentuhan visual yang modern dan spektakuler"
 header:
  video:
   id: "yxqd6uew3183wl3"
