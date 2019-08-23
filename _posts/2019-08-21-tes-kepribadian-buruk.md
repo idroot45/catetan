@@ -2,6 +2,7 @@
 title: "Tes Kepribadian: Apa Sifat Jelek Anda? Cari Tahu Lewat Gambar Ini"
 excerpt: "Apa yang Anda lihat pertama kali bisa menunjukkan sifat jelek yang Anda miliki. Mau tahu penjelasannya?"
 header:
+ teaser: "https://i0.wp.com/media.suara.com/pictures/653x366/2019/08/18/47177-tes-kepribadian-wajah.jpg?400,225"
  overlay_image: https://i0.wp.com/media.suara.com/pictures/653x366/2019/08/18/47177-tes-kepribadian-wajah.jpg
 categories: [lifestyle]
 tags: [sifat jelek, tes gambar, tes kepribadian]
