@@ -63,10 +63,10 @@ include:
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
-# exclude:
+exclude:
 #   - Gemfile
 #   - Gemfile.lock
-#   - node_modules
+   - _draft
 #   - vendor/bundle/
 #   - vendor/cache/
 #   - vendor/gems/
@@ -107,6 +107,7 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/lautansyair"
+
 sass:
   style: compressed
 
