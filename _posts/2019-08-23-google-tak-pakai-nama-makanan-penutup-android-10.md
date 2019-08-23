@@ -3,7 +3,7 @@ title: "Tak Lagi Pakai Nama Makanaan Penutup, Google Resmikan Nama Android 10"
 header:
  og_image: https://akcdn.detik.net.id/community/media/visual/2019/08/23/36543669-4bd7-4a82-86b5-248c0da08646_169.png
  caption: "Android 10, _dok: google.com_"
- teaser: https://akcdn.detik.net.id/community/media/visual/2019/08/23/159049ae-dcb4-4b17-aed4-af873a822f1b_169.png?w=620
+ teaser: https://akcdn.detik.net.id/community/media/visual/2019/08/23/159049ae-dcb4-4b17-aed4-af873a822f1b_169.png?w=460
  video:
   id: l2UDgpLz20M
   provider: youtube
@@ -13,6 +13,8 @@ categories: [android]
 Google akhirnya menetapkan nama untuk sistem operasi Android terbaru, yaitu Android 10. Penetapan nama ini sekaligus mengubah kebiasaan Google yang selama 10 tahun ke belakang selalu memberi nama Android dengan nama makanan penutup.
 
 Android 10 sebelumnya disebut sebagai Android Q, namun kini nama resminya adalah Android 10. Ini artinya nama sistem operasi Android yang selanjutnya adalah Android 11 dan seterusnya.
+
+{% include figure caption="Logo baru Android. _Foto: Dok. Google_" image_path="https://i.ytimg.com/vi/l2UDgpLz20M/maxresdefault.jpg" alt="Android 10" %}
 
 Selain nama baru, Google pun memberikan perubahan pada logo Android. Aude Gandon, global brand director Android menyebut logo ini mempunyai tampilan yang lebih modern.
 
