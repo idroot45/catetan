@@ -24,7 +24,7 @@ Nama baru dan logo baru sepertinya menjadi hal spesial untuk Android versi ke-10
 
 "Kami harus menerima skeptisme seperti itu. Kami punya sejumlah nama yang bagus, namun di setiap dan setiap kasusnya mereka meninggalkan sebuah bagian dari dunia," ujar Sameer Samat, VP product management Android.
 
-{% include caption="Resmi! Android 10 Jadi Nama Android Terbaru. _Foto: Dok. Google_" image_path="https://akcdn.detik.net.id/community/media/visual/2019/08/23/159049ae-dcb4-4b17-aed4-af873a822f1b_169.png" alt="Android 10" %}
+{% include figure caption="Resmi! Android 10 Jadi Nama Android Terbaru. _Foto: Dok. Google_" image_path="https://akcdn.detik.net.id/community/media/visual/2019/08/23/159049ae-dcb4-4b17-aed4-af873a822f1b_169.png" alt="Android 10" %}
 
 Yang dimaksud oleh Samat adalah Android itu adalah merek global, dan bahkan penggunanya lebih banyak di beberapa negara seperti India dan Brasil ketimbang Amerika Serikat. Jadi menurutnya, menggunakan nama makanan penutup dengan bahasa Inggris akan membuatnya jauh dari regional tertentu.
 
