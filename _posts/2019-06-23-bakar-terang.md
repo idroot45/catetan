@@ -1,6 +1,6 @@
 ---
 title: "Brightburn"
-excerpt: "What if a child from another world crash-landed on Earth, but instead of becoming a hero to mankind, he proved to be something far more sinister?
+excerpt: "What if a child from another world crash-landed on Earth, but instead of becoming a hero to mankind, he proved to be something far more sinister?"
 header:
  video:
   id: 65d3qu0zw4erg54
