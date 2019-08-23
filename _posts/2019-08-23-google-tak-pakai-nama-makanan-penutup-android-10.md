@@ -12,13 +12,13 @@ categories: [android]
 ---
 Google akhirnya menetapkan nama untuk sistem operasi Android terbaru, yaitu Android 10. Penetapan nama ini sekaligus mengubah kebiasaan Google yang selama 10 tahun ke belakang selalu memberi nama Android dengan nama makanan penutup.
 
-Android 10 sebelumnya disebut sebagai Android Q, namun kini nama resminya adalah Android 10. Ini artinya nama sistem operasi Android yang selanjutnya adalah Android 11 dan seterusnya.
+**[Android 10](/android/google-tak-pakai-nama-makanan-penutup-android-10/)** sebelumnya disebut sebagai **Android Q**, namun kini nama resminya adalah **Android 10**. Ini artinya nama sistem operasi Android yang selanjutnya adalah Android 11 dan seterusnya.
 
 {% include figure caption="Logo baru Android. _Foto: Dok. Google_" image_path="https://i.ytimg.com/vi/l2UDgpLz20M/maxresdefault.jpg" alt="Android 10" %}
 
 Selain nama baru, Google pun memberikan perubahan pada logo Android. Aude Gandon, global brand director Android menyebut logo ini mempunyai tampilan yang lebih modern.
 
-Logo baru ini menyertakan robot kecil berwarna hijau, dan bukan sekadar tulisan Android berwarna hijau. Menurut Gandon Robot inilah yang membuat Android menjadi spesial. 
+Logo baru ini menyertakan robot kecil berwarna hijau, dan bukan sekadar tulisan Android berwarna hijau. Menurut Gandon, Robot inilah yang membuat Android menjadi spesial. 
 
 "Robot ini yang membuat Android menjadi spesial. Ini membuatnya lebih manusiawi, menyenangkan, dan lebih terbuka," ujarnya.
 
@@ -32,6 +32,6 @@ Yang dimaksud oleh Samat adalah Android itu adalah merek global, dan bahkan peng
 
 Samat pun mencontohkan nama Pie yang tak selalu sebuah makanan penutup, atau lollipop yang sulit diucapkan oleh sebagian bangsa, atau marshmallow yang tak dikenal di banyak tempat.
 
-"Nomor, setidaknya, adalah hal yang universal," pungkas Samat, demikian mengutip dari The Verge.
+"Nomor, setidaknya, adalah hal yang universal," pungkas Samat, demikian mengutip dari [The Verge](https://www.theverge.com/2019/8/22/20827231/android-10-q-google-name-officially-announced-new-logo-wordmark-desserts){: rel="nofollow noreferrer noopener"}.
 
 Meski sudah punya nama untuk Q, namun nama itu tak akan dipublikasikan oleh Google. Bahkan, tim pengembang Android pun sebenarnya sudah menyiapkan nama untuk Android R, meski nama tersebut tentunya hanya akan digunakan secara internal.
