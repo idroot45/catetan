@@ -6,7 +6,7 @@ header:
   provider: youtube
  og_image: https://i.ytimg.com/vi/67IyFzByHCo/maxresdefault.jpg
  teaser: https://i.ytimg.com/vi/67IyFzByHCo/mqdefault.jpg
-categories: [klip video]
+categories: [klip]
 tags: [klip video musik, lagu harus aku, lagu malaysia, sufian suhaimi]
 ---
 
