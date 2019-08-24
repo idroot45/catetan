@@ -3,10 +3,10 @@ title: "Video Klip dan Lirik Lagu Di Matamu oleh Sufian Suhaimi"
 excerpt: "Setiap apa yang kita impikan tak semua menjadi kenyataan. Hiduplah dalam kebenaran, kenyataan akan lebih jujur dari penantian"
 header:
  video:
-  id: aW3TTCHL4Q
+  id: IaW3TTCHL4Q
   provider: youtube
- og_image: https://i.ytimg.com/vi/aW3TTCHL4Q/maxresdefault.jpg
- teaser: https://i.ytimg.com/vi/aW3TTCHL4Q/mqdefault.jpg
+ og_image: https://i.ytimg.com/vi/IaW3TTCHL4Q/maxresdefault.jpg
+ teaser: https://i.ytimg.com/vi/IaW3TTCHL4Q/mqdefault.jpg
 categories: [video]
 tags: [video klip musik, musik malaysia, sufian suhaimi, lirik di matamu]
 ---
