@@ -60,6 +60,6 @@ Aplikasi yang sama pernah dibagikan [di sini](https://mi.knoacc.org/videoder-14.
 
 Aplikasi aslinya, terdeteksi oleh MalwareBytes terinfeksi _adware_ **Android/Adware.BatMobi.NC** yang bisa dibaca secara lebih lanjut di [blog MalwareBytes](https://blog.malwarebytes.com/cybercrime/2019/03/awaking-the-beast-adware-batmobi/){: rel="nofollow noopener"} untuk melihat resikonya.
 
-Adaware BatMobi dalam Videoder 1.4.1 ini **masih tetap terdeteksi** oleh aplikasi [MalwareBytes Mobile](https://play.google.com/store/apps/details?id=org.malwarebytes.antimalware){:target="_blank" rel="noopener nofollow"} meskipun sudah dimodifikasi dan iklan sudah tidak muncul. Jadi ini "bisa jadi" adalah _false alarm_ namun bukan tidak mungkin bahwa _adware_ ini masih tetap ada dalam kode sumber aplikasi meskipun iklan sudah tidak tampil.
+Adaware BatMobi dalam Videoder 1.4.1 ini **masih tetap terdeteksi** oleh aplikasi [MalwareBytes Mobile](https://play.google.com/store/apps/details?id=org.malwarebytes.antimalware){:target="_blank" rel="noopener nofollow"} meskipun sudah dimodifikasi dan iklan sudah tidak muncul. Hal ini "bisa jadi" adalah _false alarm_ namun bukan tidak mungkin bahwa _adware_ ini masih tetap ada dalam kode sumber aplikasi meskipun iklan sudah tidak tampil.
 
 Jadi, walaupun versi modifikasi ini **lebih baik** (atau malah lebih buruk?) dari versi aslinya, keputusan untuk memasang atau tidak aplikasi yang sudah dimodifikasi ini mutlak ada di tangan kamu.
