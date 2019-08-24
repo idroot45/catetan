@@ -62,4 +62,4 @@ Aplikasi aslinya, terdeteksi oleh MalwareBytes terinfeksi _adware_ **Android/Adw
 
 Adaware BatMobi dalam Videoder 1.4.1 ini **masih tetap terdeteksi** oleh aplikasi [MalwareBytes Mobile](https://play.google.com/store/apps/details?id=org.malwarebytes.antimalware){:target="_blank" rel="noopener nofollow"} meskipun sudah dimodifikasi dan iklan sudah tidak muncul. Jadi ini "bisa jadi" adalah _false alarm_ namun bukan tidak mungkin bahwa _adware_ ini masih tetap ada dalam kode sumber aplikasi meskipun iklan sudah tidak tampil.
 
-Jadi, walaupun versi modifikasi ini **lebih baik** dari versi aslinya, keputusan untuk memasang atau tidak aplikasi yang sudah dimodifikasi ini mutlak ada di tangan kamu.
+Jadi, walaupun versi modifikasi ini **lebih baik** (atau malah lebih buruk?) dari versi aslinya, keputusan untuk memasang atau tidak aplikasi yang sudah dimodifikasi ini mutlak ada di tangan kamu.
