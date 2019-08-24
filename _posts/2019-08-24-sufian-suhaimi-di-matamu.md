@@ -7,13 +7,13 @@ header:
   provider: youtube
  og_image: https://i.ytimg.com/vi/IaW3TTCHL4Q/maxresdefault.jpg
  teaser: https://i.ytimg.com/vi/IaW3TTCHL4Q/mqdefault.jpg
-categories: [video]
-tags: [video klip musik, musik malaysia, sufian suhaimi, lirik di matamu]
+categories: [klip video]
+tags: [klip video musik, musik malaysia, sufian suhaimi, lirik lagu di matamu]
 ---
 
 > Kutipan yang makjleb: {{ page.excerpt }}
 
-### Lirik Di Matamu
+### Lirik lagu "Di Matamu"
 
 _[Verse 1]_
 
