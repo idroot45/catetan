@@ -63,3 +63,7 @@ Aplikasi aslinya, terdeteksi oleh MalwareBytes terinfeksi _adware_ **Android/Adw
 Adaware BatMobi dalam Videoder 1.4.1 ini **masih tetap terdeteksi** oleh aplikasi [MalwareBytes Mobile](https://play.google.com/store/apps/details?id=org.malwarebytes.antimalware){:target="_blank" rel="noopener nofollow"} meskipun sudah dimodifikasi dan iklan sudah tidak muncul. Hal ini "bisa jadi" adalah _false alarm_ namun bukan tidak mungkin bahwa _adware_ ini masih tetap ada dalam kode sumber aplikasi meskipun iklan sudah tidak tampil.
 
 Jadi, walaupun versi modifikasi ini **lebih baik** (atau malah lebih buruk?) dari versi aslinya, keputusan untuk memasang atau tidak aplikasi yang sudah dimodifikasi ini mutlak ada di tangan kamu.
+
+### Workaround
+
+Berdasarkan artikel tersebut di atas, **BatMobi** memanfaatkan modul **Chrome Custom Tabs** (CCT). Untuk saat ini saya mencoba untuk menonaktifkan fitur experimental dalam browser chrome tersebut. Setidaknya ada dua _[flags](chrome://flags/)_ yang saya pilih untuk saya matikan. Yakni _[Crome Custom Tabs Module](chrome://flags/#cct-module)_ itu sendiri dan _[Chrome Custom Tabs Module Intent Extras Usage](chrome://flags/#cct-module-use-intent-extras)_ yang sebelumnya **default** menjadi **disabled**.
