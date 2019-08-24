@@ -66,4 +66,4 @@ Jadi, walaupun versi modifikasi ini **lebih baik** (atau malah lebih buruk?) dar
 
 ### Workaround
 
-Berdasarkan artikel tersebut di atas, **BatMobi** memanfaatkan modul **Chrome Custom Tabs** (CCT). Untuk saat ini saya mencoba untuk menonaktifkan fitur experimental dalam browser chrome tersebut. Setidaknya ada dua _[flags](chrome://flags/)_ yang saya pilih untuk saya matikan. Yakni _[Crome Custom Tabs Module](chrome://flags/#cct-module)_ itu sendiri dan _[Chrome Custom Tabs Module Intent Extras Usage](chrome://flags/#cct-module-use-intent-extras)_ yang sebelumnya **default** menjadi **disabled**.
+Berdasarkan artikel tersebut di atas, **BatMobi** memanfaatkan modul **Chrome Custom Tabs** (CCT). Untuk saat ini saya mencoba untuk menonaktifkan fitur experimental dalam browser chrome tersebut. Setidaknya ada dua _flags_ `chrome://flags/` yang saya pilih untuk saya matikan. Yakni _Crome Custom Tabs Module_ `chrome://flags/#cct-module` itu sendiri dan _Chrome Custom Tabs Module Intent Extras Usage_ `chrome://flags/#cct-module-use-intent-extras` yang sebelumnya **default** menjadi **disabled**.
