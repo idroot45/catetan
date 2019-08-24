@@ -5,8 +5,8 @@ header:
  video:
   id: c408UowXzT4
   provider: youtube
- og_image: https://i.ytimg.com/vi/c408UowXzT4/maxresdedault.jpg
- teaser: https://i.ytimg.com/vi/c408UowXzT4/mqdedault.jpg
+ og_image: https://i.ytimg.com/vi/c408UowXzT4/maxresdefault.jpg
+ teaser: https://i.ytimg.com/vi/c408UowXzT4/mqdefault.jpg
 categories: [video]
 tags: [motor futuristis, motor konsep nyata]
 ---
