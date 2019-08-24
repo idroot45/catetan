@@ -6,7 +6,7 @@ header:
  caption: "Videoder Premium 1.4.2 Final Mod"
  teaser: "https://img.utdstc.com/screen/13/videoder-012.jpg:m"
 categories: [aplikasi]
-tags: [apliaksi download, unduh video, unduh video youtube, unduh video facebook]
+tags: [aplikasi download, unduh video, unduh video youtube, unduh video facebook]
 ---
 > ! **Peringatan:** Aplikasi ini adalah aplikasi [modifikasi premium](#modification) untuk menghilangkan iklan yang ada di versi aplikasi aslinya. Silahkan lihat bagian **[catetan](#catetan)** untuk masalah ini.
 {:.warning}
