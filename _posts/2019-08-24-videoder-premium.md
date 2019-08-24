@@ -8,7 +8,7 @@ header:
 categories: [aplikasi]
 tags: [apliaksi download, unduh video, unduh video youtube, unduh video facebook]
 ---
-> ! **Peringatan:** Aplikasi ini adalah aplikasi [modifikasi premium](#modification) untuk menghilangkan iklan yang ada di versi aplikasinya.
+> ! **Peringatan:** Aplikasi ini adalah aplikasi [modifikasi premium](#modification) untuk menghilangkan iklan yang ada di versi aplikasi aslinya. Silahkan lihat bagian **[catetan](#catetan)** untuk masalah ini.
 {:.warning}
 
 Videoder is a tool that allows you to search for any video you want using a personalized search engine that combs through different streaming video services like YouTube, Vimeo, and others, so that you can then download them directly to your Android device.
@@ -55,3 +55,11 @@ Aplikasi yang sama pernah dibagikan [di sini](https://mi.knoacc.org/videoder-14.
 |UploadCC|UploadByte|Racaty|
 |---|---|---|
 | [download](https://mi.knoacc.org/mortgage?dom=upload.ac&cde=ezvx2aspd8br&st1=upload.cc&st2=9MB){:.btn .btn--success} | [mirror](https://mi.knoacc.org/mortgage?dom=uploadbyte.com&cde=zvrqo9nko4tj&st1=uploadbyte.com&st2=9MB){:.btn .btn--warning} | [mirror](https://mi.knoacc.org/mortgage?dom=racaty.com&cde=083l4jhjvkse&st1=racaty.com&st2=9MB){:.btn .btn--warning} |
+
+### Catetan
+
+Aplikasi aslinya, terdeteksi oleh MalwareBytes terinfeksi _adware_ **Android/Adware.BatMobi.NC** yang bisa dibaca secara lebih lanjut di [blog MalwareBytes](https://blog.malwarebytes.com/cybercrime/2019/03/awaking-the-beast-adware-batmobi/){: rel="nofollow noopener"} untuk melihat resikonya.
+
+Adaware BatMobi dalam Videoder 1.4.1 ini **masih tetap terdeteksi** oleh aplikasi MalwareBytes Mobile meskipun sudah dimodifikasi dan iklan sudah tidak muncul. Jadi ini "bisa jadi" adalah _false alarm_ namun bukan tidak mungkin bahwa _adware_ ini masih tetap ada dalam kode sumber aplikasi meskipun iklan sudah tidak tampil.
+
+Jadi, walaupun versi modifikasi ini **lebih baik** dari versi aslinya, keputusan untuk memasang atau tidak aplikasi yang sudah dimodifikasi ini mutlak ada di tangan kamu.
