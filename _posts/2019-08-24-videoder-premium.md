@@ -45,7 +45,7 @@ Aplikasi yang sama pernah dibagikan [di sini](https://mi.knoacc.org/videoder-14.
 
 **Screenshots**
 
-![videoder-apk-download](https://apkmb.com/wp-content/uploads/2017/02/videoder-apk-download.jpg){:.aligcenter}
+<table><tbody><tr><td><img src="https://img.utdstc.com/screen/13/videoder-015.jpg:s" alt="Videoder Premium" class="align-center" /></td><td><img src="https://img.utdstc.com/screen/13/videoder-010.jpg:s" alt="Videoder 14.2" class="align-center" /></td><td><img src="https://img.utdstc.com/screen/13/videoder-005.jpg:s" alt="Videoder No Ads" class="align-center" /></td><td><img src="https://img.utdstc.com/screen/13/videoder-006.jpg:s" alt="Videoder Download" class="aligm-center" /></td></tr></tbody></table>
 
 **Downloads:** _Premium features unlocked_
 
