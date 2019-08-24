@@ -1,5 +1,5 @@
 ---
-title: "Video Klip dan Lirik Lagu Di Matamu oleh Sufian Suhaimi"
+title: "Klip Video dan Lirik Lagu Di Matamu oleh Sufian Suhaimi"
 excerpt: "Setiap apa yang kita impikan tak semua menjadi kenyataan. Hiduplah dalam kebenaran, kenyataan akan lebih jujur dari penantian"
 header:
  video:
