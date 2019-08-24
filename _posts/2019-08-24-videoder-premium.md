@@ -8,7 +8,7 @@ header:
 categories: [aplikasi]
 tags: [apliaksi download, unduh video, unduh video youtube, unduh video facebook]
 ---
-> ***Peringatan:** Aplikasi ini adalah aplikasi [modifikasi premium](#modification) untuk menghilangkan iklan yang ada di versi aplikasinya.
+> ! **Peringatan:** Aplikasi ini adalah aplikasi [modifikasi premium](#modification) untuk menghilangkan iklan yang ada di versi aplikasinya.
 {:.warning}
 
 Videoder is a tool that allows you to search for any video you want using a personalized search engine that combs through different streaming video services like YouTube, Vimeo, and others, so that you can then download them directly to your Android device.
