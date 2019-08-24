@@ -7,7 +7,7 @@ header:
   provider: youtube
  og_image: https://i.ytimg.com/vi/IaW3TTCHL4Q/maxresdefault.jpg
  teaser: https://i.ytimg.com/vi/IaW3TTCHL4Q/mqdefault.jpg
-categories: [klip video]
+categories: [klip]
 tags: [klip video musik, musik malaysia, sufian suhaimi, lirik lagu di matamu]
 ---
 
