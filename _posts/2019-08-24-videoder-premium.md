@@ -66,7 +66,7 @@ Jadi, walaupun versi modifikasi ini **lebih baik** (atau malah lebih buruk?) dar
 
 ### Workaround
 
-Berdasarkan artikel tersebut di atas, **BatMobi** memanfaatkan modul **Chrome Custom Tabs** (CCT). Untuk saat ini saya mencoba untuk menonaktifkan fitur experimental dalam browser chrome tersebut.
+Berdasarkan artikel blog Malwarebytes tersebut di atas, **BatMobi** memanfaatkan modul **Chrome Custom Tabs** (CCT). Untuk saat ini saya mencoba untuk menonaktifkan fitur experimental dalam browser chrome tersebut.
 
 Setidaknya ada dua _flags_ yang saya pilih untuk saya matikan. Yakni _Crome Custom Tabs Module_ (shortcut: `chrome://flags/#cct-module` itu sendiri dan _Chrome Custom Tabs Module Intent Extras Usage_ (shortcut: `chrome://flags/#cct-module-use-intent-extras`) yang sebelumnya **default** menjadi **disabled**.
 
