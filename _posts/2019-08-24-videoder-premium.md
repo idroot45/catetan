@@ -1,6 +1,10 @@
 ---
 title: "Videoder Premium — Android Video Downloader"
 excerpt: "Aplikasi unduh video dari berbagai situs termasuk dari aplikasi sosial media populer seperti twitter, facebook, instagram dan tentu saja youtube."
+header:
+ image: "https://img.utdstc.com/screen/13/videoder-012.jpg:l"
+ caption: "Videoder Premium 1.4.2 Final Mod"
+ teaser: "https://img.utdstc.com/screen/13/videoder-012.jpg:m"
 categories: [aplikasi]
 tags: [apliaksi download, unduh video, unduh video youtube, unduh video facebook]
 ---
