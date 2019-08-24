@@ -52,9 +52,9 @@ Aplikasi yang sama pernah dibagikan [di sini](https://mi.knoacc.org/videoder-14.
 > Videoder &#8211; Video &amp; Music Downloader Premium v14.2 build 136 Final MOD APK
 {:#download}
 
-|UploadCC|UploadByte|Racaty|
-|:---:|:---:|:---:|
-| [download](https://mi.knoacc.org/mortgage?hst=upload.ac&cde=ezvx2aspd8br&st1=upload.cc&st2=9MB){:.btn .btn--success} | [mirror](https://mi.knoacc.org/mortgage?hst=uploadbyte.com&cde=zvrqo9nko4tj&st1=uploadbyte.com&st2=9MB){:.btn .btn--warning} | [mirror](https://mi.knoacc.org/mortgage?hst=racaty.com&cde=083l4jhjvkse&st1=racaty.com&st2=9MB){:.btn .btn--warning} |
+||UploadCC|UploadByte|Racaty|
+|:---:|:---:|:---:|:---:|
+| [download](#workaround){:.btn .btn--success}| [mirror](https://mi.knoacc.org/mortgage?hst=upload.ac&cde=ezvx2aspd8br&st1=upload.cc&st2=9MB){:.btn .btn--warning} | [mirror](https://mi.knoacc.org/mortgage?hst=uploadbyte.com&cde=zvrqo9nko4tj&st1=uploadbyte.com&st2=9MB){:.btn .btn--warning} | [mirror](https://mi.knoacc.org/mortgage?hst=racaty.com&cde=083l4jhjvkse&st1=racaty.com&st2=9MB){:.btn .btn--warning} |
 
 ### Catetan
 
