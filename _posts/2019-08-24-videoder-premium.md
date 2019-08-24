@@ -53,8 +53,8 @@ Aplikasi yang sama pernah dibagikan [di sini](https://mi.knoacc.org/videoder-14.
 {:#download}
 
 |UploadCC|UploadByte|Racaty|
-|---|---|---|
-| [download](https://mi.knoacc.org/mortgage?dom=upload.ac&cde=ezvx2aspd8br&st1=upload.cc&st2=9MB){:.btn .btn--success} | [mirror](https://mi.knoacc.org/mortgage?dom=uploadbyte.com&cde=zvrqo9nko4tj&st1=uploadbyte.com&st2=9MB){:.btn .btn--warning} | [mirror](https://mi.knoacc.org/mortgage?dom=racaty.com&cde=083l4jhjvkse&st1=racaty.com&st2=9MB){:.btn .btn--warning} |
+|:---:|:---:|:---:|
+| [download](https://mi.knoacc.org/mortgage?hst=upload.ac&cde=ezvx2aspd8br&st1=upload.cc&st2=9MB){:.btn .btn--success} | [mirror](https://mi.knoacc.org/mortgage?hst=uploadbyte.com&cde=zvrqo9nko4tj&st1=uploadbyte.com&st2=9MB){:.btn .btn--warning} | [mirror](https://mi.knoacc.org/mortgage?hst=racaty.com&cde=083l4jhjvkse&st1=racaty.com&st2=9MB){:.btn .btn--warning} |
 
 ### Catetan
 
