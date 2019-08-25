@@ -2,9 +2,9 @@
 title: "3 Pelajaran Bisnis dari Kasus Kejatuhan NET TV"
 excerpt: "3 pelajaran bisnis ini bisa diaplikasikan dalam arena bisnis lain, dan tidak hanya terbatas dalam bisnis televisi. Mari kita bedah satu demi satu."
 header:
- image: https://i0.wp.com/strategimanajemen.net/apps23/wp-content/uploads/2019/08/net.jpg
- og_image: https://i0.wp.com/strategimanajemen.net/apps23/wp-content/uploads/2019/08/net.jpg
- teaser: https://i0.wp.com/strategimanajemen.net/apps23/wp-content/uploads/2019/08/net.jpg?resize=340,210
+ image: https://i0.wp.com/strategimanajemen.net/apps23/wp-content/uploads/2019/08/net-1024x576.jpg
+ og_image: https://i1.wp.com/strategimanajemen.net/apps23/wp-content/uploads/2019/08/net.jpg
+ teaser: https://i0.wp.com/strategimanajemen.net/apps23/wp-content/uploads/2019/08/net-1024x576.jpg
  caption: Acara NET TV
 categories: [manajemen]
 tags: [manajemen bisnis, strategi manajemen]
@@ -111,6 +111,6 @@ Pelajaran bisnis ini berharga bagi pelaku bisnis lainnya.
 
 ***
 
-![Yodhia Antariksa](http://i0.wp.com/strategimanajemen.net/apps23/wp-content/uploads/2019/08/Yodhia-Antariksa.jpg?resize=170,170){:.align-right} Penulis artikel ini adalah **Yodhia Antariksa**. Ia bekerja sebagai konsultan manajemen dan trainer bisnis. Download 5 ebook karyanya secara gratis [disini](http://strategimanajemen.net/free-ebooks/){: rel="nofollow noopener noreferrer" target="_blank"}.
+![Yodhia Antariksa](https://i0.wp.com/strategimanajemen.net/apps23/wp-content/uploads/2019/08/Yodhia-Antariksa.jpg?resize=170,170){:.align-right} Penulis artikel ini adalah **Yodhia Antariksa**. Ia bekerja sebagai konsultan manajemen dan trainer bisnis. Download 5 ebook karyanya secara gratis [disini](http://strategimanajemen.net/free-ebooks/){: rel="nofollow noopener noreferrer" target="_blank"}.
 
 > Artikel ini di kutip penuh dari [artikel ini](http://strategimanajemen.net/2019/08/12/3-pelajaran-bisnis-dari-kasus-kejatuhan-net-tv/){: rel="nofollow noopener noreferrer" target="_blank"} dengan tambahan ilustrasi gambar.
