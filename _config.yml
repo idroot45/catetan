@@ -23,6 +23,12 @@ minimal_mistakes_skin: default
 # Social
 social:
  type: person
+ name: Idlohulhaq Nasyrih
+ links:
+  - https://www.twitter.com/knoacc
+  - https://www.facebook.com/nasyrih
+  - https://instagram.com/lautansyair
+  - https://www.paciran.com/author/mukidi
 facebook:
  app_id: 720457594754641
  publisher: https://www.facebook.com/KnoAcc
