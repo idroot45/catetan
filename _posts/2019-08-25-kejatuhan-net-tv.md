@@ -19,7 +19,7 @@ Mungkin karena ingin lebih bebas menyuarakan idealisme dan visi-nya, Wishnutama 
 
 Namun setelah berjalan lebih dari enam tahun sejak berdiri tahun 2013, ternyata kinerja bisnis dan keuangan Net TV tidak sesuai harapan. Rating-nya masih kalah jauh dengan stasiun televisi lain. Alhasil pendapatan iklan juga seret.
 
-Pada sisi lain, biaya yang dikeluarkan sangat masif. Termasuk investasi untuk menggunakan teknologi High Definition TV yang amat mahal. Teknologi HD ini yang bikin kualitas gambar Net TV paling bagus dibanding stasiun televisi lainnya.
+Pada sisi lain, biaya yang dikeluarkan sangat masif. Termasuk investasi untuk menggunakan teknologi [High Definition TV](https://en.wikipedia.org/wiki/High-definition_television){: rel="nofollow noreferrer noopener" target="_blank"} yang amat mahal. Teknologi HD ini yang bikin kualitas gambar Net TV paling bagus dibanding stasiun televisi lainnya.
 
 Sejak November tahun lalu, Wishnutama juga sudah tidak menjabat sebagai CEO Net TV, sebuah pertanda bahwa visi dia dianggap tidak lagi kompatibel dengan kepentingan bisnis dan keuangan Net.
 
