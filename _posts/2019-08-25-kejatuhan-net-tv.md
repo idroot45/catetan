@@ -61,7 +61,7 @@ Akibatnya : pendapatan iklan Net TV seret, dan akhirnya terus mengalami kerugian
 
 ![Passion](https://dummyimage.com/640x360/00/f.gif&text=P+A+S+S+I+O+N)
 
-Wishnutama adalah figur kreatif dalam industri televisi. Dia punya idealisme dan passion untuk menghadirkan layanan program TV yang kreatif dan tidak abal-abal. Dan dia sebenarnya sangat berhasil dalam hal ini.
+**Wishnutama** adalah [figur kreatif dalam industri televisi](https://kinibisa.com/inspirasi/detail/pengusaha/wishnutama-merevolusi-pertelevisian-indonesia-dengan-net-tv){: rel="noopener noreferrer nofollow" title="Kinibisa.com"}. Dia punya idealisme dan passion untuk menghadirkan layanan program TV yang kreatif dan tidak abal-abal. Dan dia sebenarnya sangat berhasil dalam hal ini.
 
 **But business is business**.
 
