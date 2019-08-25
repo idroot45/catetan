@@ -95,9 +95,9 @@ Pelajarannya : dalam era digital disruptif seperti saat ini, potensi persaingan 
 
 Misal pesaing bank kelak bisa bukan sesama bank saja, namun juga dari layanan dompet digital dan peer-to-peer lending (layanan pinjam dana dari sesama pengguna internet).
 
-Pesaing hotal datang dari AirBnB. Pesaing toko buku Gramedia datang dari Facebook dan Twitter (sebab orang sekarang lebih suka baca status FB atau Twitter, daripada baca buku bagus).
+Pesaing hotal datang dari [AirBnB](https://en.wikipedia.org/wiki/Airbnb){: title="Wikipedia"}. Pesaing toko buku Gramedia datang dari Facebook dan Twitter (sebab orang sekarang lebih suka baca status FB atau Twitter, daripada baca buku bagus).
 
-Kalau kata pakar manajemen Michael Porter, ancaman tidak hanya datang dari rival penyedia produk yang sama, namun juga datang dari “produk subtitusi” atau produk pengganti yang dirasa lebih memuaskan keinginan pelanggan.
+Kalau kata pakar manajemen [Michael Porter](https://en.m.wikipedia.org/wiki/Michael_Porter){: title="Wikipedia"}, ancaman tidak hanya datang dari rival penyedia produk yang sama, namun juga datang dari “produk subtitusi” atau produk pengganti yang dirasa lebih memuaskan keinginan pelanggan.
 
 DEMIKINLAH, **tiga pelajaran bisnis yang bisa kita petik dari kisah kegagalan NET TV untuk menjadi stasiun televisi yang kreatif namun sekaligus profitabel**.
 
