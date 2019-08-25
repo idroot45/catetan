@@ -13,7 +13,7 @@ Menyusul rumor tentang PHK karyawan NET TV, akhirnya manajemen Net mengakui mema
 
 Penyebabnya jelas : kinerja bisnis dan keuangan Net TV masih mengecewakan. Bahkan sejak tahun lalu lalu, penyandang dana Indika Group resmi mundur alias pecah kongsi dengan pengelola Net TV.
 
-[Net TV](https://en.wikipedia.org/wiki/NET_(Indonesian_TV_network) didirikan oleh Wishnutama, figur brilian dalam industri televisi, yang dulu juga sempat membuat TransTV berjaya dengan aneka programnya yang memukau.
+[Net TV](https://en.wikipedia.org/wiki/NET_(Indonesian_TV_network)) didirikan oleh Wishnutama, figur brilian dalam industri televisi, yang dulu juga sempat membuat TransTV berjaya dengan aneka programnya yang memukau.
 
 Mungkin karena ingin lebih bebas menyuarakan idealisme dan visi-nya, Wishnutama memilih mundur dari TransGroup, dan kemudian mendirikan sendiri stasiun televisi dengan nama NET TV. Penyandang dananya adalah Indika Group yang menyediakan dana hingga triliunan rupiah.
 
