@@ -2,7 +2,7 @@
 title: "3 Pelajaran Bisnis dari Kasus Kejatuhan NET TV"
 excerpt: "3 pelajaran bisnis ini bisa diaplikasikan dalam arena bisnis lain, dan tidak hanya terbatas dalam bisnis televisi. Mari kita bedah satu demi satu."
 header:
- image: https://i0.wp.com/knoacc.github.io/catetan/assets/imaged/net-tv.jpg?resize=640,360
+ image: https://i0.wp.com/knoacc.github.io/catetan/assets/images/net-tv.jpg?resize=640,360
  og_image: /assets/images/net-tv.jpg
  teaser: https://i0.wp.com/knoacc.github.io/catetan/assets/images/net-tv.jpg?resize=360,200
  caption: Acara NET TV
@@ -13,7 +13,7 @@ Menyusul rumor tentang PHK karyawan NET TV, akhirnya manajemen Net mengakui mema
 
 Penyebabnya jelas : kinerja bisnis dan keuangan Net TV masih mengecewakan. Bahkan sejak tahun lalu lalu, penyandang dana Indika Group resmi mundur alias pecah kongsi dengan pengelola Net TV.
 
-Net TV didirikan oleh Wishnutama, figur brilian dalam industri televisi, yang dulu juga sempat membuat TransTV berjaya dengan aneka programnya yang memukau.
+[Net TV](https://en.wikipedia.org/wiki/NET_(Indonesian_TV_network) didirikan oleh Wishnutama, figur brilian dalam industri televisi, yang dulu juga sempat membuat TransTV berjaya dengan aneka programnya yang memukau.
 
 Mungkin karena ingin lebih bebas menyuarakan idealisme dan visi-nya, Wishnutama memilih mundur dari TransGroup, dan kemudian mendirikan sendiri stasiun televisi dengan nama NET TV. Penyandang dananya adalah Indika Group yang menyediakan dana hingga triliunan rupiah.
 
@@ -53,7 +53,7 @@ Kesalahan Net TV adalah memilih target market kelas premium yang sudah lama engg
 
 Sebaliknya, target market terbesar bisnis TV itu adalah orang-orang yang masih suka nonton sinetron Tukang Bubur Naik Haji, Cinta Fitri atau Tukang Ojek Pengkolan.
 
-Dana iklan triliunan ada dalam sinetron seperti itu, bukan dalam konsep program yang dibuat oleh NET TV.
+Dana iklan triliunan **ada** dalam sinetron "seperti itu", bukan dalam konsep program yang dibuat oleh NET TV.
 
 Akibatnya : pendapatan iklan Net TV seret, dan akhirnya terus mengalami kerugian karena biaya opersional TV sangatlah tinggi.
 
@@ -69,7 +69,7 @@ _Business is all about making money_.
 
 Kalau produk yang Anda jual sudah sesuai passion dan visi Anda, namun kemudian tidak ada yang mau beli, lalu keluargamu mau makan apa?
 
-Dulu saat di Trans TV, visi dan passion Wishnutama bisa berkibar, namun tetap ada rambu bisnis dari sang pemiliknya yakni CT (Chairul Tanjung). Jadi ada kombinasi yang pas : ada program kreatif yang bagus, namun ada juga program yang memang ditujukan untuk mendapat uang.
+Dulu saat di Trans TV, visi dan passion Wishnutama bisa berkibar, namun **tetap ada rambu bisnis** dari sang pemiliknya yakni CT (Chairul Tanjung). Jadi ada kombinasi yang pas : ada program kreatif yang bagus, namun ada juga program yang memang ditujukan untuk mendapat uang.
 
 Sebab pada akhirnya, uang juga yang bisa membuat semua operasi bisnis bisa terus berjalan. Kalau tidak ada profit, ya akhirnya akan bubar jalan.
 
@@ -85,7 +85,7 @@ Saat Anda terlalu memburu passion personal, dan gagal melihat potensi pasar, mak
 
 Yang membuat babak belur NET TV ini ternyata bukan pesaing tradisional dari sesama staisun televisi lainnya. Sebab seperti yang diulas di depan, segmen pasar mereka berbeda.
 
-Namun ternyata pesaing yang menghantam bisnis NET TV datang dari tempat yang sangat powerful, yakni kekuatan layar hape yang makin variatif kontennya.
+Namun ternyata pesaing yang menghantam bisnis NET TV datang dari tempat yang sangat powerful, yakni **kekuatan layar hape** yang makin variatif kontennya.
 
 Youtube, IG Stories dan Netflix adalah pesaing disruptif yang menghancurkan potensi bisnis Net TV. Dan kekuatan digital players itu terlalu tangguh untuk dilawan.
 
