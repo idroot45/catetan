@@ -2,9 +2,9 @@
 title: "3 Pelajaran Bisnis dari Kasus Kejatuhan NET TV"
 excerpt: "3 pelajaran bisnis ini bisa diaplikasikan dalam arena bisnis lain, dan tidak hanya terbatas dalam bisnis televisi. Mari kita bedah satu demi satu."
 header:
- image: https://i0.wp.com/strategimanajemen.net/apps23/wp-content/uploads/2019/08/net-1024x576.jpg
- og_image: https://i1.wp.com/strategimanajemen.net/apps23/wp-content/uploads/2019/08/net.jpg
- teaser: https://i0.wp.com/strategimanajemen.net/apps23/wp-content/uploads/2019/08/net-1024x576.jpg
+ image: https://i0.wp.com/knoacc.github.io/catetan/assets/image/net-tv.jpg?resize=640,360
+ og_image: /assets/image/net-tv.jpg
+ teaser: https://i0.wp.com/knoacc.github.io/catetan/assets/image/net-tv.jpg?resize=360,200
  caption: Acara NET TV
 categories: [manajemen]
 tags: [manajemen bisnis, strategi manajemen]
