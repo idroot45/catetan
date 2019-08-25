@@ -43,10 +43,10 @@ comments:
    issue_term: "pathname"
 repository: "knoacc/catetan"
 # SEO Related
-google_site_verification : "KYQFq-wZMFvxDMR5G5rak58D-IwrgM8B_CuGS0To5AU"
-bing_site_verification   : "DA3D4C0368D7AE1105218F7F5B5BD6AC"
-alexa_site_verification  : "9vuxp7uDTuDQssajccQrFy1UnTQ"
-
+google_site_verification: "KYQFq-wZMFvxDMR5G5rak58D-IwrgM8B_CuGS0To5AU"
+bing_site_verification: "DA3D4C0368D7AE1105218F7F5B5BD6AC"
+alexa_site_verification: "9vuxp7uDTuDQssajccQrFy1UnTQ"
+naver_site_verivication: "b9b1f6708a13353f75e5b5a50e744f76de6f9303"
 # Analytics
 analytics:
   provider               : "google-universal"
