@@ -67,7 +67,7 @@ Wishnutama adalah figur kreatif dalam industri televisi. Dia punya idealisme dan
 
 _Business is all about making money_.
 
-Kalau produk yang Anda jual sudah sesuai passion dan visi Anda, namun kemudian tidak ada yang mau beli, lalu keluargamu mau makan apa?
+Kalau produk yang Anda jual [sudah sesuai passion dan visi](https://www.paciran.com/jangan-ngeblog-kamu-gak-akan-kuat) Anda, namun kemudian tidak ada yang mau beli, lalu keluargamu mau makan apa?
 
 Dulu saat di Trans TV, visi dan passion Wishnutama bisa berkibar, namun **tetap ada rambu bisnis** dari sang pemiliknya yakni CT (Chairul Tanjung). Jadi ada kombinasi yang pas : ada program kreatif yang bagus, namun ada juga program yang memang ditujukan untuk mendapat uang.
 
