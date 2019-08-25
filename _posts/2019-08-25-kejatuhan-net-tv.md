@@ -87,7 +87,7 @@ Yang membuat babak belur [NET TV](http://www.netmedia.co.id/){: title="situs off
 
 Namun ternyata pesaing yang menghantam bisnis NET TV datang dari tempat yang sangat powerful, yakni **kekuatan layar hape** yang makin variatif kontennya.
 
-Youtube, IG Stories dan Netflix adalah pesaing disruptif yang menghancurkan potensi bisnis Net TV. Dan kekuatan digital players itu terlalu tangguh untuk dilawan.
+[Youtube, IG Stories dan Netflix]({{ site.host }}/aplikasi/videoder-premium/) adalah pesaing disruptif yang menghancurkan potensi bisnis Net TV. Dan kekuatan digital players itu terlalu tangguh untuk dilawan.
 
 Pelajarannya : dalam era digital disruptif seperti saat ini, potensi persaingan ternyata memang bisa datang dari arah yang tak teduga. Artinya bukan hanya datang dari pesaing tradisional atau dari pelaku bisnis yang sama.
 
