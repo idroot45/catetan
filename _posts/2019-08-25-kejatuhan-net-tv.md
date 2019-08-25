@@ -9,7 +9,7 @@ header:
 categories: [manajemen]
 tags: [manajemen bisnis, strategi manajemen]
 ---
-Menyusul rumor tentang PHK karyawan NET TV, akhirnya manajemen Net mengakui memang ada proses [efisiensi jumlah karyawan](https://bisnis.tempo.co/read/1234261/isu-phk-karyawan-net-tv-karena-iklan-minim-ini-jawaban-direksi){: title="Berita Tempo"}. Para karyawan secara sukarela diminta untuk mengundurkan diri demi perampingan organisasi.
+Menyusul rumor tentang PHK karyawan NET TV, akhirnya manajemen Net mengakui memang ada proses [efisiensi jumlah karyawan](https://bisnis.tempo.co/read/1234261/isu-phk-karyawan-net-tv-karena-iklan-minim-ini-jawaban-direksi){: title="Berita Tempo.co"}. Para karyawan secara sukarela diminta untuk mengundurkan diri demi perampingan organisasi.
 
 Penyebabnya jelas : kinerja bisnis dan keuangan Net TV masih mengecewakan. Bahkan sejak tahun lalu lalu, penyandang dana Indika Group resmi mundur alias pecah kongsi dengan pengelola Net TV.
 
@@ -17,7 +17,7 @@ Penyebabnya jelas : kinerja bisnis dan keuangan Net TV masih mengecewakan. Bahka
 
 Mungkin karena ingin lebih bebas menyuarakan idealisme dan visi-nya, Wishnutama memilih mundur dari TransGroup, dan kemudian mendirikan sendiri stasiun televisi dengan nama NET TV. Penyandang dananya adalah Indika Group yang menyediakan dana hingga triliunan rupiah.
 
-Namun setelah berjalan lebih dari enam tahun sejak berdiri tahun 2013, ternyata kinerja bisnis dan keuangan Net TV tidak sesuai harapan. Rating-nya masih kalah jauh dengan stasiun televisi lain. Alhasil pendapatan iklan juga seret.
+Namun setelah berjalan lebih dari enam tahun sejak berdiri [tahun 2013](https://www.kompas.com/money/read/2013/05/21/13031939/Net.TV.Sudah.Siaran..KPI.Tak.Dapat.Pemberitahuan){: title="Berita Kompas.com}, ternyata kinerja bisnis dan keuangan Net TV tidak sesuai harapan. Rating-nya masih kalah jauh dengan stasiun televisi lain. Alhasil pendapatan iklan juga seret.
 
 Pada sisi lain, biaya yang dikeluarkan sangat masif. Termasuk investasi untuk menggunakan teknologi [High Definition TV](https://en.wikipedia.org/wiki/High-definition_television){: title="Wikipedia" rel="nofollow noreferrer noopener" target="_blank"} yang amat mahal. Teknologi HD ini yang bikin kualitas gambar Net TV paling bagus dibanding stasiun televisi lainnya.
 
