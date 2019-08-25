@@ -9,7 +9,7 @@ header:
 categories: [manajemen]
 tags: [manajemen bisnis, strategi manajemen]
 ---
-Menyusul rumor tentang PHK karyawan NET TV, akhirnya manajemen Net mengakui memang ada proses [efisiensi jumlah karyawan](https://bisnis.tempo.co/read/1234261/isu-phk-karyawan-net-tv-karena-iklan-minim-ini-jawaban-direksi). Para karyawan secara sukarela diminta untuk mengundurkan diri demi perampingan organisasi.
+Menyusul rumor tentang PHK karyawan NET TV, akhirnya manajemen Net mengakui memang ada proses [efisiensi jumlah karyawan](https://bisnis.tempo.co/read/1234261/isu-phk-karyawan-net-tv-karena-iklan-minim-ini-jawaban-direksi){: title="Berita Tempo"}. Para karyawan secara sukarela diminta untuk mengundurkan diri demi perampingan organisasi.
 
 Penyebabnya jelas : kinerja bisnis dan keuangan Net TV masih mengecewakan. Bahkan sejak tahun lalu lalu, penyandang dana Indika Group resmi mundur alias pecah kongsi dengan pengelola Net TV.
 
@@ -19,7 +19,7 @@ Mungkin karena ingin lebih bebas menyuarakan idealisme dan visi-nya, Wishnutama 
 
 Namun setelah berjalan lebih dari enam tahun sejak berdiri tahun 2013, ternyata kinerja bisnis dan keuangan Net TV tidak sesuai harapan. Rating-nya masih kalah jauh dengan stasiun televisi lain. Alhasil pendapatan iklan juga seret.
 
-Pada sisi lain, biaya yang dikeluarkan sangat masif. Termasuk investasi untuk menggunakan teknologi [High Definition TV](https://en.wikipedia.org/wiki/High-definition_television){: rel="nofollow noreferrer noopener" target="_blank"} yang amat mahal. Teknologi HD ini yang bikin kualitas gambar Net TV paling bagus dibanding stasiun televisi lainnya.
+Pada sisi lain, biaya yang dikeluarkan sangat masif. Termasuk investasi untuk menggunakan teknologi [High Definition TV](https://en.wikipedia.org/wiki/High-definition_television){: title="Wikipedia" rel="nofollow noreferrer noopener" target="_blank"} yang amat mahal. Teknologi HD ini yang bikin kualitas gambar Net TV paling bagus dibanding stasiun televisi lainnya.
 
 Sejak November tahun lalu, Wishnutama juga sudah tidak menjabat sebagai CEO Net TV, sebuah pertanda bahwa visi dia dianggap tidak lagi kompatibel dengan kepentingan bisnis dan keuangan Net.
 
@@ -83,7 +83,7 @@ Saat Anda terlalu memburu passion personal, dan gagal melihat potensi pasar, mak
 
 ![Logo Youtybe](https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2017/10/YouTube-logo-full_color-796x3983-796x398.png)
 
-Yang membuat babak belur NET TV ini ternyata bukan pesaing tradisional dari sesama staisun televisi lainnya. Sebab seperti yang diulas di depan, segmen pasar mereka berbeda.
+Yang membuat babak belur [NET TV](http://www.netmedia.co.id/){: title="situs official"} ini ternyata bukan pesaing tradisional dari sesama staisun televisi lainnya. Sebab seperti yang diulas di depan, segmen pasar mereka berbeda.
 
 Namun ternyata pesaing yang menghantam bisnis NET TV datang dari tempat yang sangat powerful, yakni **kekuatan layar hape** yang makin variatif kontennya.
 
@@ -111,5 +111,5 @@ Pelajaran bisnis ini berharga bagi pelaku bisnis lainnya.
 
 ***
 
-> Penulis artikel ini adalah **Yodhia Antariksa**. Ia bekerja sebagai konsultan manajemen dan trainer bisnis. Download 5 ebook karyanya secara gratis [disini](http://strategimanajemen.net/free-ebooks/){: rel="nofollow noopener noreferrer" target="_blank"}.
+> Penulis artikel ini adalah **Yodhia Antariksa**. Ia bekerja sebagai konsultan manajemen dan trainer bisnis. Silajkan unduh 5 ebook karyanya secara gratis [disini](http://strategimanajemen.net/free-ebooks/){: rel="nofollow noopener noreferrer" target="_blank"} jika berminat.
 > Artikel ini di kutip penuh dari [artikel ini](http://strategimanajemen.net/2019/08/12/3-pelajaran-bisnis-dari-kasus-kejatuhan-net-tv/){: rel="nofollow noopener noreferrer" target="_blank"} dengan tambahan ilustrasi gambar.
