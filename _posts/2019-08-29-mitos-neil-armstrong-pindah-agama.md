@@ -1,6 +1,6 @@
 ---
-title: Mitos soal Neil Armstrong: Dengar Azan di Bulan hingga Pindah Agama
-excerpt: Isu pindah agama pernah mengiringi manusia pertama yang menginjakkan kakinya di bulan, Neil Armstrong
+title: "Benarkah Neil Armstrong Dengar Azan di Bulan hingga Pindah Agama?"
+excerpt: "Isu pindah agama pernah mengiringi manusia pertama yang menginjakkan kakinya di bulan, Neil Armstrong"
 header:
  overlay_image: "https://akcdn.detik.net.id/community/media/visual/2018/12/26/c543fc85-f431-4f38-aa33-77cc5941bd02.jpeg?w=650&q=90"
  caption: "Foto: NASA/Newsmakers"
@@ -54,3 +54,5 @@ Suatu saat di pertemuan organisasi Phi Delta Theta di Universitas Purdue, AS, se
 Armstrong sadar, dirinya adalah orang terkenal, dianggap pahlawan, dan tidak semua orang bisa seperti dirinya yakni menjadi manusia pertama yang menginjak bulan. Saking langkanya di dunia ini, Armstrong telah menjadi mitos. Wajar saja bila banyak kelompok ingin merangkul dan mendakunya sebagai salah satu anggotanya. Banyak pula orang-orang yang tak dikenal Armstrong mengaku sebagai keluarga jauhnya.
 
 Lalu apa sebenarnya agama Armstrong? Dilansir The Telegraph, pria kelahiran 5 Agustus 1930 itu menyatakan tak memeluk satu agama tertentu meski dilahirkan dari orang tua yang taat beragama. "Mereka mengizinkan saya untuk mengejar hal yang saya inginkan. Mereka tidak mencoba untuk mendikte saya soal apa yang harus saya lakukan atau ke mana saya harus pergi," kata Armstrong.
+
+_Sumber: detikcom_
