@@ -46,7 +46,7 @@ Neil Armstrong menerima undangan-undangan dari negara-negara berpenduduk muslim,
 
 Ternyata usaha Armstrong tak mampu membendung beredarnya rumor-rumor itu. Bahkan, pihak yang telah diberi tahu bahwa isu kepindahan agama Armstrong adalah hoax kemudian beranggapan bahwa Pemerintah AS tidak ingin pahlawan negaranya dikenal sebagai seorang muslim. AS dinilai ingin Armstrong menyangkal agamanya di depan publik.
 
-{% include figure caption="Neil Armstrong *(Getty Images)*" image_path="https://akcdn.detik.net.id/community/media/visual/2018/10/11/eb3c6f24-f272-4878-a60b-ed84e01ed12a.jpeg?w=650&q=90" alt="Neil Armstrong" %}
+{% include figure caption="Neil Armstrong *(Getty Images)*" image_path="https://akcdn.detik.net.id/community/media/visual/2018/10/14/53f473f7-1b19-4956-8edc-24f9b78ec497.jpeg?w=650&q=90" alt="Neil Armstrong" %}
 
 Suatu saat di pertemuan organisasi Phi Delta Theta di Universitas Purdue, AS, seorang putra profesor keturunan Timur Tengah menceritakan bahwa ayahnya menceritakan bahwa Neil Armstrong pindah agama. Anak itu kemudian bertanya apakah kabar itu benar atau tidak.
 
