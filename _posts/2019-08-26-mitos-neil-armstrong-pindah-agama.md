@@ -6,8 +6,7 @@ header:
  caption: "Foto: NASA/Newsmakers"
 categories: [kisah]
 tags: [neil armstrong, adzan di bulan, pindah agama]
-date: 2019-08-25 01:10:01
-
+date: 2019-08-27 01:10:01
 ---
 Isu pindah agama ternyata bukan hanya menarik bagi warganet zaman sekarang. Isu pindah agama pernah mengiringi manusia pertama yang menginjakkan kakinya di bulan, Neil Armstrong.
 
