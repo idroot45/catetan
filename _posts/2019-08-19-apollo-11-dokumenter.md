@@ -8,7 +8,7 @@ header:
  og_image: https://i1.wp.com/movieden.net/wp-content/uploads/2018/10/first-man-2.jpg
  teaser: https://i.ytimg.com/vi/3Co8Z8BQgWc/hqdefault.jpg
 categories: [video]
-tags: [apollo 11, film dokumenter]
+tags: [apollo 11, film dokumenter, neil armstrong]
 last_modified_at: 2019-08-20 22:02:00
 ---
 Pendaratan bulan yang dilakukan oleh Neil Armstrong telah tercatat menjadi salah satu peristiwa bersejarah bagi umat manusia. Tak heran jika peristiwa tersebut diabadikan pada berbagai buku sejarah, bahkan difilmkan secara komersil dengan judul "First Man".
