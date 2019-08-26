@@ -52,9 +52,9 @@ Aplikasi yang sama pernah dibagikan [di sini](https://mi.knoacc.org/videoder-14.
 > Videoder &#8211; Video &amp; Music Downloader Premium v14.2 build 136 Final MOD APK
 {:#download}
 
-|Server|Mega|UploadCC|UploadByte|Racaty|
+|Server|Mega|Drive|UploadCC|Racaty|
 |---|:---:|:---:|:---:|:---:|
-|[download](#workaround)|[recomended](https://bit.ly/2U1430B){:.btn .btn--success}|[mirror](https://bit.ly/2Mz8jU8){:.btn .btn--warning}|[mirror](https://bit.ly/30xJ5sC){:.btn .btn--warning}|[mirror](https://bit.ly/2P8KV1U){:.btn .btn--warning}|
+|[download](#workaround)|[recomended](https://bit.ly/2U1430B){:.btn .btn--success}|[recomended](https://bit.ly/2PvMnMf){:.btn .btn--success}|[mirror](https://bit.ly/2Mz8jU8){:.btn .btn--warning}|[mirror](https://bit.ly/2P8KV1U){:.btn .btn--warning}|
 
 ### Catetan
 
