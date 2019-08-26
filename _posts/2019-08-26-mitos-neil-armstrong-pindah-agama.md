@@ -19,7 +19,7 @@ Mitos itu tersebar saat era pra-Android, pra-media sosial, di saat kebanyakan or
 
 Semua sudah dijelaskan dalam buku biografi karya James R Hansen berjudul "First Man: The Life of Neil A Armstrong". Pada halaman 785 dijelaskan, rumor Neil Armstrong masuk Islam sudah demikian menancap kuat.
 
-{indclude figure caption="Pendaratan di Bulan. *(Reuters)*" image_path="https://akcdn.detik.net.id/community/media/visual/2019/07/17/f56af6cc-e9dc-4ae2-a1f7-5659d0c32506.jpeg?w=640&q=90" alt="Pendaratan di Bulan" %}
+{include figure caption="Pendaratan di Bulan. *(Reuters)*" image_path="https://akcdn.detik.net.id/community/media/visual/2019/07/17/f56af6cc-e9dc-4ae2-a1f7-5659d0c32506.jpeg?w=640&q=90" alt="Pendaratan di Bulan" %}
 
 "Cerita-cerita ini terus diulang di seluruh dunia Muslim bahwa saat Armstrong dan Aldrin (Edwin 'Buzz' Aldrin) berjalan di bulan, mereka mendengar suara nyanyian dalam bahasa yang aneh yang mereka tidak mengerti. Kemudian setelah mereka kembali ke bumi, Armstrong menyadari bahwa yang mereka dengar di permukaan bulan itu adalah azan, panggilan salat untuk umat muslim," tulis Hansen dalam buku itu.
 
@@ -39,7 +39,7 @@ Rumor selanjutnya menceritakan, saat Apollo 11 menemukan bahwa bumi memancarkan 
 
 Neil Armstrong menerima undangan-undangan dari negara-negara berpenduduk muslim, agar dia hadir di acara Islami. Undangan itu sering sampai ke Armstrong pada dekade '80-an. Armstrong merasa ini sudah saatnya dia berbicara langsung, bukan lagi melalui Kemlu.
 
-{indclude figure caption="Neil Armstrong *(NASA/Newsmakers)*" image_path="https://akcdn.detik.net.id/community/media/visual/2018/10/11/eb3c6f24-f272-4878-a60b-ed84e01ed12a.jpeg?w=650&q=90" alt="Neil Armstrong" %}
+{include figure caption="Neil Armstrong *(NASA/Newsmakers)*" image_path="https://akcdn.detik.net.id/community/media/visual/2018/10/11/eb3c6f24-f272-4878-a60b-ed84e01ed12a.jpeg?w=650&q=90" alt="Neil Armstrong" %}
 
 "Kami mendapatkan rentetan kabar yang dibanjiri pertanyaan tentang hal ini, terutama dari dunia Islam namun ada juga dari dunia non-muslim. Yang terakhir kemudian bertanya kepada saya, 'Ini tidak benar kan?' Akhirnya kami memutuskan bahwa kami butuh acara resmi yang bisa diakses wartawan," kata Neil dalam buku itu.
 
@@ -47,7 +47,7 @@ Neil Armstrong menerima undangan-undangan dari negara-negara berpenduduk muslim,
 
 Ternyata usaha Armstrong tak mampu membendung beredarnya rumor-rumor itu. Bahkan, pihak yang telah diberi tahu bahwa isu kepindahan agama Armstrong adalah hoax kemudian beranggapan bahwa Pemerintah AS tidak ingin pahlawan negaranya dikenal sebagai seorang muslim. AS dinilai ingin Armstrong menyangkal agamanya di depan publik.
 
-{indclude figure caption="Neil Armstrong *(Getty Images)*" image_path="https://akcdn.detik.net.id/community/media/visual/2018/10/11/eb3c6f24-f272-4878-a60b-ed84e01ed12a.jpeg?w=650&q=90" alt="Neil Armstrong" %}
+{include figure caption="Neil Armstrong *(Getty Images)*" image_path="https://akcdn.detik.net.id/community/media/visual/2018/10/11/eb3c6f24-f272-4878-a60b-ed84e01ed12a.jpeg?w=650&q=90" alt="Neil Armstrong" %}
 
 Suatu saat di pertemuan organisasi Phi Delta Theta di Universitas Purdue, AS, seorang putra profesor keturunan Timur Tengah menceritakan bahwa ayahnya menceritakan bahwa Neil Armstrong pindah agama. Anak itu kemudian bertanya apakah kabar itu benar atau tidak.
 
