@@ -7,6 +7,7 @@ header:
   provider: "youtube"
  teaser: "https://4.bp.blogspot.com/-HkHIECXpfwI/WiuqW6ONeCI/AAAAAAAABog/5f5QsXHhBqMO-ed4dXlJDzUWA-NrOBH1gCLcBGAs/w360-h200-p-o/along-spoon-thumb.jpg"
  og_image: "https://4.bp.blogspot.com/-HkHIECXpfwI/WiuqW6ONeCI/AAAAAAAABog/5f5QsXHhBqMO-ed4dXlJDzUWA-NrOBH1gCLcBGAs/w1400-h800-p-o/along-spoon-big.jpg"
+categories: [klip]
 tags: [rindu serindu rindunya, band spoon, vokalis band spoon, kisah tragis along spoon]
 ---
 Lagu _Rindu Serindu Rindunya_ pernah populer di Malaysia dan digandrungi di Indonesia pada tahun 1998. Lagu itu diperkenalkan oleh **Spoon**, band asal Malaysia. Lagu yang kemudian juga [dinyanyikan ulang](https://www.youtube.com/watch?v=lUz0HBChMeA) oleh band **Exist** ini ternyata memiliki kisah misteri yang sempat menghebohkan semenanjung Malaysia.
