@@ -6,9 +6,14 @@ header:
   id: "_0DDR_c4SgE"
   provider: "youtube"
 categories: [klip]
+teaser: https://4.bp.blogspot.com/-HkHIECXpfwI/WiuqW6ONeCI/AAAAAAAABog/5f5QsXHhBqMO-ed4dXlJDzUWA-NrOBH1gCLcBGAs/w360-h200-p-o/along-spoon-thumb.jpg
+og_image: https://4.bp.blogspot.com/-HkHIECXpfwI/WiuqW6ONeCI/AAAAAAAABog/5f5QsXHhBqMO-ed4dXlJDzUWA-NrOBH1gCLcBGAs/w1400-h800-p-o/along-spoon-big.jpg
+
 tags: [rindu serindu rindunya, band spoon, vokalis band spoon, kisah tragis along spoon]
 ---
 Lagu _Rindu Serindu Rindunya_ pernah populer di Malaysia dan digandrungi di Indonesia pada tahun 1998. Lagu itu diperkenalkan oleh **Spoon**, band asal Malaysia. Lagu yang kemudian juga [dinyanyikan ulang]() oleh band **Exist** ini ternyata memiliki kisah misteri yang sempat menghebohkan semenanjung Malaysia.
+
+{% include figure image_path="https://4.bp.blogspot.com/-HkHIECXpfwI/WiuqW6ONeCI/AAAAAAAABog/5f5QsXHhBqMO-ed4dXlJDzUWA-NrOBH1gCLcBGAs/w640-h360-p/along-spoon-medium.jpg" alt="Along vokalis Spoon" caption="Lagu Rindu Serindu Rindunya ternyata memiliki kisah misteri yang sempat menghebohkan Malaysia."
 
 Di saat nama _Spoon_ tengah berkibar, tiba-tiba publik Malaysia dikejutkan dengan kabar tewasnya _Along_, vokalis Spoon. Yang membuat kisah ini tragis adalah Along tewas terbunuh, **jasadnya ditemukan terikat dalam karung goni** di kilometer 28, Jalan Kuala Klawang-Genting Peras, Jelebu, Malaysia pada 6 Januari 2000.
 
@@ -23,5 +28,7 @@ Pada tahun 2014, _Firman Siagian_ yang populer berkat program pencari bakat Indo
 {% include video id="qyzlF_DSBXw" provider="youtube" %}
 
 Firman Siagian yang kini lebih banyak berkiprah di negara tetangga itupun mengaku merinding mengetahui kisah tragis Along, vokalis band Spoon tersebut.
+
+Setelah kematian vokalisnya, Azlong sang adik membawa panji Spoon meskipun empat anggota Spoon yang lain memutuskan keluar dari band.
 
 _dirangkum dari berbagai sumber_
