@@ -9,7 +9,9 @@ categories: [aplikasi]
 tags: [aide web, quoda premium, aplikasi koding]
 redirect_from:
  - /quoda
+ - /com.henrythompson.quoda
  - /aide-web
+ - /com.aide.web
 ---
 Singkatnya, hanya dua aplikasi ini yang nyaman untuk saya pakai.
 
