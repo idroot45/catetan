@@ -15,6 +15,9 @@ intro:
 excerpt: "Last Update PUB gfx+ no-ads, premium tool from trilokia. v.0.17.0" 
 categories: [aplikasi]
 tags: [pubg mobile, gfx pubgm]
+redirect_from:
+ - /pubgfx
+ - /inc.trilokia.pubgfxtool
 last_modified_at: 2019-08-21 22:04:00
 ---
 > Download link for **PUB Gfx+** v0.17.0 *fixed*{: style="color:red"}
