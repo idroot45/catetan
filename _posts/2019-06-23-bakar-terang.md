@@ -9,6 +9,8 @@ header:
  teaser: "https://i0.wp.com/www.dreadcentral.com/wp-content/uploads/2019/05/brightburnbanner.jpg?resize=640,360"
 categories: [video]
 tags: [brightburn horror, brightbur movie]
+redirect_from:
+ - /brightburn
 last_modified_at: 2019-08-23 17:32:03
 ---
 > Bukan film terong-terongan.
