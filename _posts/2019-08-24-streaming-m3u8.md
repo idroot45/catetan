@@ -1,6 +1,7 @@
 ---
 title: Template Untuk Embed Striming Bersumber M3U8"
 header:
+ og_image: "https://dummyimage.com/1200x640/00/f.gif&text=#BURLIV"
  video:
   id: "https://cdx.dailysport.pw/2/2.m3u8"
   provider: "full_link"
