@@ -7,6 +7,9 @@ header:
  teaser: https://dummyimage.com/340x340/600/f.png?text=CODING
 categories: [aplikasi]
 tags: [aide web, quoda premium, aplikasi koding]
+redirect_from:
+ - /quoda
+ - /aide-web
 ---
 Singkatnya, hanya dua aplikasi ini yang nyaman untuk saya pakai.
 
