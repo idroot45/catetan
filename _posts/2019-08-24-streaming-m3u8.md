@@ -1,7 +1,7 @@
 ---
 title: Template Untuk Embed Striming Bersumber M3U8"
 header:
- og_image: "https://dummyimage.com/1200x640/00/f.gif&text=BUR+LIV"
+ og_image: "https://dummyimage.com/1200x640/00/f.gif&text=+Lverpool+Newcastle"
  video:
   id: "https://cdx.dailysport.pw/2/2.m3u8"
   provider: "full_link"
@@ -12,11 +12,19 @@ Postingan ini untuk menyimpan embed streaming pertandingan sepakbola. HANYA pert
 
 > Hanya jika ada dan tersedia di internet.
 
-Pertandingan hari ini (31/08/2019) **Burnley vs Liverpool** KO 23:30 WIB
+Pertandingan selanjutnya (14/09/2019) **Liverpool vs Newcastle** [home] KO 18:30 WIB
 
-Pertandingan sebelumnya (24/08/2019) **Liverpool vs Arsenal**
+Pertandingan hari ini (31/08/2019) **Burnley vs Liverpool** [away] KO 23:30 WIB. Skor akhir 0-3 untuk kemenangan Liverpool.
+- Tidak tayang di MolaTV Web/App
+- Goal LFC: **C. Wood** 33' (og), S. Mane 37', R. Firmino 80'.
+- _Own goal_ C. Wood _deflected_ dari tendangan keras **T.A. Arnold** umpan **J. Henderson**.
 
-Untuk wilayah Indonesia bisa melihat di laman web [mola.tv](https://mola.tv/watch?v=vd65950609){: rel="nofollow noreferrer noopener" target="_blank"} dengan login memakai akun google.
+Pertandingan sebelumnya (24/08/2019) **Liverpool vs Arsenal** [home] KO 23:30 WIB. Skor akhir 3-1 untuk kemenangan Liverpool
+- Tayang di MolaTV [Web/App](mola.tv/watch?v=vd65950609){: onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title=""}
+- Goal LFC: **Joel Matip** 41', **M. Salah** 49' (p), 58'. 
+- Goal ARS: **L.T. Di Pascua** 85'.
+
+Untuk wilayah Indonesia bisa melihat di laman web [mola.tv](https://mola.tv/){: rel="nofollow noreferrer noopener" target="_blank"} dengan login memakai akun google.
 
 Bagi yang memakai Chrome Mobile (Android) aktifkan/centrang pilihan Situs dekstop dari menu Chrome agar bisa melihat tanpa memasang aplikasi.
 
