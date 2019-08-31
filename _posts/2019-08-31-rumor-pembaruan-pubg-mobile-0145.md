@@ -12,7 +12,7 @@ PUBG Mobile adalah game populer, dan ini tak terbantahkan. Sensasi game battle r
 
 Sekarang, muncul bocoran baru soal rincian pembaruan versi 0.14.5 untuk PUBG Mobile, dan sepertinya akan banyak sekali fitur baru yang akan membuat girang paravpemain PUBG mobile.
 
-Yang pertama, pembaruan ini akan berbarengan dengan dimulainya Royale Pass Season 9 PUBG Mobile, namun tak cuma itu. Dalam pembaruan ini akan banyak juga hal baru. Bocoran ini sendiri dirujuk dari video dari Mr. Ghost Gaming, orang yang sama yang membocorkan kemungkinan masuknya helikopter ke dalam PUBG Mobile.
+Yang pertama, pembaruan ini akan berbarengan dengan dimulainya Royale Pass Season 9 PUBG Mobile, namun tak cuma itu. Dalam pembaruan ini akan banyak juga hal baru. Bocoran ini sendiri dirujuk dari video dari Mr. Ghost Gaming, orang yang sama yang membocorkan kemungkinan [masuknya helikopter ke dalam PUBG Mobile](https://catetan.istimiwir.host/game/helikopter-pubgm-beta-china/).
 
 ### SMG khusus map Vikendi: MP5K
 
@@ -26,7 +26,7 @@ Pembaruan ini spertinya juga akan menambahkan [kendaraan baru](/video/kendaraan-
 
 {% include figure image_path="https://beebom.com/wp-content/uploads/2019/08/pubg-mobile-canted-sight.jpg" alt="canted sight" caption="Canted Sight di PUBG PC" %}
 
-Rasanya, yang paling menggembirakan adalah pemvaruan terkait Canted Sight baru yang kabarnya akan hadir juga ke PUBG Mobile. **Canted Sight** merupakan ruang pandang kedua yang bisa dipasang pada semua senjata yang dapat ditempeli scope. Dengan Canted Sight, pada dasarnya pemain mendapat pandangan dari scope sekaligus senjatanya, dan dapat beralih dengan mudah diantara keduanya. Kita tunggu saja, sepertinya menarik.
+Rasanya, yang paling menggembirakan adalah pembaruan terkait Canted Sight baru yang kabarnya akan hadir juga ke PUBG Mobile. **Canted Sight** merupakan _scope_ kedua yang bisa dipasang pada semua senjata yang dapat ditempeli dua scope. Dengan _Canted Sight_, pada dasarnya pemain mendapat pandangan dari dua scope sekaligus pada senjatanya, dan dapat beralih dengan mudah diantara kedua _scope_ yang terpasang. Kita tunggu saja, sepertinya menarik.
 
 ### Survival Mode
 
