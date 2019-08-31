@@ -1,7 +1,7 @@
 ---
 title: "Bocoran PUBG Mobile Update 0.14.5: Senjata, Kendaraan dan Banyak Lagi"
 excerpt: "Bocoran bocoran rumor uodate terbaru PUBG Mobile versi 0.14.5 dan Royal Pass Season 9"
-categories: [gim]
+categories: [game]
 tags: [royale pass, season 9, pubg mobile]
 header:
  image: "https://i0.wp.com/beebom.com/wp-content/uploads/2019/08/pubg-mobile-new-update-details-leaked.jpg"
