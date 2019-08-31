@@ -21,7 +21,7 @@ Pertandingan hari ini (31/08/2019) **Burnley vs Liverpool** [away] KO 23:30 WIB.
 - _Own goal_ C. Wood _deflected_ dari tendangan keras **T.A. Arnold** umpan **J. Henderson**.
 
 Pertandingan sebelumnya (24/08/2019) **Liverpool vs Arsenal** [home] KO 23:30 WIB. Skor akhir 3-1 untuk kemenangan Liverpool
-- Tayang di MolaTV [Web/App](mola.tv/watch?v=vd65950609){: onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title=""}
+- Tayang di MolaTV [Web/App](https://mola.tv/watch?v=vd65950609){: onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title=""}
 - Goal LFC: **Joel Matip** 41', **M. Salah** 49' (p), 58'. 
 - Goal ARS: **L.T. Di Pascua** 85'.
 
@@ -29,4 +29,5 @@ Untuk wilayah Indonesia bisa melihat di laman web [mola.tv](https://mola.tv/){: 
 
 Bagi yang memakai Chrome Mobile (Android) aktifkan/centrang pilihan Situs dekstop dari menu Chrome agar bisa melihat tanpa memasang aplikasi.
 
-Aplikasi mola.tv sangat tidak saya rekomendasikan, sering _force closed_ tanpa alasan. Aplikasi sampah!
+> **Pendapat pribadi:**
+> Aplikasi mola.tv **sangat tidak saya rekomendasikan**, sering _force closed_ tanpa alasan. Aplikasi sampah, mungkin karena masih beta. Kalau mau bayar sekalian langganan Matrix saja sekalian.
