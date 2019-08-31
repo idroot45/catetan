@@ -11,7 +11,9 @@ Postingan ini untuk menyimpan embed streaming pertandingan sepakbola. HANYA pert
 
 > Hanya jika ada dan tersedia di internet.
 
-Pertandingan hari ini (24/08/2019) **Liverpool vs Arsenal**
+Pertandingan hari ini (31/08/2019) **Burnley vs Liverpool** KO 23:30 WIB
+
+Pertandingan sebelumnya (24/08/2019) **Liverpool vs Arsenal**
 
 Untuk wilayah Indonesia bisa melihat di laman web [mola.tv](https://mola.tv/watch?v=vd65950609){: rel="nofollow noreferrer noopener" target="_blank"} dengan login memakai akun google.
 
