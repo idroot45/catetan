@@ -6,7 +6,6 @@ header:
  teaser: "https://dummyimage.com/360x240/00/f.gif&text=Liverpool+24/25"
 categories: [sepakbola]
 tags: [liverpool fc, liverpool future, starting eleven]
-date: 2019-09-04 10:34:00
 last_modified_at: 2019-09-04 11:16:00
 ---
 Liverpool had an uncharacteristically quiet transfer window with three fairly low key signings in the summer.
@@ -27,7 +26,7 @@ But below you can see our best guess at what **Liverpool’s starting XI for t
 
 ### Option 1: 4-3-3
 
-{% include image_path="https://talksport.com/wp-content/uploads/sites/5/2019/08/lineup-19.png?strip=all&w=480&quality=100" caption="Will this be Liverpool’s starting XI on the opening weekend of the 2024/25 season?" caption="liverpol starting xi 2024/2025" %}
+{% include image_path="https://i0.wp.com/talksport.com/wp-content/uploads/sites/5/2019/08/lineup-19.png" caption="Will this be Liverpool’s starting XI on the opening weekend of the 2024/25 season?" caption="liverpol starting xi 2024/2025" %}
 
 Chances are Jurgen Klopp will not be Liverpool manager as his contract ends in 2022 and the German has given interviews recently which suggest he’ll leave Anfield when his deal expires.
 
@@ -39,7 +38,7 @@ However, quite a lot of the Reds playing now may not be around in five years inc
 
 This could spell the opportunity for **Loris Karius**, who is currently going in the middle of a two-year loan spell with Besiktas, a chance to work his way back into the Liverpool fold.
 
-{% include image_path="https://talksport.com/wp-content/uploads/sites/5/2019/04/GettyImages-1012803876.jpg?strip=all&w=960&quality=100" alt="Karius Allison" caption="Karius and Alisson are the same age but the Brazilian is bound to attract more attention from the bigger clubs" %}
+{% include image_path="https://i1.wp.com/talksport.com/wp-content/uploads/sites/5/2019/04/GettyImages-1012803876.jpg" alt="Karius Allison" caption="Karius and Alisson are the same age but the Brazilian is bound to attract more attention from the bigger clubs" %}
 
 The German has not played competitively for the Reds since his disastrous performance in the 2018 Champions League final where he made two costly howlers in Liverpool’s 3-1 defeat to Real Madrid.
 
@@ -49,7 +48,7 @@ In defence, we could see **Van den Berg**, who will then be 22-years-old, forge 
 
 **Ki-Jana Hoever**, who became Liverpool’s youngest ever player to represent the club in the FA Cup last season, will be 22 in five years and could play at right-back even though his preferred position is in the middle.
 
-{% include caption="It looks like Klopp has high hopes for Hoever (right)" alt="ki jana hoever" image_path="https://talksport.com/wp-content/uploads/sites/5/2019/09/NINTCHDBPICT000514675623-e1567585535916.jpg?strip=all&w=960&quality=100" %}
+{% include caption="It looks like Klopp has high hopes for Hoever (right)" alt="ki jana hoever" image_path="https://i0.wp.com/talksport.com/wp-content/uploads/sites/5/2019/09/NINTCHDBPICT000514675623-e1567585535916.jpg" %}
 
 **Andy Robertson** will be in his 30s by then but the Scotland captain is full of running so don’t be surprised to see him continue at left-back.
 
@@ -73,7 +72,7 @@ Mane even admitted to being jealous of Philippe Coutinho when he got his move 
 
 Thankfully for Liverpool, they have two potential future stars in Elliott and **Rhian Brewster** to replace Salah and Mane in case they leave.
 
-{% include caption="Brewster is already part of Klopp’s plans in the first-team this season" image_path="https://talksport.com/wp-content/uploads/sites/5/2019/07/NINTCHDBPICT000504873917-e1563012427977.jpg?strip=all&w=960&quality=100" alt="ian brewster" %} 
+{% include caption="Brewster is already part of Klopp’s plans in the first-team this season" image_path="https://i0.wp.com/talksport.com/wp-content/uploads/sites/5/2019/07/NINTCHDBPICT000504873917-e1563012427977.jpg?strip=all&w=960&quality=100" alt="ian brewster" %} 
 
 And although **Roberto Firmino** will be 32 in five years, he may just be able to do the job in the middle of the front three which is **where he’s at his best**.
 
@@ -81,7 +80,7 @@ Firmino is less likely to leave than Salah or Mane as there are few top clubs in
 
 ### Option 2: 4-2-1-3
 
-{% include caption="This line-up has more balance to it" alt="liverpool xi 2024/2025 4-2-1-3" image_path="https://talksport.com/wp-content/uploads/sites/5/2019/08/lineup-20.png?strip=all&w=480&quality=100" %}
+{% include caption="This line-up has more balance to it" alt="liverpool xi 2024/2025 4-2-1-3" image_path="https://i1.wp.com/talksport.com/wp-content/uploads/sites/5/2019/08/lineup-20.png?strip=all&w=480&quality=100" %}
 
 However, a more defensive line-up could see tough tackling **Fabinho**, who will be 30 by then, partner Alexander-Arnold in midfield in what would be a similar set-up to when **Alonso and Javier Mascherano** were around.
 
@@ -93,7 +92,7 @@ It’s also not clear whether midfielder **Curtis Jones**, 18, will be a success
 
 Mentions **have to go out** to the likes of **Jordan Henderson** and **Georginio Wijnaldum**, who will be 34 and 33 respectively.
 
-{% include caption="Will Divock Origi be a part of Liverpool’s set up in five years time?" alt="divock origi" image_url="https://talksport.com/wp-content/uploads/sites/5/2019/08/lineup-20.png?strip=all&w=480&quality=100" %}
+{% include caption="Will Divock Origi be a part of Liverpool’s set up in five years time?" alt="divock origi" image_url="https://i0.wp.com/talksport.com/wp-content/uploads/sites/5/2019/08/lineup-20.png" %}
 
 There’s nothing to suggest they won’t be at the club in the 2024/25 season but they’ll surely be too old to be playing every week at that intensity.
 
