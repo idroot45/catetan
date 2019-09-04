@@ -13,7 +13,7 @@ Liverpool had an uncharacteristically quiet transfer window with three fairly lo
 
 Goalkeeper **Adrian** arrived to strengthen their options between the sticks, while youngsters **Sepp van den Berg**, 17, and **Harvey Elliott**, 16, have also come in.
 
-{% include caption="Van den Berg was Liverpool’s first signing of the summer" image_path="https://i0.wp.com/talksport.com/wp-content/uploads/sites/5/2019/06/Sepp-van-den-Berg-1.jpg?strip=all&w=801&quality=100" alt="sepp van den berg" %}
+{% include figure caption="Van den Berg was Liverpool’s first signing of the summer" image_path="https://i0.wp.com/talksport.com/wp-content/uploads/sites/5/2019/06/Sepp-van-den-Berg-1.jpg?strip=all&w=801&quality=100" alt="sepp van den berg" %}
 
 Defender Van den Berg has earned comparisons with fellow Dutchman **Virgil Van Dijk** while winger Elliott is the youngest ever player to play in the Premier League (aged 16 years and 30 days).
 
