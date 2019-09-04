@@ -54,7 +54,7 @@ In defence, we could see **Van den Berg**, who will then be 22-years-old, forge 
 
 **Andy Robertson** will be in his 30s by then but the Scotland captain is full of running so don’t be surprised to see him continue at left-back.
 
-Where’s Van Dijk? Well, he will be 33 in five years but Liverpool will have to prepare for bids from some of the _really big clubs_² in Europe sooner if he carries on his impeccable form.
+Where’s Van Dijk? Well, he will be 33 in five years but Liverpool will have to prepare for bids from some of the _really big clubs_ ² in Europe sooner if he carries on his impeccable form.
 
 There will be a temptation by the club’s hierarchy to sell him as they’ll be able to make a hefty profit despite forking out £75million for him in January 2018.
 
@@ -68,7 +68,7 @@ He has been tried out in midfield by Klopp on a couple of occasions but Alexande
 
 Meanwhile, the likes of **Alex Oxlade-Chamberlain** and **Naby Keita** are likely to see more first-team action if they’re still around.
 
-Up front could see a few changes too with **Mohamed Salah** and **Sadio Mane** bound to **attract the attention of _bigger clubs_¹** than Liverpool.
+Up front could see a few changes too with **Mohamed Salah** and **Sadio Mane** bound to **attract the attention of _bigger clubs_ ¹** than Liverpool.
 
 Mane even admitted to being jealous of Philippe Coutinho when he got his move to Barcelona so the Reds may have to call on some of their youngsters to step up in the future.
 
@@ -94,7 +94,7 @@ It’s also not clear whether midfielder **Curtis Jones**, 18, will be a success
 
 Mentions **have to go out** to the likes of **Jordan Henderson** and **Georginio Wijnaldum**, who will be 34 and 33 respectively.
 
-{% include figure caption="Will Divock Origi be a part of Liverpool’s set up in five years time?" alt="divock origi" image_url="https://i0.wp.com/talksport.com/wp-content/uploads/sites/5/2019/09/NINTCHDBPICT000512347275-e1567586059803.jpg" %}
+{% include figure caption="Will Divock Origi be a part of Liverpool’s set up in five years time?" alt="divock origi" image_url="https://i0.wp.com/indiatimespost.com/wp-content/uploads/2019/06/Divock-Origi-confirms-he-will-decide-on-Liverpool-future-after.jpg" %}
 
 There’s nothing to suggest they won’t be at the club in the 2024/25 season but they’ll surely be too old to be playing every week at that intensity.
 
@@ -106,5 +106,5 @@ As for **James Milner**, he’ll be 38 in five years so he only just misses out 
 
 > Article By **Jackson Cole**, talksport.com.
 
-> 1. big clubs = big money spender
+> 1. big/bigger club = big money spender
 > 2. really big club = royale money spender
