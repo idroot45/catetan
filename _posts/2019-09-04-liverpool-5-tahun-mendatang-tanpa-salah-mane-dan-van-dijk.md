@@ -39,9 +39,7 @@ However, quite a lot of the Reds playing now may not be around in five years inc
 
 This could spell the opportunity for Loris Karius, who is currently going in the middle of a two-year loan spell with Besiktas, a chance to work his way back into the Liverpool fold.
 
-{% include image_path="https://talksport.com/wp-content/uploads/sites/5/2019/04/GettyImages-1012803876.jpg?strip=all&w=960&quality=100" alt="Karius Allison" %}
-
-Karius and Alisson are the same age but the Brazilian is bound to attract more attention from the bigger clubs
+{% include image_path="https://talksport.com/wp-content/uploads/sites/5/2019/04/GettyImages-1012803876.jpg?strip=all&w=960&quality=100" alt="Karius Allison" caption="Karius and Alisson are the same age but the Brazilian is bound to attract more attention from the bigger clubs" %}
 
 The German has not played competitively for the Reds since his disastrous performance in the 2018 Champions League final where he made two costly howlers in Liverpool’s 3-1 defeat to Real Madrid.
 
