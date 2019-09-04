@@ -94,7 +94,7 @@ It’s also not clear whether midfielder **Curtis Jones**, 18, will be a success
 
 Mentions **have to go out** to the likes of **Jordan Henderson** and **Georginio Wijnaldum**, who will be 34 and 33 respectively.
 
-{% include figure caption="Will Divock Origi be a part of Liverpool’s set up in five years time?" alt="divock origi" image_url="https://i0.wp.com/indiatimespost.com/wp-content/uploads/2019/06/Divock-Origi-confirms-he-will-decide-on-Liverpool-future-after.jpg" %}
+{% include figure caption="Will Divock Origi be a part of Liverpool’s set up in five years time?" alt="divock origi" image_url="https://i0.wp.com/indiatimespost.com/wp-content/uploads/2019/06/Divock-Origi-confirms-he-will-decide-on-Liverpool-future-after.jpg?ssl=1" %}
 
 There’s nothing to suggest they won’t be at the club in the 2024/25 season but they’ll surely be too old to be playing every week at that intensity.
 
