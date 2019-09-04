@@ -2,8 +2,10 @@
 title: "Starting XI Liverpool 5 Tahun di Masa Depan"
 excerpt: "How Liverpool could line up in five years including Alexander-Arnold in new role"
 header:
- image: https://www.massiveepicfail.com/wp-content/uploads/2019/07/FIFA20_VANDIJK_COVER_REVEAL_HIRES_WM_16X9_JUL23-1024x577.jpg
- teaser: https://dummyimage.com/360x240/00/f.gif&text=Liverpool+24/25
+ image: "https://i1.wp.com/www.massiveepicfail.com/wp-content/uploads/2019/07/FIFA20_VANDIJK_COVER_REVEAL_HIRES_WM_16X9_JUL23-1024x577.jpg"
+ teaser: "https://dummyimage.com/360x240/00/f.gif&text=Liverpool+24/25"
+categories: [sepakbola]
+tags: [liverpool fc, liverpool future, liverpool 24/25, starting eleven]
 date: 2019-09-04 10:34:00
 last_modified_at: 2019-09-04 11:16:00
 ---
@@ -11,7 +13,7 @@ Liverpool had an uncharacteristically quiet transfer window with three fairly lo
 
 Goalkeeper Adrian arrived to strengthen their options between the sticks, while youngsters Sepp van den Berg, 17, and Harvey Elliott, 16, have also come in.
 
-{% include caption="Van den Berg was Liverpool’s first signing of the summer" image_path="https://i0.wp.com/talksport.com/wp-content/uploads/sites/5/2019/06/Sepp-van-den-Berg-1.jpg?strip=all&w=801&quality=100" alt="sepp van den berg"%}
+{% include caption="Van den Berg was Liverpool’s first signing of the summer" image_path="https://i0.wp.com/talksport.com/wp-content/uploads/sites/5/2019/06/Sepp-van-den-Berg-1.jpg?strip=all&w=801&quality=100" alt="sepp van den berg" %}
 
 Defender Van den Berg has earned comparisons with fellow Dutchman Virgil Van Dijk while winger Elliott is the youngest ever player to play in the Premier League (aged 16 years and 30 days).
 
@@ -103,4 +105,4 @@ Divock Origi will probably always be at his best as an impact substitute so we h
 
 As for James Milner, he’ll be 38 in five years so he only just misses out – we think.
 
-> Article **_By Jackson Cole_**, talksport.com
+> Article By **Jackson Cole**, talksport.com
