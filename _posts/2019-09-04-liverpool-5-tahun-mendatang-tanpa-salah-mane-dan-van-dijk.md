@@ -28,7 +28,7 @@ But below you can see our [best guess](/sepakbola/liverpool-5-tahun-mendatang-ta
 
 ### Option 1: 4-3-3
 
-{% include figure image_path="https://i0.wp.com/talksport.com/wp-content/uploads/sites/5/2019/08/lineup-19.png" caption="Will this be Liverpool’s starting XI on the opening weekend of the 2024/25 season?" caption="liverpol starting xi 2024/2025" %}
+{% include figure image_path="https://i0.wp.com/talksport.com/wp-content/uploads/sites/5/2019/08/lineup-19.png" caption="Will this be Liverpool’s starting XI on the opening weekend of the 2024/25 season?" alt="liverpol starting xi 2024/2025 4-4-3" %}
 
 Chances are Jurgen Klopp will not be Liverpool manager as his contract ends in 2022 and the German has given interviews recently which suggest he’ll leave Anfield when his deal expires.
 
