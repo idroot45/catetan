@@ -10,7 +10,7 @@ tags: [liverpool fc, liverpool future, starting eleven]
 date: 2019-09-04 10:05:00
 last_modified_at: 2019-09-04 20:16:00
 ---
-Liverpool had an uncharacteristically quiet transfer window with three fairly low key signings in the summer.
+Liverpool had an uncharacteristically [quiet transfer window](https://www.liverpool.com/liverpool-fc-news/features/coutinho-eriksen-neymar-liverpool-transfers-16857927.amp) with three fairly low key signings in the summer.
 
 Goalkeeper **Adrian** arrived to strengthen their options between the sticks, while youngsters **[Sepp van den Berg](/sepakbola/liverpool-making-unknown-youngster-first-signing/)**, 17, and **Harvey Elliott**, 16, have also come in.
 
@@ -88,7 +88,7 @@ However, a more defensive line-up could see tough tackling **Fabinho**, who will
 
 This would leave Keita and Oxlade-Chamberlain to **fight it out** for that slot in attacking midfield.
 
-Youngsters **Bobby Duncan** and **Ryan Kent** may have had a good chance at making it on Merseyside but they have now **moved to Fiorentina and Rangers**, respectively, on permanent transfers.
+Youngsters **Bobby Duncan** and **Ryan Kent** may have had a good chance at making it on Merseyside but they have now **moved to [Fiorentina](https://www.violanation.com/platform/amp/fiorentina-transfer-rumors-news-reports/2019/9/2/20844474/official-fiorentina-bobby-duncan-liverpool-transfer-buy-sell-agent) and Rangers**, respectively, on permanent transfers.
 
 It’s also not clear whether midfielder **Curtis Jones**, 18, will be a success at Anfield.
 
