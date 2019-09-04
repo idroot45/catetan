@@ -31,7 +31,7 @@ But below you can see our best guess at what **Liverpool’s starting XI for t
 
 Chances are Jurgen Klopp will not be Liverpool manager as his contract ends in 2022 and the German has given interviews recently which suggest he’ll leave Anfield when his deal expires.
 
-The club has grown accustomed to playing a certain way under him though, so it would be no surprise to see them play a similar system post Klopp.
+The club has grown accustomed to playing a certain way under him though, so it would be **no surprise to see them play a similar system** post Klopp.
 
 However, quite a lot of the Reds playing now may not be around in five years including goalkeeper Alisson Becker – who is established as one of the world’s best stoppers – and you wouldn’t be surprised to see the likes of Real Madrid or Barcelona make an approach for him in the future.
 
@@ -87,13 +87,13 @@ However, a more defensive line-up could see tough tackling **Fabinho**, who will
 
 This would leave Keita and Oxlade-Chamberlain to **fight it out** for that slot in attacking midfield.
 
-Youngsters Bobby Duncan and Ryan Kent may have had a good chance at making it on Merseyside but they have now **moved to Fiorentina and Rangers**, respectively, on permanent transfers.
+Youngsters **Bobby Duncan** and **Ryan Kent** may have had a good chance at making it on Merseyside but they have now **moved to Fiorentina and Rangers**, respectively, on permanent transfers.
 
 It’s also not clear whether midfielder **Curtis Jones**, 18, will be a success at Anfield.
 
 Mentions **have to go out** to the likes of **Jordan Henderson** and **Georginio Wijnaldum**, who will be 34 and 33 respectively.
 
-{% include caption="Will Divock Origi be a part of Liverpool’s set up in five years time?" alt="divock origi" image_url="https://i0.wp.com/talksport.com/wp-content/uploads/sites/5/2019/08/lineup-20.png" %}
+{% include figure caption="Will Divock Origi be a part of Liverpool’s set up in five years time?" alt="divock origi" image_url="https://i0.wp.com/talksport.com/wp-content/uploads/sites/5/2019/08/lineup-20.png" %}
 
 There’s nothing to suggest they won’t be at the club in the 2024/25 season but they’ll surely be too old to be playing every week at that intensity.
 
