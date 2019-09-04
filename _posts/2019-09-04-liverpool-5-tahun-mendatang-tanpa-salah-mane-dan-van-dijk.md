@@ -54,7 +54,7 @@ In defence, we could see **Van den Berg**, who will then be 22-years-old, forge 
 
 **Andy Robertson** will be in his 30s by then but the Scotland captain is full of running so don’t be surprised to see him continue at left-back.
 
-Where’s Van Dijk? Well, he will be 33 in five years but Liverpool will have to prepare for bids from some of the _really big clubs_ ² in Europe sooner if he carries on his impeccable form.
+Where’s Van Dijk? Well, he will be 33 in five years but Liverpool will have to prepare for bids from some of the _really big clubs_ ² in Europe sooner if he carries on his [impeccable form](https://www.thisisanfield.com/2019/09/virgil-van-dijk-continues-to-shine-in-the-scrutiny-of-being-best-in-the-world/amp/).
 
 There will be a temptation by the club’s hierarchy to sell him as they’ll be able to make a hefty profit despite forking out £75million for him in January 2018.
 
