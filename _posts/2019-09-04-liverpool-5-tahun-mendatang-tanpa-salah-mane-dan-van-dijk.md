@@ -1,5 +1,5 @@
 ---
-title: "Starting XI Liverpool 5 Tahun di Masa Depan"
+title: "Menerawang Starting XI Liverpool 5 Tahun di Masa Depan"
 excerpt: "How Liverpool could line up in five years including Alexander-Arnold in new role"
 header:
  image: "https://i1.wp.com/www.massiveepicfail.com/wp-content/uploads/2019/07/FIFA20_VANDIJK_COVER_REVEAL_HIRES_WM_16X9_JUL23-1024x577.jpg"
@@ -11,19 +11,19 @@ last_modified_at: 2019-09-04 20:16:00
 ---
 Liverpool had an uncharacteristically quiet transfer window with three fairly low key signings in the summer.
 
-Goalkeeper **Adrian** arrived to strengthen their options between the sticks, while youngsters **Sepp van den Berg**, 17, and **Harvey Elliott**, 16, have also come in.
+Goalkeeper **Adrian** arrived to strengthen their options between the sticks, while youngsters **[Sepp van den Berg](/sepakbola/liverpool-making-unknown-youngster-first-signing/)**, 17, and **Harvey Elliott**, 16, have also come in.
 
-{% include figure caption="Van den Berg was Liverpool’s first signing of the summer" image_path="https://i0.wp.com/talksport.com/wp-content/uploads/sites/5/2019/06/Sepp-van-den-Berg-1.jpg?strip=all&w=801&quality=100" alt="sepp van den berg" %}
+{% include figure caption="Van den Berg was Liverpool’s first signing of the summer" image_path="https://i0.wp.com/talksport.com/wp-content/uploads/sites/5/2019/06/Sepp-van-den-Berg-1.jpg" alt="sepp van den berg" %}
 
 Defender Van den Berg has earned comparisons with fellow Dutchman **Virgil Van Dijk** while winger Elliott is the youngest ever player to play in the Premier League (aged 16 years and 30 days).
 
-It’s unlikely these players will feature for the first-team a lot this season, particularly Van den Berg and Elliott, although [both have made their Champions League squad](/).
+It’s unlikely these players will feature for the first-team a lot this season, particularly Van den Berg and Elliott, although [both have made their Champions League squad](https://www.facebook.com/story.php?story_fbid=2850973304932029&id=100000581627394).
 
 The latest development is promising though and this got us thinking at talkSPORT.com, **how might the Reds look in five years time**?
 
 Of course, without a time machine at our disposal, it’s terribly hard to fully predict what can happen in the future as circumstances can change so quickly in football.
 
-But below you can see our best guess at what **Liverpool’s starting XI for the opening weekend of the 2024/25** season may look like.
+But below you can see our [best guess](/sepakbola/liverpool-5-tahun-mendatang-tanpa-salah-mane-dan-van-dijk/) at what **Liverpool’s starting XI for the opening weekend of the 2024/25** season may look like.
 
 ### Option 1: 4-3-3
 
