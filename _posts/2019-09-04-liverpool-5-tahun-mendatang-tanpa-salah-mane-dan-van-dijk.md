@@ -4,6 +4,7 @@ excerpt: "How Liverpool could line up in five years including Alexander-Arnold i
 header:
  image: "https://i1.wp.com/www.massiveepicfail.com/wp-content/uploads/2019/07/FIFA20_VANDIJK_COVER_REVEAL_HIRES_WM_16X9_JUL23-1024x577.jpg"
  teaser: "https://dummyimage.com/360x240/00/f.gif&text=Liverpool+24/25"
+ caption: "Virgil van-Dijk, **FIFA20/EA Sports**"
 categories: [sepakbola]
 tags: [liverpool fc, liverpool future, starting eleven]
 date: 2019-09-04 10:05:00
