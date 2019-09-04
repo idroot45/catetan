@@ -7,12 +7,14 @@ header:
   provider: "full_link"
  teaser: "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/4221396001/50ff65f3-690b-43ec-8f22-f5390b55bdcd/bf440c62-f30e-46db-a922-45c5045f6d1e/1280x720/match/image.jpg"
 categories: 
- - olahraga
+ - sepakbola
 tags:
  - liverpool fc
  - van den berg
  - young player
  - transfer window
+redirect_from:
+ - /olahraga/liverpool-making-unknown-youngster-first-signing/
 link: https://www.mirror.co.uk/sport/football/news/making-unknown-youngster-first-signing-17267069.amp
 ---
 Liverpool have signalled their summer transfer intent… by making an unknown youngster their first signing.
@@ -20,8 +22,6 @@ Liverpool have signalled their summer transfer intent… by making an unknown yo
 The Reds have agreed an initial fee of £1.3m for Netherlands U19 international defender Sepp van den Berg, with the signing due to be formally completed on July 1.
 
 Significantly though, club officials have stressed the 17-year-old PEC Zwolle centre half is NOT an academy signing, and will join the first team squad for pre-season training and warm up games.
-
-{% include ads.html %}
 
 And that is a clear indication of the club’s decision to pursue a low-key transfer policy during the current window.
 
