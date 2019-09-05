@@ -4,13 +4,13 @@
 <div class="responsive-video-container">
 
 {% if audio_provider == "hosted" %}
- <audio controls><source src="/asstes/audio/{{ audio_id }}" type="audio/mpeg">Your browser does not support the audio element.</audio>
+ <audio controls><source src="/assets/audio/{{ audio_id }}" type="audio/mpeg">Your browser does not support the audio element.</audio>
 {% elsif audio_provider == "youtube" %}
  <div data-video="audio_id" data-autoplay="0" data-loop="1" id="youtube-audio"><i class="fa fa-circle">loading</i></div>
  <script src="https://www.youtube.com/iframe_api"></script>
  <script src="https://cdn.rawgit.com/labnol/files/master/yt.js"></script>
 {% elsif audio_provider == "soundcloud" %}
-<iframe wscrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/{{ audio_id }}&color=%23ff5500&auto_play=true&hide_related=true&show_comments=false&show_user=false&show_reposts=false&show_teaser=false"></iframe>
+<iframe wscrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/{{ audio_id }}&color=%23ff5500&auto_play=false&hide_related=true&show_comments=false&show_user=false&show_reposts=false&show_teaser=false"></iframe>
 {% endif %}
 
 </div>
