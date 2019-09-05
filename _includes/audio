@@ -5,7 +5,7 @@
 {% if audio_provider == "hosted" %}
  <audio style="width:80%" controls><source src="/assets/audio/{{ audio_id }}" type="audio/mpeg">Your browser does not support the audio element.</audio>
 {% elsif audio_provider == "youtube" %}
- <div data-video="audio_id" data-autoplay="0" data-loop="1" id="youtube-audio"></div>
+ <div data-video="youtube-audio" data-autoplay="0" data-loop="1" id="youtube-audio"></div>
  <script src="https://www.youtube.com/iframe_api"></script>
  <script src="https://cdn.rawgit.com/labnol/files/master/yt.js"></script>
 {% elsif audio_provider == "soundcloud" %}
