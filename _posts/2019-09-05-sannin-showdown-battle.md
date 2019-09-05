@@ -9,7 +9,7 @@ Testing audio embedding with include audio
 
 ### Include souncloud audio track/playlist
 
-```yaml
+```raw
 {% include audio id=&quot;soundcloud_audio_id&quot; provider=&quot;souncloud&quot; %}
 ```
 
@@ -17,7 +17,7 @@ Testing audio embedding with include audio
 
 ### Include hosted audio track
 
-```yaml
+```raw
 {% include audio id=&quot;audio_name.mp3&quot; provider=&quit;hosted&quot; %}
 ```
 
@@ -26,6 +26,6 @@ Testing audio embedding with include audio
 
 ### Embed youtube as audio track
 
-```yaml
+```raw
 {% include audio id=&quot;youtube_video_id&quot; provider=&quot;youtube&quot; %}
 ```
