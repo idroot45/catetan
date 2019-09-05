@@ -1,11 +1,12 @@
 ---
+title: "Embedding Audio: Sannin Showdown Battle Unreleased Extended Theme Track"
 #header:
 # image: ""
 # teaser: ""
 categories: [audio]
 tags: [naruto theme track, sannin showdown audio, sannin battle theme]
 ---
-Testing audio embedding with include audio
+Testing audio embedding with include audio with 3 alternatif source including self hosted audio. The extended version of unreleased theme track sannin battle from Naruto Shippuden.
 
 ### Include souncloud audio track/playlist
 
