@@ -4,7 +4,7 @@
 <div class="responsive-video-container">
 
 {% if audio_provider == "hosted" %}
- <audio controls><source src="{{ audio_id }}" type="audio/mpeg">Your browser does not support the audio element.</audio>
+ <audio controls><source src="/asstes/audio/{{ audio_id }}" type="audio/mpeg">Your browser does not support the audio element.</audio>
 {% elsif audio_provider == "youtube" %}
  <div data-video="audio_id" data-autoplay="0" data-loop="1" id="youtube-audio"><i class="fa fa-circle">loading</i></div>
  <script src="https://www.youtube.com/iframe_api"></script>
