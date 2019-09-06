@@ -40,3 +40,5 @@ Yesterday, Trend Micro researchers went public with [their findings](https://w
 For the moment, there's no easy solution to prevent malicious apps from exploiting this issue.
 
 Many of 2018's most dangerous Android and iOS security flaws still threaten your mobile security.
+
+_Source: [zdnet](https://www.zdnet.com/google-amp/article/zero-day-disclosed-in-android-os/)_
