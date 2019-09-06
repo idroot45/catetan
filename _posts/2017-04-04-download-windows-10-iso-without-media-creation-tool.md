@@ -68,7 +68,7 @@ Retail
 It’s important to make sure that you are creating `ei.cfg` and NOT `ei.cfg.txt` file.
 
 To make sure you, go check these 3 images:
-[image 1](https://mk0intowindows84fvao.kinstacdn.com/wp-content/uploads/2018/02/download-Windows-10-Professional-edition-pic05.jpg), [image 2](https://mk0intowindows84fvao.kinstacdn.com/wp-content/uploads/2018/02/download-Windows-10-Professional-edition-pic06.jpg), image 3)[https://mk0intowindows84fvao.kinstacdn.com/wp-content/uploads/2018/02/download-Windows-10-Professional-edition-pic07.jpg).
+[image 1](https://mk0intowindows84fvao.kinstacdn.com/wp-content/uploads/2018/02/download-Windows-10-Professional-edition-pic05.jpg), [image 2](https://mk0intowindows84fvao.kinstacdn.com/wp-content/uploads/2018/02/download-Windows-10-Professional-edition-pic06.jpg), [image 3](https://mk0intowindows84fvao.kinstacdn.com/wp-content/uploads/2018/02/download-Windows-10-Professional-edition-pic07.jpg).
 
 Step 9: Finally, copy and paste this **ei.cfg** file to the root of the **Sources** folder in the bootable media of Windows 10. That is, open up the bootable media, open up the Sources folder, and then paste the `ei.cfg` there.
 
@@ -122,7 +122,7 @@ Step 8: Click on the small folder icon next to Boot Image box (see picture) a
 
 ![](https://mk0intowindows84fvao.kinstacdn.com/wp-content/uploads/2014/06/Create-bootable-Window-ISO-from-USB-step6.jpg)
 
-Step 9: Finally, click on the Build button (see picture) to begin creating your bootable Windows ISO image file. Upon clicking the Build button, three dialog boxes will appear one after another. Simply click the Yes button when you see the first dialog, click the OK button when you see the second, and then, click the Yes button again when you see the last dialog. Check these images: [image 1](https://mk0intowindows84fvao.kinstacdn.com/wp-content/uploads/2014/06/Create-bootable-Window-ISO-from-USB-step5.jpg), image 2](https://mk0intowindows84fvao.kinstacdn.com/wp-content/uploads/2014/06/ImageBurn4.png), [image 3](https://mk0intowindows84fvao.kinstacdn.com/wp-content/uploads/2014/06/Create-bootable-Window-ISO-from-USB-step9.jpg)
+Step 9: Finally, click on the Build button (see picture) to begin creating your bootable Windows ISO image file. Upon clicking the Build button, three dialog boxes will appear one after another. Simply click the Yes button when you see the first dialog, click the OK button when you see the second, and then, click the Yes button again when you see the last dialog. Check these images: [image 1](https://mk0intowindows84fvao.kinstacdn.com/wp-content/uploads/2014/06/Create-bootable-Window-ISO-from-USB-step5.jpg), [image 2](https://mk0intowindows84fvao.kinstacdn.com/wp-content/uploads/2014/06/ImageBurn4.png), [image 3](https://mk0intowindows84fvao.kinstacdn.com/wp-content/uploads/2014/06/Create-bootable-Window-ISO-from-USB-step9.jpg)
 
 Once the bootable ISO image is ready, you’ll see “Operation successfully completed” message.
 
