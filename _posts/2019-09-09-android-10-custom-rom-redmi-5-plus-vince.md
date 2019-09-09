@@ -15,14 +15,14 @@ This is an alpha build, no support will be provided for it.
 ## SCREENSHOOTS
 
 |:---:|:---:|:---:|:---:|
-|[![](/assests/images/photo_2019-09-06_23-51-00.jpg?key=9S0HeuJM_YFG8L3rs3NeMA&ts=1568016836)](/assests/images/photo_2019-09-06_23-51-00.jpg?key=9S0HeuJM_YFG8L3rs3NeMA&ts=1568016836)|[![](/assests/images/photo_2019-09-06_23-51-13.jpg?key=_B2l7b5dLmpcBIfKeX0JWA&ts=1568016837)](/assests/images/photo_2019-09-06_23-51-13.jpg?key=_B2l7b5dLmpcBIfKeX0JWA&ts=1568016837)|[![](/assests/images/photo_2019-09-06_23-51-17.jpg?key=OwVX5LGqwSUavCYxrW0h-Q&ts=1568016837)](/assests/images/photo_2019-09-06_23-51-17.jpg?key=OwVX5LGqwSUavCYxrW0h-Q&ts=1568016837)|
-|[![](/assests/images/photo_2019-09-06_23-51-21.jpg?key=TSrTNJVszmKSrEVhZOmMgw&ts=1568016962)](/assests/images/photo_2019-09-06_23-51-21.jpg?key=TSrTNJVszmKSrEVhZOmMgw&ts=1568016962)|[![](/assests/images/photo_2019-09-06_23-51-25.jpg?key=37qxO69Z5x85qI_tZDR9dA&ts=1568017001)](/assests/images/photo_2019-09-06_23-51-25.jpg?key=37qxO69Z5x85qI_tZDR9dA&ts=1568017001)|[![](/assests/images/photo_2019-09-06_23-51-28.jpg?key=x0qA5o0VA1Gy6mF8HNjYtA&ts=1568017017)](/assests/images/photo_2019-09-06_23-51-28.jpg?key=x0qA5o0VA1Gy6mF8HNjYtA&ts=1568017017)|
+|[![ss 1](/assests/images/photo_2019-09-06_23-51-00.jpg)](/assests/images/photo_2019-09-06_23-51-00.jpg)|[![ss 2](/assests/images/photo_2019-09-06_23-51-13.jpg)](/assests/images/photo_2019-09-06_23-51-13.jpg)|[![ss 3](/assests/images/photo_2019-09-06_23-51-17.jpg)](/assests/images/photo_2019-09-06_23-51-17.jpg)|
+|[![ss 3](/assests/images/photo_2019-09-06_23-51-21.jpg)](/assests/images/photo_2019-09-06_23-51-21.jpg)|[![ss 4](/assests/images/photo_2019-09-06_23-51-25.jpg)](/assests/images/photo_2019-09-06_23-51-25.jpg)|[![ss 6](/assests/images/photo_2019-09-06_23-51-28.jpg)](/assests/images/photo_2019-09-06_23-51-28.jpg)|
 
 ## DOWNLOADS
 
 |ROM|[potato_vince-10-20190906.CHIPS-v3.0.0-alpha+1.COMMUNITY.zip](https://sourceforge.net/projects/aperture-builds/files/POSP/10/potato_vince-10-20190906.CHIPS-v3.0.0-alpha%2B1.COMMUNITY.zip/download)|
 |Recovery|[SAR TWRP](https://mi.knoacc.org/dl/drive?id=1yJh0dt980TnXA5689KWn11bdXA8bjO7l&name=SAR&size=TWRP)|
-|GApps|[GApps 10](https://mi.knoacc.org/dl/drive/id=11oBlR6OhWSdJbYG1MgH9WYL29RkLwUuc&name=Gapps&size=10)|
+|GApps|[GApps 10](https://mi.knoacc.org/dl/drive?id=11oBlR6OhWSdJbYG1MgH9WYL29RkLwUuc&name=Gapps&size=10)|
 |Developer|[4PERTURE](https://forum.xda-developers.com/member.php?u=8984156)|
 |Thread|[xda forum](https://forum.xda-developers.com/redmi-note-5/development/rom-posp-q-t3965423)|
 
