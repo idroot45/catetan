@@ -20,6 +20,7 @@ This is an alpha build, no support will be provided for it.
 
 ## DOWNLOADS
 
+|:--:|:---:|
 |ROM|[potato_vince-10-20190906.CHIPS-v3.0.0-alpha+1.COMMUNITY.zip](https://sourceforge.net/projects/aperture-builds/files/POSP/10/potato_vince-10-20190906.CHIPS-v3.0.0-alpha%2B1.COMMUNITY.zip/download)|
 |Recovery|1. [OrangeFox](https://sourceforge.net/projects/orangefox/files/vince/OrangeFox-R10.0-Stable-vince.zip/download){: rel="nofollow noreferer noopener} 2. [System As Root (SAR) TWRP](https://mi.knoacc.org/dl/drive?id=1yJh0dt980TnXA5689KWn11bdXA8bjO7l&name=SAR_TWRP&size=20.4MB){: rel="nofollow noreferer noopener} |
 |GApps|[BiTGApps-Q.zip](https://mi.knoacc.org/dl/drive?id=11oBlR6OhWSdJbYG1MgH9WYL29RkLwUuc&name=Gapps10&size=91MB)|
