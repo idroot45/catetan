@@ -16,7 +16,7 @@ This is an alpha build, no support will be provided for it.
 
 |ROM|[potato_vince-10-20190906.CHIPS-v3.0.0-alpha+1.COMMUNITY.zip](https://sourceforge.net/projects/aperture-builds/files/POSP/10/potato_vince-10-20190906.CHIPS-v3.0.0-alpha%2B1.COMMUNITY.zip/download)|
 |Recovery|[SAR TWRP](https://mi.knoacc.org/dl/drive?id=1yJh0dt980TnXA5689KWn11bdXA8bjO7l&name=SAR&size=TWRP)|
-|GApps|(https://mi.knoacc.org/dl/drive/id=11oBlR6OhWSdJbYG1MgH9WYL29RkLwUuc&name=Gapps&size=10)|
+|GApps|[GApps 10](https://mi.knoacc.org/dl/drive/id=11oBlR6OhWSdJbYG1MgH9WYL29RkLwUuc&name=Gapps&size=10)|
 
 ## INSTRUCTIONS
 
