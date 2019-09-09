@@ -15,8 +15,8 @@ This is an alpha build, no support will be provided for it.
 ## SCREENSHOOTS
 
 |:---:|:---:|:---:|:---:|
-|[![ss 1](/assests/images/photo_2019-09-06_23-51-00.jpg)](/assests/images/photo_2019-09-06_23-51-00.jpg)|[![ss 2](/assests/images/photo_2019-09-06_23-51-13.jpg)](/assests/images/photo_2019-09-06_23-51-13.jpg)|[![ss 3](/assests/images/photo_2019-09-06_23-51-17.jpg)](/assests/images/photo_2019-09-06_23-51-17.jpg)|
-|[![ss 3](/assests/images/photo_2019-09-06_23-51-21.jpg)](/assests/images/photo_2019-09-06_23-51-21.jpg)|[![ss 4](/assests/images/photo_2019-09-06_23-51-25.jpg)](/assests/images/photo_2019-09-06_23-51-25.jpg)|[![ss 6](/assests/images/photo_2019-09-06_23-51-28.jpg)](/assests/images/photo_2019-09-06_23-51-28.jpg)|
+|[![ss 1](/assets/images/photo_2019-09-06_23-51-00.jpg)](/assets/images/photo_2019-09-06_23-51-00.jpg)|[![ss 2](/assets/images/photo_2019-09-06_23-51-13.jpg)](/assets/images/photo_2019-09-06_23-51-13.jpg)|[![ss 3](/assets/images/photo_2019-09-06_23-51-17.jpg)](/assets/images/photo_2019-09-06_23-51-17.jpg)|
+|[![ss 3](/assets/images/photo_2019-09-06_23-51-21.jpg)](/assets/images/photo_2019-09-06_23-51-21.jpg)|[![ss 4](/assets/images/photo_2019-09-06_23-51-25.jpg)](/assets/images/photo_2019-09-06_23-51-25.jpg)|[![ss 6](/assets/images/photo_2019-09-06_23-51-28.jpg)](/assets/images/photo_2019-09-06_23-51-28.jpg)|
 
 ## DOWNLOADS
 
