@@ -54,6 +54,6 @@ Source code for the new release is already up and available at AOSP, which broug
 
 Now, more Android 10 custom ROMs have begun sprouting up for devices like the Xiaomi POCO F1, the Xiaomi Mi 6, and the Xiaomi Mi 8 beside this [POSP 10 for Redmi 5 Plus (vince)](/android/android-10-custom-rom-redmi-5-plus-vince/).
 
-## LineageOS 16.0
+### Additional notes: LineageOS 16.0
 
 Link to this section at [buildkite](https://buildkite.com/lineageos/android/builds?branch=lineage-16.0) to monitor LineageOS 16.0 Custom ROM.
