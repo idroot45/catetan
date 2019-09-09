@@ -12,11 +12,16 @@ tags: [android 10, custom rom, redmi 5 plus, posp 10]
 
 This is an alpha build, no support will be provided for it.
 
+|:---:|:---:|:---:|:---:|
+|![](https://dl.xda-developers.com/4/8/1/6/1/8/2/photo_2019-09-06_23-51-00.jpg?key=9S0HeuJM_YFG8L3rs3NeMA&ts=1568016836)|![](https://dl.xda-developers.com/4/8/1/6/1/8/3/photo_2019-09-06_23-51-13.jpg?key=_B2l7b5dLmpcBIfKeX0JWA&ts=1568016837)|![](https://dl.xda-developers.com/4/8/1/6/1/8/4/photo_2019-09-06_23-51-17.jpg?key=OwVX5LGqwSUavCYxrW0h-Q&ts=1568016837)|![](https://dl.xda-developers.com/4/8/1/6/1/8/5/photo_2019-09-06_23-51-21.jpg?key=TSrTNJVszmKSrEVhZOmMgw&ts=1568016962)|
+
 ## DOWNLOADS
 
 |ROM|[potato_vince-10-20190906.CHIPS-v3.0.0-alpha+1.COMMUNITY.zip](https://sourceforge.net/projects/aperture-builds/files/POSP/10/potato_vince-10-20190906.CHIPS-v3.0.0-alpha%2B1.COMMUNITY.zip/download)|
 |Recovery|[SAR TWRP](https://mi.knoacc.org/dl/drive?id=1yJh0dt980TnXA5689KWn11bdXA8bjO7l&name=SAR&size=TWRP)|
 |GApps|[GApps 10](https://mi.knoacc.org/dl/drive/id=11oBlR6OhWSdJbYG1MgH9WYL29RkLwUuc&name=Gapps&size=10)|
+|Developer|[4PERTURE](https://forum.xda-developers.com/member.php?u=8984156)|
+|Thread|[xda forum](https://forum.xda-developers.com/redmi-note-5/development/rom-posp-q-t3965423)|
 
 ## INSTRUCTIONS
 
@@ -28,7 +33,7 @@ This is an alpha build, no support will be provided for it.
 6. Reboot to recovery again (yes, twice)
 7. Flash Gapps provided
 
-## WORK and wht's NOT
+## WORK and what's NOT
 
 |Working|RIL, WiFi, Camera, Bluetooth, Sensors, Audio, Media, Playback, IR, GPS|
 |Not Working|Goodix FP, Thermal engine is cucked (device will overheat if used while charging)|
@@ -39,3 +44,7 @@ This is an alpha build, no support will be provided for it.
 ## Another phone
 
 Android 10 is finally here, and it brings along a lot of goodies that software enthusiasts will appreciate. Officially, stable Android 10 is available on Google Pixel devices, the Essential Phone, and the Xiaomi Redmi K20 Pro, while beta builds can be found for the OnePlus 7 and OnePlus 7 Pro, and Samsung had been spotted testing the update with OneUI 2.0 for the Snapdragon and Exynos Samsung Galaxy S10 and Exynos Samsung Galaxy Note 10. Source code for the new release is already up and available at AOSP, which brought to us the first Android 10 custom ROM, that too on the ASUS ZenFone Max Pro M1 with practically no bugs. Now, more Android 10 custom ROMs have begun sprouting up for devices like the Xiaomi POCO F1, the Xiaomi Mi 6, and the Xiaomi Mi 8
+
+## LineageOS Android 10
+
+Link this to see [buildkite](https://buildkite.com/lineageos/android/builds?branch=lineage-16.0)
