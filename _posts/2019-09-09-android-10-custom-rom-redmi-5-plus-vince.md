@@ -5,6 +5,7 @@ header:
  image: "https://www.xda-developers.com/files/2019/03/POSP-Potato-Open-Sauce-Project.png"
  teaser: "https://i0.wp.com/www.xda-developers.com/files/2019/03/POSP-Potato-Open-Sauce-Project.png?resize=460,320"
  og_image: "https://www.xda-developers.com/files/2019/03/POSP-Potato-Open-Sauce-Project.png"
+ caption: "Android 10 for Redmi 5 Plus and more"
 categories: [android]
 tags: [android 10, custom rom, redmi 5 plus, posp 10]
 ---
