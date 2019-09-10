@@ -3,6 +3,8 @@ title: "Ubuntu 19.10 Will Boot Faster Thanks to LZ4 Compression"
 excerpt: "Canonical engineers tested a variety of different compression options on the Ubuntu install image..."
 header:
  image: "https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2019/05/ubuntu-19.10-eoan-ermine.jpg"
+ teaser: "https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2019/05/ubuntu-19.10-eoan-ermine.jpg?resize=460,320"
+ og_image: "https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2019/05/ubuntu-19.10-eoan-ermine.jpg"
 categories: [linux]
 tags: [distro linux, ubuntu tls, ubuntu 19.10, ubuntu theme yaru]
 last_modified_at: 2019-09-11 01:35:54
