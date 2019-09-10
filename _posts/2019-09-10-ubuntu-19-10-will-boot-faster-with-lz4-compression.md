@@ -28,5 +28,4 @@ _“As media gets faster, the load time difference between GZIP, LZ4 and LZO dim
 
 Those minded can pore over the [full test results](https://kernel.ubuntu.com/~cking/boot-speed-eoan-5.3/kernel-compression-method.txt) in finer detail.
 
-> source: [smackerelofopinion](https://smackerelofopinion.blogspot.com) via [omgubuntu](https://www.omgubuntu.co.uk/2019/09/ubuntu-19-10-faster-boot-lz4)
-{:.align-right}
+> source: [smackerelofopinion](https://smackerelofopinion.blogspot.com) via [omgubuntu](https://www.omgubuntu.co.uk/2019/09/ubuntu-19-10-faster-boot-lz4). {:.align-right}
