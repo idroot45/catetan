@@ -1,13 +1,16 @@
 ---
 title: Zero-day disclosed in Android OS
 header:
- image: https://zdnet1.cbsistatic.com/hub/i/2019/09/05/49082237-c365-4baa-87ff-b2b6c0426452/1a6cf3bec7821fd176ee05d1e2b37be8/android-vulnerability.jpg
+ image: "https://zdnet1.cbsistatic.com/hub/i/2019/09/05/49082237-c365-4baa-87ff-b2b6c0426452/1a6cf3bec7821fd176ee05d1e2b37be8/android-vulnerability.jpg"
+ og_image: "https://zdnet1.cbsistatic.com/hub/i/2019/09/05/49082237-c365-4baa-87ff-b2b6c0426452/1a6cf3bec7821fd176ee05d1e2b37be8/android-vulnerability.jpg"
+ teaser: "https://i0.wp.com/zdnet1.cbsistatic.com/hub/i/2019/09/05/49082237-c365-4baa-87ff-b2b6c0426452/1a6cf3bec7821fd176ee05d1e2b37be8/android-vulnerability.jpg?resize=460,320"
+ caption: "0-Day"
 categories: [android]
 tags: [zero-day vulnerability, V4L2 driver, Video for Linux, privilege escalation]
 ---
 Android project maintainers fail to fix dangerous privilege escalation bug six months after initial report.
 
-Details about a zero-day vulnerability impacting the Android mobile operating system have been published online, yesterday, September 4.
+Details about a **zero-day vulnerability** impacting the Android mobile operating system have been published online, yesterday, September 4.
 
 The vulnerability resides in how the [Video for Linux (V4L2) driver](https://www.linuxtv.org/downloads/legacy/video4linux/v4l2dwgNew.html){: rel="noopener noreferer nofollow"} that's included with the Android OS handles input data.
 
