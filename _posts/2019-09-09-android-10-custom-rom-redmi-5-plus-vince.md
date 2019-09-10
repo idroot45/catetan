@@ -3,6 +3,8 @@ title: "Potato Open Sauce Project (POSP) 10 For the Redmi 5 Plus"
 excerpt: "Custom ROM for Redmi 5 Plus (international) or Redmi Note 5 (India) based on Android 10"
 header:
  image: "https://www.xda-developers.com/files/2019/03/POSP-Potato-Open-Sauce-Project.png"
+ teaser: "https://i0.wp.com/www.xda-developers.com/files/2019/03/POSP-Potato-Open-Sauce-Project.png?resize=460,320"
+ og_image: "https://www.xda-developers.com/files/2019/03/POSP-Potato-Open-Sauce-Project.png"
 categories: [android]
 tags: [android 10, custom rom, redmi 5 plus, posp 10]
 ---
