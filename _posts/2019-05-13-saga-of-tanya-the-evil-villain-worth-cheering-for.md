@@ -1,12 +1,12 @@
 ---
 title: "Saga of Tanya the Evil, A Villain Worth Cheering For"
-excerpt: "Saga of Tanya the Evil – The Movie Review: Finally, a Villain Worth Rooting For"
+excerpt: "‘Saga of Tanya the Evil’ – The Movie Review: Finally, a Villain Worth Rooting For"
 header:
  video:
   id: "2k30du2kzpjwpy6"
   provider: "fembed"
- og_image: "https://i0.wp.com/cdn.collider.com/wp-content/uploads/2019/04/saga-of-tanya-the-evil-movie.jpg
- teaser: "https://i0.wp.com/cdn.collider.com/wp-content/uploads/2019/04/saga-of-tanya-the-evil-movie.jpg?resize=460,320
+ og_image: "https://i0.wp.com/cdn.collider.com/wp-content/uploads/2019/04/saga-of-tanya-the-evil-movie.jpg"
+ teaser: "https://i0.wp.com/cdn.collider.com/wp-content/uploads/2019/04/saga-of-tanya-the-evil-movie.jpg?resize=460,320"
 categories: [video]
 tags: [anime movie, tanya the evil]
 last_modified_at: 2019-09-10 21:17:10
