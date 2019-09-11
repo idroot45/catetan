@@ -9,7 +9,8 @@ header:
  teaser: "https://img1.ak.crunchyroll.com/i/spire3/99fd7e3815a2315abc385cb7f149144f1547595750_full.jpg"
 categories: [video]
 tags: [anime movie, fate stay night, heavens feel 2, lost butterfly]
-
+last_modified_at: 2019-09-11 21:19:22
+---
 > “Review ini bakal **mengandung banyak spoiler**. Alangkah baiknya jika melihat filmnya terlebih dahulu!” Simpan videonya [dari sini](https://mi.knoacc.org/dl/fembed?cde=eqp6zf-0p1421e-&st1=open&st2=fembed.com){:.btn btn--default rel="nofollow noopener" target="_blank"}
 
 Review kali ini hadir dari penayangan perdana **Film Fate/stay Night Movie: Heaven’s Feel II**. _Lost Butterfly_ secara reguler di Indonesia pada Rabu (10/4) kemarin di [CGV]. Film kedua dari film **trilogi Fate/stay Night: Heaven’s Feel** ini menghadirkan banyak sekali adegan drama romansa, terutama hubungan cinta antara **Emiya Shirou** dan **Sakura Matou**.
