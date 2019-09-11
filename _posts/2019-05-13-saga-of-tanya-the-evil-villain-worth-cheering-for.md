@@ -1,6 +1,6 @@
 ---
 title: "Saga of Tanya the Evil, A Villain Worth Cheering For"
-excerpt: "‘Saga of Tanya the Evil’ – The Movie Review: Finally, a Villain Worth Rooting For"
+excerpt: "‘Saga of Tanya the Evil’ – The Movie Review by Cruncyroll: Finally, a Villain Worth Rooting For"
 header:
  video:
   id: "2k30du2kzpjwpy6"
@@ -11,6 +11,7 @@ categories: [video]
 tags: [anime movie, tanya the evil]
 last_modified_at: 2019-09-10 21:17:10
 ---
+> Want to save the video to watch it later? [download](https://mi.knoacc.org/dl/fembed?cde=2k30du2kzpjwpy6&st1=open&st2=fembed.com){:.btn btn--success rel="nofollow noopener" target="_blank"}
 
 Who’s up for an alternate history / military-themed anime movie centering on a young girl leading a squadron of airborne mages into battle during the Great War? I know I am!
 
@@ -32,4 +33,3 @@ But Tanya’s true test in this movie is embodied in a young and powerful mage n
 
 The only thing holding Saga of Tanya the Evil – The Movie back (other than that less-than-inspired title) is that it’s unwilling to kill off its darlings. Unlike fellow anime series Attack on Titan or live-action hit Game of Thrones in its heyday, Saga of Tanya the Evil loves its main and supporting characters so much that none of them are ever really in danger of dying, on either side of the battle line. That’s a shame because adding an element of meaningful danger would raise the stakes and make this title into something even more special than it already is.
 
-> Want to save the video to watch it later? [download](https://www.fembed.com/f/2k30du2kzpjwpy6)
