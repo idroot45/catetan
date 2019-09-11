@@ -5,8 +5,8 @@ header:
  video:
   id: "11zd6uj6lnzwgm0"
   provider: "fembed"
- teaser: /assets/image/stealth-suit.png
- og_image: /assets/image/spiderman-marvel.png
+ teaser: /assets/images/stealth-suit.png
+ og_image: /assets/images/spiderman-marvel.png
 categories: [video]
 tags: [film spiderman, spiderman far from home, review film]
 ---
