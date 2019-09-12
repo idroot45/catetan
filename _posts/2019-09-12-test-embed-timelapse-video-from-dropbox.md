@@ -4,6 +4,7 @@ header:
  video:
   id: "https://www.dropbox.com/s/tjxjpwc61fs9gex/_20190912_090651488.mp4?raw=1"
   provider: "raw"
+  poster: ""
 categories: [video]
 tags: [timelapse video, milkyway video]
 ---
