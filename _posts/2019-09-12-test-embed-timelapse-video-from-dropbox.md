@@ -27,13 +27,13 @@ Percobaan untuk embedding video dari Dropbox
 
 ### Percobaan 1
 
-Memuat video yang di hosting di dropbox menggunakan tag `video` html5 murni dengan pembungkus css video reponsive. Menggunakan tautan yang diberikan untuk unduh dari dropobox dan ganti query menjadi `dl=1`
+Memuat video yang di hosting di dropbox menggunakan tag `video` html5 murni dengan pembungkus css `video reponsive` yang sudah ada. Menggunakan tautan yang diberikan untuk unduh dari dropobox dan ganti query menjadi `dl=1`
 
 Hasil: gagal.
 
 ### Percobaan 2
 
-Masih menggunakan tautan unduh dropbox video. Tetapi memanfaatkan Video.js untuk load video.
+Masih menggunakan tautan unduh dropbox video. Tetapi memanfaatkan [Video.js](http://videojs.com/html5-video-support/) untuk load video.
 
 Hasil: maasih gagal.
 
