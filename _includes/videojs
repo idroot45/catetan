@@ -1,7 +1,9 @@
 {% capture videoid %}{{ include.id }}{% endcapture %}
 {% capture videoposter %}{{ include.poster }}{% endcapture %}
-<div class="responsive-video-container"><video class='video-js' width='auto' controls data-setup='{ preload: meta, playbackRates: [1, 1.5, 2] }'>
+<div class="responsive-video-container">
+<video id="player" class='video-js vjs-fluid vjs-16-9' width='400' controls data-setup='{ preload: meta, playbackRates: [1, 1.5, 2] }'>
   <source src='{{ videoid }}' type='video/mp4'></source>
 </video>
-<script src="https://vjs.zencdn.net/7.6/video.js" ></script>
 </div>
+<script src="https://vjs.zencdn.net/7.6/video.js" ></script>
+
