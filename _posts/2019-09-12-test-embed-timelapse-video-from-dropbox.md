@@ -46,6 +46,8 @@ Hasil: Bisa. tapi tidak sempurna.
 
 Jika memakai video dari dropbox, sepertinya harus balik memakai tag `video` html5 murni tanpa `Video.js`.
 
-### Percobaan 4
+### Workaround Video.js
+
+Tinggal utak-atik video.js nya 🤪
 
 Memakai tag `video` dan modif query `raw=1`
