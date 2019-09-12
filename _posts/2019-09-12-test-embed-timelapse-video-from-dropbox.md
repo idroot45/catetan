@@ -42,3 +42,14 @@ Hasil: maasih gagal.
 
 Mencari referensi embed dropbox, menemukan [post ini](https://www.dropboxforum.com/t5/Files-folders/Embed-Video-to-Website/m-p/208035/highlight/true#M78228) di forum user dropbox. Tetap menggunakan Video.js (karena terlanjur) dan mengganti query menjadi `raw=1`
 
+Hasil: Bisa. tapi tidak sempurna. 
+
+Jika memakai video dari dropbox, sepertinya harus balik memakai tag `video` html5 murni tanpa `Video.js`.
+
+### Percobaan 4
+
+Memakai tag `video` dan modif query `raw=1`
+
+<video controls class="responsive-video">
+ <source src="https://www.dropbox.com/s/tjxjpwc61fs9gex/_20190912_090651488.mp4?raw=1" type="video/mp4"></source>
+</video>
