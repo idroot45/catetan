@@ -1,6 +1,9 @@
 {% capture video_id %}{{ include.id }}{% endcapture %}
 {% capture video_provider %}{{ include.provider }}{% endcapture %}
 
+{% if video_provider == "raw" %}
+  {% include videojs %}
+{% else %}
 <div class="responsive-video-container">
 {% if video_provider == "vimeo" %}
   <iframe src="https://player.vimeo.com/video/{{ video_id }}?dnt=true" frameborder="0" webkitAllowFullScreen="" mozallowfullscreen="" allowFullScreen=""></iframe>
@@ -14,7 +17,6 @@
   <iframe src="https://www.dailymotion.com/embed/video/{{ video_id }}" frameborder="0" webkitAllowFullScreen="" mozallowfullscreen="" allowFullScreen="" ></iframe>
 {% elsif video_provider == "full_link" %}
   <iframe src="{{ video_id }}" frameborder="0" webkitAllowFullScreen="" mozallowfullscreen="" allowFullScreen="" ></iframe>
-{% elsif video_provider == "raw" %}
-  {% include videojs %}
 {% endif %}
 </div>
+{% endif %}
