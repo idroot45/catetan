@@ -49,7 +49,3 @@ Jika memakai video dari dropbox, sepertinya harus balik memakai tag `video` html
 ### Percobaan 4
 
 Memakai tag `video` dan modif query `raw=1`
-
-<video controls class="responsive-video">
- <source src="https://www.dropbox.com/s/tjxjpwc61fs9gex/_20190912_090651488.mp4?raw=1" type="video/mp4"></source>
-</video>
