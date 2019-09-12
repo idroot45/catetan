@@ -1,13 +1,8 @@
 {% capture videoid %}{{ include.id }}{% endcapture %}
+{% capture videoposter %}{{ include.poster }}{ endcapture %}
 
 <div class="responsive-video-container">
-  <video id="my-player" class="video-js" controls preload="auto">
-   <source src="{{ video_id }}" type=”video/mp4"/></source>
-   <p class=”vjs-no-js”>
- To view this video please enable JavaScript, and consider upgrading to a web browser that
-   <a href=”http://videojs.com/html5-video-support/” target=”_blank”>
- supports HTML5 video
-   </a>
-   </p>
+  <video id='my-player' class='video-js' controls='controls' preload='auto' poster='{{ videoposter }}' data-setup='{}'>
+   <source src='{{ videoid }}' type='video/mp4'></source>
   </video>
 </div>
