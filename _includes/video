@@ -5,6 +5,9 @@
 
 {% if video_provider == "vimeo" %}
   <iframe src="https://player.vimeo.com/video/{{ video_id }}?dnt=true" frameborder="0" webkitAllowFullScreen="" mozallowfullscreen="" allowFullScreen=""></iframe>
+{% elsif video_provider == "raw" %}
+  <video controls="controls">
+  <source src="{{ video_id }}" type="video/mp4">Your browser does not support the video tag.</video> 
 {% elsif video_provider == "youtube" %}
   <iframe src="https://www.youtube-nocookie.com/embed/{{ video_id }}" frameborder="0" webkitAllowFullScreen="" mozallowfullscreen="" allowFullScreen=""></iframe>
 {% elsif video_provider == "fembed"%}
