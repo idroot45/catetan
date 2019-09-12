@@ -7,6 +7,13 @@ header:
 categories: [video]
 tags: [timelapse video, milkyway video]
 ---
+## Test 1
+
+Memuat video yang di hosting di dropbox menggunakan tag `video` html5 murni dengan pembungkus css video reponsive: gagal.
+
+## Test 2
+
+Masih menggunakan dropbox video. Tetapi memanfaatkan Video.js untuk load video.
 
 Seorang pencinta malam bercerita pada gulita, sambil menunjukkan air matanya.
 Katanya:
