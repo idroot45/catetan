@@ -1,6 +1,6 @@
 {% capture videoid %}{{ include.id }}{% endcapture %}
 {% capture videoposter %}{{ include.poster }}{% endcapture %}
-<video id='my-player' class='video-js vjs-fluid' autoplay="true" controls='true' poster='{{ videoposter }}' >
+<video id='my-player' class='video-js vjs-fluid' controls='true' preload='auto' aspectratio="16:9" fluid="true" poster='{{ videoposter }}' >
   <source src='{{ videoid }}' type='video/mp4'></source>
 </video>
 <script src="https://vjs.zencdn.net/7.6/video.min.js" ></script>
