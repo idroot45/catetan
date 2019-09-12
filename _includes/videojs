@@ -1,7 +1,8 @@
 {% capture videoid %}{{ include.id }}{% endcapture %}
-{% capture videoposter %}{{ include.poster }}{% endcapture %}
+{% capture videoposter %}{% if include.poster == ""%}{% if page.header.image %}{{ page.header.image}}{% elsif page.header.og_image %}{{}}
+{% elsif site.image %}{{ site.image }}{% endif %}{% else %}{{ include.poster }}{% endif %}{% endcapture %}
 <div class="responsive-video-container">
-<video id="player" class='video-js vjs-fluid vjs-16-9' width='400' controls data-setup='{ preload: meta, playbackRates: [1, 1.5, 2] }'>
+<video id="player" poster="{{ videoposter }}"class='video-js vjs-fluid vjs-16-9' width='400' controls data-setup='{ preload: meta, playbackRates: [1, 1.5, 2] }'>
   <source src='{{ videoid }}' type='video/mp4'></source>
 </video>
 </div>
