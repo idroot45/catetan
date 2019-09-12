@@ -3,7 +3,7 @@ title: "Embed Timelapse Video from DropBox [Test]"
 header:
  video:
   id: "https://www.dropbox.com/s/tjxjpwc61fs9gex/_20190912_090651488.mp4?dl=1"
-  provider: "raw"
+  provider: "full_link"
 categories: [video]
 tags: [timelapse video, milkyway video]
 ---
