@@ -1,10 +1,8 @@
-{% capture video_id %}{{ include.id }}{% endcapture %}
-{% capture video_provider %}{{ include.provider }}{% endcapture %}
+{% capture videoid %}{{ include.id }}{% endcapture %}
 
 <div class="responsive-video-container">
-{% elsif video_provider == "raw" %}
   <video id="my-player" class="video-js" controls preload="auto">
-   <source src="{{ video_id }}" type=”video/mp4"></source>
+   <source src="{{ video_id }}" type=”video/mp4"/></source>
    <p class=”vjs-no-js”>
  To view this video please enable JavaScript, and consider upgrading to a web browser that
    <a href=”http://videojs.com/html5-video-support/” target=”_blank”>
@@ -12,5 +10,4 @@
    </a>
    </p>
   </video>
-{% endif %}
 </div>
