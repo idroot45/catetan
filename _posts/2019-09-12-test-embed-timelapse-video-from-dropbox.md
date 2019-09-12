@@ -44,10 +44,8 @@ Mencari referensi embed dropbox, menemukan [post ini](https://www.dropboxforum.c
 
 Hasil: Bisa. tapi tidak sempurna. 
 
-Jika memakai video dari dropbox, sepertinya harus balik memakai tag `video` html5 murni tanpa `Video.js`.
+Jika memakai video dari dropbox, sepertinya harus balik memakai tag `video` html5 murni tanpa `Video.js`. Entahlah.
 
 ### Workaround Video.js
 
-Tinggal utak-atik video.js nya 🤪
-
-Memakai tag `video` dan modif query `raw=1`
+Tinggal utak-atik video.js
