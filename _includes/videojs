@@ -1,5 +1,5 @@
 {% capture videoid %}{{ include.id }}{% endcapture %}
-{% capture videoposter %}{{ include.poster }}{ endcapture %}
+{% capture videoposter %}{{ include.poster }}{% endcapture %}
 
   <video id='my-player' class='video-js responsive-video-container' controls='controls' preload='auto' poster='{{ videoposter }}'>
    <source src='{{ videoid }}' type='video/mp4'></source>
