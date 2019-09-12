@@ -3,4 +3,4 @@
 <video id='my-player' class='video-js' data-setup='{ "preload":"meta", fluid="true", "playbackRates": [1, 1.5, 2] }'>
   <source src='{{ videoid }}' type='video/mp4'></source>
 </video>
-<script src="https://vjs.zencdn.net/7.6/video.min.js" ></script>
+<script src="https://vjs.zencdn.net/7.6/video.js" ></script>
