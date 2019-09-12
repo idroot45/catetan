@@ -1,13 +1,23 @@
 {% capture video_id %}{{ include.id }}{% endcapture %}
 {% capture video_provider %}{{ include.provider }}{% endcapture %}
-
+{% if video_id == "raw"}}
+{% capture video_poster %}}{{ include.image }}{% endcapture %}
+{% endif %}
 <div class="responsive-video-container">
 
 {% if video_provider == "vimeo" %}
   <iframe src="https://player.vimeo.com/video/{{ video_id }}?dnt=true" frameborder="0" webkitAllowFullScreen="" mozallowfullscreen="" allowFullScreen=""></iframe>
 {% elsif video_provider == "raw" %}
-  <video controls="controls">
-  <source src="{{ video_id }}" type="video/mp4">Your browser does not support the video tag.</video> 
+  <video id="my-player" class="video-js" controls preload=”auto”
+ poster="{{ video_poster }}">
+   <source src="{{ video_id }}" type=”video/mp4"></source>
+   <p class=”vjs-no-js”>
+ To view this video please enable JavaScript, and consider upgrading to a web browser that
+   <a href=”http://videojs.com/html5-video-support/” target=”_blank”>
+ supports HTML5 video
+   </a>
+   </p>
+  </video>
 {% elsif video_provider == "youtube" %}
   <iframe src="https://www.youtube-nocookie.com/embed/{{ video_id }}" frameborder="0" webkitAllowFullScreen="" mozallowfullscreen="" allowFullScreen=""></iframe>
 {% elsif video_provider == "fembed"%}
