@@ -11,7 +11,7 @@
 <!-- For all browsers -->
 <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
 {% if page.header.video.provider == "raw" %}
-<link rel="stylesheer" href="https://vjs.zencdn.net/7.0/video-js.min.css" >
+<link rel="stylesheer" href="https://vjs.zencdn.net/7.6/video-js.min.css" >
 {% endif %}
 <!--[if IE ]>
   <style>
@@ -27,9 +27,6 @@
     }
   </style>
 <![endif]-->
-{% if page.header.video.provider == "raw" %}
-<script src="https://vjs.zencdn.net/7.0/video.min.js" ></script>
-{% endif %}
 {% if site.head_scripts %}
   {% for script in site.head_scripts %}
     {% if script contains "://" %}
