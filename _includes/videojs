@@ -4,4 +4,5 @@
  <video id='my-player' class='video-js vjs-default-skin' controls width='640' height='267' preload='meta' poster='{{ videoposter }}' data-setup='{ "aspectRatio":"16:9", "playbackRates}'>
   <source src='{{ videoid }}' type='video/mp4'></source>
  </video>
+<script src="https://vjs.zencdn.net/7.6/video.min.js" ></script>
 </div>
