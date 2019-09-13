@@ -14,7 +14,7 @@ FIFA 20's full release date is September 27, 2019.
 
 Egyptian forward Mohamed Salah is the joint-highest-rated Liverpool player in the game with an overall rating of 90. The 27-year-old, who was rated 88 last season, comes complete with 93 pace and 89 for dribbling, while he’ll promise the find the net regularly with 86 shooting.
 
-[![liverpool squad](/assets/images/Liverpool-squad.jpg)](/assets/images/Liverpool-squad.jpg Liverpool FC Squad)
+[![liverpool squad](/assets/images/Liverpool-squad.jpg)](/assets/images/Liverpool-squad.jpg)
 
 Up there with Salah at the top of Liverpool's ratings is Dutch defender Virgil van Dijk, who is also a 90-rated player. The centre-back, who is heavily in contention for the Ballon d’Or later this year, is the **highest-rated defender in the game**.
 
@@ -22,7 +22,7 @@ The other two members of Liverpool’s devastating front three - Sadio Mané and
 
 Brazilian goalkeeper Alisson has an 89 rating in this year’s game, which includes 90 positioning, 89 reflexes and 85 for his kicking. 
 
-[![liverpool's full-baks duo](/assets/images/liverpool-full-backs.jpg)](/assets/images/liverpool-full-backs.jpg Roberson and TAA)
+[![liverpool's full-baks duo](/assets/images/liverpool-full-backs.jpg)](/assets/images/liverpool-full-backs.jpg)
 
 Liverpool’s full-backs have also received a **massive improvement** on their ratings. Last year, Trent Alexander-Arnold and Andy Robertson were rated at 78 and 81 respectively; now the former has shot up to 83, with his Scottish team-mate a little higher at 85 – enough to put him in the game's top 100 players. 
 
@@ -30,36 +30,36 @@ Exciting young forward Rhian Brewster has a 64 rating, while [summer signing Sep
 
 The list of **Liverpool player overall ratings** can be seen below:
 
-|Player Name|Overall Rating|
-|-----------------------:|:-------------:|
-|**Mohamed Salah**|90|
-|**Virgil van Dijk**|90|
-|Alisson|89|
-|Sadio Mané|88|
-|Roberto Firmino|86|
-|Fabinho|85|
-|**Andy Robertson**|85|
-|Georginio Wijnaldum|84|
-|**Trent Alexander-Arnold**|83|
-|Jordan Henderson|83|
-|Xherdan Shaqiri|82|
-|**Joel Matip**|82|
-|Naby Keita|82|
-|James Milner|81|
-|**Joe Gomez**|80|
-|Alex Oxlade-Chamberlain|80|
-|Dejan Lovren|80|
-|Adam Lallana|79|
-|Divock Origi|78|
-|Nathaniel Clyne|78|
-|Herbie Kane|67|
-|Pedro Chirivella|66|
-|**Sepp Van den Berg**|66|
-|Andy Longergan|65|
-|**Rhian Brewster**|64|
-|Ki-Jana Hoever|62|
-|Curtis Jones|61|
-|Adam Lewis|60|
+||Player Name|Overall Rating|
+|---:|:----|:--:|
+|11|**Mohamed Salah**|90|
+|4|**Virgil van Dijk**|90|
+|1|Alisson|89|
+|10|Sadio Mané|88|
+|9|Roberto Firmino|86|
+|3|Fabinho|85|
+|26|**Andy Robertson**|85|
+|6|Georginio Wijnaldum|84|
+|66|**Trent Alexander-Arnold**|83|
+|14|Jordan Henderson|83|
+|23|Xherdan Shaqiri|82|
+||**Joel Matip**|82|
+|8|Naby Keita|82|
+|7|James Milner|81|
+||**Joe Gomez**|80|
+||Alex Oxlade-Chamberlain|80|
+||Dejan Lovren|80|
+||Adam Lallana|79|
+||Divock Origi|78|
+||Nathaniel Clyne|78|
+||Herbie Kane|67|
+||Pedro Chirivella|66|
+||**Sepp Van den Berg**|66|
+||Andy Longergan|65|
+||**Rhian Brewster**|64|
+||Ki-Jana Hoever|62|
+||Curtis Jones|61|
+||Adam Lewis|60|
 
 
 _Source: **FourFourTwo**_
