@@ -2,8 +2,9 @@
 title: "FilmoraGo, Video Editor Filmora untuk Android"
 excerpt: "FilmoraGo adalah editor video tanpa watermark buatan developer yang membuat Filmora, sebuah editor video populer untuk PC"
 header:
- overlay_image: https://www.modmafia.co/wp-content/uploads/wpdm-cache/filmorago-900x0.png
- teaser: https://www.modmafia.co/wp-content/uploads/wpdm-cache/filmorago-900x0.png?resize=
+ overlay_image: "https://i0.wp.com/www.modmafia.co/wp-content/uploads/wpdm-cache/filmorago-900x0.png"
+ og_image: "https://i0.wp.com/www.modmafia.co/wp-content/uploads/wpdm-cache/filmorago-900x0.png"
+ teaser: "https://i0.wp.com/www.modmafia.co/wp-content/uploads/wpdm-cache/filmorago-900x0.png?resize=320,320"
  caption: "**FilmoraGo v3.1.5** - Premium Unlocked"
 categories: [aplikasi]
 tags: [filmorago apk pro, editor video android, video cutter android, filmora android]
@@ -18,5 +19,5 @@ tags: [filmorago apk pro, editor video android, video cutter android, filmora an
 |---|---|---|---|---|
 |FilmoraGo|v3.1.5|35.3|August 17, 2019|Unlocked|
 
-[Download](/){: .btn .btn--success .btn--large .align-center}
+[Download](https://bit.ly/2kzCw9t){: target="_blank" rel="noopener" .btn .btn--success .btn--large .align-center}
 
