@@ -40,8 +40,8 @@ I'm hopeful that Swift's spotlight on the issue will spark a national conversati
 
 Thanks for writing this anthem, Taylor. Never doubt the fact that you are, without a doubt, the man.
 
-> Source: **Forbes**
-> Writer: **Brittany Hodak**
+_Source: **Forbes**_
+_Writer: **Brittany Hodak**_
 
 ### Lirycs
 
@@ -122,14 +122,14 @@ I'd be the man (oh)
 I'd be the man (yeah)
 I'd be the man (I'd be the man)
 
-> Source: **LyricFind**
+_Source: **LyricFind**_
 
 ### The Man - Lover [2019]
 
-> Artist: Taylor Swift
-> Album: Lover
-> Released: 2019
-> Genre: Pop
-> Songwriters: Joel Little / Taylor Swift
-> The Man lyrics © Sony/ATV Music Publishing LLC
-> Video: YouTube Vevo
+_Artist: **Taylor Swift**_
+_Album: **Lover**_
+_Released: **2019**_
+_Genre: **Pop**_
+_Songwriters: **Joel Little / Taylor Swift**_
+_The Man lyrics © **Sony/ATV Music Publishing LLC**_
+_Video: **YouTube Vevo**_
