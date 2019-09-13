@@ -2,7 +2,7 @@
 title: "EA announces full list of Liverpool FIFA 20 player ratings"
 excerpt: "EA Games umumkan rating pemain-pemain Liverpool FC dalam game FIFA 20"
 header:
- image: "https://i0.wp.com/images.cdn.fourfourtwo.com/sites/fourfourtwo.com/files/styles/image_landscape/public/62_firmino.jpg"
+ image: "https://images.cdn.fourfourtwo.com/sites/fourfourtwo.com/files/styles/image_landscape/public/62_firmino.jpg"
  caption: "EA Sports has announced its FIFA 20 ratings for Liverpool ahead of the game’s release in a fortnight’s time."
 categories: [sepakbola]
 tags: [game fifa 20, rating pemain, liverpool fc]
