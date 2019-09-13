@@ -1,5 +1,5 @@
 ---
-title: "Taylor Swift - The Man"
+title: "Taylor Swift - The Man [Album Lover, 2019]"
 excerpt: "Why 'Lover' Track 'The Man' Is The Most Important Song Taylor Swift Has Ever Written"
 header:
  og_image: https://i.ytimg.com/vi/pHoHDNxay3A/maxresdefault.jpg
@@ -40,16 +40,9 @@ I'm hopeful that Swift's spotlight on the issue will spark a national conversati
 
 Thanks for writing this anthem, Taylor. Never doubt the fact that you are, without a doubt, the man.
 
-### The Man
-
-|Artist:|Taylor Swift|
-|Album:|Lover|
-|Released:|2019|
-|Genre:|Pop|
-
 ### Lirycs
 
-_I would be complex
+I would be complex
 I would be cool
 They'd say I played the field before
 I found someone to commit to
@@ -126,6 +119,12 @@ I'd be the man (oh)
 I'd be the man (yeah)
 I'd be the man (I'd be the man)_
 
+### The Man - Lover [2019]
+
+> Artist: Taylor Swift
+> Album: Lover
+> Released: 2019
+> Genre: Pop
 > Source: LyricFind
 > Songwriters: Joel Little / Taylor Swift
 > The Man lyrics © Sony/ATV Music Publishing LLC
