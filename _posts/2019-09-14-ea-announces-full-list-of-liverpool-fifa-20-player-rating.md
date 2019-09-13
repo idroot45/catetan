@@ -7,7 +7,7 @@ header:
 categories: [sepakbola]
 tags: [game fifa 20, rating pemain, liverpool fc]
 ---
-The Reds [won the Champions League for a sixth time]() in June, extending their record as the English team with the most wins in the competition. As a result, several of Jurgen Klopp’s squad have received a ratings hike from last year.
+The Reds [won the Champions League for a sixth](/sepakbola/tradisi-lama-liverpool-kembali-setelah-berhasil-juara-liga-champions/) time in June, extending their record as the English team with the most wins in the competition. As a result, several of [Jurgen Klopp’s squad](/sepakbola/liverpool-5-tahun-mendatang-tanpa-salah-mane-dan-van-dijk/) have received a ratings hike from last year.
 
 FIFA 20's full release date is September 27, 2019.
 {:.notice .notice--info}
@@ -22,15 +22,15 @@ Brazilian goalkeeper Alisson has an 89 rating in this year’s game, which inclu
 
 Liverpool’s full-backs have also received a **massive improvement** on their ratings. Last year, Trent Alexander-Arnold and Andy Robertson were rated at 78 and 81 respectively; now the former has shot up to 83, with his Scottish team-mate a little higher at 85 – enough to put him in the game's top 100 players. 
 
-Exciting young forward Rhian Brewster has a 64 rating, while summer signing Sepp van den Berg comes in at 66. 
+Exciting young forward Rhian Brewster has a 64 rating, while [summer signing Sepp van den Berg](/sepakbola/liverpool-making-unknown-youngster-first-signing/) comes in at 66. 
 
-The list of Liverpool player overall ratings can be seen below:
+The list of **Liverpool player overall ratings** can be seen below:
 
-|Player Name|Rating|
+|Player Name|Overall Rating|
 |---:|:---:|
 |**Mohamed Salah**|90|
 |**Virgil van Dijk**|90|
-|**Alisson**|89|
+|Alisson|89|
 |Sadio Mané|88|
 |Roberto Firmino|86|
 |Fabinho|85|
