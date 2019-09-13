@@ -40,6 +40,9 @@ I'm hopeful that Swift's spotlight on the issue will spark a national conversati
 
 Thanks for writing this anthem, Taylor. Never doubt the fact that you are, without a doubt, the man.
 
+> Source: **Forbes**
+> Writer: **Brittany Hodak**
+
 ### Lirycs
 
 I would be complex
@@ -117,7 +120,9 @@ Then I'd be the man
 I'd be the man
 I'd be the man (oh)
 I'd be the man (yeah)
-I'd be the man (I'd be the man)_
+I'd be the man (I'd be the man)
+
+> Source: **LyricFind**
 
 ### The Man - Lover [2019]
 
@@ -125,6 +130,6 @@ I'd be the man (I'd be the man)_
 > Album: Lover
 > Released: 2019
 > Genre: Pop
-> Source: LyricFind
 > Songwriters: Joel Little / Taylor Swift
 > The Man lyrics © Sony/ATV Music Publishing LLC
+> Video: YouTube Vevo
