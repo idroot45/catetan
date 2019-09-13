@@ -30,36 +30,36 @@ Exciting young forward Rhian Brewster has a 64 rating, while [summer signing Sep
 
 The list of **Liverpool player overall ratings** can be seen below:
 
-||Player Name|Overall Rating|
-|---:|:----|:--:|
-|11|**Mohamed Salah**|90|
-|4|**Virgil van Dijk**|90|
-|1|Alisson|89|
-|10|Sadio Mané|88|
-|9|Roberto Firmino|86|
-|3|Fabinho|85|
-|26|**Andy Robertson**|85|
-|6|Georginio Wijnaldum|84|
-|66|**Trent Alexander-Arnold**|83|
-|14|Jordan Henderson|83|
-|23|Xherdan Shaqiri|82|
-||**Joel Matip**|82|
-|8|Naby Keita|82|
-|7|James Milner|81|
-||**Joe Gomez**|80|
-||Alex Oxlade-Chamberlain|80|
-||Dejan Lovren|80|
-||Adam Lallana|79|
-||Divock Origi|78|
-||Nathaniel Clyne|78|
-||Herbie Kane|67|
-||Pedro Chirivella|66|
-||**Sepp Van den Berg**|66|
-||Andy Longergan|65|
-||**Rhian Brewster**|64|
-||Ki-Jana Hoever|62|
-||Curtis Jones|61|
-||Adam Lewis|60|
+|Position|Shirt|Player Name|Overall Rating|
+|---|---:|:----|:--:|
+|FW|11|**Mohamed Salah**|90|
+|DF|4|**Virgil van Dijk**|90|
+|GK|1|Alisson|89|
+|FW|10|Sadio Mané|88|
+|FW|9|Roberto Firmino|86|
+|MF|3|Fabinho|85|
+|DF|26|**Andy Robertson**|85|
+|DF|5|Georginio Wijnaldum|84|
+|DF|66|**Trent Alexander-Arnold**|83|
+|MF|14|Jordan Henderson|83|
+|MF|23|Xherdan Shaqiri|82|
+|DF|32|**Joel Matip**|82|
+|DF|8|Naby Keita|82|
+|MF|7|James Milner|81|
+|DF|12|**Joe Gomez**|80|
+|MF|15|Alex Oxlade-Chamberlain|80|
+|DF|6|Dejan Lovren|80|
+|MF|20|Adam Lallana|79|
+|FW|27|Divock Origi|78|
+|DF|2|Nathaniel Clyne|78|
+|DF||Herbie Kane|67|
+|MF|68|Pedro Chirivella|66|
+|DF|72|**Sepp Van den Berg**|66|
+|GK|22|Andy Longergan|65|
+|FW|24|**Rhian Brewster**|64|
+|DF|51|Ki-Jana Hoever|62|
+|MF|48|Curtis Jones|61|
+|DF|46|Adam Lewis|60|
 
 
 _Source: **FourFourTwo**_
