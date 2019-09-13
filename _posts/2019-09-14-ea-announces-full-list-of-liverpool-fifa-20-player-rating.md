@@ -27,7 +27,7 @@ Exciting young forward Rhian Brewster has a 64 rating, while [summer signing Sep
 The list of **Liverpool player overall ratings** can be seen below:
 
 |Player Name|Overall Rating|
-|---:|:---:|
+|-----------------------:|:-------------:|
 |**Mohamed Salah**|90|
 |**Virgil van Dijk**|90|
 |Alisson|89|
@@ -57,6 +57,5 @@ The list of **Liverpool player overall ratings** can be seen below:
 |Curtis Jones|61|
 |Adam Lewis|60|
 
-{:.align-center}
 
 _Source: **FourFourTwo**_
