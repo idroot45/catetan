@@ -56,5 +56,6 @@ The list of **Liverpool player overall ratings** can be seen below:
 |Ki-Jana Hoever|62|
 |Curtis Jones|61|
 |Adam Lewis|60|
+{:.align-center}
 
 _Source: **FourFourTwo**_
