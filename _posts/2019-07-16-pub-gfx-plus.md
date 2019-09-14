@@ -2,7 +2,7 @@
 layout: splash
 title: "PUB Gfx+ v0.17.1 untuk PUBG Mobile Season 9"
 header:
- overlay_image: "https://asset-a.grid.id/photo/2019/07/16/271288314.jpg"
+ overlay_image: "https://i1.wp.com/www.ggwp.id/wp-content/uploads/2019/09/GGWP-Story-PUBGM-Royale-Pass-Season-9-Cv.jpg"
  actions:
   - label: Download
     url: "https://bit.ly/2lQGniF"
@@ -20,21 +20,11 @@ redirect_from:
  - /inc.trilokia.pubgfxtool/
 last_modified_at: 2019-09-14 23:43:22
 ---
+{% include figure image_path="https://i0.wp.com/www.androidpolice.com/wp-content/uploads/2019/09/PUBG-Mobile-0.14.5.jpg" url="https://i0.wp.com/www.androidpolice.com/wp-content/uploads/2019/09/PUBG-Mobile-0.14.5.jpg?resize=720,420" caption="New Update 0.14.5 starting new Season 9" alt="pubgm season 9 patch 0.14.5" %}
+
 > Download link for **PUB Gfx+** v0.17.1 *Updated*{: style="color:red"}
 
 Aplikasi ini untuk membantu [memperbaiki pengalaman bermain gim *Player Unknown's Battleground Mobile*](https://www.knoacc.org/2019/07/cara-meningkatkan-grafik-dan-performa-pubg-mobile.html) [(android)](https://play.google.com/store/apps/details?id=com.tencent.ig) dengan berbagai konfigurasi otomatis (one-click).
-
-{% include feature_row id="intro" type="center" %}
-
-## Teaser PUBGM Season 8
-
-{% include video id="-Dhur8LJnnk" provider="youtube" %}
-
-## Teaser PUBGM Infection Mode
-
-{% include video id="rLgZ28TWgFQ" provider="youtube" %}
-
-{% include video id="uDkYEhtxSuo" provider="youtube" %}
 
 ## Arsip Unduhan
 
