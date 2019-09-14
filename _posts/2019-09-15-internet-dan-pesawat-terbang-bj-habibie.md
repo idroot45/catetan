@@ -14,6 +14,7 @@ Catatan mengenai informasi yang _exegerated_ di dunia maya mengenai peran B.J. H
 
 |[![seasia 1](/assets/images/seasia-1.jpg)](/assets/images/seasia-1.jpg)|[![seasia 2](/assets/images/seasia-2.jpg)](/assets/images/seasia-2.jpg)|
 |:---:|:---:|
+|Lockheed Martin|Dornier|
 
 > The images above sadly proves that the internet is full of incorrect facts, hoaxes and fanboy fantasies.
 
