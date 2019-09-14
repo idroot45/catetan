@@ -21,8 +21,6 @@
 <video controls poster="{{ page.header.og_image }}" height="100%" width="100%">
   <source src="{{ video_id }}" type="video/mp4"></source>
 </video>
-<source src="{{ video_id }}" frameborder="0" webkitAllowFullScreen="" mozallowfullscreen="" allowFullScreen="" ></iframe>
 {% endif %}
-
 </div>
 {% endif %}
