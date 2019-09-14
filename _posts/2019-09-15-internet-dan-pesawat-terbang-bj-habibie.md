@@ -12,9 +12,8 @@ _Innalillahi wa innailaihi rojiun..._
 Catatan mengenai informasi yang _exegerated_ di dunia maya mengenai peran B.J. Habibie. Utamanya terkait **Hercules C130** dan **F-16 Fighting Falcon**
 {:.notice .notice--info}
 
-|[![seasia 1](/assets/images/seasia-1.jpg)](/assets/images/seasia-1.jpg)|[![seasia 2](/assets/images/seasia-1.jpg)](/assets/images/seasia-1.jpg)|
+|[![seasia 1](/assets/images/seasia-1.jpg)](/assets/images/seasia-1.jpg)|[![seasia 2](/assets/images/seasia-2.jpg)](/assets/images/seasia-2.jpg)|
 |:---:|:---:|
-|||
 
 > The images above sadly proves that the internet is full of incorrect facts, hoaxes and fanboy fantasies.
 
