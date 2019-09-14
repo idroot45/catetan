@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: "PUB Gfx+ v0.17.0 untuk PUBG Mobile Season 8"
+title: "PUB Gfx+ v0.17.1 untuk PUBG Mobile Season 9"
 header:
  overlay_image: "https://asset-a.grid.id/photo/2019/07/16/271288314.jpg"
  actions:
@@ -8,7 +8,7 @@ header:
     url: "https://bit.ly/2lQGniF"
   - label: Playstore
     url: "https://play.google.com/store/apps/details?id=inc.trilokia.pubgfxtool"
- caption: "PUB GFX+, **Update Season 8**"
+ caption: "PUB GFX+, **Update Season 9**"
 intro:
   - title: "What's new"
     excerpt: "Update terbaru **PUB Gfx+ v.0.17.1** (no-ads) untuk dukungan Patch PUBGM Season 9"
