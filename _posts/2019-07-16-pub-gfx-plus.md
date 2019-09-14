@@ -2,7 +2,7 @@
 layout: splash
 title: "PUB Gfx+ v0.17.1 untuk PUBG Mobile Season 9"
 header:
- overlay_image: "https://i1.wp.com/www.ggwp.id/wp-content/uploads/2019/09/GGWP-Story-PUBGM-Royale-Pass-Season-9-Cv.jpg"
+ overlay_image: "https://1.bp.blogspot.com/-3AE9pJK4H4c/XXuaJVcDi-I/AAAAAAAAPt0/vJyC67GKua4FgMH44HxYbBmQ2Y2v6LJAACLcBGAsYHQ/s1600/season-9.jpg"
  actions:
   - label: Download
     url: "https://bit.ly/2lQGniF"
