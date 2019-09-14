@@ -1,6 +1,6 @@
 ---
 title: "Internet dan Setelah B.J. Habibie Meninggal"
-excerpt: "Sebuah catatan mengenai info yang _exagerated_ di dunia maya mengenai peran B.J. Habibie
+excerpt: "Sebuah catatan mengenai info yang _exagerated_ di dunia maya mengenai peran B.J. Habibie dalam dunia dirgantara internasional"
 header:
  image: "/assets/images/BJ-Habibie.jpg"
  caption: "B.J. Habibie"
