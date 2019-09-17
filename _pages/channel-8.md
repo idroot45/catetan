@@ -9,6 +9,6 @@ header:
 sitemap: false
 comment: false
 author_profile: false
-refirect_from:
+redirect_from:
  - /channel-8/
 ---
