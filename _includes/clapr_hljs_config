@@ -1,5 +1,6 @@
 <script type='text/javascript'>
-const config = {
+/*
+ const config = {
   loader: {
     trackerAnnounce: [
       "wss://wt.dailysport.pw:8433",
@@ -21,6 +22,9 @@ const config = {
     }
   }
 };
+
+*/
+/*
 if (p2pml.hlsjs.Engine.isSupported()) {
     var engine = new p2pml.hlsjs.Engine(config);
     var player = new Clappr.Player({
@@ -36,13 +40,13 @@ if (p2pml.hlsjs.Engine.isSupported()) {
                 }
             });
             p2pml.hlsjs.initClapprPlayer(player);
-        } else {
+        } else { */
             var player = new Clappr.Player({
             source: '{{ page.header.video.id }}',
             plugins: [ChromecastPlugin],
             parentId: '#player',
             width: '100%',
             height: '100%'
-        });
-        }
+        }); /*
+        } */
 </script>
