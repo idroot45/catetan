@@ -2,19 +2,13 @@
 layout: compress
 ---
 <!DOCTYPE HTML>
-<html lang="id">
+<html>
 <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <title>{{ site.title }}</title>
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-    <script src="https://cdn.jsdelivr.net/npm/p2p-media-loader-core@latest/build/p2p-media-loader-core.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/p2p-media-loader-hlsjs@latest/build/p2p-media-loader-hlsjs.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/clappr@latest"></script>
-    <script src="https://cdn.jsdelivr.net/clappr.chromecast-plugin/latest/clappr-chromecast-plugin.js"></script>
-
-  <style>
-      #player {
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <script type="text/javascript" charset="utf-8" src="http://flavio.nytimes.com:8080/latest/clappr.js"></script>
+  <title>{{ site.title }}</title>
+<style>
+      #player-wrapper-live {
         height: 55%;
         min-width: 100%;
         margin: 5px auto;
@@ -51,14 +45,39 @@ layout: compress
     height: auto;
 }
     </style>
+  <script type="text/javascript" charset="utf-8">
+window.onload = function() {
+  var playerLive = new Clappr.Player({
+    source: "{{ page.header.video.id }}",
+    parentId: '#player-wrapper-live',
+    autoPlay: true,
+    hideMediaControl: false,
+    width: 426, height: 240,
+    debug: true
+  });
+//  var playerVod = new Clappr.Player({
+//    source: "https://s3-us-west-2.amazonaws.com/nytimesencoding/output_normalized0000_1_marathon_zombies_hls/video.m3u8",
+//    source: "http://sample.vodobox.net/skate_phantom_flex_4k/skate_phantom_flex_4k.m3u8",
+//    parentId: '#player-wrapper-vod',
+//    autoPlay: true,
+//    hideMediaControl: false,
+//    width: 426, height: 240
+//  });
+//  this.playerDvr = new Clappr.Player({
+//    source: "can't reveal this source, add one with playlist bigger than hlsMinimumDvrSize to see dvr working",
+//    parentId: '#player-wrapper-dvr',
+//    autoPlay: true,
+//    hideMediaControl: false,
+//    width: 426, height: 240
+//  });
+}
+  </script>
 </head>
 <body>
-<div class="container">
-<div class="row justify-content-md-center">
-<div id="player"></div>
-{{ content }}
-</div>
-</div>
-{% include clapr_hljs_config %}
+<div id="player-wrapper-live"></div>
+<!--
+<div id="player-wrapper-vod"></div>
+dvr<div id="player-wrapper-dvr"></div>
+-->
 </body>
 </html>
