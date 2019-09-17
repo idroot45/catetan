@@ -15,6 +15,6 @@
 {% elsif video_provider == "full_link" %}
   <iframe src="{{ video_id }}" frameborder="0" webkitAllowFullScreen="" mozallowfullscreen="" allowFullScreen="" ></iframe>
 {% elsif video_provider == "internal" %}
-<iframe src="https://catetan.istimiwir.host/{{ video_id }}" frameborder="0" webkitAllowFullScreen="" mozallowfullscreen="" allowFullScreen="" ></iframe>
+<iframe src="https://istimiwir.host/{{ video_id }}" frameborder="0" webkitAllowFullScreen="" mozallowfullscreen="" allowFullScreen="" ></iframe>
 {% endif %}
 </div>
