@@ -1,4 +1,5 @@
 ---
+permalink: /ch-5
 title: Channel 5
 header:
  video:
