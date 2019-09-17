@@ -1,4 +1,5 @@
 ---
+permalink: /ch-6
 title: Channel 6
 excerpt: Borussia Dortmund vs FC Barcelona
 header:
@@ -8,4 +9,6 @@ header:
 sitemap: false
 comment: false
 author_profile: false
+redirect_from:
+ - /channel-6/
 ---
