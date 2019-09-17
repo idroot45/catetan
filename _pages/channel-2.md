@@ -1,4 +1,5 @@
 ---
+layout: stream
 permalink: /ch-2
 title: Channel 2
 excerpt: Borussia Dortmund vs FC Barcelona
@@ -7,8 +8,6 @@ header:
   id: https://cdx.dailysport.pw/7/7.m3u8
   provider: full_link
 sitemap: false
-comment: false
-author_profile: false
 redirect_from:
  - /channel-2/
 ---
