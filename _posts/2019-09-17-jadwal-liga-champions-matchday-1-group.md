@@ -5,6 +5,7 @@ header:
  image: "/assets/images/CL-logo.jpg"
 categories: [sepakbola]
 tags: [liga champions, jadwal bola, siaran langsung]
+last_modified_at: 2019-09-17 21:30:14
 ---
 
 **Liga Champions 2019/2020** akan dimulai tengah pekan ini. Berikut jadwal pertandingan di matchday pertama.
@@ -19,7 +20,7 @@ Sehari setelahnya giliran Juventus yang harus melawat ke Wanda Metropolitano unt
 
 ## Jadwal Matchday I — Group Stage
 
-**Info:** Semua jadwal dalam WIB
+**Info:** Semua jadwal dalam WIB; en —English, es —Spanish.
 {:.notice .notice--info}
 
 |Kick-off|Tim|Stasiun TV/Stream|
@@ -29,7 +30,7 @@ Sehari setelahnya giliran Juventus yang harus melawat ke Wanda Metropolitano unt
 |23:55|Lyon vs Zenit Petersburg|[Streaming (es)](/channel-4/)|
 |**Hari/Tanggal**|Rabu|(18/09/2019)|
 |02:00|Dortmund vs Barcelona|**Live SCTV**[Streaming (en)](/channel-6/)|
-|02:00|Ajax vs Lille||
+|02:00|Ajax vs Lille|[Streaming (es)](/channel-5/)|
 |02:00|Benfica vs RB Leipzig||
 |02:00|Chelsea vs Valencia|[Streaming (en)](/channel-7/)|
 |02:00|Napoli vs Liverpool|[Streaming (en)](/channel-8/)|
