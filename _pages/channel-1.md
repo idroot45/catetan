@@ -8,8 +8,6 @@ header:
   id: https://cdx.dailysport.pw/6/6.m3u8
   provider: full_link
 sitemap: false
-comment: false
-author_profile: false
 redirect_from:
  - /channel-1/
 ---
