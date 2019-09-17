@@ -1,6 +1,7 @@
 ---
 permalink: /ch-5
 title: Channel 5
+excerpt: Ajax vs Lille
 header:
  video:
   id: https://cdx.dailysport.pw/10/10.m3u8
