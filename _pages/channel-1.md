@@ -2,7 +2,6 @@
 layout: stream
 permalink: /ch-1
 title: Channel 1
-excerpt: Borussia Dortmund vs FC Barcelona
 header:
  video:
   id: https://cdx.dailysport.pw/6/6.m3u8
