@@ -26,7 +26,6 @@ Sehari setelahnya giliran Juventus yang harus melawat ke Wanda Metropolitano unt
 |:---:|---|---|
 |23:55|Inter Milan vs Slavia Praha|Live SCTV|
 |23:55|Lyon vs Zenit Petersburg||
-
 |Rabu|(18/09/2019)|Stasiun TV/Stream|
 |:---:|---|---|
 |02:00|Dortmund vs Barcelona|Live SCTV|
@@ -37,7 +36,6 @@ Sehari setelahnya giliran Juventus yang harus melawat ke Wanda Metropolitano unt
 |02:00|Salzburg vs Genk||
 |23:55|Club Brugge vs Galatasaray||
 |23:55|Olympiakos Piraeus vs Tottenham|Live SCTV|
-
 |Kamis|(19/09/2019)|StasiunTV/Stream|
 |:---:|---|---|
 |02:00|Atletico Madrid vs Juventus|[Streaming](#juventus)|
