@@ -26,14 +26,14 @@ Sehari setelahnya giliran Juventus yang harus melawat ke Wanda Metropolitano unt
 |Kick-off|Tim|TV lokal|Streaming|
 |:---:|:---|:---|---:|
 |**Hari**|**Tanggal**|Selasa|_(17/09/2019)_|
-|23:55|Inter Milan vs Slavia Praha|**Live SCTV** [Streaming(es)](/channel-3/)|
+|23:55|Inter Milan vs Slavia Praha|**Live SCTV**|[Streaming(es)](/channel-3/)|
 |23:55|Lyon vs Zenit Petersburg|-|[Streaming (es)](/channel-4/)|
 |**Hari**|**Tanggal**|Rabu|_(18/09/2019)_|
 |02:00|Dortmund vs Barcelona|**Live SCTV**|[Streaming (en)](/channel-6/)|
 |02:00|Ajax vs Lille|-|[Streaming (es)](/channel-5/)|
 |02:00|Benfica vs RB Leipzig|-|-|
 |02:00|Chelsea vs Valencia|-|[Streaming (en)](/channel-7/)|
-|02:00|Napoli vs Liverpool|[Streaming (en)](/channel-8/)|
+|02:00|Napoli vs Liverpool|-|[Streaming (en)](/channel-8/)|
 |02:00|Salzburg vs Genk|-|-|
 |23:55|Club Brugge vs Galatasaray|-|-|
 |23:55|Olympiakos Piraeus vs Tottenham|**Live SCTV**|-|
