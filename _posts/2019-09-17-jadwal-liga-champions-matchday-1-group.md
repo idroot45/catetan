@@ -33,16 +33,16 @@ Sehari setelahnya giliran Juventus yang harus melawat ke Wanda Metropolitano unt
 |02:00|Ajax vs Lille||
 |02:00|Benfica vs RB Leipzig||
 |02:00|Chelsea vs Valencia||
-|02:00|Napoli vs Liverpool|[Stream](/liverpool)|
+|02:00|Napoli vs Liverpool|[Streaming](/liverpool)|
 |02:00|Salzburg vs Genk||
 |23:55|Club Brugge vs Galatasaray||
 |23:55|Olympiakos Piraeus vs Tottenham|Live SCTV|
 
 |Kamis|(19/09/2019)|StasiunTV/Stream|
 |:---:|---|---|
-|02:00|Atletico Madrid vs Juventus|[stream](/juventus)|
+|02:00|Atletico Madrid vs Juventus|[Streaming](#juventus)|
 |02:00|Bayer Leverkusen vs Lokomotiv Moskow||
 |02:00|Bayern Munich vs Crvena zvezda||
 |02:00|Dinamo Zagreb vs Atalanta||
 |02:00|PSG vs Real Madrid|Live SCTV|
-|02:00|Shakhtar vs Manchester City||
+|02:00|Shakhtar vs Manchester City|[Streaming](#city)|
