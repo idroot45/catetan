@@ -1,11 +1,11 @@
 ---
-title: "Jadwal Pertandingan UCL Matchday 1 Group Stage"
+title: "Jadwal dan Link Streaming Liga Champions Matchday 1 Group Stage"
 excerpt: "Jadwal Sepakbola Pekan ini, Liverpool tidak ditayangkan TV lokal"
 header:
  image: "/assets/images/CL-logo.jpg"
 categories: [sepakbola]
 tags: [liga champions, jadwal bola, siaran langsung]
-last_modified_at: 2019-09-17 21:30:14
+last_modified_at: 2019-09-17 23:09:03
 ---
 
 **Liga Champions 2019/2020** akan dimulai tengah pekan ini. Berikut jadwal pertandingan di matchday pertama.
