@@ -1,11 +1,11 @@
 ---
 layout: stream
-permalink: /ch-special
+permalink: /ch-spc
 title: Channel Edit
 header:
  video:
   id: https://cdx.dailysport.pw/2/2.m3u8
-  provider: full_link
+  provider: internal
 sitemap: false
 redirect_from:
  - /channel-special/
