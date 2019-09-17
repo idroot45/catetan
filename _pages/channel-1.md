@@ -1,4 +1,5 @@
 ---
+layout: stream
 permalink: /ch-1
 title: Channel 1
 excerpt: Borussia Dortmund vs FC Barcelona
