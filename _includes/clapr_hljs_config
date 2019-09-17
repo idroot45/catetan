@@ -1,4 +1,4 @@
-{% capture video_source == include.id %}
+{% capture video_source %}{{ include.id }}{% endcapture %}
 
 <script type='text/javascript'>
 const config = {
