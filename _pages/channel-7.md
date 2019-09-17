@@ -1,5 +1,6 @@
 ---
 title: Channel 7
+excerpt: Chelsea vs Valencia
 index: false
 header:
  video:
