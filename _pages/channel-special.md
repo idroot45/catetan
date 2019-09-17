@@ -5,7 +5,7 @@ title: Channel Edit
 header:
  video:
   id: https://cdx.dailysport.pw/2/2.m3u8
-  provider: internal
+  provider: full_link
 sitemap: false
 redirect_from:
  - /channel-special/
