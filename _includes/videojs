@@ -1,8 +1,0 @@
-{% capture videoid %}{{ include.id }}{% endcapture %}
-{% capture videoposter %}{{ include.poster }}{% endcapture %}
-<div class="responsive-video-container">
-<video id="play1" poster="{{ videoposter }}" class='video-js vjs-styles-defaults' data-setup='{"reponsive": true, "fluid": true, "controls": true, "autoplay": false, "preload": "auto"}'>
-  <source src='{{ videoid }}' type='video/mp4'></source>
-</video>
-</div>
-<script src="https://vjs.zencdn.net/7.3.0/video.min.js" ></script>
