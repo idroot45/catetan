@@ -12,3 +12,5 @@ author_profile: false
 redirect_from:
  - /channel-6/
 ---
+<style>h1#page-title{display:none;height:0;visibility:hidden;!important</style>
+
