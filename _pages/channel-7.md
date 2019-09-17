@@ -1,5 +1,5 @@
 ---
-peenalink: /ch-7
+permalink: /ch-7
 title: Channel 7
 excerpt: Chelsea vs Valencia
 index: false
