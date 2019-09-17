@@ -1,4 +1,5 @@
 ---
+layout: stream
 permalink: /ch-7
 title: Channel 7
 excerpt: Chelsea vs Valencia
@@ -8,8 +9,6 @@ header:
   id: https://cdx.dailysport.pw/12/12.m3u8
   provider: full_link
 sitemap: false
-comment: false
-author_profile: false
 redirect_from:
  - /channel-7/
 ---
