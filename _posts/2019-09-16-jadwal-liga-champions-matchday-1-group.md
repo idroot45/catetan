@@ -33,7 +33,7 @@ Sehari setelahnya giliran Juventus yang harus melawat ke Wanda Metropolitano unt
 |02:00|Ajax vs Lille|-|[Streaming (es)](/channel-5/)|
 |02:00|Benfica vs RB Leipzig|-|-|
 |02:00|Chelsea vs Valencia|-|[Streaming (en)](/channel-7/)|
-|02:00|Napoli vs Liverpool|-|[Streaming (en)](/channel-8/)|
+|02:00|Napoli vs Liverpool|-|[Streaming (en)](/liverpool/)|
 |02:00|Salzburg vs Genk|-|-|
 |23:55|Club Brugge vs Galatasaray|-|-|
 |23:55|Olympiakos Piraeus vs Tottenham|**Live SCTV**|-|
