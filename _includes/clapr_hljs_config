@@ -1,4 +1,26 @@
 <script type='text/javascript'>
+const config = {
+  loader: {
+    trackerAnnounce: [
+      "wss://wt.dailysport.pw:8433",
+    ],
+    rtcConfig: {
+      iceServers: [
+        { urls: "stun:stun.l.google.com:19302" },
+        { urls: "stun:stun1.l.google.com:19302" },
+        { urls: "stun:stun2.l.google.com:19302" },
+        { urls: "stun:stun3.l.google.com:19302" },
+        { urls: "stun:stun4.l.google.com:19302" },
+        { urls: "stun:stun.l.google.com:19305" },
+        { urls: "stun:stun1.l.google.com:19305" },
+        { urls: "stun:stun2.l.google.com:19305" },
+        { urls: "stun:stun3.l.google.com:19305" },
+        { urls: "stun:stun4.l.google.com:19305" },
+        { urls: "stun:global.stun.twilio.com:3478?transport=udp" }
+      ]
+    }
+  }
+};
 if (p2pml.hlsjs.Engine.isSupported()) {
     var engine = new p2pml.hlsjs.Engine(config);
     var player = new Clappr.Player({
@@ -8,13 +30,13 @@ if (p2pml.hlsjs.Engine.isSupported()) {
             height: '100%',
             playback: {
                     hlsjsConfig: {
-                        liveSyncDurationCount: 15,
+                        liveSyncDurationCount: 7,
                         loader: engine.createLoaderClass()
                     }
                 }
             });
             p2pml.hlsjs.initClapprPlayer(player);
-        } else { 
+        } else {
             var player = new Clappr.Player({
             source: '{{ page.header.video.id }}',
             plugins: [ChromecastPlugin],
