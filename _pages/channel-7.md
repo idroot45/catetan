@@ -6,4 +6,7 @@ header:
  video:
   id: https://cdx.dailysport.pw/12/12.m3u8
   provider: full_link
+sitemap: false
+comment: false
+author: false
 ---
