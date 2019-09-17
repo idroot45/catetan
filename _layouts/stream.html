@@ -1,120 +1,25 @@
----
-layout: compress
----
 <!doctype html>
-<html lang="id">
+<html ⚡>
 <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <title>{{ site.title }}</title>
-    <link as='script' href='https://cdn.jsdelivr.net/npm/clappr@latest' rel='preload'/>
-    <link as='script' href='https://cdn.jsdelivr.net/npm/p2p-media-loader-core@latest/build/p2p-media-loader-core.min.js' rel='preload'/>
-    <link as='script' href='https://cdn.jsdelivr.net/npm/p2p-media-loader-hlsjs@latest/build/p2p-media-loader-hlsjs.min.js' rel='preload'/>
-    <link as='script' href='https://cdn.jsdelivr.net/clappr.chromecast-plugin/latest/clappr-chromecast-plugin.js' rel='preload'/>
-    <link crossorigin='' href='https://cdn.jsdelivery.net' rel='preconnect dns-prefetch'/>
-    <link crossorigin='' href='wss://wt.dailysport.pw:8433' rel='preconnect dns-prefetch'/>
-    <link crossorigin='' href='https://cdx.dailysport.pw' rel='preconnect dns-prefetch'/>
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-    <script src="https://cdn.jsdelivr.net/npm/p2p-media-loader-core@latest/build/p2p-media-loader-core.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/p2p-media-loader-hlsjs@latest/build/p2p-media-loader-hlsjs.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/clappr@latest"></script>
-    <script src="https://cdn.jsdelivr.net/clappr.chromecast-plugin/latest/clappr-chromecast-plugin.js"></script>
-  <style>
-      #player {
-        height: 55%;
-        min-width: 100%;
-        margin: 5px auto;
-      }
-/* Fix the player container to take up 100% width and to calculate its height based on its children. */
-[data-player] {
-
-    position: relative;
-    width: 100%;
-    height: auto;
-    margin: 0;
-}
-
-/* Fix the video container to take up 100% width and to calculate its height based on its children. */
-[data-player] .container[data-container] {
-    width: 100%;
-    height: auto;
-    position: relative;
-}
-
-/* Fix the media-control element to take up the entire size of the player. */
-[data-player] .media-control[data-media-control] {
-    top: 0;
-    right: 0;
-    bottom: 0;
-    left: 0;
-}
-
-/* Fix the video element to take up 100% width and to calculate its height based on its natural aspect ratio. */
-[data-player] video {
-    position: relative;
-    display: block;
-    width: 100%;
-    height: auto;
-}
-    </style>
+  <meta charset="utf-8">
+  <title>{{ site.title }}</title>
+  <script async custom-element="amp-video" src="https://cdn.ampproject.org/v0/amp-video-0.1.js"></script>
+  <script async src="https://cdn.ampproject.org/v0.js"></script>
+  <link rel="canonical" href="<% canonical %>">
+  <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
+  <style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
 </head>
 <body>
-<div class="container">
-<div class="row justify-content-md-center">
-<div id="player"></div>
 <!-- {{ content }} -->
-</div>
-</div>
-<script type='text/javascript'>
-const config = {
-  loader: {
-    trackerAnnounce: [
-      "wss://wt.dailysport.pw:8433",
-    ],
-    rtcConfig: {
-      iceServers: [
-        { urls: "stun:stun.l.google.com:19302" },
-        { urls: "stun:stun1.l.google.com:19302" },
-        { urls: "stun:stun2.l.google.com:19302" },
-        { urls: "stun:stun3.l.google.com:19302" },
-        { urls: "stun:stun4.l.google.com:19302" },
-        { urls: "stun:stun.l.google.com:19305" },
-        { urls: "stun:stun1.l.google.com:19305" },
-        { urls: "stun:stun2.l.google.com:19305" },
-        { urls: "stun:stun3.l.google.com:19305" },
-        { urls: "stun:stun4.l.google.com:19305" },
-        { urls: "stun:global.stun.twilio.com:3478?transport=udp" }
-      ]
-    }
-  }
-};
-
-if (p2pml.hlsjs.Engine.isSupported()) {
-    var engine = new p2pml.hlsjs.Engine(config);
-    var player = new Clappr.Player({
-            parentId: '#player',
-            source: '{{ page.header.video.id }}',
-            width: '100%',
-            height: '100%',
-            playback: {
-                    hlsjsConfig: {
-                        liveSyncDurationCount: 7,
-                        loader: engine.createLoaderClass()
-                    }
-                }
-            });
-
-            p2pml.hlsjs.initClapprPlayer(player);
-
-        } else {
-            var player = new Clappr.Player({
-            source: '{{ page.header.video.id }}',
-            plugins: [ChromecastPlugin],
-            parentId: '#player',
-            width: '100%',
-            height: '100%'
-        });
-        }
-</script>
+<amp-video width="480" height="270"
+             poster="{{ page.header.image }}"
+             layout="responsive"
+             controls
+             autoplay>
+    <div fallback>
+      <p>Your browser doesn't support HTML5 video.</p>
+    </div>
+    <source type="application/vnd.apple.mpegurl" src="{{ page.header.video.id }}">
+</amp-video>
 </body>
 </html>
