@@ -11,7 +11,7 @@ tags: [liga champions, jadwal bola, siaran langsung]
 
 Juara bertahan Liverpool akan mengawali kiprahnya di kompetisi ini dengan menghadapi Napoli di San Paolo, Rabu (18/9/2019) dini hari WIB besok. Keduanya tergabung di Grup E.
 
-[![Liverpool Champions](/assets/images/Liverpool.jpg)](assets/images/Liverpool.jpg)
+[![Liverpool Champions](https://i0.wp.com/knoacc.github.io/catetan/assets/images/Liverpool.jpg?resize=640,360)](/assets/images/Liverpool.jpg)
 
 Di hari yang sama, Barcelona akan menghadapi Borussia Dortmund di Signal-Iduna Park. Masih dari Grup F, Inter Milan akan menjamu Slavia Praha di Giuseppe Meazza. Chelsea selaku juara Liga Europa akan menjamu Valencia di Stamford Bridge pada matchday pertama Grup H.
 
