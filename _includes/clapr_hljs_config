@@ -1,5 +1,3 @@
-{% capture video_source %}{{ include.id }}{% endcapture %}
-
 <script type='text/javascript'>
 const config = {
   loader: {
@@ -23,12 +21,11 @@ const config = {
     }
   }
 };
-
 if (p2pml.hlsjs.Engine.isSupported()) {
     var engine = new p2pml.hlsjs.Engine(config);
     var player = new Clappr.Player({
             parentId: '#player',
-            source: '{{ video_source }}',
+            source: '{{ page.header.video.id }}',
             width: '100%',
             height: '100%',
             playback: {
@@ -38,18 +35,14 @@ if (p2pml.hlsjs.Engine.isSupported()) {
                     }
                 }
             });
-
             p2pml.hlsjs.initClapprPlayer(player);
-
-
         } else {
             var player = new Clappr.Player({
-            source: '{{ video_source }}',
+            source: '{{ page.header.video.id }}',
             plugins: [ChromecastPlugin],
             parentId: '#player',
             width: '100%',
             height: '100%'
         });
         }
-
 </script>
