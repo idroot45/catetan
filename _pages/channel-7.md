@@ -8,5 +8,5 @@ header:
   provider: full_link
 sitemap: false
 comment: false
-author: false
+author_profile: false
 ---
