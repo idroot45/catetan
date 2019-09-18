@@ -26,25 +26,25 @@ Sehari setelahnya giliran Juventus yang harus melawat ke Wanda Metropolitano unt
 |Kick-off|Tim|TV lokal|Streaming/Hasil|
 |:---:|:---|:---|---:|
 |**Hari**|**Tanggal**|Selasa|_(17/09/2019)_|
-|23:55|Inter Milan vs Slavia Praha|**Live SCTV**|selesai|
-|23:55|Lyon vs Zenit Petersburg|-|selesai|
+|23:55|Inter Milan vs Slavia Praha|selesai|0-0|
+|23:55|Lyon vs Zenit Petersburg|selesai|1-1|
 |**Hari**|**Tanggal**|Rabu|_(18/09/2019)_|
-|02:00|Dortmund vs Barcelona|**Live SCTV**|selesai|
-|02:00|Ajax vs Lille|-|selesai|
-|02:00|Benfica vs RB Leipzig|-|-|
-|02:00|Chelsea vs Valencia|-|selesai|
-|02:00|Napoli vs Liverpool|-|selesai|
-|02:00|Salzburg vs Genk|-|-|
-|23:55|Club Brugge vs Galatasaray|-|[Streaming (es)](/channel-4)|
-|23:55|Olympiakos Piraeus vs Tottenham|**Live SCTV**|[Streaming (es)](/channel-3)|
+|02:00|Dortmund vs Barcelona|selesai|0-0|
+|02:00|Ajax vs Lille|selesai|3-0|
+|02:00|Benfica vs RB Leipzig|selesai|1-2|
+|02:00|Chelsea vs Valencia|selesai|0-1|
+|02:00|Napoli vs Liverpool|selesai|0-2|
+|02:00|Salzburg vs Genk|selesai|6-2|
+|23:55|Club Brugge vs Galatasaray|-|[Streaming (es)](http://go.knoacc.org/22375/channel-4){:rel="nofollow noreferrer noopener" target="_pop"}|
+|23:55|Olympiakos Piraeus vs Tottenham|**Live SCTV**|[Streaming (es)](http://go.knoacc.org/22375/channel-3){:rel="nofollow noreferrer noopener" target="_pop"}|
 |**Hari**|**Tanggal**|Kamis|_(19/09/2019)_|
 |:---:|---|---|
-|02:00|Atletico Madrid vs Juventus|-|[Streaming (en)](/channel-7)|
+|02:00|Atletico Madrid vs Juventus|-|[Streaming (en)](http://go.knoacc.org/22375/channel-7){:rel="nofollow noreferrer noopener" target="_pop"}|
 |02:00|Bayer Leverkusen vs Lokomotiv Moskow|-|-|
-|02:00|Bayern Munich vs Crvena zvezda|-|[Streaming (es)](/channel-5)|
+|02:00|Bayern Munich vs Crvena zvezda|-|[Streaming (es)](http://go.knoacc.org/22375/channel-5){:rel="nofollow noreferrer noopener" target="_pop"}|
 |02:00|Dinamo Zagreb vs Atalanta|-|-|
-|02:00|PSG vs Real Madrid|**Live SCTV**|[Streaming (en)](/channel-6)|
-|02:00|Shakhtar vs Manchester City|-|[Streaming (en)](/channel-8)|
+|02:00|PSG vs Real Madrid|**Live SCTV**|[Streaming (en)](http://go.knoacc.org/22375/channel-6){:rel="nofollow noreferrer noopener" target="_pop"}|
+|02:00|Shakhtar vs Manchester City|-|[Streaming (en)](http://go.knoacc.org/22375/channel-8){:rel="nofollow noreferrer noopener" target="_pop"}|
 
 Semua streaming kualitas HD. Siapkan Kuota ± 2 Gb dan bandwith ± 5mbps untuk menonton streaming dengan _lantjar djaja_.
 {:.notice .notice--danger}
