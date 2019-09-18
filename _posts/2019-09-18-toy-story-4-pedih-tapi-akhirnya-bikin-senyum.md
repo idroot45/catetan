@@ -2,23 +2,17 @@
 title: "Pedih, tapi Akhirnya Bikin Senyum"
 excerpt: "Review film animasi Toy Story 4 (2019)"
 header:
+ teaser: "https://i0.wp.com/cdnx.kincir.com/production/media/2019/juni/review-toy-story-4-2019/4-review-toy-story-4-2019.jpg?w=480&strip=all&q=70"
+ og_image: "https://i0.wp.com/cdnx.kincir.com/production/media/2019/juni/review-toy-story-4-2019/4-review-toy-story-4-2019.jpg"
  video:
   id: "65d3qu0x-y3mq86"
   provider: "fembed"
- teaser: "https://i0.wp.com/cdnx.kincir.com/production/media/2019/juni/review-toy-story-4-2019/4-review-toy-story-4-2019.jpg?w=480&strip=all&q=70"
- og_image: "https://i0.wp.com/cdnx.kincir.com/production/media/2019/juni/review-toy-story-4-2019/4-review-toy-story-4-2019.jpg"
 categories: [video]
 tags: [toy story 4, komedi, petualangan, animasi]
-last_modified_at: 2019-09-19 23:13:30
+last_modified_at: 2019-09-18 23:13:30
 ---
-
 **SPOILER ALERT** Artikel ini mengandung sedikit bocoran yang semoga saja tidak mengganggu. Jika tidak berkenan, langsung tonton saja filmnya.
 {:.notice .notice--warning aria-hidden="true"}
-
-|Genre| komedi, petualangan, animasi|
-|Actors| Keanu Reeves, Tom Hanks, Tim Allen, Annie Potts, Tony Hale, Jordan Peele|
-|Directors|Josh Cooley|
-|Release Date|21 June 2019|
 
 Membesarkan imajinasi masa kecil sejak 1995, para mainan kembali "ngajak main" kita lewat film Toy Story 4. Banyak penggemar yang berpikir bahwa Toy Story 3 (2010) adalah akhir dari kisah Andy dan mainan, nyatanya enggak.
 
