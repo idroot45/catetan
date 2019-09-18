@@ -1,7 +1,7 @@
 ---
 layout: stream
 permalink: /ch-9
-title: Channel 8
+title: Channel 9
 header:
  image: "https://dummyimage.com/800x450/00/f.gif&text=SeBel+Channel+9"
  video:
