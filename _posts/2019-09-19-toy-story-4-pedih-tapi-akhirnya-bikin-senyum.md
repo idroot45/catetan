@@ -35,7 +35,7 @@ Alur cerita yang dibuat Andrew Stanton, penulis yang terlibat dalam Toy Story (1
 
 Membawa pelajaran soal kehidupan, bahwa setiap akhir adalah awal yang baru. Begitu juga dengan cerita Toy Story 4 yang digarap Josh Cooley tentang Woody yang berada pada dunia baru. Bersama dengan mainan baru, dan pemilik baru, sesuatu yang belum pernah kita lihat sebelumnya.
 
-{% include figure alt="review film toy story 4" caprtion="_Dok. Disney_" image_path="https://i1.wp.com/cdnx.kincir.com/production/media/2019/juni/review-toy-story-4-2019/2-review-toy-story-4-2019.jpg?w=640&strip=all&q=70" url="https://cdnx.kincir.com/production/media/2019/juni/review-toy-story-4-2019/2-review-toy-story-4-2019.jpg" %}
+{% include figure alt="review film toy story 4" caption="_Dok. Disney_" image_path="https://i1.wp.com/cdnx.kincir.com/production/media/2019/juni/review-toy-story-4-2019/2-review-toy-story-4-2019.jpg?w=640&strip=all&q=70" url="https://cdnx.kincir.com/production/media/2019/juni/review-toy-story-4-2019/2-review-toy-story-4-2019.jpg" %}
 
 Jika ini jadi akhir kisah Toy Story, Cooley bisa dibilang menutupnya dengan akhir yang bikin senyum, meski beberapa adegan bikin pedih. Dari awal sampai menuju klimaks, kalian akan dibuat tertawa.
 
