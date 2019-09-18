@@ -2,8 +2,8 @@
 layout: stream
 permalink: /ch-4
 title: Channel 4
-excerpt: Lyon vs Zenit
 header:
+ image: "https://dummyimage.com/800x450/00/f.gif&text=SeBel+Channel+4"
  video:
   id: https://cdx.dailysport.pw/9/9.m3u8
   provider: full_link
