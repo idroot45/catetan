@@ -5,7 +5,7 @@ header:
  image: "/assets/images/CL-logo.jpg"
 categories: [sepakbola]
 tags: [liga champions, jadwal bola, siaran langsung]
-last_modified_at: 2019-09-17 23:09:03
+last_modified_at: 2019-09-18 22:17:22
 ---
 
 **Liga Champions 2019/2020** akan dimulai tengah pekan ini. Berikut jadwal pertandingan di matchday pertama.
@@ -23,25 +23,25 @@ Sehari setelahnya giliran Juventus yang harus melawat ke Wanda Metropolitano unt
 **Info:** Semua jadwal dalam WIB; en —English, es —Spanish.
 {:.notice .notice--info}
 
-|Kick-off|Tim|TV lokal|Streaming|
+|Kick-off|Tim|TV lokal|Streaming/Hasil|
 |:---:|:---|:---|---:|
 |**Hari**|**Tanggal**|Selasa|_(17/09/2019)_|
-|23:55|Inter Milan vs Slavia Praha|**Live SCTV**|[Streaming(es)](/channel-3/)|
-|23:55|Lyon vs Zenit Petersburg|-|[Streaming (es)](/channel-4/)|
+|23:55|Inter Milan vs Slavia Praha|**Live SCTV**|selesai|
+|23:55|Lyon vs Zenit Petersburg|-|selesai|
 |**Hari**|**Tanggal**|Rabu|_(18/09/2019)_|
-|02:00|Dortmund vs Barcelona|**Live SCTV**|[Streaming (en)](/channel-6/)|
-|02:00|Ajax vs Lille|-|[Streaming (es)](/channel-5/)|
+|02:00|Dortmund vs Barcelona|**Live SCTV**|selesai|
+|02:00|Ajax vs Lille|-|selesai|
 |02:00|Benfica vs RB Leipzig|-|-|
-|02:00|Chelsea vs Valencia|-|[Streaming (en)](/channel-7/)|
-|02:00|Napoli vs Liverpool|-|[Streaming (en)](/liverpool/)|
+|02:00|Chelsea vs Valencia|-|selesai|
+|02:00|Napoli vs Liverpool|-|selesai|
 |02:00|Salzburg vs Genk|-|-|
-|23:55|Club Brugge vs Galatasaray|-|-|
-|23:55|Olympiakos Piraeus vs Tottenham|**Live SCTV**|-|
+|23:55|Club Brugge vs Galatasaray|-|[Streaming (es)](/channel-4)|
+|23:55|Olympiakos Piraeus vs Tottenham|**Live SCTV**|[Streaming (es)](/channel-3)|
 |**Hari**|**Tanggal**|Kamis|_(19/09/2019)_|
 |:---:|---|---|
-|02:00|Atletico Madrid vs Juventus|-|[Streaming](#juventus)|
+|02:00|Atletico Madrid vs Juventus|-|[Streaming (en)](/channel-7)|
 |02:00|Bayer Leverkusen vs Lokomotiv Moskow|-|-|
-|02:00|Bayern Munich vs Crvena zvezda|-|-|
+|02:00|Bayern Munich vs Crvena zvezda|-|[Streaming (es)](/channel-5)|
 |02:00|Dinamo Zagreb vs Atalanta|-|-|
 |02:00|PSG vs Real Madrid|**Live SCTV**|-|
-|02:00|Shakhtar vs Manchester City|-|[Streaming](#city)|
+|02:00|Shakhtar vs Manchester City|-|[Streaming (en)](/channel-8)|
