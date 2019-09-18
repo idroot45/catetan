@@ -24,7 +24,7 @@ Saat Bonnie membawa mainan-mainan berlibur, Woody justru berakhir pada sebuah pe
 
 ### Pedih, tapi Akhirnya Bikin Senyum
 
-{% include figure alt="review film toy story" caption="_Dok. Disney_" image_path=https://i0.wp.com/cdnx.kincir.com/production/media/2019/juni/review-toy-story-4-2019/1-review-toy-story-4-2019.jpg?w=640&strip=all&q=70" url="https://i0.wp.com/cdnx.kincir.com/production/media/2019/juni/review-toy-story-4-2019/1-review-toy-story-4-2019.jpg" %}
+{% include figure alt="review film toy story" caption="_Dok. Disney_" image_path="https://i0.wp.com/cdnx.kincir.com/production/media/2019/juni/review-toy-story-4-2019/1-review-toy-story-4-2019.jpg?w=640&strip=all&q=70" url="https://i0.wp.com/cdnx.kincir.com/production/media/2019/juni/review-toy-story-4-2019/1-review-toy-story-4-2019.jpg" %}
 
 Alur cerita yang dibuat Andrew Stanton, penulis yang terlibat dalam Toy Story (1995), bukan lagi soal cara Woody atau para mainan membahagiakan Andy. Toy Story 3 (2010) hanyalah akhir dari petualangan Woody dan Andy yang membawanya ke petualangan baru.
 
