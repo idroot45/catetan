@@ -2,8 +2,8 @@
 layout: stream
 permalink: /ch-8
 title: Channel 8
-excerpt: Napoli vs Liverpool
 header:
+ image: "https://dummyimage.com/800x450/00/f.gif&text=SeBel+Channel+8"
  video:
   id: https://cdx.dailysport.pw/1/1.m3u8
   provider: full_link
