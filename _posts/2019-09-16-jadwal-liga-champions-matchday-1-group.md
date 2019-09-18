@@ -39,12 +39,12 @@ Sehari setelahnya giliran Juventus yang harus melawat ke Wanda Metropolitano unt
 |23:55|Olympiakos Piraeus vs Tottenham|selesai||
 |**Hari**|**Tanggal**|Kamis|_(19/09/2019)_|
 |:---:|---|---|
-|02:00|Atletico Madrid vs Juventus|[Streaming (es)](http://go.knoacc.org/22375/channel-7){:rel="nofollow noreferrer noopener" target="_pop"}|[Streaming (en)](http://go.knoacc.org/22375/channel-3){:rel="nofollow noreferrer noopener" target="_pop"}|
-|02:00|Bayer Leverkusen vs Lokomotiv Moskow|-|-|
-|02:00|Bayern Munich vs Crvena zvezda|-|[Streaming (es)](http://go.knoacc.org/22375/channel-10){:rel="nofollow noreferrer noopener" target="_pop"}|
-|02:00|Dinamo Zagreb vs Atalanta|-|-|
-|02:00|PSG vs Real Madrid|[Streaming (es)](http://go.knoacc.org/22375/channel-6){:rel="nofollow noreferrer noopener" target="_pop"}|[Streaming (en)](http://go.knoacc.org/22375/channel-1){:rel="nofollow noreferrer noopener" target="_pop"}|
-|02:00|Shakhtar vs Manchester City|[Streaming (es)](http://go.knoacc.org/22375/channel-4){:rel="nofollow noreferrer noopener" target="_pop"}|[Streaming (en)](http://go.knoacc.org/22375/channel-14){:rel="nofollow noreferrer noopener" target="_pop"}|
+|02:00|Atletico Madrid vs Juventus|selesai||
+|02:00|Bayer Leverkusen vs Lokomotiv Moskow|selesai||
+|02:00|Bayern Munich vs Crvena zvezda|selesai||
+|02:00|Dinamo Zagreb vs Atalanta|selesai||
+|02:00|PSG vs Real Madrid|selesai||
+|02:00|Shakhtar vs Manchester City|selesai||
 
 Semua streaming kualitas HD. Siapkan Kuota ± 2 Gb dan bandwith ± 5mbps untuk menonton streaming dengan _lantjar djaja_.
 {:.notice .notice--danger}
