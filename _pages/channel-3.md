@@ -1,8 +1,8 @@
 ---
 permalink: /ch-3
 title: Channel 3
-excerpt: Inter Milan vs Valencia
 header:
+ image: "https://dummyimage.com/800x450/00/f.gif&text=SeBel+Channel+3"
  video:
   id: https://cdx.dailysport.pw/8/8.m3u8
   provider: full_link
