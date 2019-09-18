@@ -38,7 +38,6 @@ Sehari setelahnya giliran Juventus yang harus melawat ke Wanda Metropolitano unt
 |23:55|Club Brugge vs Galatasaray|selesai|0-0|
 |23:55|Olympiakos Piraeus vs Tottenham|selesai|2-2|
 |||**Kamis**|_(19/09/2019)_|
-|:---:|---|---|
 |02:00|Atletico Madrid vs Juventus|selesai|2-2|
 |02:00|Bayer Leverkusen vs Lokomotiv Moskow|selesai|1-2|
 |02:00|Bayern Munich vs Crvena zvezda|selesai|3-0|
