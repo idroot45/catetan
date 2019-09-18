@@ -3,15 +3,17 @@ title: "Spider-Man: Far From Home, Belajar Tanggung Jawab"
 excerpt: "Tema tanggung jawab di Spider-Man: Far From Home lebih ringan dan pas dengan setting dunia remaja"
 header:
  video:
-  id: "11zd6uj6lnzwgm0"
+  id: "k8l1wt3zd73z4yz"
   provider: "fembed"
  teaser: /assets/images/stealth-suit.png
  og_image: /assets/images/spiderman-marvel.png
 categories: [video]
 tags: [film spiderman, spiderman far from home, review film]
+last_modified_at: 2019-09-18 23:54:00
 ---
 
-**Tulisan ini mengandung Spoilers**{: aria-hidden="true"}
+Tulisan ini mengandung spoiler, langsung tonton video di atas atau [unduh](https://mi.knoacc.org/dl/fembed?cde={{ page.video.header.id}}&st1=goto&st2=fembed){:target="_pop"}. **Update:** kualitas video 18 Sept 2019.
+{:.notice .notice--info aria-hidden="true"}
 
 > “With great power, comes great responsibility”
 
