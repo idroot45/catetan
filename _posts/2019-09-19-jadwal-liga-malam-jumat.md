@@ -11,6 +11,9 @@ header:
 categories: [video]
 tags: [uefa league, live streaming, liga maljum]
 ---
+Semua streaming kualitas HD. Siapkan Kuota ± 2 Gb dan bandwith ± 5mbps untuk menonton streaming dengan _lantjar djaja_.
+{:.notice .notice--danger}
+
 |Kick Off|Klub|Link 1|Link 2|
 |---|:---:|---:|---:|
 |||**Kamis**|**19/09/2019**|
@@ -25,3 +28,4 @@ tags: [uefa league, live streaming, liga maljum]
 |02:00|Wolves - Braga|[ch 9 (es)](/channel-9)|n/a|
 
 Waktu dalam WIB (Western Indonesia Time).
+{:.notice .notice--info}
