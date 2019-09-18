@@ -5,7 +5,7 @@ header:
  image: https://dummyimage.com/800x450/00/f.gif&text=Liga+Maljum
  teaser: https://dummyimage.com/420x260/00/f.gif&text=Liga+Maljum
  og_image: https://dummyimage.com/800x450/00/f.gif&text=Liga+Maljum
-categories: [video]
+categories: [streaming]
 tags: [uefa league, live streaming, liga maljum]
 ---
 Semua streaming kualitas HD. Siapkan Kuota ± 2 Gb dan bandwith ± 5mbps untuk menonton streaming dengan _lantjar djaja_.
