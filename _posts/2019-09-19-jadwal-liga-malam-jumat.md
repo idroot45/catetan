@@ -11,7 +11,7 @@ tags: [uefa league, live streaming, liga maljum]
 Semua streaming kualitas HD. Siapkan Kuota ± 2 Gb dan bandwith ± 5mbps untuk menonton streaming dengan _lantjar djaja_.
 {:.notice .notice--danger}
 
-{% include class="center" figure caption="Liga Malam Jum'at, lumayan daripada lumanyun" image_path="https://dummyimage.com/800x450/0000ff/f.gif&text=Europa+League" alt="liga maljum" %}
+{% include figure caption="Liga Malam Jum'at, lumayan daripada lumanyun" image_path="https://dummyimage.com/800x450/0000ff/f.gif&text=Europa+League" alt="liga maljum" %}{:.align-center}
 
 |Kick Off|Klub|Link 1|Link 2|
 |---|:---:|---:|---:|
