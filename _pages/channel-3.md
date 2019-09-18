@@ -4,7 +4,7 @@ title: Channel 3
 header:
  image: "https://dummyimage.com/800x450/00/f.gif&text=SeBel+Channel+3"
  video:
-  id: https://cdx.dailysport.pw/8/8.m3u8
+  id: https://cdx.dailysport.pw/3/3.m3u8
   provider: full_link
 sitemap: false
 comment: false
