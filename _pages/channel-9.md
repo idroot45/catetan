@@ -1,6 +1,6 @@
 ---
 layout: stream
-permalink: /ch-8
+permalink: /ch-9
 title: Channel 8
 header:
  image: "https://dummyimage.com/800x450/00/f.gif&text=SeBel+Channel+9"
