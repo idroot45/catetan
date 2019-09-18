@@ -9,7 +9,7 @@ header:
  og_image: "https://i0.wp.com/cdnx.kincir.com/production/media/2019/juni/review-toy-story-4-2019/4-review-toy-story-4-2019.jpg"
 categories: [video]
 tags: [toy story 4, komedi, petualangan, animasi]
-last_modified_at: 2019-09-19 3:13:30
+last_modified_at: 2019-09-19 23:13:30
 ---
 
 **SPOILER ALERT** Artikel ini mengandung sedikit bocoran yang semoga saja tidak mengganggu. Jika tidak berkenan, langsung tonton saja filmnya.
