@@ -1,13 +1,9 @@
 ---
 title: "Jadwal dan Link Streaming Liga Maljum (UEFA League)"
-categories: [video]
-tags: [uefa league, live streaming, liga maljum]
----
----
-title: "Jadwal dan Link Streaming Liga Maljum (UEFA League)"
 excerpt: "Jadwal dan Link Streaming Liga Maljum (UEFA League) layak tonton"
 header:
  image: https://dummyimage.com/800x450/00/f.gif&text=Liga+Maljum
+ teaser: https://dummyimage.com/420x260/00/f.gif&text=Liga+Maljum
 categories: [video]
 tags: [uefa league, live streaming, liga maljum]
 ---
