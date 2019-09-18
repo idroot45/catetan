@@ -5,7 +5,7 @@ header:
  image: "/assets/images/CL-logo.jpg"
 categories: [sepakbola]
 tags: [liga champions, jadwal bola, siaran langsung]
-last_modified_at: 2019-09-18 22:17:22
+last_modified_at: 2019-09-19 04:17:22
 ---
 
 **Liga Champions 2019/2020** akan dimulai tengah pekan ini. Berikut jadwal pertandingan di matchday pertama.
@@ -25,10 +25,10 @@ Sehari setelahnya giliran Juventus yang harus melawat ke Wanda Metropolitano unt
 
 |Kick-off|Tim|TV lokal|Streaming/Hasil|
 |:---:|:---|:---|---:|
-|**Hari**|**Tanggal**|Selasa|_(17/09/2019)_|
+|||**Selasa**|_(17/09/2019)_|
 |23:55|Inter Milan vs Slavia Praha|selesai|0-0|
 |23:55|Lyon vs Zenit Petersburg|selesai|1-1|
-|**Hari**|**Tanggal**|Rabu|_(18/09/2019)_|
+|||**Rabu**|_(18/09/2019)_|
 |02:00|Dortmund vs Barcelona|selesai|0-0|
 |02:00|Ajax vs Lille|selesai|3-0|
 |02:00|Benfica vs RB Leipzig|selesai|1-2|
@@ -37,7 +37,7 @@ Sehari setelahnya giliran Juventus yang harus melawat ke Wanda Metropolitano unt
 |02:00|Salzburg vs Genk|selesai|6-2|
 |23:55|Club Brugge vs Galatasaray|selesai|0-0|
 |23:55|Olympiakos Piraeus vs Tottenham|selesai|2-2|
-|**Hari**|**Tanggal**|Kamis|_(19/09/2019)_|
+|||**Kamis**|_(19/09/2019)_|
 |:---:|---|---|
 |02:00|Atletico Madrid vs Juventus|selesai|2-2|
 |02:00|Bayer Leverkusen vs Lokomotiv Moskow|selesai|1-2|
