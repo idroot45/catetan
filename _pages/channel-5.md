@@ -2,8 +2,8 @@
 layout: stream
 permalink: /ch-5
 title: Channel 5
-excerpt: Ajax vs Lille
 header:
+ image: "https://dummyimage.com/800x450/00/f.gif&text=SeBel+Channel+5"
  video:
   id: https://cdx.dailysport.pw/10/10.m3u8
   provider: full_link
