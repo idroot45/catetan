@@ -5,7 +5,7 @@ title: Channel 7
 header:
  image: "https://dummyimage.com/800x450/00/f.gif&text=SeBel+Channel+7"
  video:
-  id: https://cdx.dailysport.pw/12/12.m3u8
+  id: https://cdx.dailysport.pw/7/7.m3u8
   provider: full_link
 sitemap: false
 redirect_from:
