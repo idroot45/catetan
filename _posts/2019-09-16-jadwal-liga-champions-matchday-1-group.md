@@ -43,5 +43,5 @@ Sehari setelahnya giliran Juventus yang harus melawat ke Wanda Metropolitano unt
 |02:00|Bayer Leverkusen vs Lokomotiv Moskow|-|-|
 |02:00|Bayern Munich vs Crvena zvezda|-|[Streaming (es)](/channel-5)|
 |02:00|Dinamo Zagreb vs Atalanta|-|-|
-|02:00|PSG vs Real Madrid|**Live SCTV**|-|
+|02:00|PSG vs Real Madrid|**Live SCTV**|[Streaming (en)](/channel-6)|
 |02:00|Shakhtar vs Manchester City|-|[Streaming (en)](/channel-8)|
