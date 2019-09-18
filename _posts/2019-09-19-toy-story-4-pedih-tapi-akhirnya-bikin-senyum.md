@@ -1,10 +1,10 @@
 ---
 title: "Toy Story 4: Pedih, tapi Akhirnya Bikin Senyum"
-excerpt: "Review film animasi Toy Story 4 (2019"
+excerpt: "Review film animasi Toy Story 4 (2019)"
 header:
  video:
-  id: 65d3qu0x-y3mq86
-  provider: fembed
+  id: "65d3qu0x-y3mq86"
+  provider: "fembed"
  teaser: "https://i0.wp.com/cdnx.kincir.com/production/media/2019/juni/review-toy-story-4-2019/4-review-toy-story-4-2019.jpg?w=480&strip=all&q=70"
  og_image: "https://i0.wp.com/cdnx.kincir.com/production/media/2019/juni/review-toy-story-4-2019/4-review-toy-story-4-2019.jpg"
 categories: [video]
@@ -12,48 +12,50 @@ tags: [komedi, petualangan, animasi]
 ---
 
 **SPOILER ALERT** Artikel ini mengandung sedikit bocoran yang semoga saja tidak mengganggu. Jika tidak berkenan, langsung tonton saja filmnya.
-{:.notice .notice--warning}
+{:.notice .notice--warning aria-hidden="true"}
 
-|Genre: komedi, petualangan, animasi|
-|Actors: Keanu Reeves, Tom Hanks, Tim Allen, Annie Potts, Tony Hale, Jordan Peele|
-|Directors: |Josh Cooley|
-|Release Date: |21 June 2019|
+|Genre:| komedi, petualangan, animasi|
+|Actors:| Keanu Reeves, Tom Hanks, Tim Allen, Annie Potts, Tony Hale, Jordan Peele|
+|Directors:|Josh Cooley|
+|Release Date:|21 June 2019|
 
 Membesarkan imajinasi masa kecil sejak 1995, para mainan kembali "ngajak main" kita lewat film Toy Story 4. Banyak penggemar yang berpikir bahwa Toy Story 3 (2010) adalah akhir dari kisah Andy dan mainan, nyatanya enggak.
 
-{% include video provider="youtube.com" id="wmiIUN-7qhE" %}
+{% include video provider="youtube" id="wmiIUN-7qhE" %}
 
 Woody selalu yakin keberadaannya di dunia adalah untuk memastikan kebahagiaan pemiliknya, baik Andy atau Bonnie. Jadi, ketika mainan barunya, Forky, merasa dirinya "sampah", Woody menyadarkannya.
 
 Saat Bonnie membawa mainan-mainan berlibur, Woody justru berakhir pada sebuah petualangan baru yang mempertemukan dia dengan sahabatnya yang telah lama hilang, Bo Peep. Berhasilkah mereka mengatasi konflik?
 
 ### Pedih, tapi Akhirnya Bikin Senyum
-{% include figure alt="review film toy story" caption="_Dok. Disney_" image_path=https://i0.wp.com/cdnx.kincir.com/production/media/2019/juni/review-toy-story-4-2019/1-review-toy-story-4-2019.jpg?w=640&strip=all&q=80" url="https://i0.wp.com/cdnx.kincir.com/production/media/2019/juni/review-toy-story-4-2019/1-review-toy-story-4-2019.jpg" %}
+
+{% include figure alt="review film toy story" caption="_Dok. Disney_" image_path=https://i0.wp.com/cdnx.kincir.com/production/media/2019/juni/review-toy-story-4-2019/1-review-toy-story-4-2019.jpg?w=640&strip=all&q=70" url="https://i0.wp.com/cdnx.kincir.com/production/media/2019/juni/review-toy-story-4-2019/1-review-toy-story-4-2019.jpg" %}
 
 Alur cerita yang dibuat Andrew Stanton, penulis yang terlibat dalam Toy Story (1995), bukan lagi soal cara Woody atau para mainan membahagiakan Andy. Toy Story 3 (2010) hanyalah akhir dari petualangan Woody dan Andy yang membawanya ke petualangan baru.
 
 Membawa pelajaran soal kehidupan, bahwa setiap akhir adalah awal yang baru. Begitu juga dengan cerita Toy Story 4 yang digarap Josh Cooley tentang Woody yang berada pada dunia baru. Bersama dengan mainan baru, dan pemilik baru, sesuatu yang belum pernah kita lihat sebelumnya.
 
-{% include figure alt="review film toy story 4" caprtion="_Dok. Disney_" image_path="https://i1.wp.com/cdnx.kincir.com/production/media/2019/juni/review-toy-story-4-2019/2-review-toy-story-4-2019.jpg?w=640&strip=all&q=80" url="https://cdnx.kincir.com/production/media/2019/juni/review-toy-story-4-2019/2-review-toy-story-4-2019.jpg" %}
+{% include figure alt="review film toy story 4" caprtion="_Dok. Disney_" image_path="https://i1.wp.com/cdnx.kincir.com/production/media/2019/juni/review-toy-story-4-2019/2-review-toy-story-4-2019.jpg?w=640&strip=all&q=70" url="https://cdnx.kincir.com/production/media/2019/juni/review-toy-story-4-2019/2-review-toy-story-4-2019.jpg" %}
 
 Jika ini jadi akhir kisah Toy Story, Cooley bisa dibilang menutupnya dengan akhir yang bikin senyum, meski beberapa adegan bikin pedih. Dari awal sampai menuju klimaks, kalian akan dibuat tertawa.
 
 Ya, lagi-lagi soal klasifikasi usia yang diterima film ini bikin beberapa unsur jadi universal dan enggak bisa diterima semua usia. Misalnya, beberapa adegan komedi, ada yang bikin sebagian ketawa ngakak, ada juga yang hanya bikin senyum simpul. Namun, enggak masalah, karena komedi sifatnya relatif.
 
-{% include figure alt="film toy story 4" caption="_Dok. Disney_" image_path="https://i2.wp.com/cdnx.kincir.com/production/media/2019/juni/review-toy-story-4-2019/3-review-toy-story-4-2019.jpg?w=640&strip=all&q80" url="https://i0.wp.com/cdnx.kincir.com/production/media/2019/juni/review-toy-story-4-2019/3-review-toy-story-4-2019.jpg" %}
+{% include figure alt="film toy story 4" caption="_Dok. Disney_" image_path="https://i2.wp.com/cdnx.kincir.com/production/media/2019/juni/review-toy-story-4-2019/3-review-toy-story-4-2019.jpg?w=640&strip=all&q70" url="https://i0.wp.com/cdnx.kincir.com/production/media/2019/juni/review-toy-story-4-2019/3-review-toy-story-4-2019.jpg" %}
 
 Akan tetapi, sifat relatif itu akan dilebur dengan bumbu horor lewat adegan dalam toko barang antik, seperti karakter Benson yang mirip Slappy di Goosebumps (2015).  Ditambah, kehadiran beberapa mainan baru juga memberikan warna yang bikin film Toy Story 4 jadi kaya.
 
 Soal adegan sedih, kayaknya enggak ada yang menggantikan kesedihan di akhir Toy Story 3, saat Andy merelakan mainan favoritnya ke pemilik baru, Bonnie. Namun bukan berarti adegan sedihnya enggak ngena, melainkan Cooley enggak memberikan kesempatan kita untuk berlarut dalam kesedihan. Ya, ini juga jadi satu poin pesan film ini.
 
 ### Emosional, Hidup, dan Bikin Larut
-{% include figure alt="toy story 4 2019" caption="_Dok. Disney_" image_path="https://i0.wp.com/cdnx.kincir.com/production/media/2019/juni/review-toy-story-4-2019/4-review-toy-story-4-2019.jpg?w=640&strip=all&q=80" url="https://i0.wp.com/cdnx.kincir.com/production/media/2019/juni/review-toy-story-4-2019/4-review-toy-story-4-2019.jpg" %}
+
+{% include figure alt="toy story 4 2019" caption="_Dok. Disney_" image_path="https://i0.wp.com/cdnx.kincir.com/production/media/2019/juni/review-toy-story-4-2019/4-review-toy-story-4-2019.jpg?w=640&strip=all&q=70" url="https://i0.wp.com/cdnx.kincir.com/production/media/2019/juni/review-toy-story-4-2019/4-review-toy-story-4-2019.jpg" %}
 
 Melihat kembali para karakter mainan yang udah mengisi memori kalian sejak 1995 dan terakhir sembilan tahun yang lalu memang bikin bahagia. Mereka kembali tampil sama menyenangkannya.
 
 Bedanya, para karakter Toy Story 4 ini dibuat lebih hidup lewat mimik. Cooley bikin Woody yang disuarakan Tom Hanks jadi lebih emosional. Suara Woody di sini, mengingatkan kalian pada peran Hanks sebagai Forrest Gump.
 
-{% include figure alt="toy story 4" caption="Buzz & Woody _Dok. Disney_" image_path="https://i1.wp.com/cdnx.kincir.com/production/media/2019/juni/review-toy-story-4-2019/5-review-toy-story-4-2019.jpg?w=640&strip=all&q=80" url="https://i1.wp.com/cdnx.kincir.com/production/media/2019/juni/review-toy-story-4-2019/5-review-toy-story-4-2019.jpg" %}
+{% include figure alt="toy story 4" caption="Buzz & Woody _Dok. Disney_" image_path="https://i1.wp.com/cdnx.kincir.com/production/media/2019/juni/review-toy-story-4-2019/5-review-toy-story-4-2019.jpg?w=640&strip=all&q=70" url="https://i1.wp.com/cdnx.kincir.com/production/media/2019/juni/review-toy-story-4-2019/5-review-toy-story-4-2019.jpg" %}
 
 Buzz Lightyear yang disuarakan Tim Allen sayangnya enggak lagi jadi "pion" kedua, tapi tetap jadi sidekick Woody. Lalu, ada Bo Peep yang kembali disuarakan oleh Anne Potts, ya, karena dia senior abis, kadang, suara Bo Peep layaknya suara nenek-nenek.
 
@@ -66,6 +68,7 @@ Pengisi suara pendatang baru jadi kekuatan film ini. Seakan kalian melihat merek
 Keanu Reeves sebagai Duke Caboom, Keegan-Michael Key sebagai Ducky, Jordan Peele sebagai Bunny, dan Christina Hendricks sebagai Gabby Gabby. Mereka jadi kelebihan film Toy Story 4.
 
 ### Warna-warni Manjakan Mata
+
 {% include figure alt="toy story 4 2019" caption="_Dok. Disney_" image_path="https://i1.wp.com/cdnx.kincir.com/production/media/2019/juni/review-toy-story-4-2019/7-review-toy-story-4-2019.jpg?w=640&strip=all&q=80" url="https://cdnx.kincir.com/production/media/2019/juni/review-toy-story-4-2019/7-review-toy-story-4-2019.jpg" %}
 
 Soal visual, enggak perlu lagi meragukan Disney. Digarap puluhan bulan hingga menghasilkan animasi yang benar-benar memanjakan mata. Saking nyatanya, para mainan layaknya hidup di dunia nyata, termasuk wajah karakter yang beautiful.
