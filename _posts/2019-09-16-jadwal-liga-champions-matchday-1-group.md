@@ -45,3 +45,6 @@ Sehari setelahnya giliran Juventus yang harus melawat ke Wanda Metropolitano unt
 |02:00|Dinamo Zagreb vs Atalanta|-|-|
 |02:00|PSG vs Real Madrid|**Live SCTV**|[Streaming (en)](/channel-6)|
 |02:00|Shakhtar vs Manchester City|-|[Streaming (en)](/channel-8)|
+
+Semua streaming kualitas HD. Siapkan Kuota ± 2 Gb dan bandwith ± 5mbps untuk menonton streaming dengan _lantjar djaja_.
+{:.notice .notice--danger}
