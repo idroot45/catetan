@@ -5,7 +5,7 @@ title: Channel 5
 header:
  image: "https://dummyimage.com/800x450/00/f.gif&text=SeBel+Channel+5"
  video:
-  id: https://cdx.dailysport.pw/10/10.m3u8
+  id: https://cdx.dailysport.pw/5/5.m3u8
   provider: full_link
 sitemap: false
 redirect_from:
