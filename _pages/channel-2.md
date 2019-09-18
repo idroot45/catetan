@@ -2,8 +2,8 @@
 layout: stream
 permalink: /ch-2
 title: Channel 2
-excerpt: Borussia Dortmund vs FC Barcelona
 header:
+ image: "https://dummyimage.com/800x450/00/f.gif&text=SeBel+Channel+2"
  video:
   id: https://cdx.dailysport.pw/7/7.m3u8
   provider: full_link
