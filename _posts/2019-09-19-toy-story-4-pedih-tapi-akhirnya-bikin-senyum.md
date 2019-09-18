@@ -1,5 +1,5 @@
 ---
-title: "Toy Story 4: Pedih, tapi Akhirnya Bikin Senyum"
+title: "Toy Story 4 - Pedih, tapi Akhirnya Bikin Senyum"
 excerpt: "Review film animasi Toy Story 4 (2019)"
 header:
  video:
@@ -14,10 +14,10 @@ tags: [komedi, petualangan, animasi]
 **SPOILER ALERT** Artikel ini mengandung sedikit bocoran yang semoga saja tidak mengganggu. Jika tidak berkenan, langsung tonton saja filmnya.
 {:.notice .notice--warning aria-hidden="true"}
 
-|Genre:| komedi, petualangan, animasi|
-|Actors:| Keanu Reeves, Tom Hanks, Tim Allen, Annie Potts, Tony Hale, Jordan Peele|
-|Directors:|Josh Cooley|
-|Release Date:|21 June 2019|
+|Genre| komedi, petualangan, animasi|
+|Actors| Keanu Reeves, Tom Hanks, Tim Allen, Annie Potts, Tony Hale, Jordan Peele|
+|Directors|Josh Cooley|
+|Release Date|21 June 2019|
 
 Membesarkan imajinasi masa kecil sejak 1995, para mainan kembali "ngajak main" kita lewat film Toy Story 4. Banyak penggemar yang berpikir bahwa Toy Story 3 (2010) adalah akhir dari kisah Andy dan mainan, nyatanya enggak.
 
