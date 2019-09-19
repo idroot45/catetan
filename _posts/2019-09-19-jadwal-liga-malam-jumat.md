@@ -16,15 +16,15 @@ Semua streaming kualitas HD. Siapkan Kuota ± 2 Gb dan bandwith ± 5mbps untuk m
 |Kick Off|Klub|Link 1|Link 2|
 |---|:---:|---:|---:|
 |||**Kamis**|**19/09/2019**|
-|23:55|Qarabag - Sevilla|[ch 6 (es)](/channel-6)|[ch 1 (en)](/channel-1)|
-|23:55|Getafe CF - Trabzonspor|[ch 7 (es)](/channel-7)|[ch 3 (en)](/channel-3)|
-|23:55|Eintracht - Arsenal|[ch 9 (es)](/channel-9)|[ch 2 (en)](/channel-2)|
-|23:55|CFR Cluj - Lazio|[ch 10 (es)](/channel-10)|n/a|
-|23:55|Manchester - Astana|[ch 6 (es)](/channel-6)|[ch 1 (en)](/channel-1)|
+|23:55|Qarabag - Sevilla|[ch 6 (es)](https://live.istimiwir.host/uel/qarabag-vs-sevilla-es/)|[ch 1 (en)](https://live.istimiwir.host/uel/qarabag-vs-sevilla-en/)|
+|23:55|Getafe CF - Trabzonspor|[ch 7 (es)](https://live.istimiwir.host/uel/roma-vs-istanbul-es/)|[ch 3 (en)](https://live.istimiwir.host/uel/roma-vs-istanbul-en)|
+|23:55|Eintracht - Arsenal|[ch 9 (es)](https://live.istimiwir.host/uel/eintracht-vs-arsenal-es/)|[ch 2 (en)](https://live.istimiwir.host/uel/eintracht-vs-arsenal-en/)|
+|23:55|CFR Cluj - Lazio|[ch 10 (es)](https://live.istimiwir.host/uel/cluj-vs-lazio-es)|n/a|
+|23:55|Manchester - Astana|[ch 6 (es)](https://live.istimiwir.host/uel/manchester-vs-astana-es/)|[ch 1 (en)](https://live.istimiwir.host/uel/manchester-vs-astana-en/)|
 |||**Jum'at**|**20/09/2019**|
-|02:00|FC Porto - Young|[ch 7 (es)](/channel-7)|[ch 3 (en)](/channel-3)|
-|02:00|AS Roma - Istanbul|[ch 9 (es)](/channel-9)|[ch 2 (en)](/channel-2)|
-|02:00|Wolves - Braga|[ch 9 (es)](/channel-9)|n/a|
+|02:00|FC Porto - Young|[ch 7 (es)](https://live.istimiwir.host/uel/porto-vs-young-es/)|[ch 3 (en)](https://live.istimiwir.host/uel/porto-vs-young-en/)|
+|02:00|AS Roma - Istanbul|[ch 9 (es)](https://live.istimiwir.host/uel/roma-vs-istanbul-es/)|[ch 2 (en)](https://live.istimiwir.host/uel/roma-vs-istanbul-en/)|
+|02:00|Wolves - Braga|[ch 9 (es)](https://live.istimiwir.host/uel/wolves-vs-braga-es/)|n/a|
 
 Waktu dalam WIB (Western Indonesia Time).
 {:.notice .notice--info}
