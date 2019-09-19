@@ -18,7 +18,7 @@ Semua streaming kualitas HD. Siapkan Kuota ± 2 Gb dan bandwith ± 5mbps untuk m
 |||**Kamis**|**19/09/2019**|
 |23:55|Qarabag - Sevilla|[ch 6](https://live.istimiwir.host/uel/qarabag-vs-sevilla)|n/a|
 |23:55|Getafe CF - Trabzonspor|[ch 7](https://live.istimiwir.host/uel/roma-vs-istanbul)|n/a|
-|23:55|Eintracht - Arsenal|[ch 9](https://live.istimiwir.host/uel/eintracht-vs-arsenal)|n/a|
+|23:55|Eintracht - Arsenal|[ch 9](https://live.istimiwir.host/uel/eintracht-vs-arsenal)|[ch-1](https://live.istimiwir.host/uel/eintracht-vs-arsenal-2/|
 |23:55|CFR Cluj - Lazio|[ch 10](https://live.istimiwir.host/uel/cluj-vs-lazio-es)|n/a|
 |23:55|Manchester - Astana|[ch 6](https://live.istimiwir.host/uel/manchester-vs-astana)|n/a|
 |||**Jum'at**|**20/09/2019**|
