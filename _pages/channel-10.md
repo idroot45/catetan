@@ -1,7 +1,7 @@
 ---
 layout: stream
 permalink: /ch-10
-title: Channel Edit
+title: Channel 10
 header:
  video:
   id: https://cdx.dailysport.pw/10/10.m3u8
