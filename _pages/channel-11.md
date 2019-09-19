@@ -1,4 +1,3 @@
-
 ---
 layout: stream
 permalink: /ch-11
