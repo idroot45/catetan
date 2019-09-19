@@ -1,4 +1,5 @@
 ---
+layout: stream
 permalink: /ch-3
 title: Channel 3
 header:
