@@ -24,14 +24,14 @@ tags: [uefa europa league, skor akhir uel, liga maljum]
 |02:00|Wolfsburg vs Oleksandriya|3-1|
 |02:00|Espanyol vs Ferencvaros|1-1|
 |02:00|Rangers vs Feyenord|1-0|
-|02:00|Slovan Bratislava vs Besiktas|2-2|
+|02:00|Slovan Bratislava vs Besiktas|4-2|
 |02:00|Moncengladbach vs Wolfsberg|0-4|
 |02:00|Partizan vs AZ Alkmaar|2-2|
 |02:00|Gent vs St Etienne|3-2|
 |02:00|Ludogorets vs CSKA Moscow|5-1|
 |02:00|Manchester vs Astana|1-0|
 |02:00|Porto vs Young Boys|2-1|
-|02:00|AS Roma vs Istanbul|3-0|
+|02:00|AS Roma vs Istanbul|4-0|
 |02:00|Wolves vs Braga|0-1|
 
-[Cek Jadwal Liga Maljum selanjutnya](/)
+[Cek Jadwal Liga Maljum selanjutnya](/streaming/jadwal-liga-malam-jumat/)
