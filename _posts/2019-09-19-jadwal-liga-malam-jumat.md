@@ -16,11 +16,11 @@ Semua streaming kualitas HD. Siapkan Kuota ± 2 Gb dan bandwith ± 5mbps untuk m
 |Kick Off|Klub|Link 1|Link 2|
 |---|:---:|---:|---:|
 |||**Kamis**|**19/09/2019**|
-|23:55|Qarabag - Sevilla|[ch 6 (es)](https://live.istimiwir.host/uel/qarabag-vs-sevilla-es/)|[ch 1 (en)](https://live.istimiwir.host/uel/qarabag-vs-sevilla-en/)|
-|23:55|Getafe CF - Trabzonspor|[ch 7 (es)](https://live.istimiwir.host/uel/roma-vs-istanbul-es/)|[ch 3 (en)](https://live.istimiwir.host/uel/roma-vs-istanbul-en)|
-|23:55|Eintracht - Arsenal|[ch 9 (es)](https://live.istimiwir.host/uel/eintracht-vs-arsenal-es/)|[ch 2 (en)](https://live.istimiwir.host/uel/eintracht-vs-arsenal-en/)|
+|23:55|Qarabag - Sevilla|[ch 6 (es)](https://live.istimiwir.host/uel/qarabag-vs-sevilla-es/)|n/a|
+|23:55|Getafe CF - Trabzonspor|[ch 7 (es)](https://live.istimiwir.host/uel/roma-vs-istanbul-es/)|n/a|
+|23:55|Eintracht - Arsenal|[ch 9 (es)](https://live.istimiwir.host/uel/eintracht-vs-arsenal-es/)|n/a|
 |23:55|CFR Cluj - Lazio|[ch 10 (es)](https://live.istimiwir.host/uel/cluj-vs-lazio-es)|n/a|
-|23:55|Manchester - Astana|[ch 6 (es)](https://live.istimiwir.host/uel/manchester-vs-astana-es/)|[ch 1 (en)](https://live.istimiwir.host/uel/manchester-vs-astana-en/)|
+|23:55|Manchester - Astana|[ch 6 (es)](https://live.istimiwir.host/uel/manchester-vs-astana-es/)|n/a|
 |||**Jum'at**|**20/09/2019**|
 |02:00|FC Porto - Young|[ch 7 (es)](https://live.istimiwir.host/uel/porto-vs-young-es/)|[ch 3 (en)](https://live.istimiwir.host/uel/porto-vs-young-en/)|
 |02:00|AS Roma - Istanbul|[ch 9 (es)](https://live.istimiwir.host/uel/roma-vs-istanbul-es/)|[ch 2 (en)](https://live.istimiwir.host/uel/roma-vs-istanbul-en/)|
