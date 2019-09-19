@@ -9,12 +9,11 @@ categories: [streaming]
 tags: [uefa league, live streaming, liga maljum]
 ---
 
-Hasil lengkap Liga Maljum:
-1. [Matchday 1](https://catetan.istimiwir.host/sepakbola/hasil-lengkap-liga-maljum-machtday-1-group/)
-2. [Matchday 2](#jadwal-streaming-matchday-2)
-3. [Matchday 3](#jadwal-streaming-matchday-2)
-4. [Matchday 4](#jadwal-streaming-matchday-2)
-5. [Matchday 5](#jadwal-streaming-matchday-2)
+### Hasil lengkap Liga Maljum
+
+|:---:|:---:|:---:|
+|[Matchday 1](https://catetan.istimiwir.host/sepakbola/hasil-lengkap-liga-maljum-machtday-1-group/)|[Matchday 2](#jadwal-streaming-matchday-2)|[Matchday 3](#jadwal-streaming-matchday-2)|
+|[Matchday 4](#jadwal-streaming-matchday-2)|[Matchday 5](#jadwal-streaming-matchday-2)|[Matchday 6](#jadwal-streaming-matchday-2)|
 
 {% include figure caption="Liga Malam Jum'at, lumayan daripada lumanyun" image_path="https://dummyimage.com/800x450/0000ff/f.gif&text=Europa+League" alt="liga maljum" %}{:.align-center}
 
