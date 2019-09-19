@@ -3,6 +3,7 @@ layout: stream
 permalink: /ch-12
 title: Channel 12
 header:
+ image: "https://dummyimage.com/800x450/00/f.gif&text=SeBel+Channel+12"
  video:
   id: https://cdx.dailysport.pw/12/12.m3u8
   provider: full_link
