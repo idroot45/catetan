@@ -2,9 +2,6 @@
 title: "Spider-Man: Far From Home, Belajar Tanggung Jawab"
 excerpt: "Tema tanggung jawab di Spider-Man: Far From Home lebih ringan dan pas dengan setting dunia remaja"
 header:
- video:
-  id: "n-kgzu26dd7xz-2"
-  provider: "fembed"
  teaser: /assets/images/stealth-suit.png
  og_image: /assets/images/spiderman-marvel.png
 categories: [video]
@@ -16,7 +13,7 @@ last_modified_at: 2019-09-21 23:54:00
 
 > “With great power, comes great responsibility”
 
-Tulisan ini mengandung spoiler, langsung tonton video di atas atau [unduh](https://mi.knoacc.org/dl/fembed?cde={{ page.video.header.id}}&st1=goto&st2=fembed){:target="_pop"}.
+Tulisan ini mengandung spoiler, langsung tonton video di atas atau [unduh](http://dl.knoacc.org/90){:.btn .btn--info rel="nofollow noreferer noopener" target="_pop"}.
 {:.notice .notice--warning aria-hidden="true"}
 
 Bagi kalian yang setia mengikuti kisah Spider-Man, tentu kutipan tersebut sudah tidak asing lagi. Diucapkan oleh Paman Ben terhadap Peter Parker, alter ego Spider-Man, kalimat tersebut mengajarkan bahwa kekuatan super tidak boleh digunakan dengan sesuka hati, namun dengan penuh tanggung jawab. Nah, tanggung jawab menjadi tema besar yang diusung Spider-Man: Far From Home, film kedua Spider-Man di Marvel Cinematic Universe (MCU)
