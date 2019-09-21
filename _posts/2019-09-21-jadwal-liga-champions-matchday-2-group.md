@@ -14,7 +14,7 @@ last_modified_at: 2019-09-21 14:17:22
 {:.notice .notice--info}
 
 |Kick-off|Klub|Channel TV lokal|Channel Streaming|
-|:---:|:---|:---|---:|
+|:---:|:---|---:|---:|
 |**Selasa**|||_(01/10/2019)_|
 |23:55|Atalanta vs Sakhtar Donetsk|||
 |23:55|Real Madrid vs Club Brugge|**SCTV**||
@@ -32,7 +32,7 @@ last_modified_at: 2019-09-21 14:17:22
 |02:00|LOSC vs Chelsea|||
 |02:00|Zeni vs Benfica|||
 |02:00|Valencia vs Ajax|||
-|02:00|Barcelona vs Inter Milan|SCTV||
+|02:00|Barcelona vs Inter Milan|**SCTV**||
 |02:00|RB Leipzig vs Lyon|||
 
 Hasil Liga Champions Group Stage Matchday I bisa dilihat [di sini](/sepakbola/jadwal-liga-champions-matchday-1-group/)
