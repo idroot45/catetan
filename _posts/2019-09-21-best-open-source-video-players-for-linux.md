@@ -1,8 +1,8 @@
 ---
 title: "Best Open Source Video Players for Linux [2019]"
 header:
- image: "https://i0.wp.com/pixel.nymag.com/imgs/fashion/daily/2018/11/02/2-empty-movie-theatre.jpg"
- caption: "Best Video Players For Linux"
+ og_image: "https://i0.wp.com/pixel.nymag.com/imgs/fashion/daily/2018/11/02/2-empty-movie-theatre.jpg"
+ teaser: "https://i0.wp.com/pixel.nymag.com/imgs/fashion/daily/2018/11/02/2-empty-movie-theatre.jpg?resize=480,360"
 categories: [linux]
 tags: [video player, foss]
 ---
@@ -13,6 +13,8 @@ You can watch **Hulu**, **Prime Video** and/or **Netflix** on Linux. You can als
 Watching movies/TV series or other video contents on computers is not an ‘ancient tradition’ yet. Usually, you go with the default video player that comes baked in with your Linux distribution (that could be anything).
 
 You won’t have an issue utilizing the default player – however, if you specifically want more open-source video player choices (or alternatives to the default one), you should keep reading.
+
+{% include figure alt="Best Linux Video Players" caption="Best Video Players For Linux" image_path="https://i0.wp.com/pixel.nymag.com/imgs/fashion/daily/2018/11/02/2-empty-movie-theatre.jpg" url="https://i0.wp.com/pixel.nymag.com/imgs/fashion/daily/2018/11/02/2-empty-movie-theatre.jpg?640,320" %}
 
 It included the installation steps for Ubuntu but that shouldn’t make it the list of Ubuntu video players. These open source software should be available in any Linux distribution you are using.
 
