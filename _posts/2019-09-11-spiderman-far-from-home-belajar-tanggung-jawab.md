@@ -11,7 +11,7 @@ categories: [video]
 tags: [film spiderman, spiderman far from home, review film]
 last_modified_at: 2019-09-21 23:54:00
 ---
-**Update:** kualitas video 21 Sept 2019: **Bluray** ([hanya download](#dl)
+**Update:** kualitas video 21 Sept 2019: **Bluray** <sup>[hanya download](#dl)<sup>
 {:.notice .notice--info aria-hidden="true"}
 
 > “With great power, comes great responsibility”
