@@ -6,12 +6,12 @@ header:
   provider: "fembed"
  og_image: https://i.ytimg.com/vi/5Lxu75r3-kI/maxresdefault.jpg
  teaser: https://i.ytimg.com/vi/5Lxu75r3-kI/mqdefault.jpg
-excerpt: "Film ini masih berkualitas rendah (HDCAM). Perkiraan release BluRay November 2019."
+excerpt: "Film ini masih berkualitas HDRIP. Perkiraan release BluRay November 2019."
 categories: [video]
 last_modified_at: 2019-09-21 11:45:02
 ---
 
-Update kualitas HDRIP
+Update kualitas HDRIP, Perkiraan release BluRay November 2019
 {:.notice .notice--info}
 
 ## Detail video:
