@@ -8,7 +8,6 @@ header:
 last_modified_at: 2019-09-21 14:17:22
 ---
 
-
 ## Jadwal Matchday II — Group Stage
 
 **Info:** Semua jadwal dalam WIB. Link streaming akan muncul sehari sebelum pertandingan.
@@ -25,11 +24,11 @@ last_modified_at: 2019-09-21 14:17:22
 |02:00|Lokomotiv Moscow vs Altletico Madrid|||
 |02:00|Tottenham vs Bayern Muenchen|||
 |02:00|Juventus vs Bayer Leverkusen|||
-|02:00|Galatasaeay vs PSG|||
+|02:00|Galatasaray vs PSG|||
 |23:55|Slavia Praha vs Dortmund|||
 |23:55|Genk vs Napoli|||
 |||**Kamis**|_(03/10/2019)_|
-|02:00|Liverpool vs Red Bull|||
+|02:00|Liverpool vs Red Bull||[link](/liverpool)|
 |02:00|LOSC vs Chelsea|||
 |02:00|Zeni vs Benfica|||
 |02:00|Valencia vs Ajax|||
