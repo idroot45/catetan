@@ -1,5 +1,8 @@
 ---
 title: "Best Open Source Video Players for Linux [2019]"
+header:
+ image: "https://i0.wp.com/pixel.nymag.com/imgs/fashion/daily/2018/11/02/2-empty-movie-theatre.jpg"
+ caption: "Best Video Players For Linux"
 categories: [linux]
 tags: [video player, foss]
 ---
@@ -11,12 +14,10 @@ Watching movies/TV series or other video contents on computers is not an ‘anci
 
 You won’t have an issue utilizing the default player – however, if you specifically want more open-source video player choices (or alternatives to the default one), you should keep reading.
 
-Best Linux video players
-Video Players For Linux
-I have included the installation steps for Ubuntu but that shouldn’t make it the list of Ubuntu video players. These open source software should be available in any Linux distribution you are using.
+It included the installation steps for Ubuntu but that shouldn’t make it the list of Ubuntu video players. These open source software should be available in any Linux distribution you are using.
 
 **Installing the software**
-Another note for Ubuntu users. You should have **universe repository** enabled in order to find and install these video players from the software center or by using command line. I have mentioned the commands but if you like, you can also install them from the Software Center.
+Another note for [Ubuntu](/linux/ubuntu-19-10-will-boot-faster-with-lz4-compression/) users. You should have **universe repository** enabled in order to find and install these video players from the software center or by using command line. I have mentioned the commands but if you like, you can also install them from the Software Center.
 {:.notice .notice--warning}
 
 Please keep in mind that the list is in no particular order of ranking.
