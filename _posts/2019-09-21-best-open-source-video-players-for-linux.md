@@ -43,7 +43,7 @@ It is a quite powerful video player capable of handling a variety of file format
 
 You can easily install VLC in Ubuntu from the Software Center or download it from the official website.
 
-If you’re utilizing the terminal, you will have to separately install the components as per your requirements by following the official resource. To install the player, just type in:
+If you’re utilizing the terminal, you will have to separately install the components as per your requirements by following the [official resource](https://wiki.videolan.org/Debian/#Debian). To install the player, just type in:
 
 `sudo apt install vlc`
 
@@ -115,7 +115,7 @@ Keeping that aside, it offers what you would expect from a standard video player
 
 #### How to install MPV Player?
 
-You will find it listed in the Software Center or Package Manager. In either case, you can download the required package for your distro from the official download page.
+You will find it listed in the Software Center or Package Manager. In either case, you can download the required package for your distro from the [official download](https://mpv.io/installation/) page.
 
 If you’re on Ubuntu, you can type in this in the terminal:
 
@@ -163,13 +163,13 @@ You can just type in “totem” to find the video player for GNOME listed in th
 
 ![Deepin Movie](https://i0.wp.com/itsfoss.com/wp-content/uploads/2019/09/deepin-movie.jpg)
 
-If you are using Deepin OS, you will find this as your default video player for Deepin Desktop Environment. It features all the basic functionalities that you would normally look in a video player. You can try compiling the source to install it if you aren’t using Deepin.
+If you are using [Deepin OS](https://www.deepin.org/en/), you will find this as your default video player for Deepin Desktop Environment. It features all the basic functionalities that you would normally look in a video player. You can try compiling the source to install it if you aren’t using Deepin.
 
 [Deepin Movie](https://www.deepin.org/en/original/deepin-movie/){:.btn .btn--large .btn--info}
 
 #### How to Install Deepin?
 
-You can find it in the Software Center. If you’d want to compile, the source code is available at GitHub. In either case, type in the following command in the terminal:
+You can find it in the Software Center. If you’d want to compile, the source code is available at [GitHub](https://github.com/linuxdeepin/deepin-movie-reborn). In either case, type in the following command in the terminal:
 
 `sudo apt install deepin-movie`
 
@@ -198,6 +198,6 @@ In addition to that, you can also check for available binary packages on their o
 
 ### Wrapping Up
 
-We would recommend you to try out these open source video players over anything else. In addition to all these, you can also try Miro Player which is no more being actively maintained but works – so you can give it a try, if nothing else works for you.
+We would recommend you to try out these open source video players over anything else. In addition to all these, you can also try [Miro Player](http://www.getmiro.com/) which is no more being actively maintained but works – so you can give it a try, if nothing else works for you.
 
 However, if you think we missed one of your favorite Linux video player that deserves a mentioned, let us know about it in the comments down below!
