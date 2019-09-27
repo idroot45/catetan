@@ -1,8 +1,8 @@
 ---
 title: "Cloudflare's Warp 'Free VPN Service' Launched, Here's How To Enable It"
 excerpt: "A New “Free VPN Service” Is In Town: Here’s How To Enable It"
-header: https://fossbytes.com/wp-content/uploads/2019/09/Cloudflare-Free-VPN-Service-Warp.jpg
- image:
+header:
+ image: "https://fossbytes.com/wp-content/uploads/2019/09/Cloudflare-Free-VPN-Service-Warp.jpg"
  caption: "Cloudflare Free VPN Service Warp"
 categories: [security]
 tags: [1.1.1.1, cloudflare warp, premium warp+, vpn gratis, vpn service]
