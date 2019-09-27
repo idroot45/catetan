@@ -15,7 +15,7 @@ The service comes with a free VPN tier (called Warp) that doesn’t put a cap on
 
 Cloudflare says that using **Warp+** provides users with better performance and speed by routing the traffic through its virtual private backbone known as Argo.
 
-It’s charging around $4.99/mo for Warp+ (cost varies by region), but you can get 1GB of Warp+ data by referring the service to your friends.
+It’s charging around $4.99/mo for Warp+ (cost varies by region), but you can [get 1GB of Warp+ data](https://warp.plus/jszCB) by referring the service to your friends.
 
 ## How to enable Warp VPN service?
 
