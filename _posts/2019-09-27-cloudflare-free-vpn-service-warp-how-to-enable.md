@@ -41,4 +41,4 @@ However, the company has straightaway mentioned that its VPN service is not for 
 
 With that said, the company hasn’t clarified whether or not this applies to the paid tier Warp+ as well. In that case, it would be hard to justify the amount that Cloudflare wants to charge.
 
-Anyway, you can enjoy the free VPN on your phone for casual stuff. It’s still better than not having a VPN at all. In the coming days, we’ll try to come up with more details on the speed tests and real-world performance of Cloudflare’s VPN.
+Anyway, you can enjoy the free VPN on your phone for casual stuff. It’s still [better than not having a VPN at all](https://mi.knoacc.org/kebiasaan-buruk-berbahaya-pengguna-ponsel-android). In the coming days, we’ll try to come up with more details on the speed tests and real-world performance of Cloudflare’s VPN.
