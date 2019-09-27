@@ -11,6 +11,6 @@ sitemap: false
 redirect_from:
  - /channel-1/
 ---
-<style>h1#page-title{display:none;height:0;visibility:hidden;!important</style>
-
-[HOME](/){:.btn .btn--large .btn--success .align-center}
+<div class="align-center">
+<a class="btn btn--success btn-large" href="https://catetan.istimiwir.host">H O M E</a>
+</div>
