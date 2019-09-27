@@ -12,5 +12,5 @@ redirect_from:
  - /channel-1/
 ---
 <div class="align-center">
-<a class="btn btn--success btn-large" href="https://catetan.istimiwir.host">H O M E</a>
+<a class="btn btn--success btn-large" href="https://catetan.istimiwir.host" rel="noopener">H O M E</a>
 </div>
