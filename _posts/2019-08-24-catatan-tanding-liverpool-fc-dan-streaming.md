@@ -19,16 +19,17 @@ redirect_from:
 # - /carabao
  - /streaming/m3u8/
 ---
-*Ingat baik-baik!*{:.fa .fa-danger aria-label-hidden="true"} **1** Tayangan akan tersedia hanya **jika ada** dan **tersedia** (dapat saya temukan) di internet. Baca [latar belakang](#latar-belakang) catatan ini. **2** Refresh **10 menit** sebelum _kick off_, selain di waktu tersebut kemungkinan siaran tidak dapat diakses. **3** Streaming di halaman ini diusahakan dalam kualitas HD, jadi kemungkinan akan menguras kuota/data hingga 2 GB dan membutuhkan kecepatan konektivitas minimal 10 Mbps untuk kelancaran streaming. **4** Sedangkan mengenai pilihan siaran **MolaTV**, tidak saya rekomendasikan. Silahkan baca [catatannya](#molatv).
-{:.notice .notice--warning}
+*Ingat baik-baik!*{:.fa .fa-cog aria-label-hidden="true"} **1** Tayangan akan tersedia hanya **jika ada** dan **tersedia** (dapat saya temukan) di internet. Baca [latar belakang](#latar-belakang) catatan ini. **2** Refresh **10 menit** sebelum _kick off_, selain di waktu tersebut kemungkinan siaran tidak dapat diakses. **3** Streaming di halaman ini diusahakan dalam kualitas HD, jadi kemungkinan akan menguras kuota/data hingga 2 GB dan membutuhkan kecepatan konektivitas minimal 10 Mbps untuk kelancaran streaming. **4** Sedangkan mengenai pilihan siaran **MolaTV**, tidak saya rekomendasikan. Silahkan baca [catatannya](#molatv).
+{:.notice--warning}
 
 ## Catatan pertandingan dan streaming
 
-*Bahaya!*{:.fa .fa-warning aria-label-hidden="true"} Postingan ini niatnya hanya untuk menyimpan streaming pertandingan-pertandingan **Liverpool FC** saja. Utamnya *Premier League*, tetapi mungkin ada juga pertandingan di kompetisi lain seperti Carabao Cup dan Champions League.
+*Bahaya!*{:.fa .fa-heartbeat aria-label-hidden="true"} Postingan ini niatnya hanya untuk menyimpan streaming pertandingan-pertandingan **Liverpool FC** saja. Utamanya *Premier League*, tetapi mungkin ada juga pertandingan di kompetisi lain seperti _Carabao Cup_ dan _Champions League_.
+{:.notice--danger}
 
 ### Pertandingan Sekarang:
 
-*Baru!*{:.fa fa-new aria-hidden-label="true"} **Champions League** Group Stage Matchday 2: _Liverpool FC_ vs _Red Bull Salzburg_ [home]. **KO 02:00 WIB**, Rabu, 3 Oktober 2019. Lihat jadwal matchday 2 selengkapnya [di sini](/sepakbola/jadwal-liga-champions-matchday-2-group/).
+*Baru!*{:.fa fa-play aria-hidden-label="true"} **Champions League** Group Stage Matchday 2: _Liverpool FC_ vs _Red Bull Salzburg_ [home]. **KO 02:00 WIB**, Rabu, 3 Oktober 2019. Lihat jadwal matchday 2 selengkapnya [di sini](/sepakbola/jadwal-liga-champions-matchday-2-group/).
 {: .notice .notice--info}
 
 - Artikel pra-tanding dari portal [This Is Anfield](https://www.thisisanfield.com/2019/09/key-men-manager-impressions-a-curious-link-to-the-past-complete-lowdown-on-salzburg/), [Liverpool.com](https://www.liverpool.com/liverpool-fc-news/features/liverpool-salzburg-man-united-haaland-17001599) dan [Liverpool Echo](https://www.liverpoolecho.co.uk/sport/football/football-news/former-liverpool-man-identifies-key-17007724) bisa dibaca sambil ngopi.
@@ -36,13 +37,13 @@ redirect_from:
 
 {% include figure caption="Champions League Standing Group E" image_path="https://i0.wp.com/knoacc.github.io/catetan/assets/images/ucl-standings.jpg?w=540" url="/assets/images/ucl-standings.jpg" alt="ucl standings"%}
 
-### Jadwal Selanjutnya:
+### _next_{:.fa fa-fast-forward aria-hidden-label="true"} Jadwal Selanjutnya:
 
 **EPL** Pertandingan pekan ke-8 (05/10/2019) **Liverpool FC vs Leicester City** [home]. **KO 21:00 WIB**.
 - Jadwal streaming pertandingan pekan ke-8 bisa dilihat [di sini](https://live.istimiwir.host/epl-8)
 - Artikel pra-tanding dari portal [This Is Anfield](https://www.thisisanfield.com/2019/09/brendan-rodgers-excited-for-first-return-to-incredible-former-club-liverpool/). Baca saja sambil tiduran.
 
-### Hasil Sebelumnya:
+### _previous_{:.fa fa-fast-backward aria-hidden-label="true"} Hasil Sebelumnya:
 
 {% include figure caption="Premire League Standing Minggu ke-7" image_path="https://i0.wp.com/knoacc.github.io/catetan/assets/images/epl-standings.jpg?w=540" url="/assets/images/epl-standings.jpg" alt="EPL 2019/2020 Standing"%}
 
