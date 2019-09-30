@@ -1,6 +1,6 @@
 ---
 title: "Catatan Pertandingan Liverpool FC dan Link Streaming [Update]"
-excerpt: "Liverpool FC vs Red Bull Salzburg, Sabtu 05/10/2019 Kick-Off 21:00 WIB. Champions League Group Stage Match-day 2"
+excerpt: "Liverpool FC vs Red Bull Salzburg, Kamis 03/10/2019 Kick-Off 03:00 WIB. Champions League Group Stage Match-day 2"
 header:
  og_image: "https://www.thisisanfield.com/wp-content/uploads/2018-12-17-029-UEFA_Champions_League_Draw.jpg"
  overlay_image: "https://www.thisisanfield.com/wp-content/uploads/2018-12-17-029-UEFA_Champions_League_Draw.jpg"
@@ -29,7 +29,7 @@ redirect_from:
 
 ### Pertandingan Sekarang:
 
-*Baru!*{:.fa .fa-play aria-hidden="true"} **Champions League** Group Stage Matchday 2: _Liverpool FC_ vs _Red Bull Salzburg_ [home]. **KO 02:00 WIB**, Rabu, 3 Oktober 2019. Lihat jadwal matchday 2 selengkapnya [di sini](/sepakbola/jadwal-liga-champions-matchday-2-group/).
+*Baru!*{:.fa .fa-play aria-hidden="true"} **Champions League** Group Stage Matchday 2: _Liverpool FC_ vs _Red Bull Salzburg_ [home]. **KO 02:00 WIB**, Kamis, 3 Oktober 2019. Lihat jadwal matchday 2 selengkapnya [di sini](/sepakbola/jadwal-liga-champions-matchday-2-group/).
 {: .notice .notice--info}
 
 - Artikel pra-tanding dari portal [This Is Anfield](https://www.thisisanfield.com/2019/09/key-men-manager-impressions-a-curious-link-to-the-past-complete-lowdown-on-salzburg/), [Liverpool.com](https://www.liverpool.com/liverpool-fc-news/features/liverpool-salzburg-man-united-haaland-17001599) dan [Liverpool Echo](https://www.liverpoolecho.co.uk/sport/football/football-news/former-liverpool-man-identifies-key-17007724) bisa dibaca sambil ngopi.
