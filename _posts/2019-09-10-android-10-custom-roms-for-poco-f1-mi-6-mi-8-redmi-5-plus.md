@@ -23,7 +23,7 @@ Download **POSP based on Android 10 for the Xiaomi Poco F1**. Link [to forum](ht
 
 Similarly, Android 10-based **POSP** is now available for the Xiaomi Redmi Note 5 (India) / **Xiaomi Redmi 5 Plus** (Global). This ROM is marked as an `alpha` build, so we would advise only experienced users try it out at this stage. There are issues with the Goodix-based fingerprint scanner, and issues with the thermal engine — stay away if you expect complete daily driver material.
 
-Download POSP based on Android 10 for the Xiaomi Redmi 5 Plus (global)/Redmi Note (india). Link [to post](/android/android-10-custom-rom-redmi-5-plus-vince/), link [to forum](https://forum.xda-developers.com/redmi-note-5/development/rom-posp-q-t3965423)
+Download **POSP based on Android 10 for the Xiaomi Redmi 5 Plus** (global)/Redmi Note (india). Link [to post](https://mi.knoacc.org/android-10-custom-rom-redmi-5-plus-vince), link [to forum](https://forum.xda-developers.com/redmi-note-5/development/rom-posp-q-t3965423)
 
 ### Xiaomi Mi 6
 
