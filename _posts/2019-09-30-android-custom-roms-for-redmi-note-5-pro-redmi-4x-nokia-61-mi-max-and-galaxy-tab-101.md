@@ -46,3 +46,5 @@ Download **AOSP Extended based on Android 10 for Nokia 6.1**. [Link](https://for
 ## Android 10 has been available for more devices since then
 
 Currently, Android 10 already available for several other devices. The adroit and diligent community has dished out Android 10 ROMs for several devices. These include smartphones such as _Asus ZenFone 6/5Z_, _OnePlus 6/6T_, _LG G2_, _Mi 3_, _Mi 4_, _Redmi Note 7_, _Lenovo ZUK Z2 Plus_, _Redmi Note 7 Pro_, _Xiaomi Mi A1_, _Google Nexus 5X_, [_Xiaomi Mi Note 3_, _Redmi 3s_, _OnePlus 2_, _Google Nexus 6P_, _Sony Xperia X_, _LG V40_](https://catetan.istimiwir.host/android/android-10-custom-roms-for-mi-note-3-oneplus-2-nexus-6p-xperi-x-lg-v40/), _Redmi Note 4_, _Redmi 6 Pro_, _OnePlus 5/5T_, _LG V30_, _Samsung Galaxy Tab S5e_, _Asus ZenFone Max Pro M1_, _POCO F1_, _Xiaomi Mi 6_, _Mi 8_, and _Redmi Note 5_.
+
+_source: xda-developers.com_
