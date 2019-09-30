@@ -8,6 +8,7 @@ header:
  caption: "Android 10 for Redmi 5 Plus and more"
 categories: [android]
 tags: [android 10, custom rom, redmi 5 plus, posp 10]
+link: "https://mi.knoacc.org/android-10-custom-rom-redmi-5-plus-vince"
 ---
 **Android 10-based POSP** is now available for the Xiaomi Redmi Note 5 (India) / Xiaomi Redmi 5 Plus (International). This ROM is marked as an **alpha build**, so we would advise only experienced users try it out at this stage. There are issues with the Goodix-based fingerprint scanner, and issues with the thermal engine — stay away if you expect complete daily driver material.
 
