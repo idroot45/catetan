@@ -19,17 +19,12 @@ redirect_from:
 # - /carabao
  - /streaming/m3u8/
 ---
-*Ingat!*{:.fa .fa-warning}
-Tayangan akan tersedia hanya **jika ada** dan **tersedia** (dapat saya temukan) di internet. Baca [latar belakang](#latar-belakang) catatan ini.
-Refresh **10 menit** sebelum _kick off_, selain di waktu tersebut kemungkinan siaran tidak dapat diakses.
-Streaming di halaman ini diusahakan dalam kualitas HD, jadi kemungkinan akan menguras kuota/data hingga 2 GB dan membutuhkan kecepatan konektivitas minimal 10 Mbps untuk kelancaran streaming.
-Sedangkan mengenai pilihan siaran **MolaTV**, silahlan baca [catatan](#molatv).
+*Ingat baik-baik!*{:.fa .fa-danger aria-label-hidden="true"} **1** Tayangan akan tersedia hanya **jika ada** dan **tersedia** (dapat saya temukan) di internet. Baca [latar belakang](#latar-belakang) catatan ini. **2** Refresh **10 menit** sebelum _kick off_, selain di waktu tersebut kemungkinan siaran tidak dapat diakses. **3** Streaming di halaman ini diusahakan dalam kualitas HD, jadi kemungkinan akan menguras kuota/data hingga 2 GB dan membutuhkan kecepatan konektivitas minimal 10 Mbps untuk kelancaran streaming. **4** Sedangkan mengenai pilihan siaran **MolaTV**, tidak saya rekomendasikan. Silahkan baca [catatannya](#molatv).
 {:.notice .notice--warning}
 
 ## Catatan pertandingan dan streaming
 
-Postingan ini untuk menyimpan embed streaming pertandingan sepakbola. Niatnya hanya untuk pertandingan-pertandingan **Liverpool FC** di *Premier League* saja. Pertandingan klub lain gak penting.
-{: .notice .notice--warning}
+*Bahaya!*{:.fa .fa-warning aria-label-hidden="true"} Postingan ini niatnya hanya untuk menyimpan streaming pertandingan-pertandingan **Liverpool FC** saja. Utamnya *Premier League*, tetapi mungkin ada juga pertandingan di kompetisi lain seperti Carabao Cup dan Champions League.
 
 ### Pertandingan Sekarang:
 
