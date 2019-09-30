@@ -19,20 +19,21 @@ redirect_from:
 # - /carabao
  - /streaming/m3u8/
 ---
-**Ingat!** Tayangan akan tersedia hanya **jika ada** dan **tersedia** di internet. Refresh **10 menit** sebelum _kick off_, selain di waktu tersebut kemungkinan siaran tidak dapat diakses. Sedangkan mengenai **MolaTV**, baca [catatan](#molatv)
+**Ingat!** Tayangan akan tersedia hanya **jika ada** dan **tersedia** di internet. Refresh **10 menit** sebelum _kick off_, selain di waktu tersebut kemungkinan siaran tidak dapat diakses. Streaming di halaman ini diusahakan dalam kualitas HD, jadi kemungkinan akan menguras kuota/data hingga 2 GB dan membutuhkan kecepatan konektivitas minimal 10 Mbps untuk kelancaran streaming. Sedangkan mengenai pilihan siaran **MolaTV**, silahlan baca [catatan](#molatv)
 {:.notice .notice--warning}
 
-## Latar belakang sebelum memutuskan untuk mencatat setiap laga Liverpool FC di halaman ini:
+## Latar belakang catatan ini
+
+Latar belakang sebelum memutuskan untuk mencatat setiap laga Liverpool FC di halaman ini:
 
 Kalau di-ingat-ingat sudah kenal/tahu **Liverpool FC** sejak tanpa sengaja membeli stiker logonya (sticker bahan gravtech) di pasar saat masih SD/MI karena desain logonya menarik. Tetapi baru benar-benah _ngeh_ dan fanatik setelah berita Epic Comeback Liverpool FC melawan AC Milan di Istambul di _blow-up_ beberapa majalah bola. Ketika itu baru saja lulus kuliah (D1) dan sibuk pacaran. Jujur saja, baru benar-benar intens menonton setiap pertandingan Liverpool FC sejak nyaris juara di EPL 2013/2014. Sejak itu pula selalu berburu link-link streaming setiap pertandingan Liverpool FC ketika tak ada **streaming tayangan resmi yang gratis**. Utamanya ketika tidak ditayangkan di TV lokal atau tak ada tempat untuk _nebeng_ tontonan TV kabel hingga sekarang. Apalagi, kini semakin sulit karena hak siar berpindah dari tangan FMA 😭.
 
-### Selanjutnya:
+## Catatan pertandingan dan streaming
 
-**EPL** Pertandingan pekan ke-8 (05/10/2019) **Liverpool FC vs Leicester City** [home]. **KO 21:00 WIB**.
-- Jadwal streaming pertandingan pekan ke-8 bisa dilihat [di sini](https://live.istimiwir.host/epl-8)
-- Artikel pra-tanding dari portal [This Is Anfield](https://www.thisisanfield.com/2019/09/brendan-rodgers-excited-for-first-return-to-incredible-former-club-liverpool/). Baca saja sambil tiduran.
+Postingan ini untuk menyimpan embed streaming pertandingan sepakbola. Niatnya hanya untuk pertandingan-pertandingan **Liverpool FC** di *Premier League* saja. Pertandingan klub lain gak penting.
+{: .notice .notice--warning}
 
-### Sekarang:
+### Pertandingan Sekarang:
 
 {% include figure caption="Champions League Standing Group E" image_path="https://i0.wp.com/knoacc.github.io/catetan/assets/images/ucl-standings.jpg?w=540" url="/assets/images/ucl-standings.jpg" %}
 
@@ -42,13 +43,18 @@ Kalau di-ingat-ingat sudah kenal/tahu **Liverpool FC** sejak tanpa sengaja membe
 - Artikel pra-tanding dari portal [This Is Anfield](https://www.thisisanfield.com/2019/09/key-men-manager-impressions-a-curious-link-to-the-past-complete-lowdown-on-salzburg/), [Liverpool.com](https://www.liverpool.com/liverpool-fc-news/features/liverpool-salzburg-man-united-haaland-17001599) dan [Liverpool Echo](https://www.liverpoolecho.co.uk/sport/football/football-news/former-liverpool-man-identifies-key-17007724) bisa dibaca sambil ngopi.
 - Mungkin akan ditayangkan TV Lokal (SCTV).
 
-### Sebelumnya:
+### Jadwal Selanjutnya:
+
+**EPL** Pertandingan pekan ke-8 (05/10/2019) **Liverpool FC vs Leicester City** [home]. **KO 21:00 WIB**.
+- Jadwal streaming pertandingan pekan ke-8 bisa dilihat [di sini](https://live.istimiwir.host/epl-8)
+- Artikel pra-tanding dari portal [This Is Anfield](https://www.thisisanfield.com/2019/09/brendan-rodgers-excited-for-first-return-to-incredible-former-club-liverpool/). Baca saja sambil tiduran.
+
+### Hasil Sebelumnya:
 
 {% include figure caption="Premire League Standing Minggu ke-7" image_path="https://i0.wp.com/knoacc.github.io/catetan/assets/images/epl-standings.jpg?w=540" url="/assets/images/epl-standings.jpg" alt="EPL 2019/2020 Standing"%}
 
 **EPL** Pertandingan pekan ke-7 (28/09/2019) **Sheffield Utd. vs Liverpool FC** [away]. **KO 18:30 WIB**. Skor akhir 0-1 untuk tim tandang. Liverpool adem ayem di _putjuk_.
 - Tidak tayang di TV Lokal (TVRI) maupun MolaTV, tetapi tayangan ulang bisa dilihat di [Web/App](https://mola.tv/watch?v=vd68968790){: onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Tonton Tayang Ulang" target="_new" rel="nofollow noreferer noopener"}
-- Streaming diusahakan ada di halaman ini dalam kualitas HD.
 - Gol di babak kedua dari tendangan keras **G. Wijnaldum** 70' yang tak mampu ditangkap dengan baik dan lolos dari kolong kaki penjaga gawang.
 - Jadwal streaming/hasil pertandingan pekan ke-7 bisa dilihat [di sini](https://live.istimiwir.host/epl-7)
 
@@ -88,9 +94,6 @@ Pertandingan pekan ke-3 (24/08/2019) **Liverpool vs Arsenal** [home] KO 23:30 WI
 - Tayang di MolaTV [Web/App](https://mola.tv/watch?v=vd65950609){: onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Tonton Tayang Ulang" target="_new" rel="nofollow noreferer noopener"}
 - Goal LFC: **Joel Matip** 41', **M. Salah** 49' (p), 58'. 
 - Goal ARS: **L.T. Di Pascua** 85'.
-
-Postingan ini untuk menyimpan embed streaming pertandingan sepakbola. Niatnya hanya untuk pertandingan-pertandingan **Liverpool FC** di *Premier League* saja. Pertandingan klub lain gak penting.
-{: .notice .notice--warning}
 
 **Mengenai MolaTV dan Tips Untuk Nonton Streaming via MolaTV Web**{:#molatv}
 
