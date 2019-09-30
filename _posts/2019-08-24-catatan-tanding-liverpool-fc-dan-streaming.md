@@ -16,7 +16,8 @@ redirect_from:
  - /streaming/streaming-m3u8/
  - /liverpool
  - /champions
- - /carabao
+# - /carabao
+ - /streaming/m3u8/
 ---
 **Ingat!** Tayangan akan tersedia hanya **jika ada** dan **tersedia** di internet. Refresh **10 menit** sebelum _kick off_, selain di waktu tersebut kemungkinan siaran tidak dapat diakses. Sedangkan mengenai **MolaTV**, baca [catatan](#molatv)
 {:.notice .notice--warning}
