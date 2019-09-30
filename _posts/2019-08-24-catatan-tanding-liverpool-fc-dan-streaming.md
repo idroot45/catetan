@@ -19,11 +19,11 @@ redirect_from:
 # - /carabao
  - /streaming/m3u8/
 ---
-**Ingat!**
-- Tayangan akan tersedia hanya **jika ada** dan **tersedia** (dapat saya temukan) di internet. Baca [latar belakang](#latar-belakang) catatan ini.
-- Refresh **10 menit** sebelum _kick off_, selain di waktu tersebut kemungkinan siaran tidak dapat diakses.
-- Streaming di halaman ini diusahakan dalam kualitas HD, jadi kemungkinan akan menguras kuota/data hingga 2 GB dan membutuhkan kecepatan konektivitas minimal 10 Mbps untuk kelancaran streaming.
-- Sedangkan mengenai pilihan siaran **MolaTV**, silahlan baca [catatan](#molatv).
+*Ingat!*{:.fa .fa-warning}
+Tayangan akan tersedia hanya **jika ada** dan **tersedia** (dapat saya temukan) di internet. Baca [latar belakang](#latar-belakang) catatan ini.
+Refresh **10 menit** sebelum _kick off_, selain di waktu tersebut kemungkinan siaran tidak dapat diakses.
+Streaming di halaman ini diusahakan dalam kualitas HD, jadi kemungkinan akan menguras kuota/data hingga 2 GB dan membutuhkan kecepatan konektivitas minimal 10 Mbps untuk kelancaran streaming.
+Sedangkan mengenai pilihan siaran **MolaTV**, silahlan baca [catatan](#molatv).
 {:.notice .notice--warning}
 
 ## Catatan pertandingan dan streaming
@@ -93,6 +93,12 @@ Pertandingan pekan ke-3 (24/08/2019) **Liverpool vs Arsenal** [home] KO 23:30 WI
 - Goal LFC: **Joel Matip** 41', **M. Salah** 49' (p), 58'. 
 - Goal ARS: **L.T. Di Pascua** 85'.
 
+**Latar belakang catatan ini**{:#latar-belakang}
+
+Latar belakang sebelum memutuskan untuk mencatat setiap laga Liverpool FC di halaman ini:
+
+Kalau di-ingat-ingat sudah kenal/tahu **Liverpool FC** sejak tanpa sengaja membeli stiker logonya (sticker bahan gravtech) di pasar desa saat masih SD/MI karena desain logonya menarik. Tetapi baru benar-benah _ngeh_ dan fanatik setelah berita **Epic Comeback** Liverpool FC melawan AC Milan di Istambul di _blow-up_ beberapa majalah bola. Ketika itu baru saja lulus kuliah (D1) dan sibuk pacaran, malas kerja. Jujur saja, baru benar-benar intens menonton setiap pertandingan Liverpool FC sejak nyaris juara di EPL 2013/2014, jamannya Suarez dkk. dilatih Ojes dan Gerrard kepleset. Sejak itu pula selalu berburu link-link streaming setiap pertandingan Liverpool FC ketika tak ada **streaming tayangan resmi yang gratis**. Utamanya ketika tidak ditayangkan di TV lokal atau tak ada tempat untuk _nebeng_ tontonan TV kabel hingga sekarang. Apalagi, kini semakin sulit karena hak siar berpindah dari tangan FMA 😭.
+
 **Mengenai MolaTV dan Tips Untuk Nonton Streaming via MolaTV Web**{:#molatv}
 
 Untuk wilayah Indonesia bisa melihat di laman web [mola.tv](https://mola.tv/){: rel="nofollow noreferrer noopener" target="_blank"} sebagai pemegang hak siar resmi di Indonesia.
@@ -102,9 +108,3 @@ Agar bisa melihat dengan browser Chrome Mobile (Android) tanpa harus memasang ap
 - Aplikasi mola.tv **sangat tidak saya rekomendasikan**, sering _force closed_ tanpa alasan. Aplikasi sampah, selalu meminta pembaruan, mungkin karena masih beta.
 - Untuk yang gratisan, kualitas tayangan terbatas hingga 569p saja dan ada tampilan iklan yang berakibat tidak bisa menikmati tampilan layar penuh. Sedangkan yang berbayar, untuk pertandingan tertentu juga kadang tak tersedi di Web maupun Aplikasinya.
 - Kalaupun masih mau yang berbayar, mending sekalian saja langganan Matrix. Percuma bayar langganan premium jika cuma menonton via aplikasi atau web streaming.
-
-## Latar belakang catatan ini
-
-Latar belakang sebelum memutuskan untuk mencatat setiap laga Liverpool FC di halaman ini:
-
-Kalau di-ingat-ingat sudah kenal/tahu **Liverpool FC** sejak tanpa sengaja membeli stiker logonya (sticker bahan gravtech) di pasar desa saat masih SD/MI karena desain logonya menarik. Tetapi baru benar-benah _ngeh_ dan fanatik setelah berita **Epic Comeback** Liverpool FC melawan AC Milan di Istambul di _blow-up_ beberapa majalah bola. Ketika itu baru saja lulus kuliah (D1) dan sibuk pacaran, malas kerja. Jujur saja, baru benar-benar intens menonton setiap pertandingan Liverpool FC sejak nyaris juara di EPL 2013/2014, jamannya Suarez dkk. dilatih Ojes dan Gerrard kepleset. Sejak itu pula selalu berburu link-link streaming setiap pertandingan Liverpool FC ketika tak ada **streaming tayangan resmi yang gratis**. Utamanya ketika tidak ditayangkan di TV lokal atau tak ada tempat untuk _nebeng_ tontonan TV kabel hingga sekarang. Apalagi, kini semakin sulit karena hak siar berpindah dari tangan FMA 😭.
