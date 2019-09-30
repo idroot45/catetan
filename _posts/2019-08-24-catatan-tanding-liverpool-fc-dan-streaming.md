@@ -1,6 +1,6 @@
 ---
 title: "Catatan Pertandingan Liverpool FC dan Link Streaming [Update]"
-excerpt: "Liverpool FC vs Red Bull Salzburg, Kamis 03/10/2019 Kick-Off 03:00 WIB. Champions League Group Stage Match-day 2"
+excerpt: "Liverpool FC vs Red Bull Salzburg, Kamis 03/10/2019 Kick-Off 02:00 WIB. Champions League Group Stage Match-day 2"
 header:
  og_image: "https://www.thisisanfield.com/wp-content/uploads/2018-12-17-029-UEFA_Champions_League_Draw.jpg"
  overlay_image: "https://www.thisisanfield.com/wp-content/uploads/2018-12-17-029-UEFA_Champions_League_Draw.jpg"
