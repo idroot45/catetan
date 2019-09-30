@@ -28,13 +28,13 @@ redirect_from:
 
 ### Pertandingan Sekarang:
 
-{% include figure caption="Champions League Standing Group E" image_path="https://i0.wp.com/knoacc.github.io/catetan/assets/images/ucl-standings.jpg?w=540" url="/assets/images/ucl-standings.jpg" %}
-
-**Champions League** Group Stage Matchday 2: _Liverpool FC_ vs _Red Bull Salzburg_ [home]. **KO 02:00 WIB**, Rabu, 3 Oktober 2019. Lihat jadwal matchday 2 selengkapnya [di sini](/sepakbola/jadwal-liga-champions-matchday-2-group/).
+*Baru!*{:.fa fa-new aria-hidden-label="true"} **Champions League** Group Stage Matchday 2: _Liverpool FC_ vs _Red Bull Salzburg_ [home]. **KO 02:00 WIB**, Rabu, 3 Oktober 2019. Lihat jadwal matchday 2 selengkapnya [di sini](/sepakbola/jadwal-liga-champions-matchday-2-group/).
 {: .notice .notice--info}
 
 - Artikel pra-tanding dari portal [This Is Anfield](https://www.thisisanfield.com/2019/09/key-men-manager-impressions-a-curious-link-to-the-past-complete-lowdown-on-salzburg/), [Liverpool.com](https://www.liverpool.com/liverpool-fc-news/features/liverpool-salzburg-man-united-haaland-17001599) dan [Liverpool Echo](https://www.liverpoolecho.co.uk/sport/football/football-news/former-liverpool-man-identifies-key-17007724) bisa dibaca sambil ngopi.
 - Mungkin akan ditayangkan TV Lokal (SCTV).
+
+{% include figure caption="Champions League Standing Group E" image_path="https://i0.wp.com/knoacc.github.io/catetan/assets/images/ucl-standings.jpg?w=540" url="/assets/images/ucl-standings.jpg" alt="ucl standings"%}
 
 ### Jadwal Selanjutnya:
 
