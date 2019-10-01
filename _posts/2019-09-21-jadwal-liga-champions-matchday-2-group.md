@@ -3,7 +3,7 @@ title: "Jadwal Lengkap Liga Champions Matchday 2 Group Stage"
 excerpt: "Jadwal lengkap, siaran langsung tv lokal dan link streaming Liga Champions Matchday 2 Group stage" 
 categories: [sepakbola]
 tags: [liga champions, matchday 2, jadwal bola, group stage]
-last_modified_at: 2019-09-21 14:17:22
+last_modified_at: 2019-10-02 01:58:22
 ---
 
 ## Jadwal Matchday II — Group Stage
@@ -17,12 +17,12 @@ last_modified_at: 2019-09-21 14:17:22
 |23:55|Atalanta vs Sakhtar Donetsk|end|FT **1-2**|
 |23:55|Real Madrid vs Club Brugge|end|FT **2-2**|
 |**Rabu**|||_(02/10/2019)_|
-|02:00|Man. City vs Dynamo Zagreb||[link](https://live.istimiwir/mci-dynamo) [link2](https://live.istimiwir/mci-dynamo-en)|
+|02:00|Man. City vs Dynamo Zagreb||[link](https://live.istimiwir.host/mci-dynamo) [link2](https://live.istimiwir/mci-dynamo-en)|
 |02:00|Cvrena Zvezda vs Olympiacos|||
 |02:00|Lokomotiv Moscow vs Altletico Madrid|||
-|02:00|Tottenham vs Bayern Muenchen||[link](https://live.istimiwir/tot-munchen) [link2](https://live.istimiwir/tot-munchen-en)|
-|02:00|Juventus vs Bayer Leverkusen|**SCTV**|[link](https://live.istimiwir/juv-bayer)|
-|02:00|Galatasaray vs PSG||[link](https://live.istimiwir/galat-psg)|
+|02:00|Tottenham vs Bayern Muenchen||[link](https://live.istimiwir.host/tot-munchen) [link2](https://live.istimiwir/tot-munchen-en)|
+|02:00|Juventus vs Bayer Leverkusen|**SCTV**|[link](https://live.istimiwir.hosy/juv-bayer)|
+|02:00|Galatasaray vs PSG||[link](https://live.istimiwir.host/galat-psg)|
 |23:55|Slavia Praha vs Dortmund|||
 |23:55|Genk vs Napoli|||
 |**Kamis**|||_(03/10/2019)_|
