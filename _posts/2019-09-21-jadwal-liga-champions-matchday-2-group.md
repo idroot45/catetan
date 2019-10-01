@@ -14,8 +14,8 @@ last_modified_at: 2019-09-21 14:17:22
 |Kick-off|Klub|Channel TV lokal|Channel Streaming|
 |:---:|:---|---:|---:|
 |**Selasa**|||_(01/10/2019)_|
-|23:55|Atalanta vs Sakhtar Donetsk||[link](https://live.istimiwir/atal-sakht)|
-|23:55|Real Madrid vs Club Brugge|**SCTV**|[link 1](https://live.istimiwir/rmad-brug) [link2](https://live.istimiwir/rmad-brug-en)|
+|23:55|Atalanta vs Sakhtar Donetsk|end||
+|23:55|Real Madrid vs Club Brugge|end||
 |**Rabu**|||_(02/10/2019)_|
 |02:00|Man. City vs Dynamo Zagreb||[link](https://live.istimiwir/mci-dynamo) [link2](https://live.istimiwir/mci-dynamo-en)|
 |02:00|Cvrena Zvezda vs Olympiacos|||
