@@ -17,10 +17,10 @@ last_modified_at: 2019-09-21 14:17:22
 |23:55|Atalanta vs Sakhtar Donetsk||[link](https://live.istimiwir/atal-sakht)|
 |23:55|Real Madrid vs Club Brugge|**SCTV**|[link 1](https://live.istimiwir/rmad-brug) [link2](https://live.istimiwir/rmad-brug-en)|
 |**Rabu**|||_(02/10/2019)_|
-|02:00|Man. City vs Dynamo Zagreb||[link](https://live.istimiwir/mci-dynamo)[link2](https://live.istimiwir/mci-dynamo-en)|
+|02:00|Man. City vs Dynamo Zagreb||[link](https://live.istimiwir/mci-dynamo) [link2](https://live.istimiwir/mci-dynamo-en)|
 |02:00|Cvrena Zvezda vs Olympiacos|||
 |02:00|Lokomotiv Moscow vs Altletico Madrid|||
-|02:00|Tottenham vs Bayern Muenchen||[link](https://live.istimiwir/tot-munchen)[link2](https://live.istimiwir/tot-munchen-en)|
+|02:00|Tottenham vs Bayern Muenchen||[link](https://live.istimiwir/tot-munchen) [link2](https://live.istimiwir/tot-munchen-en)|
 |02:00|Juventus vs Bayer Leverkusen|**SCTV**|[link](https://live.istimiwir/juv-bayer)|
 |02:00|Galatasaray vs PSG||[link](https://live.istimiwir/galat-psg)|
 |23:55|Slavia Praha vs Dortmund|||
