@@ -1,7 +1,7 @@
 ---
 layout: stream
 permalink: /ch-2
-title: Channel 2
+title: "Liverpool FC Streamer - SelukBeluk Channel 2"
 header:
  image: "https://dummyimage.com/800x450/00/f.gif&text=SeBel+Channel+2"
  video:
