@@ -1,14 +1,14 @@
 ---
 title: "Catatan Pertandingan Liverpool FC dan Link Streaming [Update]"
-excerpt: "Liverpool FC vs Red Bull Salzburg, Kamis 03/10/2019 Kick-Off 02:00 WIB. Champions League Group Stage Match-day 2"
+excerpt: "Liverpool FC vs Leicester City, Sabtu 05/10/2019 Kick-Off 21:00 WIB. Premier League Game Week 8"
 header:
  og_image: "https://www.thisisanfield.com/wp-content/uploads/2018-12-17-029-UEFA_Champions_League_Draw.jpg"
-# overlay_image: "https://www.thisisanfield.com/wp-content/uploads/2018-12-17-029-UEFA_Champions_League_Draw.jpg"
+ overlay_image: "https://www.thisisanfield.com/wp-content/uploads/2018-12-17-029-UEFA_Champions_League_Draw.jpg"
  teaser: "https://i0.wp.com/www.thisisanfield.com/wp-content/uploads/2018-12-17-029-UEFA_Champions_League_Draw.jpg?w=480"
 # image: "https://dummyimage.com/1200x600/EC407A/F.gif&text=MK+Dons+vs+Liverpool+FC"
- video:
-  id: ch-2
-  provider: internal
+# video:
+#  id: ch-2
+#  provider: internal
 categories: [streaming]
 tags: [streaming bola, streaming liverpool, rekap liverpool fc]
 last_modified_at: 2019-10-01 01:15:21
@@ -29,21 +29,26 @@ redirect_from:
 
 ### Pertandingan Sekarang:
 
-*Baru!*{:.fa .fa-play aria-hidden="true"} **Champions League** Group Stage Matchday 2: _Liverpool FC_ vs _Red Bull Salzburg_ [home]. **KO 02:00 WIB**, Kamis, 3 Oktober 2019. Lihat jadwal matchday 2 selengkapnya [di sini](/sepakbola/jadwal-liga-champions-matchday-2-group/).
-{: .notice .notice--info}
-
-- Artikel pra-tanding dari portal [This Is Anfield](https://www.thisisanfield.com/2019/09/key-men-manager-impressions-a-curious-link-to-the-past-complete-lowdown-on-salzburg/), [Liverpool.com](https://www.liverpool.com/liverpool-fc-news/features/liverpool-salzburg-man-united-haaland-17001599) dan [Liverpool Echo](https://www.liverpoolecho.co.uk/sport/football/football-news/former-liverpool-man-identifies-key-17007724) bisa dibaca sambil ngopi.
-- Mungkin akan ditayangkan TV Lokal (SCTV).
-
-{% include figure caption="Champions League Standing Group E" image_path="https://i0.wp.com/knoacc.github.io/catetan/assets/images/ucl-standings.jpg?w=540" url="/assets/images/ucl-standings.jpg" alt="ucl standings"%}
-
-### _next_{:.fa .fa-forward aria-hidden="true"} Jadwal Selanjutnya:
-
 **EPL** Pertandingan pekan ke-8 (05/10/2019) **Liverpool FC vs Leicester City** [home]. **KO 21:00 WIB**.
 - Jadwal streaming pertandingan pekan ke-8 bisa dilihat [di sini](https://live.istimiwir.host/epl-8)
 - Artikel pra-tanding dari portal [This Is Anfield](https://www.thisisanfield.com/2019/09/brendan-rodgers-excited-for-first-return-to-incredible-former-club-liverpool/). Baca saja sambil tiduran.
 
+### _next_{:.fa .fa-forward aria-hidden="true"} Jadwal Selanjutnya:
+
 ### _previous_{:.fa .fa-backward aria-hidden="true"} Hasil Sebelumnya:
+
+**Champions League** Group Stage Matchday 2: _Liverpool FC_ vs _Red Bull Salzburg_ [home]. **KO 02:00 WIB**, Kamis, 3 Oktober 2019. Lihat jadwal matchday 2 selengkapnya [di sini](/sepakbola/jadwal-liga-champions-matchday-2-group/).
+{: .notice .notice--info}
+
+{% include figure caption="Champions League Standing Group E" image_path="https://i0.wp.com/knoacc.github.io/catetan/assets/images/ucl-standings.jpg?w=540" url="/assets/images/ucl-standings.jpg" alt="ucl standings"%}
+
+- Artikel pra-tanding dari portal [This Is Anfield](https://www.thisisanfield.com/2019/09/key-men-manager-impressions-a-curious-link-to-the-past-complete-lowdown-on-salzburg/), [Liverpool.com](https://www.liverpool.com/liverpool-fc-news/features/liverpool-salzburg-man-united-haaland-17001599) dan [Liverpool Echo](https://www.liverpoolecho.co.uk/sport/football/football-news/former-liverpool-man-identifies-key-17007724) bisa dibaca sambil ngopi.
+- Mungkin akan ditayangkan TV Lokal (SCTV).
+- 3 Gol dari **S. Mane** 9', **A. Robertson** 25', **Mo Salah** 36' di babak pertama.
+- Gol balasan Redbull oleh **H. Hwang** 39'.
+- Babak kedua Liverpool bermain dibawah ekspektasi. 2 Gol balasan dari **M. Takumi** 56' dan **E.B. Halland** 60' hanya berselang kurang dari 5 menit.
+- Untungnya gol **Mo Salah** 69' mampu membuat Liverpool memimpin kembali.
+- Babak kedua berlangsung sangat terbuka. Banyak kesalahan yang dibuat pemain Liverpool; salah umpan, salah antisipasi.
 
 {% include figure caption="Premire League Standing Minggu ke-7" image_path="https://i0.wp.com/knoacc.github.io/catetan/assets/images/epl-standings.jpg?w=540" url="/assets/images/epl-standings.jpg" alt="EPL 2019/2020 Standing"%}
 
