@@ -7,7 +7,7 @@ header:
  teaser: "https://i0.wp.com/www.thisisanfield.com/wp-content/uploads/2018-12-17-029-UEFA_Champions_League_Draw.jpg?w=480"
 # image: "https://dummyimage.com/1200x600/EC407A/F.gif&text=MK+Dons+vs+Liverpool+FC"
  video:
-  id: ch-24
+  id: ch-2
   provider: internal
 categories: [streaming]
 tags: [streaming bola, streaming liverpool, rekap liverpool fc]
