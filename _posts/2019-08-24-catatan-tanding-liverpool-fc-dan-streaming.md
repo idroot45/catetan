@@ -2,10 +2,11 @@
 title: "Catatan Pertandingan Liverpool FC dan Link Streaming [Update]"
 excerpt: "Liverpool FC vs Leicester City, Sabtu 05/10/2019 Kick-Off 21:00 WIB. Premier League Game Week 8"
 header:
- og_image: "https://www.thisisanfield.com/wp-content/uploads/2018-12-17-029-UEFA_Champions_League_Draw.jpg"
- overlay_image: "https://www.thisisanfield.com/wp-content/uploads/2018-12-17-029-UEFA_Champions_League_Draw.jpg"
- teaser: "https://i0.wp.com/www.thisisanfield.com/wp-content/uploads/2018-12-17-029-UEFA_Champions_League_Draw.jpg?w=480"
-# image: "https://dummyimage.com/1200x600/EC407A/F.gif&text=MK+Dons+vs+Liverpool+FC"
+ og_image: "http://i2-prod.liverpool.com/incoming/article17005837.ece/ALTERNATES/s1200/0_GettyImages-1091569778.jpg"
+# overlay_image: "https://www.thisisanfield.com/wp-content/uploads/2018-12-17-029-UEFA_Champions_League_Draw.jpg"
+# teaser: "https://i0.wp.com/www.thisisanfield.com/wp-content/uploads/2018-12-17-029-UEFA_Champions_League_Draw.jpg?w=480"
+ image: "https://i2-prod.liverpool.com/incoming/article17005837.ece/ALTERNATES/s615b/0_GettyImages-1091569778.jpg"
+ teaser: "https://dummyimage.com/400x225/EC407A/F.gif&text=EPL+Liverpool+FC"
 # video:
 #  id: ch-2
 #  provider: internal
