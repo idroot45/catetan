@@ -26,7 +26,7 @@ last_modified_at: 2019-10-02 18:06:22
 |23:55|Slavia Praha vs Dortmund|[link](https://live.istimiwir.host/slavia-dortmund)|-|
 |23:55|Genk vs Napoli|[link](https://live.istimiwir.host/genk-napoli)|-|
 |**Kamis**|||_(03/10/2019)_|
-|02:00|Liverpool vs Red Bull|[link](/liverpool)|[link2](https://live.istimiwir.host/liv-redbull)
+|02:00|[Liverpool vs Red Bull](/liverpool)|[link](https://live.istimiwir.host/liv-redbull)|[link2](https://live.istimiwir.host/liv-redbull-en)
 |02:00|LOSC vs Chelsea|[link](/lil-che)|[link2](/lil-che-en)|
 |02:00|Zeni vs Benfica|-|-|
 |02:00|Valencia vs Ajax|[link](https://live.istimiwir.host/val-ajax)|-|
