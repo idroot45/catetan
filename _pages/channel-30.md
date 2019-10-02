@@ -1,14 +1,14 @@
 ---
 layout: stream
-permalink: /ch-30
-title: Channel 31
+permalink: /ch-24
+title: "Liverpool FC Streamer - SelukBeluk Channel 24"
 header:
  image: "https://dummyimage.com/800x450/00/f.gif&text=SeBel+Channel+30"
  video:
-  id: https://cdx.dailysport.pw/30/30.m3u8
+  id: https://cdn1.dailysport.pw/24/24.m3u8
   provider: full_link
 sitemap: false
 redirect_from:
- - /channel-30/
+ - /channel-24/
 ---
 <!-- may change -->
