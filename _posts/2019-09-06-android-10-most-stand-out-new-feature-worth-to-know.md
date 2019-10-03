@@ -40,7 +40,7 @@ The new sharing menu is meant to be much faster than the legacy menu, but it’s
 
 ### Focus Mode
 
-{% include figure caption="Google I/O 2019 Digital Wellbeing Focus Mode" image_path="https://cdn57.androidauthority.net/wp-content/uploads/2019/05/google-io-19-digital-wellbeing-focus-mode-logo-1000x563.jpg" url="https://cdn57.androidauthority.net/wp-content/uploads/2019/05/google-io-19-digital-wellbeing-focus-mode-logo.jpg" alt=digital being focus mode" %}
+{% include figure caption="Google I/O 2019 Digital Wellbeing Focus Mode" image_path="https://cdn57.androidauthority.net/wp-content/uploads/2019/05/google-io-19-digital-wellbeing-focus-mode-logo-1000x563.jpg" url="https://cdn57.androidauthority.net/wp-content/uploads/2019/05/google-io-19-digital-wellbeing-focus-mode-logo.jpg" alt="digital being focus mode" %}
 
 One of the more prominent user-facing Android 10 features is the so-called Focus Mode, an extension of the Digital Wellbeing suite. As the name suggests, this mode will help you focus by graying out apps you deem distracting and hiding their notifications.
 
@@ -68,7 +68,6 @@ Google also confirmed that the new format will let third-party apps tweak depth 
 ### An improved Files app
 
 <figure class="third"><img src=https://cdn57.androidauthority.net/wp-content/uploads/2019/03/Android-Q-Files-App-1.jpg" alt="Files app 1"/><img src=https://cdn57.androidauthority.net/wp-content/uploads/2019/03/Android-Q-Files-App-2.jpg" alt="Files app 2"/><img src=https://cdn57.androidauthority.net/wp-content/uploads/2019/03/Android-Q-Files-App-3.jpg" alt="Files app 3"/>Files app now offers a revised UI, a universal search bar at the top, and quick access to other apps<figcaption></figure>
-
 
 Google’s previous Files app was a no-frills affair, and it didn’t even have a shortcut in the app drawer. Fortunately, the Android 10 Files app is a step above the previous version.
 
