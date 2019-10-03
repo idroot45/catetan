@@ -6,6 +6,7 @@ header:
  caption: "Download CentOS 8 Linux"
 categories: [linux]
 tags: [centos 8, rhel, download dvd iso, update linux, distro linux]
+last_modified_at: 2019-10-03 02:12:10
 ---
 [CentOS](https://www.centos.org/) is a free and open-source, community-driven Linux distribution based on the popular security-focused Red Hat Enterprise Linux. It was designed to be consistent rolling-release distro joined with Red Hat but still independent from RHEL as it has its autonomous governing board. Awesome stuff.
 
