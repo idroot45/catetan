@@ -2,12 +2,12 @@
 title: "These are the top Android 10 features you should know"
 excerpt: "Android 10 has officially been released by Google, So what are the standout Android 10 features worth knowing? Read on and find out."
 header:
- overlay_image: https://cdn57.androidauthority.net/wp-content/uploads/2019/09/Android-10-easter-egg-3.jpg
- og_image: https://cdn57.androidauthority.net/wp-content/uploads/2019/09/Android-10-easter-egg-3-920x470.jpg
- teaser: https://i0.wp.com/cdn57.androidauthority.net/wp-content/uploads/2019/09/Android-10-easter-egg-3-920x470.jpg?w=480
+ overlay_image: "https://cdn57.androidauthority.net/wp-content/uploads/2019/09/Android-10-easter-egg-3.jpg"
+ og_image: "https://cdn57.androidauthority.net/wp-content/uploads/2019/09/Android-10-easter-egg-3-920x470.jpg"
+ teaser: "https://i0.wp.com/cdn57.androidauthority.net/wp-content/uploads/2019/09/Android-10-easter-egg-3-920x470.jpg?w=480"
  caption: "Android 10 easter egg"
 categories: [android]
-tags: [android 10, android q, dark mode android, android 10 feature
+tags: [android 10, android q, dark mode android, android 10 feature]
 ---
 Android 10 has officially been released by Google, and it’s quickly landed on Pixel devices, and even the Redmi K20 series. Between privacy-related tweaks, a rebrand, and long-overdue features, it’s clear that Google has been very busy with this one. So what are the standout Android 10 features worth knowing? Read on and find out?
 
