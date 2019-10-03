@@ -48,8 +48,7 @@ Digital Wellbeing is also getting another feature thanks to integrated parental 
 
 ### Quicker access to settings
 
-{% include figure caption="
-android q connectivity settings in apps" image_path="https://i0.wp.com/cdn57.androidauthority.net/wp-content/uploads/2019/03/android-q-settings-panel-api.jpg?h=640"  url="https://cdn57.androidauthority.net/wp-content/uploads/2019/03/android-q-settings-panel-api.jpg" alt="conectivity settings panel" %}
+{% include figure caption="android q connectivity settings in apps" image_path="https://i0.wp.com/cdn57.androidauthority.net/wp-content/uploads/2019/03/android-q-settings-panel-api.jpg?h=640" url="https://cdn57.androidauthority.net/wp-content/uploads/2019/03/android-q-settings-panel-api.jpg" alt="conectivity settings panel" %}
 
 It’s already super easy to toggle Wi-Fi, Bluetooth, and other connectivity options, but Google is making this process a little easier when you’re in apps. Enter the settings panel.
 
@@ -67,7 +66,7 @@ Google also confirmed that the new format will let third-party apps tweak depth 
 
 ### An improved Files app
 
-<figure class="third"><img src=https://cdn57.androidauthority.net/wp-content/uploads/2019/03/Android-Q-Files-App-1.jpg" alt="Files app 1"/><img src=https://cdn57.androidauthority.net/wp-content/uploads/2019/03/Android-Q-Files-App-2.jpg" alt="Files app 2"/><img src=https://cdn57.androidauthority.net/wp-content/uploads/2019/03/Android-Q-Files-App-3.jpg" alt="Files app 3"/>Files app now offers a revised UI, a universal search bar at the top, and quick access to other apps<figcaption></figure>
+<figure class="third"><img src="https://cdn57.androidauthority.net/wp-content/uploads/2019/03/Android-Q-Files-App-1.jpg" alt="Files app 1"/><img src="https://cdn57.androidauthority.net/wp-content/uploads/2019/03/Android-Q-Files-App-2.jpg" alt="Files app 2"/><img src="https://cdn57.androidauthority.net/wp-content/uploads/2019/03/Android-Q-Files-App-3.jpg" alt="Files app 3"/><figcaption>Files app now offers a revised UI, a universal search bar at the top, and quick access to other apps</figcaption></figure>
 
 Google’s previous Files app was a no-frills affair, and it didn’t even have a shortcut in the app drawer. Fortunately, the Android 10 Files app is a step above the previous version.
 
