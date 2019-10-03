@@ -8,6 +8,7 @@ header:
  caption: "Android 10 easter egg"
 categories: [android]
 tags: [android 10, android q, dark mode android, android 10 feature]
+last_modified_at: 2019-10-03 19:06:30
 ---
 Android 10 has officially been released by Google, and it’s quickly landed on Pixel devices, and even the Redmi K20 series. Between privacy-related tweaks, a rebrand, and long-overdue features, it’s clear that Google has been very busy with this one. So what are the standout Android 10 features worth knowing? Read on and find out?
 
