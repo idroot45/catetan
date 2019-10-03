@@ -14,10 +14,6 @@ The development team just announced its latest release in the form of **CentOS L
 
 {% include figure alt="CentOS 8 Desktop" caption="CentOS 8 Desktop" image_path="https://www.tecmint.com/wp-content/uploads/2019/09/CentOS-8-Desktop.png" url="https://www.tecmint.com/wp-content/uploads/2019/09/CentOS-8-Desktop.png" %}
 
-{% include figure alt="CentOS 8 Linux" caption="CentOS 8 Linux" image_path="https://www.tecmint.com/wp-content/uploads/2019/09/CentOS-8-Linux.png" url="https://www.tecmint.com/wp-content/uploads/2019/09/CentOS-8-Linux.png" %}
-
-{% include figure alt="About CentOS 8 Linux" caption="About CentOS 8 Linux" image_path="https://www.tecmint.com/wp-content/uploads/2019/09/About-CentOS-8-Linux.png" %} url="https://www.tecmint.com/wp-content/uploads/2019/09/About-CentOS-8-Linux.png" %}
-
 ### What’s New in CentsOS 8?
 
 As you probably know, **CentsOS 8 is a clone of RHEL 8** so it benefits from its latest features:
@@ -36,6 +32,8 @@ As you probably know, **CentsOS 8 is a clone of RHEL 8** so it benefits from its
 - The brand new CentOS Stream
 
 ### BaseOS and Application Stream (AppStream)
+
+{% include figure alt="CentOS 8 Linux" caption="CentOS 8 Linux" image_path="https://www.tecmint.com/wp-content/uploads/2019/09/CentOS-8-Linux.png" url="https://www.tecmint.com/wp-content/uploads/2019/09/CentOS-8-Linux.png" %}
 
 CentOS 8 content is distributed via the 2 main repositories: **BaseOS** and **AppStream**.
 
@@ -61,6 +59,8 @@ Content in the **AppStream repository** is available in two formats – the famo
 You can see all the security functionality that has been removed from CentOS 8 as well as other deprecated functionality [here](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/8/html/8.0_release_notes/rhel-8_0_0_release#deprecated_functionality) and [here](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/8/html/considerations_in_adopting_rhel_8/security_considerations-in-adopting-rhel-8#removed_security_functionality) respectively.
 
 ## Download CentOS 8 Linux
+
+{% include figure alt="About CentOS 8 Linux" caption="About CentOS 8 Linux" image_path="https://www.tecmint.com/wp-content/uploads/2019/09/About-CentOS-8-Linux.png" url="https://www.tecmint.com/wp-content/uploads/2019/09/About-CentOS-8-Linux.png" %}
 
 I’m glad you’re ready to give CentsOS a try and I hope that you will enjoy using it.
 
