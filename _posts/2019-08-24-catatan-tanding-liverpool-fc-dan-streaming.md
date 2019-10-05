@@ -5,11 +5,11 @@ header:
  og_image: "http://i2-prod.liverpool.com/incoming/article17005837.ece/ALTERNATES/s1200/0_GettyImages-1091569778.jpg"
 # overlay_image: "https://www.thisisanfield.com/wp-content/uploads/2018-12-17-029-UEFA_Champions_League_Draw.jpg"
 # teaser: "https://i0.wp.com/www.thisisanfield.com/wp-content/uploads/2018-12-17-029-UEFA_Champions_League_Draw.jpg?w=480"
- image: "https://i2-prod.liverpool.com/incoming/article17005837.ece/ALTERNATES/s615b/0_GettyImages-1091569778.jpg"
+# image: "https://i2-prod.liverpool.com/incoming/article17005837.ece/ALTERNATES/s615b/0_GettyImages-1091569778.jpg"
  teaser: "https://dummyimage.com/400x225/EC407A/F.gif&text=EPL+Liverpool+FC"
-# video:
-#  id: ch-2
-#  provider: internal
+ video:
+  id: ch-2
+  provider: internal
 categories: [streaming]
 tags: [streaming bola, streaming liverpool, rekap liverpool fc]
 last_modified_at: 2019-10-03 04:11:21
