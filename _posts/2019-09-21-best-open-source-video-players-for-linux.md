@@ -145,7 +145,7 @@ You will find it listed in the official repo. In either case, you can type in th
 
 ### 6. GNOME Videos.
 
-{include figure caption="Totem Video Player" alt="Totem Video Player" image_path="https://i0.wp.com/itsfoss.com/wp-content/uploads/2019/09/totem-video-player.png" %}
+{% include figure caption="Totem Video Player" alt="Totem Video Player" image_path="https://i0.wp.com/itsfoss.com/wp-content/uploads/2019/09/totem-video-player.png" %}
 
 Key Highlights:
 - A simple video player for GNOME Desktop
