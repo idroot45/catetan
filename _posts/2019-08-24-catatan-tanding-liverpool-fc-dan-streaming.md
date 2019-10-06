@@ -6,10 +6,10 @@ header:
 # overlay_image: "https://www.thisisanfield.com/wp-content/uploads/2018-12-17-029-UEFA_Champions_League_Draw.jpg"
 # teaser: "https://i0.wp.com/www.thisisanfield.com/wp-content/uploads/2018-12-17-029-UEFA_Champions_League_Draw.jpg?w=480"
 # image: "https://i2-prod.liverpool.com/incoming/article17005837.ece/ALTERNATES/s615b/0_GettyImages-1091569778.jpg"
- teaser: "https://dummyimage.com/400x225/EC407A/F.gif&text=EPL+Liverpool+FC"
- video:
-  id: ch-2
-  provider: internal
+# teaser: "https://dummyimage.com/400x225/EC407A/F.gif&text=EPL+Liverpool+FC"
+# video:
+#  id: ch-2
+#  provider: internal
 categories: [streaming]
 tags: [streaming bola, streaming liverpool, rekap liverpool fc]
 last_modified_at: 2019-10-03 04:11:21
@@ -28,15 +28,36 @@ redirect_from:
 *Bahaya!*{:.fa .fa-heartbeat aria-hidden="true"} Postingan ini niatnya hanya untuk menyimpan streaming pertandingan-pertandingan **Liverpool FC** saja. Utamanya *Premier League*, tetapi mungkin ada juga pertandingan di kompetisi lain seperti _Carabao Cup_ dan _Champions League_.
 {:.notice--danger}
 
-### Pertandingan Sekarang:
+<div id="DigitalCLOCK" class="align-center" onload="showTime()"></div>
+<script>
+function showTime(){
+    var date = new Date();
+    var h = date.getHours();
+    var m = date.getMinutes();
+    var s = date.getSeconds();
+    var time = h + ":" + m + ":" + s;
+    document.getElementById("DigitalCLOCK").innerText = time;
+    document.getElementById("DigitalCLOCK").textContent = time;
+    setTimeout(showTime, 1000);
+}
+</script>
+
+### _next_{:.fa .fa-forward aria-hidden="true"} Jadwal Selanjutnya:
+
+**EPL** Pertandingan pekan ke-9 (20/10/2019) **Manchester Utd. vs Liverpool FC** [away]. **KO 22:30 WIB**.
+- 
+
+### _previous_{:.fa .fa-backward aria-hidden="true"} Hasil Sebelumnya:
 
 **EPL** Pertandingan pekan ke-8 (05/10/2019) **Liverpool FC vs Leicester City** [home]. **KO 21:00 WIB**.
 - Jadwal streaming pertandingan pekan ke-8 bisa dilihat [di sini](https://live.istimiwir.host/epl-8)
 - Artikel pra-tanding dari portal [This Is Anfield](https://www.thisisanfield.com/2019/09/brendan-rodgers-excited-for-first-return-to-incredible-former-club-liverpool/). Baca saja sambil tiduran.
-
-### _next_{:.fa .fa-forward aria-hidden="true"} Jadwal Selanjutnya:
-
-### _previous_{:.fa .fa-backward aria-hidden="true"} Hasil Sebelumnya:
+- Gol! **S. Mane** 40'. Assist dari **J. Milner**.
+- Babak ke-2 berjalan intens, Liverpol banyak peluang, banyak shoot on target, tak ada goal.
+- Gol balasan datang 10 menit menjelang akhir waktu normal. **J. Maddison** assist dari **A. Perez**
+- **Mo. Salah** cidera dan di ganti **Adam Lallana** saat _injury time_, **S. Mane** di langgar di menit 90+3'. Penalty! Gol,**J. Milner** 90+5'. _S. Mane dituduh diving via [liverpool.com](https://www.liverpool.com/liverpool-fc-news/features/shearer-mane-liverpool-leicester-penalty-17039969)_ 😂
+- Ribut-ribut pemain. **A. Robertson** vs **Nganu** di akhir pertandingan 🙄
+- Review Liverpool FC vs Leicester City via [This Is Anfield](https://www.thisisanfield.com/2019/10/liverpool-2-1-leicester-player-ratings-what-the-media-and-statistics-say/)
 
 **Champions League** Group Stage Matchday 2: _Liverpool FC_ vs _Red Bull Salzburg_ [home]. **KO 02:00 WIB**, Kamis, 3 Oktober 2019. Lihat jadwal matchday 2 selengkapnya [di sini](/sepakbola/jadwal-liga-champions-matchday-2-group/).
 {: .notice .notice--info}
@@ -50,6 +71,7 @@ redirect_from:
 - Babak kedua Liverpool bermain dibawah ekspektasi. 2 Gol balasan dari **M. Takumi** 56' dan **E.B. Halland** 60' hanya berselang kurang dari 5 menit.
 - Untungnya gol **Mo Salah** 69' mampu membuat Liverpool memimpin kembali.
 - Babak kedua berlangsung sangat terbuka. Banyak kesalahan yang dibuat pemain Liverpool; salah umpan, salah antisipasi.
+- Si Mini Me _mantep uga_ mainnya. “Liverpool have reportedly identified Red Bull Salzburg winger **Takumi Minamino** as a potential signing.”
 
 {% include figure caption="Premire League Standing Minggu ke-7" image_path="https://i0.wp.com/knoacc.github.io/catetan/assets/images/epl-standings.jpg?w=540" url="/assets/images/epl-standings.jpg" alt="EPL 2019/2020 Standing"%}
 
