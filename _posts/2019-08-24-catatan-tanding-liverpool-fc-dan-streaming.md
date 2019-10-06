@@ -29,7 +29,7 @@ redirect_from:
 {:.notice--danger}
 
 <div id="DigitalCLOCK" class="align-center" onload="showTime()"></div>
-<script type="text/javascript>
+<script>
 function showTime(){
     var date = new Date();
     var h = date.getHours();
