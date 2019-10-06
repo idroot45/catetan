@@ -1,4 +1,5 @@
 ---
+permalink: /lfctv
 layout: stream
 title: "Liverpool FC Streamer Channel"
 header:
