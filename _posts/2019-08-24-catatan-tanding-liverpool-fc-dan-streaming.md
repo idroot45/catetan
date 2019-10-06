@@ -21,6 +21,8 @@ redirect_from:
 
 ## Catatan pertandingan dan streaming
 
+{% include figure caption="Premiere League Standing Minggu ke-8" image_path="https://i1.wp.com/knoacc.github.io/catetan/assets/images/Screenshot_20191006-235423.jpg?w=460" url="/assets/images/Screenshot_20191006-235423.jpg" alt="EPL 2019/2020 Standing"%}
+
 Postingan ini niatnya hanya untuk menyimpan streaming pertandingan-pertandingan **Liverpool FC** saja. Utamanya *Premier League*, tetapi mungkin ada juga pertandingan di kompetisi lain seperti _Carabao Cup_ dan _Champions League_.
 
 <blockquote>Waktu lokal sekarang: <strong><span id="JamLokal" onload="showTime()"></span></strong></blockquote>
@@ -40,14 +42,11 @@ showTime();
 
 ### Jadwal Selanjutnya:
 
-
 **EPL GW 9** Minggu (20/10/2019) **Manchester Utd. vs Liverpool FC** [A]. **KO 22:30 WIB**.
 
+Last season away match (2018/2019) highlight:
 
-- incoming
-- incoming
-
-{% include figure caption="Premiere League Standing Minggu ke-8" image_path="https://i1.wp.com/knoacc.github.io/catetan/assets/images/Screenshot_20191006-235423.jpg?w=460" url="/assets/images/Screenshot_20191006-235423.jpg" alt="EPL 2019/2020 Standing"%}
+{% include video id="-Q5bKEEQRps" provider="youtube" %}
 
 ### Hasil Sebelumnya:
 
@@ -63,10 +62,12 @@ showTime();
 - Ribut-ribut pemain vs **A. Perez** di akhir pertandingan 🙄 [oh dikomandani oleh Adam Lallana](https://i2-prod.liverpool.com/incoming/article17040575.ece/ALTERNATES/s810/0_GettyImages-1173858117.jpg){:title="At full-time, Andy Robertson gave Ayoze Perez a slight elbow to the ribs on his way to celebrate with Lallana and Virgil van Dijk, only for the Spaniard to retaliate with a heavy shove in the Scotsman's back."}.
 - Review Liverpool FC vs Leicester City via [This Is Anfield](https://www.thisisanfield.com/2019/10/liverpool-2-1-leicester-player-ratings-what-the-media-and-statistics-say/)
 
-**Champions League** Group Stage Matchday 2: _Liverpool FC_ vs _Red Bull Salzburg_ [H]. **KO 02:00 WIB**, Kamis, 3 Oktober 2019. Lihat jadwal matchday 2 selengkapnya [di sini](/sepakbola/jadwal-liga-champions-matchday-2-group/).
+**Champions League** Group Stage Matchday 2: _Liverpool FC_ vs _Red Bull Salzburg_ [H]. **KO 02:00 WIB**, Kamis, 3 Oktober 2019. Skor akhir: **4-3**
 {: .notice .notice--info}
 
 {% include figure caption="Gol penyelamat dari Mo Salah" alt="Mo Salah vs RB Salzburg" image_path="https://i2-prod.liverpool.com/incoming/article17022711.ece/ALTERNATES/s810/0_GettyImages-1178635744.jpg" %}
+
+Lihat jadwal matchday 2 selengkapnya [di sini](/sepakbola/jadwal-liga-champions-matchday-2-group/).
 
 - Artikel pra-tanding dari portal [This Is Anfield](https://www.thisisanfield.com/2019/09/key-men-manager-impressions-a-curious-link-to-the-past-complete-lowdown-on-salzburg/), [Liverpool.com](https://www.liverpool.com/liverpool-fc-news/features/liverpool-salzburg-man-united-haaland-17001599) dan [Liverpool Echo](https://www.liverpoolecho.co.uk/sport/football/football-news/former-liverpool-man-identifies-key-17007724) bisa dibaca sambil ngopi.
 - Mungkin akan ditayangkan TV Lokal (SCTV).
@@ -100,9 +101,12 @@ showTime();
 - Babak 2 **Kante** 71' melakukan akselerasi dan tendangan kesisi kiri gawang **Adrian** dan tak dapat dijangkau. 
 - Liverpool bertahan dengan bombardir serangan dari pemain-pemain Chelsea, kedudukan 2-1 tak berubah hingga akhir pertandingan.
 
-**Champions League** Group Stage Matchday 1: _SC Napoli_ vs _Liverpool FC_ [away]. **KO 02:00 WIB**, Rabu, 17 September 2019. **Hasil: Kalah 0-2**. Lihat hasil matchday 1 selengkapnya [di sini](/sepakbola/jadwal-liga-champions-matchday-1-group/)
+**Champions League** Group Stage Matchday 1: _SC Napoli_ vs _Liverpool FC_ [away]. **KO 02:00 WIB**, Rabu, 17 September 2019. **Hasil: Kalah 0-2**.
+{: .notice .notice--info}
 
 [![Adrian vs Napoli](https://i2-prod.liverpool.com/incoming/article16936166.ece/ALTERNATES/s510b/0_GettyImages-1168930358.jpg Adrian vs Napoli)](https://i2-prod.liverpool.com/incoming/article16936166.ece/ALTERNATES/s810/0_GettyImages-1168930358.jpg){:title="Napoli mengukuhkan kemenangan kandang dengan gol kedua di menit-menit akhir"}
+
+Lihat hasil matchday 1 selengkapnya [di sini](/sepakbola/jadwal-liga-champions-matchday-1-group/)
 
 **EPL GW 5** 14 September 2019 **Liverpool vs Newcastle** [A] KO 18:30 WIB. Skor akhir 3-1, Liverpool FC tetap di pucuk.
 
