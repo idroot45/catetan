@@ -2,7 +2,7 @@
 title: "Catatan Pertandingan Liverpool FC dan Link Streaming [Update]"
 excerpt: "Manchester United vs Liverpool FC, Sabtu 20/10/2019 Kick-Off 22:30 WIB. Premier League Game Week 8"
 header:
- og_image: "https://i2-prod.liverpool.com/incoming/article17005837.ece/ALTERNATES/s1200/0_GettyImages-1091569778.jpg"
+ og_image: "https://i2-prod.liverpool.com/incoming/article17039930.ece/ALTERNATES/s810/0_GettyImages-1179188179-1.jpg"
  video:
   id: c8B9P7WAsbA
   provider: youtube
@@ -48,7 +48,7 @@ showTime();
 
 ### Hasil Sebelumnya:
 
-{% include figure alt="sadio mane diving" image_path="https://i2-prod.liverpool.com/incoming/article17039930.ece/ALTERNATES/s810/0_GettyImages-1179188179-1.jpg" caption="Sadio Mane dituduh melakukan diving yang menghasilkan penalti untuk Liverpool FC." %}
+{% include figure alt="sadio mane diving" image_path="https://i2-prod.liverpool.com/incoming/article17039937.ece/ALTERNATES/s810/0_GettyImages-1179213601.jpg" caption="Sadio Mane diving? Oh Yeah, 🙄 definitely not enough contact to award a penalty. Fuck that!" %}
 
 **EPL GW 8** Minggu (05/10/2019) **Liverpool FC vs Leicester City** [H]. **KO 21:00 WIB**.
 - Jadwal streaming pertandingan pekan ke-8 bisa dilihat [di sini](https://live.istimiwir.host/epl-8)
