@@ -2,8 +2,9 @@
 title: "Xiaomi Redmi 2, Moto G 2015, Sony Xperia Z3 Compact, HTC 10, and HTC One M8 receive Android 10 custom ROMs"
 excerpt: "Now, five more devices have been added to this list and these including the Xiaomi Redmi 2, Moto G 2015, Sony Xperia Z3 Compact, HTC 10, and HTC One M8."
 categories: [android]
-tags: [android 10, custom rom, lineage os 17, xiaomi, htc,sony, moto,
+tags: [android 10, custom rom, lineage os 17, xiaomi redmi, htc one, sony xperia, moto g]
 ---
+
 Ever since it first started rolling out on September 3, Android 10 has made its way to a number of devices. Phones from the Pixel series, the Essential Phone PH-1, the Redmi K20 Pro and the OnePlus 7 and OnePlus 7 Pro have already received their official updates. And thanks to the active Android development community, devices like the Redmi Note 5 Pro, Redmi 4X, Mi Max, and so many more have received Android 10-based AOSP or custom ROMs. Now, five more devices have been added to this list and these including the Xiaomi Redmi 2, Moto G 2015, Sony Xperia Z3 Compact, HTC 10, and HTC One M8.
 
 ### Xiaomi Redmi 2
