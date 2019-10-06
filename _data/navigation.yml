@@ -1,9 +1,5 @@
 main:
-  - title: "Catetan"
-    url: /
-  - title: "Kategori"
-    url: /kategori/
-  - title: "Penandaan"
-    url: /tanda/
   - title: "Tentang"
     url: /about/
+  - title: "Liverpool FC"
+    url: /liverpool
