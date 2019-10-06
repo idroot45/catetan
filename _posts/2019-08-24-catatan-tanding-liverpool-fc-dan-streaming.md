@@ -49,7 +49,7 @@ showTime();
 - incoming
 - incoming
 
-{% include figure caption="Premire League Standing Minggu ke-7" image_path="https://i0.wp.com/knoacc.github.io/catetan/assets/images/epl-standings.jpg?w=540" url="/assets/images/epl-standings.jpg" alt="EPL 2019/2020 Standing"%}
+{% include figure caption="Premire League Standing Minggu ke-7" image_path="https://i1.wp.com/knoacc.github.io/catetan/assets/images/epl-standings.jpg?w=440" url="/assets/images/epl-standings.jpg" alt="EPL 2019/2020 Standing"%}
 
 ### Hasil Sebelumnya:
 
