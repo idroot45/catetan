@@ -1,15 +1,13 @@
 ---
 layout: stream
 permalink: /ch-2
-title: "Liverpool FC Streamer - SelukBeluk Channel 2"
+title: "Liverpool FC Streamer Channel"
 header:
- image: "https://dummyimage.com/800x450/00/f.gif&text=SeBel+Channel+2"
- video:
-  id: https://cdn1.dailysport.pw/23/23.m3u8
-  provider: full_link
+ og_image: "https://i2-prod.liverpool.com/incoming/article17041156.ece/ALTERNATES/s810/0_GettyImages-1173868960.jpg"
+poster: "https://i2-prod.liverpool.com/incoming/article17041156.ece/ALTERNATES/s810/0_GettyImages-1173868960.jpg"
+video_id: 23/23
+video_host: cdn1.dailysport.pw
 sitemap: false
-redirect_from:
- - /channel-2/
 ---
 <style>h1#page-title{display:none;height:0;visibility:hidden;!important</style>
 
