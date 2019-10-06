@@ -3,7 +3,7 @@
 <head>
 <!-- Video streaming _auto-play_, untuk munculkan suara klik/tap pada video. Jika streaming lewat smartphone, cukup putar layar ponsel untuk tampilan layar penuh. -->
   <meta charset="utf-8">
-  <title>{{ site.title }}</title>
+  <title>{{ page.title }} — {{ site.title }}</title>
   <script async custom-element="amp-video" src="https://cdn.ampproject.org/v0/amp-video-0.1.js"></script>
   <script async src="https://cdn.ampproject.org/v0.js"></script>
   <link rel="canonical" href="<% canonical %>">
@@ -13,7 +13,7 @@
 <body>
 <!-- {{ content }} -->
 <amp-video width="480" height="270"
-             poster="{{ page.header.image }}"
+             poster="{{ page.poster }}"
              layout="responsive"
              controls
              autoplay
@@ -21,7 +21,7 @@
     <div fallback>
       <p>Your browser doesn't support HTML5 video.</p>
     </div>
-    <source type="application/vnd.apple.mpegurl" src="{{ page.header.video.id }}">
+    <source type="application/vnd.apple.mpegurl" src="https://{{ page.video_host }}/{{ page.video_id }}.m3u8" />
 </amp-video>
 </body>
 </html>
