@@ -1,6 +1,6 @@
 ---
 title: "Catatan Pertandingan Liverpool FC dan Link Streaming [Update]"
-excerpt: "Liverpool FC vs Leicester City, Sabtu 05/10/2019 Kick-Off 21:00 WIB. Premier League Game Week 8"
+excerpt: "Manchester United vs Liverpool FC, Sabtu 20/10/2019 Kick-Off 22:30 WIB. Premier League Game Week 8"
 header:
  og_image: "http://i2-prod.liverpool.com/incoming/article17005837.ece/ALTERNATES/s1200/0_GettyImages-1091569778.jpg"
 # overlay_image: "https://www.thisisanfield.com/wp-content/uploads/2018-12-17-029-UEFA_Champions_League_Draw.jpg"
@@ -12,7 +12,7 @@ header:
 #  provider: internal
 categories: [streaming]
 tags: [streaming bola, streaming liverpool, rekap liverpool fc]
-last_modified_at: 2019-10-03 04:11:21
+last_modified_at: 2019-10-06 11:11:21
 redirect_from:
  - /streaming/streaming-m3u8/
  - /liverpool
@@ -43,13 +43,15 @@ function showTime(){
 showTime();
 </script>
 
-### _next_{:.fa .fa-forward aria-hidden="true"} Jadwal Selanjutnya:
+### Jadwal Selanjutnya:
 
 **EPL** Pertandingan pekan ke-9 (20/10/2019) **Manchester Utd. vs Liverpool FC** [away]. **KO 22:30 WIB**.
 - incoming
 - incoming
 
-### _previous_{:.fa .fa-backward aria-hidden="true"} Hasil Sebelumnya:
+{% include figure caption="Premire League Standing Minggu ke-7" image_path="https://i0.wp.com/knoacc.github.io/catetan/assets/images/epl-standings.jpg?w=540" url="/assets/images/epl-standings.jpg" alt="EPL 2019/2020 Standing"%}
+
+### Hasil Sebelumnya:
 
 {% include figure alt="sadio mane diving" image_path="https://i2-prod.liverpool.com/incoming/article17039930.ece/ALTERNATES/s810/0_GettyImages-1179188179-1.jpg" caption="Sadio Mane dituduh melakukan diving yang menghasilkan penalti untuk Liverpool FC." %}
 
@@ -76,8 +78,6 @@ showTime();
 - Untungnya gol **Mo Salah** 69' mampu membuat Liverpool memimpin kembali.
 - Babak kedua berlangsung sangat terbuka. Banyak kesalahan yang dibuat pemain Liverpool; salah umpan, salah antisipasi.
 - Si Mini Me _mantep uga_ mainnya. “Liverpool have reportedly identified Red Bull Salzburg winger **Takumi Minamino** as a potential signing.”
-
-{% include figure caption="Premire League Standing Minggu ke-7" image_path="https://i0.wp.com/knoacc.github.io/catetan/assets/images/epl-standings.jpg?w=540" url="/assets/images/epl-standings.jpg" alt="EPL 2019/2020 Standing"%}
 
 **EPL** Pertandingan pekan ke-7 (28/09/2019) **Sheffield Utd. vs Liverpool FC** [away]. **KO 18:30 WIB**. Skor akhir 0-1 untuk tim tandang. Liverpool adem ayem di _putjuk_.
 - Tidak tayang di TV Lokal (TVRI) maupun MolaTV, tetapi tayangan ulang bisa dilihat di [Web/App](https://mola.tv/watch?v=vd68968790){: onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Tonton Tayang Ulang" target="_new" rel="nofollow noreferer noopener"}
