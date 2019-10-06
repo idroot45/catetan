@@ -29,7 +29,7 @@ redirect_from:
 {:.notice--danger}
 
 <div id="DigitalCLOCK" class="align-center" onload="showTime()"></div>
-<script>
+<script type="text/javascript>
 function showTime(){
     var date = new Date();
     var h = date.getHours();
@@ -40,14 +40,18 @@ function showTime(){
     document.getElementById("DigitalCLOCK").textContent = time;
     setTimeout(showTime, 1000);
 }
+showTime();
 </script>
 
 ### _next_{:.fa .fa-forward aria-hidden="true"} Jadwal Selanjutnya:
 
 **EPL** Pertandingan pekan ke-9 (20/10/2019) **Manchester Utd. vs Liverpool FC** [away]. **KO 22:30 WIB**.
-- 
+- incoming
+- incoming
 
 ### _previous_{:.fa .fa-backward aria-hidden="true"} Hasil Sebelumnya:
+
+{% include figure alt="sadio mane diving" image_path="https://i2-prod.liverpool.com/incoming/article17039930.ece/ALTERNATES/s810/0_GettyImages-1179188179-1.jpg" caption="Sadio Mane dituduh melakukan diving yang menfhasilkan penalti untuk Liverpool FC." %}
 
 **EPL** Pertandingan pekan ke-8 (05/10/2019) **Liverpool FC vs Leicester City** [home]. **KO 21:00 WIB**.
 - Jadwal streaming pertandingan pekan ke-8 bisa dilihat [di sini](https://live.istimiwir.host/epl-8)
@@ -55,7 +59,7 @@ function showTime(){
 - Gol! **S. Mane** 40'. Assist dari **J. Milner**.
 - Babak ke-2 berjalan intens, Liverpol banyak peluang, banyak shoot on target, tak ada goal.
 - Gol balasan datang 10 menit menjelang akhir waktu normal. **J. Maddison** assist dari **A. Perez**
-- **Mo. Salah** cidera dan di ganti **Adam Lallana** saat _injury time_, **S. Mane** di langgar di menit 90+3'. Penalty! Gol,**J. Milner** 90+5'. _S. Mane dituduh diving via [liverpool.com](https://www.liverpool.com/liverpool-fc-news/features/shearer-mane-liverpool-leicester-penalty-17039969)_ 😂
+- **Mo. Salah** cidera dan di ganti **Adam Lallana** saat _injury time_, **S. Mane** di langgar di menit 90+3'. Penalty! Gol,**J. Milner** 90+5'. Catatan soal _S. Mane yang dituduh diving_ via [liverpool.com](https://www.liverpool.com/liverpool-fc-news/features/shearer-mane-liverpool-leicester-penalty-17039969) 😂
 - Ribut-ribut pemain. **A. Robertson** vs **Nganu** di akhir pertandingan 🙄
 - Review Liverpool FC vs Leicester City via [This Is Anfield](https://www.thisisanfield.com/2019/10/liverpool-2-1-leicester-player-ratings-what-the-media-and-statistics-say/)
 
