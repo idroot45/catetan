@@ -40,7 +40,10 @@ showTime();
 
 ### Jadwal Selanjutnya:
 
-**EPL GW 9 ** Minggu (20/10/2019) **Manchester Utd. vs Liverpool FC** [A]. **KO 22:30 WIB**.
+
+**EPL GW 9** Minggu (20/10/2019) **Manchester Utd. vs Liverpool FC** [A]. **KO 22:30 WIB**.
+
+
 - incoming
 - incoming
 
@@ -57,13 +60,13 @@ showTime();
 - Babak ke-2 berjalan intens, Liverpol banyak peluang, banyak shoot on target, tak ada goal.
 - Gol balasan datang 10 menit menjelang akhir waktu normal. **J. Maddison** assist dari **A. Perez**
 - **Mo. Salah** cidera dan di ganti **Adam Lallana** saat _injury time_, **S. Mane** di langgar di menit 90+3'. Penalty! Gol,**J. Milner** 90+5'. Catatan soal _S. Mane yang dituduh diving_ via [liverpool.com](https://www.liverpool.com/liverpool-fc-news/features/shearer-mane-liverpool-leicester-penalty-17039969) 😂
-- Ribut-ribut pemain. **A. Robertson** vs **Nganu** di akhir pertandingan 🙄
+- Ribut-ribut pemain vs **A. Perez** di akhir pertandingan 🙄 [oh dikomandani oleh Adam Lallana](https://i2-prod.liverpool.com/incoming/article17040575.ece/ALTERNATES/s810/0_GettyImages-1173858117.jpg){:title="At full-time, Andy Robertson gave Ayoze Perez a slight elbow to the ribs on his way to celebrate with Lallana and Virgil van Dijk, only for the Spaniard to retaliate with a heavy shove in the Scotsman's back."}.
 - Review Liverpool FC vs Leicester City via [This Is Anfield](https://www.thisisanfield.com/2019/10/liverpool-2-1-leicester-player-ratings-what-the-media-and-statistics-say/)
 
 **Champions League** Group Stage Matchday 2: _Liverpool FC_ vs _Red Bull Salzburg_ [H]. **KO 02:00 WIB**, Kamis, 3 Oktober 2019. Lihat jadwal matchday 2 selengkapnya [di sini](/sepakbola/jadwal-liga-champions-matchday-2-group/).
 {: .notice .notice--info}
 
-{% include figure caption="Champions League Standing Group E" image_path="https://i0.wp.com/knoacc.github.io/catetan/assets/images/ucl-standings.jpg?w=540" url="/assets/images/ucl-standings.jpg" alt="ucl standings"%}
+![Gol penyelamat Mo Salah](https://i2-prod.liverpool.com/incoming/article17022711.ece/ALTERNATES/s810/0_GettyImages-1178635744.jpg)
 
 - Artikel pra-tanding dari portal [This Is Anfield](https://www.thisisanfield.com/2019/09/key-men-manager-impressions-a-curious-link-to-the-past-complete-lowdown-on-salzburg/), [Liverpool.com](https://www.liverpool.com/liverpool-fc-news/features/liverpool-salzburg-man-united-haaland-17001599) dan [Liverpool Echo](https://www.liverpoolecho.co.uk/sport/football/football-news/former-liverpool-man-identifies-key-17007724) bisa dibaca sambil ngopi.
 - Mungkin akan ditayangkan TV Lokal (SCTV).
@@ -75,6 +78,8 @@ showTime();
 - Si Mini Me _mantep uga_ mainnya. “Liverpool have reportedly identified Red Bull Salzburg winger **Takumi Minamino** as a potential signing.”
 
 **EPL GW 7** 28 September 2019 **Sheffield Utd. vs Liverpool FC** [A]. **KO 18:30 WIB**. Skor akhir 0-1 untuk tim tandang. Liverpool adem ayem di _putjuk_.
+
+
 - Tidak tayang di TV Lokal (TVRI) maupun MolaTV, tetapi tayangan ulang bisa dilihat di [Web/App](https://mola.tv/watch?v=vd68968790){: onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Tonton Tayang Ulang" target="_new" rel="nofollow noreferer noopener"}
 - Gol di babak kedua dari tendangan keras **G. Wijnaldum** 70' yang tak mampu ditangkap dengan baik dan lolos dari kolong kaki penjaga gawang.
 - Jadwal streaming/hasil pertandingan pekan ke-7 bisa dilihat [di sini](https://live.istimiwir.host/epl-7)
@@ -91,7 +96,8 @@ showTime();
 - Liverpool bertahan dengan bombardir serangan dari pemain-pemain Chelsea, kedudukan 2-1 tak berubah hingga akhir pertandingan.
 
 **Champions League** Group Stage Matchday 1: _SC Napoli_ vs _Liverpool FC_ [away]. **KO 02:00 WIB**, Rabu, 17 September 2019. **Hasil: Kalah 0-2**. Lihat hasil matchday 1 selengkapnya [di sini](/sepakbola/jadwal-liga-champions-matchday-1-group/)
-{: .notice .notice--info}
+
+![Adrian vs ](https://i2-prod.liverpool.com/incoming/article16936166.ece/ALTERNATES/s810/0_GettyImages-1168930358.jpg)
 
 **EPL GW 5** 14 September 2019 **Liverpool vs Newcastle** [A] KO 18:30 WIB. Skor akhir 3-1, Liverpool FC tetap di pucuk.
 - Tidak ditayangkan LIVE di TVRI maupun MolaTV [Web/App](https://mola.tv/watch?v=vd67493643){: onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Tonton Tayang Ulang" target="_new" rel="nofollow noreferer noopener"}, tetapi bisa ditonton tayangan ulangnya.
