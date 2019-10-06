@@ -35,7 +35,7 @@ function showTime(){
     var h = date.getHours();
     var m = date.getMinutes();
     var s = date.getSeconds();
-    var time = "Waktu Lokal Sekarang: " + h + ":" + m + ":" + s;
+    var time = h + ":" + m + ":" + s;
     document.getElementById("DigitalCLOCK").innerText = time;
     document.getElementById("DigitalCLOCK").textContent = time;
     setTimeout(showTime, 1000);
