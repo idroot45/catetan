@@ -9,33 +9,33 @@ Ever since it first started rolling out on September 3, Android 10 has made its 
 
 ### Xiaomi Redmi 2
 
-**Unofficial LineageOS 17.0 for Redmi 2:** LineageOS is the successor to the popular CyanogenMod ROM which lays emphasis on providing a clean stock Android experience. This build supports the Xiaomi Redmi 2, one of the earliest devices in the Redmi lineup which was launched way back in 2015. It is an unofficial build of LineageOS with users currently experiencing some issues installing Google apps.
+_Unofficial LineageOS 17.0_ for Redmi 2: LineageOS is the successor to the popular CyanogenMod ROM which lays emphasis on providing a clean stock Android experience. This build supports the Xiaomi Redmi 2, one of the earliest devices in the Redmi lineup which was launched way back in 2015. It is an unofficial build of LineageOS with users currently experiencing some issues installing Google apps.
 
-**Unofficial LineageOS 17.0 for Redmi 2** [link](https://forum.xda-developers.com/redmi-2/development/rom-lineageos-17-0-t3975991)
+Download Unofficial LineageOS 17.0 for **Redmi 2** [link](https://forum.xda-developers.com/redmi-2/development/rom-lineageos-17-0-t3975991)
 
 ### HTC 10
 
-**Unofficial LineageOS 17.0 for the HTC 10:** Launched back in 2016, HTC 10 was one of the company’s last few popular devices. It was one of the first smartphones back in the day to sport a USB 3.1 Type-C port, with support for 18W fast charging. If you still have an HTC 10 lying around and want to upgrade it to the latest version of Android, this Unofficial LineageOS 17 build should do the job. Do note that since this is a beta build, you might encounter some unwanted bugs.
+_Unofficial LineageOS 17.0_ for the HTC 10: Launched back in 2016, HTC 10 was one of the company’s last few popular devices. It was one of the first smartphones back in the day to sport a USB 3.1 Type-C port, with support for 18W fast charging. If you still have an HTC 10 lying around and want to upgrade it to the latest version of Android, this Unofficial LineageOS 17 build should do the job. Do note that since this is a beta build, you might encounter some unwanted bugs.
 
-**Unofficial LineageOS 17.0 for the HTC 10** [link](https://forum.xda-developers.com/htc-10/development/rom-lineageos-17-0-unofficial-builds-pme-t3976079).
+Download Unofficial LineageOS 17.0 for the **HTC 10** [link](https://forum.xda-developers.com/htc-10/development/rom-lineageos-17-0-unofficial-builds-pme-t3976079).
 
 ### HTC One M8
 
-**Unofficial LineageOS 17.0 for the HTC One M8:** One of the first few devices to feature HTC’s revolutionary BoomSound front-firing speakers, the HTC One M8 was an amazing smartphone back in the day. In case you’re still rocking this beast of a phone, try out Android 10 on it with this unofficial build of LineageOS 17. This build works with both the single and dual SIM variants of the device.
+_Unofficial LineageOS 17.0_ for the HTC One M8: One of the first few devices to feature HTC’s revolutionary BoomSound front-firing speakers, the HTC One M8 was an amazing smartphone back in the day. In case you’re still rocking this beast of a phone, try out Android 10 on it with this unofficial build of LineageOS 17. This build works with both the single and dual SIM variants of the device.
 
-**Unofficial LineageOS 17.0 for the HTC One M8** [link](https://forum.xda-developers.com/htc-one-m8/development/rom-lineageos-17-0-nightlies-htc-one-m8-t3976989).
+Download Unofficial LineageOS 17.0 for the **HTC One M8** [link](https://forum.xda-developers.com/htc-one-m8/development/rom-lineageos-17-0-nightlies-htc-one-m8-t3976989).
 
 ### Sony Xperia Z3
 
-**Unofficial LineageOS 17.0 for the Sony Xperia Z3 Compact:** Another smartphone from the same era as the HTC One M8, the Xperia Z3 Compact offered users a flagship experience in a very compact form factor. If you’ve been meaning to use a smaller device and have the Z3 Compact lying around, it’s time to breathe some new life into it with this build of LineageOS 17.
+_Unofficial LineageOS 17.0_ for the Sony Xperia Z3 Compact:** Another smartphone from the same era as the HTC One M8, the Xperia Z3 Compact offered users a flagship experience in a very compact form factor. If you’ve been meaning to use a smaller device and have the Z3 Compact lying around, it’s time to breathe some new life into it with this build of LineageOS 17.
 
-**Unofficial LineageOS 17.0 for the Sony Xperia Z3 Compact** [link](https://forum.xda-developers.com/z3-compact/orig-development/10-lineageos-17-0-z3c-t3976529)
+Dowbload Unofficial LineageOS 17.0 for the **Sony Xperia Z3 Compact** [link](https://forum.xda-developers.com/z3-compact/orig-development/10-lineageos-17-0-z3c-t3976529)
 
 ### Moto G 2015
 
-**Unofficial LineageOS 17.0 for the Moto G 2015:** The 3rd generation of Motorola’s extremely popular Moto G lineup, the Moto G 2015 was an impressive budget device for its time. This unofficial LineageOS build works on all variants of the device, including the XT1540, XT1541, XT1542, XT1543, XT1548, and XT1550. But before you go ahead and flash it, it’s worth noting that video recording and camera HDR are not working in the current version.
+_Unofficial LineageOS 17.0__ for the Moto G 2015: The 3rd generation of Motorola’s extremely popular Moto G lineup, the Moto G 2015 was an impressive budget device for its time. This unofficial LineageOS build works on all variants of the device, including the XT1540, XT1541, XT1542, XT1543, XT1548, and XT1550. But before you go ahead and flash it, it’s worth noting that video recording and camera HDR are not working in the current version.
 
-**Unofficial LineageOS 17.0 for the Moto G 2015** [link](https://forum.xda-developers.com/2015-moto-g/development/rom-lineageos-17-0-t3977227).
+Download Unofficial LineageOS 17.0 for the **Moto G 2015** [link](https://forum.xda-developers.com/2015-moto-g/development/rom-lineageos-17-0-t3977227).
 
 ## Another Android 10 Custom ROMs
 
