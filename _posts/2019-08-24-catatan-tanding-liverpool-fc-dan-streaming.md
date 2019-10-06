@@ -134,7 +134,7 @@ Lihat hasil matchday 1 selengkapnya [di sini](/sepakbola/jadwal-liga-champions-m
 
 ## Tambahan-tambahan
 
-{% include figure image_path="https://s.france24.com/media/display/9b3e331e-84b5-11e9-9042-005056a964fe/w:1024/p:16x9/football-liverpool-ligue-champions-reds-tottenham.jpg" caption="Liverpool FC's 6th Champions League Trophy" alt="Champions League 2018/2019 Winner" %}
+{% include figure image_path="https://s.france24.com/media/display/9b3e331e-84b5-11e9-9042-005056a964fe/w:1024/p:16x9/football-liverpool-ligue-champions-reds-tottenham.jpg" caption="Juara Champions League 2018/2019, Gelar ke-6 Liverpool FC" alt="Champions League 2018/2019 Winner" %}
 
 **Latar belakang catatan ini**{:#latar-belakang}
 
