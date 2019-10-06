@@ -51,10 +51,10 @@ showTime();
 
 ### Hasil Sebelumnya:
 
+**EPL GW 8** Minggu (05/10/2019) **Liverpool FC vs Leicester City** [H]. **KO 21:00 WIB**.
+
 {% include figure alt="sadio mane diving" image_path="https://i2-prod.liverpool.com/incoming/article17039937.ece/ALTERNATES/s810/0_GettyImages-1179213601.jpg" caption="Sadio Mane diving? Oh Yeah, 🙄 definitely not enough contact to award a penalty. Fuck that!" %}
 
-**EPL GW 8** Minggu (05/10/2019) **Liverpool FC vs Leicester City** [H]. **KO 21:00 WIB**.
-- Jadwal streaming pertandingan pekan ke-8 bisa dilihat [di sini](https://live.istimiwir.host/epl-8)
 - Artikel pra-tanding dari portal [This Is Anfield](https://www.thisisanfield.com/2019/09/brendan-rodgers-excited-for-first-return-to-incredible-former-club-liverpool/). Baca saja sambil tiduran.
 - Gol! **S. Mane** 40'. Assist dari **J. Milner**.
 - Babak ke-2 berjalan intens, Liverpol banyak peluang, banyak shoot on target, tak ada goal.
@@ -66,7 +66,7 @@ showTime();
 **Champions League** Group Stage Matchday 2: _Liverpool FC_ vs _Red Bull Salzburg_ [H]. **KO 02:00 WIB**, Kamis, 3 Oktober 2019. Lihat jadwal matchday 2 selengkapnya [di sini](/sepakbola/jadwal-liga-champions-matchday-2-group/).
 {: .notice .notice--info}
 
-![Gol penyelamat Mo Salah](https://i2-prod.liverpool.com/incoming/article17022711.ece/ALTERNATES/s810/0_GettyImages-1178635744.jpg)
+{% include figure caption="Gol penyelamat dari Mo Salah" alt="Mo Salah vs RB Salzburg" image_path="https://i2-prod.liverpool.com/incoming/article17022711.ece/ALTERNATES/s810/0_GettyImages-1178635744.jpg" %}
 
 - Artikel pra-tanding dari portal [This Is Anfield](https://www.thisisanfield.com/2019/09/key-men-manager-impressions-a-curious-link-to-the-past-complete-lowdown-on-salzburg/), [Liverpool.com](https://www.liverpool.com/liverpool-fc-news/features/liverpool-salzburg-man-united-haaland-17001599) dan [Liverpool Echo](https://www.liverpoolecho.co.uk/sport/football/football-news/former-liverpool-man-identifies-key-17007724) bisa dibaca sambil ngopi.
 - Mungkin akan ditayangkan TV Lokal (SCTV).
@@ -79,17 +79,20 @@ showTime();
 
 **EPL GW 7** 28 September 2019 **Sheffield Utd. vs Liverpool FC** [A]. **KO 18:30 WIB**. Skor akhir 0-1 untuk tim tandang. Liverpool adem ayem di _putjuk_.
 
+[![Wijnaldum](https://www.liverpoolecho.co.uk/incoming/article16998248.ece/ALTERNATES/s510b/0_JS194232247.jpg)](https://www.liverpoolecho.co.uk/incoming/article16998248.ece/ALTERNATES/s810/0_JS194232247.jpg){:title="Georginio Wijnaldum’s goal, courtesy of Dean Henderson’s blunder in the Blades net, was the difference."}
 
 - Tidak tayang di TV Lokal (TVRI) maupun MolaTV, tetapi tayangan ulang bisa dilihat di [Web/App](https://mola.tv/watch?v=vd68968790){: onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Tonton Tayang Ulang" target="_new" rel="nofollow noreferer noopener"}
 - Gol di babak kedua dari tendangan keras **G. Wijnaldum** 70' yang tak mampu ditangkap dengan baik dan lolos dari kolong kaki penjaga gawang.
 - Jadwal streaming/hasil pertandingan pekan ke-7 bisa dilihat [di sini](https://live.istimiwir.host/epl-7)
 
 **Football League Cup** 3<sup>rd</sup> round: _MK Dons_ vs _Liverpool FC_ [A]. Kamis, 26 September 2019 **KO 01:45 WIB**. Skor akhir 0-2 untuk kemenangan Liverpool FC. _**note:** lebih dikenal sebagai **Carabao Cup**_
+
 - Tidak tayang di TV Lokal manapun, tetapi masih bisa disaksikan melalui MolaTV [Web/App](https://mola.tv/watch?v=vd68970017){: onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Tonton Tayang Ulang" target="_new" rel="nofollow noreferer noopener"}, lihat [catatan](#molatv).
 - Gol **J. Milner** 41' di babak pertama, dan **Ki-jana Hoever** 69' di babak kedua.
 - **C. Jones** lagi apes, dua tembakan terarah ke gawang cuma membentur mistar.
 
 **EPL GW 6** 22 September 2019 **Chelsea vs Liverpool FC** [A] KO 22:30. Skor akhir 1-2, LFC [tetap di _putcjuk_](#standing) meskipun di laga lain **Man. City** memasukkan 8 gol tanpa balas ke gawang **Watford**
+
 - Tayangan langsung tidak tersedia, baik TVRI maupun MolaTV [Web/App](https://mola.tv/watch?v=vd68620074){: onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Tonton Tayang Ulang" target="_new" rel="nofollow noreferer noopener"}, tetapi bisa ditonton tayangan ulangnya.
 - Gol dari skema set piece: **TAA** 14' dan sundulan **Firmino** 30', kedudukan 2-0 di babak pertama.
 - Babak 2 **Kante** 71' melakukan akselerasi dan tendangan kesisi kiri gawang **Adrian** dan tak dapat dijangkau. 
@@ -97,9 +100,10 @@ showTime();
 
 **Champions League** Group Stage Matchday 1: _SC Napoli_ vs _Liverpool FC_ [away]. **KO 02:00 WIB**, Rabu, 17 September 2019. **Hasil: Kalah 0-2**. Lihat hasil matchday 1 selengkapnya [di sini](/sepakbola/jadwal-liga-champions-matchday-1-group/)
 
-![Adrian vs ](https://i2-prod.liverpool.com/incoming/article16936166.ece/ALTERNATES/s810/0_GettyImages-1168930358.jpg)
+[![Adrian vs Napoli](https://i2-prod.liverpool.com/incoming/article16936166.ece/ALTERNATES/s610b/0_GettyImages-1168930358.jpg)](https://i2-prod.liverpool.com/incoming/article16936166.ece/ALTERNATES/s810/0_GettyImages-1168930358.jpg){:title="Napoli mengukuhkan kemenangan kandang dengan gol kedua di menit-menit akhir"}
 
 **EPL GW 5** 14 September 2019 **Liverpool vs Newcastle** [A] KO 18:30 WIB. Skor akhir 3-1, Liverpool FC tetap di pucuk.
+
 - Tidak ditayangkan LIVE di TVRI maupun MolaTV [Web/App](https://mola.tv/watch?v=vd67493643){: onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Tonton Tayang Ulang" target="_new" rel="nofollow noreferer noopener"}, tetapi bisa ditonton tayangan ulangnya.
 - Link stream `m3u8` <del>hari ini masih burem 😒 gelap gulita. Jadi di ganti tayangan channel eurosport.</del>
 - **[FIX]** Sudah bisa. Dapat stream dari [NBCSN](https://en.wikipedia.org/wiki/NBCSN) 😌 kalau mau, lanjut nonton TOT vs CRY KO 21:00.
@@ -109,6 +113,7 @@ showTime();
 - Gol **Mo Salah** 72', assist keren dari **Firmino**. 3-1 untuk Liverpool FC.
 
 **EPL GW 4** 31 Agustus 2019 **Burnley vs Liverpool** [A] KO 23:30 WIB. Skor akhir 0-3 untuk kemenangan Liverpool.
+
 - Tidak ditayangkan LIVE di MolaTV [Web/App](https://mola.tv/watch?v=vd66534925){: onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Tonton Tayang Ulang" target="_new" rel="nofollow noreferer noopener"}, tetapi bisa ditonton tayangan ulangnya.
 - Goal LFC: **C. Wood** 33' (og), S. Mane 37', R. Firmino 80'.
 - _Own goal_ C. Wood _deflected_ dari tendangan keras **T.A. Arnold** umpan **J. Henderson**.
@@ -116,6 +121,7 @@ showTime();
 > [Menerawang Starting XI Liverpool 5 Tahun Mendatang](https://catetan.istimiwir.host/sepakbola/liverpool-5-tahun-mendatang-tanpa-salah-mane-dan-van-dijk/){: rel="noopener"}
 
 **EPL GW 3** 24 Agustus 2019 **Liverpool vs Arsenal** [H] KO 23:30 WIB. Skor akhir 3-1 untuk kemenangan Liverpool
+
 - Tayang di MolaTV [Web/App](https://mola.tv/watch?v=vd65950609){: onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Tonton Tayang Ulang" target="_new" rel="nofollow noreferer noopener"}
 - Goal LFC: **Joel Matip** 41', **M. Salah** 49' (p), 58'. 
 - Goal ARS: **L.T. Di Pascua** 85'.
