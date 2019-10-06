@@ -3,12 +3,8 @@ title: "Catatan Pertandingan Liverpool FC dan Link Streaming [Update]"
 excerpt: "Manchester United vs Liverpool FC, Sabtu 20/10/2019 Kick-Off 22:30 WIB. Premier League Game Week 8"
 header:
  og_image: "http://i2-prod.liverpool.com/incoming/article17005837.ece/ALTERNATES/s1200/0_GettyImages-1091569778.jpg"
-# overlay_image: "https://www.thisisanfield.com/wp-content/uploads/2018-12-17-029-UEFA_Champions_League_Draw.jpg"
-# teaser: "https://i0.wp.com/www.thisisanfield.com/wp-content/uploads/2018-12-17-029-UEFA_Champions_League_Draw.jpg?w=480"
-# image: "https://i2-prod.liverpool.com/incoming/article17005837.ece/ALTERNATES/s615b/0_GettyImages-1091569778.jpg"
-# teaser: "https://dummyimage.com/400x225/EC407A/F.gif&text=EPL+Liverpool+FC"
 # video:
-#  id: ch-2
+#  id: lfctv
 #  provider: internal
 categories: [streaming]
 tags: [streaming bola, streaming liverpool, rekap liverpool fc]
@@ -20,18 +16,16 @@ redirect_from:
 # - /carabao
  - /streaming/m3u8/
 ---
-
 {% include figure alt="Liverpool Supporters!" caption="Anfield's mentality has been transformed." image_path="https://i2-prod.liverpool.com/incoming/article17041156.ece/ALTERNATES/s810/0_GettyImages-1173868960.jpg" %}
 
-*Ingat baik-baik!*{:.fa .fa-cog .fa-spin aria-hidden="true"} **1** Tayangan akan tersedia hanya **jika ada** dan **tersedia** (dapat saya temukan) di internet. Baca [latar belakang](#latar-belakang) catatan ini. **2** Refresh **10 menit** sebelum _kick off_, selain di waktu tersebut kemungkinan siaran tidak dapat diakses. **3** Streaming di halaman ini diusahakan dalam kualitas HD, jadi kemungkinan akan menguras kuota/data hingga 2 GB dan membutuhkan kecepatan konektivitas minimal 10 Mbps untuk kelancaran streaming. **4** Sedangkan mengenai pilihan siaran **MolaTV**, tidak saya rekomendasikan. Silahkan baca [catatannya](#molatv).
+*Ingat baik-baik!*{:.fa .fa-cog .fa-spin aria-hidden="true"} **1**. Tayangan akan tersedia hanya **jika ada** dan **tersedia** (dapat saya temukan) di internet. Baca [latar belakang](#latar-belakang) catatan ini. **2**. Refresh **10 menit** sebelum _kick off_, selain di waktu tersebut kemungkinan siaran tidak dapat diakses. **3**. Streaming di halaman ini diusahakan dalam kualitas HD, jadi kemungkinan akan menguras kuota/data hingga 2 GB dan membutuhkan kecepatan konektivitas minimal 10 mbps untuk kelancaran streaming. **4**. Sedangkan mengenai pilihan siaran **MolaTV**, tidak saya rekomendasikan. Silahkan baca [catatannya](#molatv).
 {:.notice--warning}
 
 ## Catatan pertandingan dan streaming
 
-*Bahaya!*{:.fa .fa-heartbeat aria-hidden="true"} Postingan ini niatnya hanya untuk menyimpan streaming pertandingan-pertandingan **Liverpool FC** saja. Utamanya *Premier League*, tetapi mungkin ada juga pertandingan di kompetisi lain seperti _Carabao Cup_ dan _Champions League_.
-{:.notice--danger}
+Postingan ini niatnya hanya untuk menyimpan streaming pertandingan-pertandingan **Liverpool FC** saja. Utamanya *Premier League*, tetapi mungkin ada juga pertandingan di kompetisi lain seperti _Carabao Cup_ dan _Champions League_.
 
-<blockquote>Waktu lokal sekarang: <strong><span id="DigitalCLOCK" onload="showTime()"></span></strong></blockquote>
+<blockquote>Waktu lokal sekarang: <strong><span id="JamLokal" onload="showTime()"></span></strong></blockquote>
 <script>
 function showTime(){
     var date = new Date();
@@ -39,8 +33,8 @@ function showTime(){
     var m = date.getMinutes();
     var s = date.getSeconds();
     var time = h + ":" + m + ":" + s;
-    document.getElementById("DigitalCLOCK").innerText = time;
-    document.getElementById("DigitalCLOCK").textContent = time;
+    document.getElementById("JamLokal").innerText = time;
+    document.getElementById("JamLokal").textContent = time;
     setTimeout(showTime, 1000);
 }
 showTime();
@@ -48,17 +42,17 @@ showTime();
 
 ### Jadwal Selanjutnya:
 
-**EPL** Pertandingan pekan ke-9 (20/10/2019) **Manchester Utd. vs Liverpool FC** [away]. **KO 22:30 WIB**.
+**EPL GW 9 ** Minggu (20/10/2019) **Manchester Utd. vs Liverpool FC** [A]. **KO 22:30 WIB**.
 - incoming
 - incoming
 
-{% include figure caption="Premire League Standing Minggu ke-8" image_path="https://i1.wp.com/knoacc.github.io/catetan/assets/images/Screenshot_20191006-235423.jpg?w=460" url="/assets/images/Screenshot_20191006-235423.jpg" alt="EPL 2019/2020 Standing"%}
+{% include figure caption="Premiere League Standing Minggu ke-8" image_path="https://i1.wp.com/knoacc.github.io/catetan/assets/images/Screenshot_20191006-235423.jpg?w=460" url="/assets/images/Screenshot_20191006-235423.jpg" alt="EPL 2019/2020 Standing"%}
 
 ### Hasil Sebelumnya:
 
 {% include figure alt="sadio mane diving" image_path="https://i2-prod.liverpool.com/incoming/article17039930.ece/ALTERNATES/s810/0_GettyImages-1179188179-1.jpg" caption="Sadio Mane dituduh melakukan diving yang menghasilkan penalti untuk Liverpool FC." %}
 
-**EPL** Pertandingan pekan ke-8 (05/10/2019) **Liverpool FC vs Leicester City** [home]. **KO 21:00 WIB**.
+**EPL GW 8** Minggu (05/10/2019) **Liverpool FC vs Leicester City** [H]. **KO 21:00 WIB**.
 - Jadwal streaming pertandingan pekan ke-8 bisa dilihat [di sini](https://live.istimiwir.host/epl-8)
 - Artikel pra-tanding dari portal [This Is Anfield](https://www.thisisanfield.com/2019/09/brendan-rodgers-excited-for-first-return-to-incredible-former-club-liverpool/). Baca saja sambil tiduran.
 - Gol! **S. Mane** 40'. Assist dari **J. Milner**.
@@ -68,7 +62,7 @@ showTime();
 - Ribut-ribut pemain. **A. Robertson** vs **Nganu** di akhir pertandingan 🙄
 - Review Liverpool FC vs Leicester City via [This Is Anfield](https://www.thisisanfield.com/2019/10/liverpool-2-1-leicester-player-ratings-what-the-media-and-statistics-say/)
 
-**Champions League** Group Stage Matchday 2: _Liverpool FC_ vs _Red Bull Salzburg_ [home]. **KO 02:00 WIB**, Kamis, 3 Oktober 2019. Lihat jadwal matchday 2 selengkapnya [di sini](/sepakbola/jadwal-liga-champions-matchday-2-group/).
+**Champions League** Group Stage Matchday 2: _Liverpool FC_ vs _Red Bull Salzburg_ [H]. **KO 02:00 WIB**, Kamis, 3 Oktober 2019. Lihat jadwal matchday 2 selengkapnya [di sini](/sepakbola/jadwal-liga-champions-matchday-2-group/).
 {: .notice .notice--info}
 
 {% include figure caption="Champions League Standing Group E" image_path="https://i0.wp.com/knoacc.github.io/catetan/assets/images/ucl-standings.jpg?w=540" url="/assets/images/ucl-standings.jpg" alt="ucl standings"%}
@@ -82,19 +76,17 @@ showTime();
 - Babak kedua berlangsung sangat terbuka. Banyak kesalahan yang dibuat pemain Liverpool; salah umpan, salah antisipasi.
 - Si Mini Me _mantep uga_ mainnya. “Liverpool have reportedly identified Red Bull Salzburg winger **Takumi Minamino** as a potential signing.”
 
-**EPL** Pertandingan pekan ke-7 (28/09/2019) **Sheffield Utd. vs Liverpool FC** [away]. **KO 18:30 WIB**. Skor akhir 0-1 untuk tim tandang. Liverpool adem ayem di _putjuk_.
+**EPL GW 7** 28 September 2019 **Sheffield Utd. vs Liverpool FC** [A]. **KO 18:30 WIB**. Skor akhir 0-1 untuk tim tandang. Liverpool adem ayem di _putjuk_.
 - Tidak tayang di TV Lokal (TVRI) maupun MolaTV, tetapi tayangan ulang bisa dilihat di [Web/App](https://mola.tv/watch?v=vd68968790){: onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Tonton Tayang Ulang" target="_new" rel="nofollow noreferer noopener"}
 - Gol di babak kedua dari tendangan keras **G. Wijnaldum** 70' yang tak mampu ditangkap dengan baik dan lolos dari kolong kaki penjaga gawang.
 - Jadwal streaming/hasil pertandingan pekan ke-7 bisa dilihat [di sini](https://live.istimiwir.host/epl-7)
 
-**Football League Cup** 3<sup>rd</sup> round: _MK Dons_ vs _Liverpool FC_ [away]. Kamis, 26 September 2019 **KO 01:45 WIB**. Skor akhir 0-2 untuk kemenangan Liverpool FC. _**note:** lebih dikenal sebagai **Carabao Cup**_
+**Football League Cup** 3<sup>rd</sup> round: _MK Dons_ vs _Liverpool FC_ [A]. Kamis, 26 September 2019 **KO 01:45 WIB**. Skor akhir 0-2 untuk kemenangan Liverpool FC. _**note:** lebih dikenal sebagai **Carabao Cup**_
 - Tidak tayang di TV Lokal manapun, tetapi masih bisa disaksikan melalui MolaTV [Web/App](https://mola.tv/watch?v=vd68970017){: onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Tonton Tayang Ulang" target="_new" rel="nofollow noreferer noopener"}, lihat [catatan](#molatv).
 - Gol **J. Milner** 41' di babak pertama, dan **Ki-jana Hoever** 69' di babak kedua.
 - **C. Jones** lagi apes, dua tembakan terarah ke gawang cuma membentur mistar.
 
-![Chelsea vs Liverpool](/assets/images/251280007.png){:.align-center}
-
-**EPL** pertandingan pekan ke-6 (22/09/2019) **Chelsea vs Liverpool FC** [away] KO 22:30. Skor akhir 1-2, LFC [tetap di _putcjuk_](#standing) meskipun di laga lain **Man. City** memasukkan 8 gol tanpa balas ke gawang **Watford**
+**EPL GW 6** 22 September 2019 **Chelsea vs Liverpool FC** [A] KO 22:30. Skor akhir 1-2, LFC [tetap di _putcjuk_](#standing) meskipun di laga lain **Man. City** memasukkan 8 gol tanpa balas ke gawang **Watford**
 - Tayangan langsung tidak tersedia, baik TVRI maupun MolaTV [Web/App](https://mola.tv/watch?v=vd68620074){: onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Tonton Tayang Ulang" target="_new" rel="nofollow noreferer noopener"}, tetapi bisa ditonton tayangan ulangnya.
 - Gol dari skema set piece: **TAA** 14' dan sundulan **Firmino** 30', kedudukan 2-0 di babak pertama.
 - Babak 2 **Kante** 71' melakukan akselerasi dan tendangan kesisi kiri gawang **Adrian** dan tak dapat dijangkau. 
@@ -103,7 +95,7 @@ showTime();
 **Champions League** Group Stage Matchday 1: _SC Napoli_ vs _Liverpool FC_ [away]. **KO 02:00 WIB**, Rabu, 17 September 2019. **Hasil: Kalah 0-2**. Lihat hasil matchday 1 selengkapnya [di sini](/sepakbola/jadwal-liga-champions-matchday-1-group/)
 {: .notice .notice--info}
 
-**EPL** pertandingan pekan ke-5 (14/09/2019) **Liverpool vs Newcastle** [home] KO 18:30 WIB. Skor akhir 3-1, Liverpool FC tetap di pucuk.
+**EPL GW 5** 14 September 2019 **Liverpool vs Newcastle** [A] KO 18:30 WIB. Skor akhir 3-1, Liverpool FC tetap di pucuk.
 - Tidak ditayangkan LIVE di TVRI maupun MolaTV [Web/App](https://mola.tv/watch?v=vd67493643){: onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Tonton Tayang Ulang" target="_new" rel="nofollow noreferer noopener"}, tetapi bisa ditonton tayangan ulangnya.
 - Link stream `m3u8` <del>hari ini masih burem 😒 gelap gulita. Jadi di ganti tayangan channel eurosport.</del>
 - **[FIX]** Sudah bisa. Dapat stream dari [NBCSN](https://en.wikipedia.org/wiki/NBCSN) 😌 kalau mau, lanjut nonton TOT vs CRY KO 21:00.
@@ -112,14 +104,14 @@ showTime();
 - Gol lagi, **S. Mane** 40', dari bola muntah rebutan **Firmino** dengan **Atsu**.
 - Gol **Mo Salah** 72', assist keren dari **Firmino**. 3-1 untuk Liverpool FC.
 
-**EPL** pertandingan pekan ke-4 (31/08/2019) **Burnley vs Liverpool** [away] KO 23:30 WIB. Skor akhir 0-3 untuk kemenangan Liverpool.
+**EPL GW 4** 31 Agustus 2019 **Burnley vs Liverpool** [A] KO 23:30 WIB. Skor akhir 0-3 untuk kemenangan Liverpool.
 - Tidak ditayangkan LIVE di MolaTV [Web/App](https://mola.tv/watch?v=vd66534925){: onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Tonton Tayang Ulang" target="_new" rel="nofollow noreferer noopener"}, tetapi bisa ditonton tayangan ulangnya.
 - Goal LFC: **C. Wood** 33' (og), S. Mane 37', R. Firmino 80'.
 - _Own goal_ C. Wood _deflected_ dari tendangan keras **T.A. Arnold** umpan **J. Henderson**.
 
 > [Menerawang Starting XI Liverpool 5 Tahun Mendatang](https://catetan.istimiwir.host/sepakbola/liverpool-5-tahun-mendatang-tanpa-salah-mane-dan-van-dijk/){: rel="noopener"}
 
-**EPL** pertandingan pekan ke-3 (24/08/2019) **Liverpool vs Arsenal** [home] KO 23:30 WIB. Skor akhir 3-1 untuk kemenangan Liverpool
+**EPL GW 3** 24 Agustus 2019 **Liverpool vs Arsenal** [H] KO 23:30 WIB. Skor akhir 3-1 untuk kemenangan Liverpool
 - Tayang di MolaTV [Web/App](https://mola.tv/watch?v=vd65950609){: onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Tonton Tayang Ulang" target="_new" rel="nofollow noreferer noopener"}
 - Goal LFC: **Joel Matip** 41', **M. Salah** 49' (p), 58'. 
 - Goal ARS: **L.T. Di Pascua** 85'.
