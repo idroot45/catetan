@@ -28,7 +28,7 @@ redirect_from:
 *Bahaya!*{:.fa .fa-heartbeat aria-hidden="true"} Postingan ini niatnya hanya untuk menyimpan streaming pertandingan-pertandingan **Liverpool FC** saja. Utamanya *Premier League*, tetapi mungkin ada juga pertandingan di kompetisi lain seperti _Carabao Cup_ dan _Champions League_.
 {:.notice--danger}
 
-<div id="DigitalCLOCK" class="align-center" onload="showTime()"></div>
+<blockquote>Waktu lokal sekarang: <strong><span id="DigitalCLOCK" onload="showTime()"></span></strong></blockquote>
 <script>
 function showTime(){
     var date = new Date();
@@ -51,7 +51,7 @@ showTime();
 
 ### _previous_{:.fa .fa-backward aria-hidden="true"} Hasil Sebelumnya:
 
-{% include figure alt="sadio mane diving" image_path="https://i2-prod.liverpool.com/incoming/article17039930.ece/ALTERNATES/s810/0_GettyImages-1179188179-1.jpg" caption="Sadio Mane dituduh melakukan diving yang menfhasilkan penalti untuk Liverpool FC." %}
+{% include figure alt="sadio mane diving" image_path="https://i2-prod.liverpool.com/incoming/article17039930.ece/ALTERNATES/s810/0_GettyImages-1179188179-1.jpg" caption="Sadio Mane dituduh melakukan diving yang menghasilkan penalti untuk Liverpool FC." %}
 
 **EPL** Pertandingan pekan ke-8 (05/10/2019) **Liverpool FC vs Leicester City** [home]. **KO 21:00 WIB**.
 - Jadwal streaming pertandingan pekan ke-8 bisa dilihat [di sini](https://live.istimiwir.host/epl-8)
