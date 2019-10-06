@@ -2,18 +2,16 @@
 title: "Catatan Pertandingan Liverpool FC dan Link Streaming [Update]"
 excerpt: "Manchester United vs Liverpool FC, Sabtu 20/10/2019 Kick-Off 22:30 WIB. Premier League Game Week 8"
 header:
- og_image: "http://i2-prod.liverpool.com/incoming/article17005837.ece/ALTERNATES/s1200/0_GettyImages-1091569778.jpg"
-# video:
-#  id: lfctv
-#  provider: internal
+ og_image: "https://i2-prod.liverpool.com/incoming/article17005837.ece/ALTERNATES/s1200/0_GettyImages-1091569778.jpg"
+ video:
+  id: c8B9P7WAsbA
+  provider: youtube
 categories: [streaming]
 tags: [streaming bola, streaming liverpool, rekap liverpool fc]
 last_modified_at: 2019-10-06 11:11:21
 redirect_from:
  - /streaming/streaming-m3u8/
  - /liverpool
- - /champions
-# - /carabao
  - /streaming/m3u8/
 ---
 {% include figure alt="Liverpool Supporters!" caption="Anfield's mentality has been transformed." image_path="https://i2-prod.liverpool.com/incoming/article17041156.ece/ALTERNATES/s810/0_GettyImages-1173868960.jpg" %}
@@ -118,7 +116,7 @@ showTime();
 
 **Latar belakang catatan ini**{:#latar-belakang}
 
-Latar belakang sebelum memutuskan untuk mencatat setiap laga Liverpool FC di halaman ini:
+Latar belakang sebelum memutuskan untuk mencatat setiap laga Liverpool FC (setelah GW-2) di halaman ini:
 
 Kalau di-ingat-ingat sudah kenal/tahu **Liverpool FC** sejak tanpa sengaja membeli stiker logonya (sticker bahan gravtech) di pasar desa saat masih SD/MI karena desain logonya menarik. Tetapi baru benar-benah _ngeh_ dan fanatik setelah berita **Epic Comeback** Liverpool FC melawan AC Milan di Istambul di _blow-up_ beberapa majalah bola. Ketika itu baru saja lulus kuliah (D1) dan sibuk pacaran, malas kerja. Jujur saja, baru benar-benar intens menonton setiap pertandingan Liverpool FC sejak nyaris juara di EPL 2013/2014, jamannya Suarez dkk. dilatih Ojes dan Gerrard kepleset. Sejak itu pula selalu berburu link-link streaming setiap pertandingan Liverpool FC ketika tak ada **streaming tayangan resmi yang gratis**. Utamanya ketika tidak ditayangkan di TV lokal atau tak ada tempat untuk _nebeng_ tontonan TV kabel hingga sekarang. Apalagi, kini semakin sulit karena hak siar berpindah dari tangan FMA 😭.
 
