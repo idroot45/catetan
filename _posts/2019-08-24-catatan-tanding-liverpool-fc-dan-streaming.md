@@ -58,7 +58,7 @@ Last season away match (2018/2019) highlight:
 - Gol! **S. Mane** 40'. Assist dari **J. Milner**.
 - Babak ke-2 berjalan intens, Liverpol banyak peluang, banyak shoot on target, tak ada goal.
 - Gol balasan datang 10 menit menjelang akhir waktu normal. **J. Maddison** assist dari **A. Perez**
-- **Mo. Salah** cidera dan di ganti **Adam Lallana** saat _injury time_, **S. Mane** di langgar di menit 90+3'. Penalty! Gol,**J. Milner** 90+5'. Catatan soal _S. Mane yang dituduh diving_ via [liverpool.com](https://www.liverpool.com/liverpool-fc-news/features/shearer-mane-liverpool-leicester-penalty-17039969) 😂
+- **Mo. Salah** [cidera](/assets/images/Screenshot_20191007-125401.jpg) dan di ganti **Adam Lallana** saat _injury time_, **S. Mane** di langgar di menit 90+3'. Penalty! Gol,**J. Milner** 90+5'. Catatan soal _S. Mane yang dituduh diving_ via [liverpool.com](https://www.liverpool.com/liverpool-fc-news/features/shearer-mane-liverpool-leicester-penalty-17039969) 😂
 - Ribut-ribut pemain vs **A. Perez** di akhir pertandingan 🙄 [oh dikomandani oleh Adam Lallana](https://i2-prod.liverpool.com/incoming/article17040575.ece/ALTERNATES/s810/0_GettyImages-1173858117.jpg){:title="At full-time, Andy Robertson gave Ayoze Perez a slight elbow to the ribs on his way to celebrate with Lallana and Virgil van Dijk, only for the Spaniard to retaliate with a heavy shove in the Scotsman's back."}.
 - Review Liverpool FC vs Leicester City via [This Is Anfield](https://www.thisisanfield.com/2019/10/liverpool-2-1-leicester-player-ratings-what-the-media-and-statistics-say/)
 
