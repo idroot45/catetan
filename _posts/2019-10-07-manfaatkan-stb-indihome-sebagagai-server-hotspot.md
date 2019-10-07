@@ -10,28 +10,32 @@ Bahan dan video tutorial install Nginx, MySQL, phpMyAdmin, dan Mikhmon dengan me
 > STB HG680P adalah _set top box_ yang didapatkan oleh pelanggan Indihome fiber untuk menikmati layanan TV Indihome
 
 Pastikan STB HG680P :
-1. Terinstall OS Debian 9. pakai [Armbian_5.84_Aml-s905_Debian_stretch_default_5.1.0-rc1_20190507](https://yadi.sk/d/pHxaRAs-tZiei/5.84/S9xxx/Armbian_5.84_Aml-s905_Debian_stretch_default_5.1.0-rc1_20190507.img.xz)
+1. Terinstall OS Debian 9. Tutorial memakai [Armbian_5.84_Aml-s905_Debian_stretch_default_5.1.0-rc1_20190507](https://yadi.sk/d/pHxaRAs-tZiei/5.84/S9xxx/Armbian_5.84_Aml-s905_Debian_stretch_default_5.1.0-rc1_20190507.img.xz)
 2. Terinstall Openmediavault
 3. Terinstall OMV 4.x (arrakis)
 
-## 1. Flash STB HG680P Armbian Linux (dual boot):
+### 1. Flash STB HG680P Armbian Linux (dual boot):
 
 {% include video id="X0Mwl7dAy9U" provider="youtube" %}
 
-## 2. Install Openmediavault STB HG680P Armbian Linux:
+Update:
+- [Armbian_5.87_Aml-s905_Debian_buster_default_5.1.0_20190529](https://yadi.sk/d/pHxaRAs-tZiei/5.87/s9xxx/Armbian_5.87_Aml-s905_Debian_buster_default_5.1.0_20190529.img.xz)
+- [Armbian_5.90_Aml-s905_Debian_buster_default_5.1.0_20190701](https://yadi.sk/d/pHxaRAs-tZiei/5.90/s9xxx/default/Armbian_5.90_Aml-s905_Debian_buster_default_5.1.0_20190701.img.xz)
+
+### 2. Install Openmediavault STB HG680P Armbian Linux:
 
 {% include video id="3r7kKW8TXi0" provider="youtube" %}
 
-## 3. Indtall Plugin OMC Extras
+### 3. Install Plugin OMV Extras
 
 ```terminal
 wget http://omv-extras.org/openmediavault-omvextrasorg_latest_all4.deb
 dpkg -i openmediavault-omvextrasorg_latest_all4.deb
 apt-get update
 ```
-Masalah dependensi paksa dengan `apt-get -f install`
+Jika kepentok masalah dependensi, paksa dengan `apt-get -f install`
 
-### Pre Setup
+## Pre Setup
 
 - Merubah port OMV
 - Setting Date & Time
