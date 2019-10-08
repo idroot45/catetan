@@ -118,7 +118,7 @@ This takes you the ‘MANUAL PARTITIONING’ window. To make your life easy, cli
 
 The mount points will be intelligently created by the installer as shown.
 
-[Summary of Partitions](https://www.tecmint.com/wp-content/uploads/2019/09/Summary-of-Partition.png){:.align-center title="Summary of Partitions"}
+![Summary of Partitions](https://www.tecmint.com/wp-content/uploads/2019/09/Summary-of-Partitions.png){:.align-center title="Summary of Partitions"}
 
 satisfied with the results, click on ‘Done’.
 
