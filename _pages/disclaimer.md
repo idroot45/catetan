@@ -6,7 +6,7 @@ title: "Disclaimer for Seluk Beluk (SeBel)"
 
 <h2>Disclaimers for Seluk Beluk (SeBel)</h2>
 
-<p>All the information on this website - https://www.catetan.pw - is published in good faith and for general information purpose only. Seluk Beluk does not make any warranties about the completeness, reliability and accuracy of this information. Any action you take upon the information you find on this website (Seluk Beluk), is strictly at your own risk. Seluk Beluk will not be liable for any losses and/or damages in connection with the use of our website. Our Disclaimer was generated with the help of the <a href="https://www.disclaimergenerator.net/">Disclaimer Generator</a> and the <a href="https://www.termsandcondiitionssample.com">Terms and Conditions Template</a>.</p>
+<p>All the information on this website - https://www.catetan.pw - is published in good faith and for general information purpose only. Seluk Beluk does not make any warranties about the completeness, reliability and accuracy of this information. Any action you take upon the information you find on this website (Seluk Beluk), is strictly at your own risk. Seluk Beluk will not be liable for any losses and/or damages in connection with the use of our website.</p>
 
 <p>From our website, you can visit other websites by following hyperlinks to such external sites. While we strive to provide only quality links to useful and ethical websites, we have no control over the content and nature of these sites. These links to other websites do not imply a recommendation for all the content found on these sites. Site owners and content may change without notice and may occur before we have the opportunity to remove a link which may have gone 'bad'.</p>
 
