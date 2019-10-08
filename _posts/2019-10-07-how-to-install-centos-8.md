@@ -82,7 +82,7 @@ To add a new keyboard layout, click the [+] button at the bottom left of the scr
 
 12. Here, you need not do much because the installation source points to the installation medium which is auto-detected. Click ‘Done’ to head back to the main menu.
 
-![Select Installation Media](https://www.tecmint.com/wp-content/uploads/2019/09/Select-Installation-Media.jpg){:title="Select Installation Media"}
+![Select Installation Media](https://www.tecmint.com/wp-content/uploads/2019/09/Select-Installation-Media.png){:title="Select Installation Media"}
 
 ### Step 8: Software Selection
 
@@ -106,116 +106,120 @@ When you are done with your selection, click on ‘Done’ to return to the main
 
 16. In this section, you will determine where to install CentOS 8 and configure the mount points. By default, the installer auto-detects your hard drives and selects the automatic partitioning option. If you are satisfied with the automatic partitioning, click on ‘Done’ to automatically create the mount points.
 
-Automatic Partitioning
+![Automatic Partitioning](https://www.tecmint.com/wp-content/uploads/2019/09/Automatic-Partitioning.png)
 Automatic Partitioning
 
 17. If you want to manually configure your own partitions, click on the ‘Custom’ option as shown.
 
-Select Manual Partitioning
+![Select Manual Partitioning](https://www.tecmint.com/wp-content/uploads/2019/09/Select-Manual-Partitioning.jpg)
 Select Manual Partitioning
 
 18. This takes you the ‘MANUAL PARTITIONING’ window. To make your life easy, click on the ‘Click here to create them automatically’ link.
 
-Create Partitions Automatically
+![Create Partitions Automatically](https://www.tecmint.com/wp-content/uploads/2019/09/Create-Partitions-Automatically.jpg)
 Create Partitions Automatically
 
 19. The mount points will be intelligently created by the installer as shown.
 
-Summary of Partitions
+[Summary of Partitions](https://www.tecmint.com/wp-content/uploads/2019/09/Summary-of-Partition.png)
 Summary of Partitions
 
 satisfied with the results, click on ‘Done’.
 
 20. A ‘summary of the changes’ will be displayed as shown below. If all seems good, click on ‘Accept Changes’. To cancel and go back, click on ‘Cancel & Return to Custom Partitioning’.
 
-Summary of Partition Changes
+![Summary of Partition Changes](https://www.tecmint.com/wp-content/uploads/2019/09/Summary-of-Partition-changes.png)
 Summary of Partition Changes
 
 ### Step 10: KDUMP Selection
 
 21. Next, click on ‘KDUMP‘ as shown.
 
-Select Kdump
+![Select Kdump](https://www.tecmint.com/wp-content/uploads/2019/09/Select-Kdump.jpg)
 Select Kdump
 
 22. Kdump is a utility that dumps system crash information for analysis in order to determine the cause of system failure. The default settings are good enough, so it is safe to simply click on the ‘Done’ button to return to the Home Menu.
 
-Enable Kdump Settings
+![Enable Kdump Settings](https://www.tecmint.com/wp-content/uploads/2019/09/Enable-Kdump-Settings.png)
 Enable Kdump Settings
 
 ### Step 11: Set Network and Hostname
+
 23. Back to the main menu, click on the ‘Network and Hostname’ settings option.
 
-Select Network and Hostname
+![Select Network and Hostname](https://www.tecmint.com/wp-content/uploads/2019/09/Select-Network-and-Hostname.jpg)
 Select Network and Hostname
 
 24. The NETWORK & HOSTNAME section displays the active network interfaces on your PC. In this case, the active interface is enp0s3.
 
 If you are in a network running DHCP, flip on the switch at the far right for your network interface to automatically acquire an IP address.
 
-Configure Network Interface
+![Configure Network Interface](https://www.tecmint.com/wp-content/uploads/2019/09/Configure-Network-Interface.jpg)
 Configure Network Interface
 
 25. If your network is not running a DHCP server, click on the ‘Configure’ button.
 
-Configure Network Settings
+[Configure Network Settings](https://www.tecmint.com/wp-content/uploads/2019/09/Configure-Network-Settings.jpg
 Configure Network Settings
 
 26. This shows you the section below. Click on IPv4 option and select Manual IP on the drop-down list. Next click on the ‘Add’ button and key in your preferred IP address, subnet mask, and Default gateway. Be sure to also provide the DNS server details. Finally, click on ‘Save’ to save the changes.
 
-Set Static IP on CentOS 8
+![Set Static IP on CentOS 8](https://www.tecmint.com/wp-content/uploads/2019/09/Set-Static-IP-on-CentOS-8.jpg)
 Set Static IP on CentOS 8
 
 27. To set the hostname, head out to the bottom left corner and define your own hostname.
 
-Set Hostname for CentOS 8
+![Set Hostname for CentOS 8](https://www.tecmint.com/wp-content/uploads/2019/09/Set-Hostnsme-for-CentOS-8.jpg)
 Set Hostname for CentOS 8
 
 ### Step 12: Begin the CentOS 8 Installation
 
 28. Having configured all the options, click on ‘Begin the installation’ to commence the installation process.
 
-Begin CentOS 8 Installation
+![Begin CentOS 8 Installation](https://www.tecmint.com/wp-content/uploads/2019/09/Begin-CentOS-8-Installation.jpg)
 Begin CentOS 8 Installation
 
 29. The next screen will prompt you to configure USER SETTINGS as shown.
 
-Configure User Settings
+![Configure User Settingshttps://www.tecmint.com/wp-content/uploads/2019/09/Configure-User-Settings.png)
 Configure User Settings
 
-Set Root User Password
+#### Set Root User Password
+
 30. Click on ‘Root Password’ to configure the root password. Remember to set a strong password and ensure the password strength check indicates ‘Strong’. Click on ‘Done’ to save the changes.
 
-Set Root Password
+![Set Root Password](https://www.tecmint.com/wp-content/uploads/2019/09/Set-Root-Password.jpg)
 Set Root Password
 
-Create New User Account
+#### Create New User Account
+
 31. Next, click on ‘User Creation’ to create a regular system user.
 
-Select User Creation
+![Select User Creation](https://www.tecmint.com/wp-content/uploads/2019/09/Select-User-Creation.jpg)
 Select User Creation
 
 32. Provide your preferred name and, again, provide a strong password for the regular system user. Click ‘Done’ to save the regular user.
 
-Create User Account
+![Create User Account](https://www.tecmint.com/wp-content/uploads/2019/09/Create-User-Account.jpg)
 Create User Account
 
 ### Step 13: CentOS 8 Installation Process
 
 33. The installer will proceed to install the selected CentOS 8 packages, dependencies, and the grub bootloader. This process takes a while depending on your internet speed and it may be a good time to grab your cup of coffee or favorite snack 😊.
 
-CentOS 8 Installation Progress
+![CentOS 8 Installation Progress](https://www.tecmint.com/wp-content/uploads/2019/09/Centos-8-Instalation-Progress.jpg)
 CentOS 8 Installation Progress
 
 34. Finally, if all went well, you will get the notification below that the installation was successful. Click on the ‘Reboot’ button to restart and boot into your new system.
 
-CentOS 8 Installation Complete
+![CentOS 8 Installation Complete](https://www.tecmint.com/wp-content/uploads/2019/09/Centos-8-Instslation-Complete.jpg)
 CentOS 8 Installation Complete
 
-Step 14: Boot and Accept License Agreement
+### Step 14: Boot and Accept License Agreement
+
 35. Upon rebooting, select the first option on the grub menu as shown.
 
-CentOS 8 Boot Menu
+CentOS 8 Boot Menu](https://www.tecmint.com/wp-content/uploads/2019/09/Centos-8-Boot-Menu.jpg)
 CentOS 8 Boot Menu
 
 36. You will be required to Accept the License information as shown.
