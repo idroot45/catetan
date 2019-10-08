@@ -4,7 +4,7 @@ excerpt: "Installing CentOS 8 is pretty much like installing the earlier version
 categories: [linux]
 tags: [centos 8, installing centos, tutorial centos, instalation guide]
 ---
-[CentOS 8 has finally been released!](https://www.catetan.pw/linux/centos-8-linux-released-download-dvd-iso/) The new version, which is a community version of RHEL 8, ships with new and exciting features which promise an enhanced user experience.
+[CentOS 8 has finally been released!](/linux/centos-8-linux-released-download-dvd-iso/) The new version, which is a community version of RHEL 8, ships with new and exciting features which promise an enhanced user experience.
 
 Installing CentOS 8 is pretty much like installing the earlier versions of CentOS 7.x with only slight variations in the UI of the installer.
 
@@ -12,7 +12,8 @@ Installing CentOS 8 is pretty much like installing the earlier versions of CentO
 
 Before you begin, perform a flight check and ensure you have the following:
 
-- [Download Centos 8 DVD ISO Images](/)- Create a bootable instance of **CentOS 8 USB drive** or DVD using **[Rufus tool](https://rufus.ie/)**.
+- [Download Centos 8 DVD ISO Images](/linux/centos-8-linux-released-download-dvd-iso/#download-centos-8-linux)
+- Create a bootable instance of **CentOS 8 USB drive** or DVD using **[Rufus tool](https://rufus.ie/)**.
 - A system with a minimum of **8GB Hard disk** space and 2 GB for optimal performance.
 - A good internet connection.
 
