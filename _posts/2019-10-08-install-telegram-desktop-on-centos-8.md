@@ -35,4 +35,4 @@ Start Telegram messenger from your desktop menu or by entering the following com
 $ telegram
 ```
 
-> [Install CentOS 8 Linux](https://www.catetan.pw/linux/how-to-install-centos-8/)
+> Compatible: [CentOS 8 Linux](https://www.catetan.pw/linux/how-to-install-centos-8/) and RHEL 8 Linux
