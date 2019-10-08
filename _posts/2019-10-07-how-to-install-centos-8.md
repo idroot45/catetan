@@ -164,11 +164,11 @@ To set the hostname, head out to the bottom left corner and define your own host
 
 Having configured all the options, click on ‘Begin the installation’ to commence the installation process.
 
-![Begin CentOS 8 Installation](https://www.tecmint.com/wp-content/uploads/2019/09/Begin-CentOS-8-Installation.jpg){:title="Begin CentOS 8 Installation
+![Begin CentOS 8 Installation](https://www.tecmint.com/wp-content/uploads/2019/09/Begin-CentOS-8-Installation.jpg){:title="Begin CentOS 8 Installation"}
 
 The next screen will prompt you to configure USER SETTINGS as shown.
 
-![Configure User Settingshttps://www.tecmint.com/wp-content/uploads/2019/09/Configure-User-Settings.png){:title="Configure User Settings"}
+![Configure User Settings](https://www.tecmint.com/wp-content/uploads/2019/09/Configure-User-Settings.png){:title="Configure User Settings"}
 
 #### Set Root User Password
 
