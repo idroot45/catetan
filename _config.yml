@@ -122,7 +122,7 @@ footer:
       url: "/terms/"
     - label: "Privacy"
       title: "Privacy Policy"
-      icon: "fas fa-fw fa-pie-chart"
+      icon: "fas fa-fw fa-user-secret"
       url: "/privacy/"
     - label: "Disclaimer"
       title: "Disclaimer of SeBel"
