@@ -3,11 +3,5 @@ main:
     url: https://knoacc.github.io/catetan/
   - title: "Tentang"
     url: /about/
-  - title: "Disclaimer"
-    url: /disclaimer/
-  - title: "Privacy"
-    url: /privacy/
-  - title: "DMCA"
-    url: /dmca/
   - title: "Liverpool FC"
     url: /liverpool
