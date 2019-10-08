@@ -4,7 +4,7 @@ excerpt: "Installing CentOS 8 is pretty much like installing the earlier version
 categories: [linux]
 tags: [centos 8, installing centos, tutorial centos, instalation guide]
 ---
-CentOS 8 has finally been released! The new version, which is a community version of RHEL 8, ships with new and exciting features which promise an enhanced user experience.
+[CentOS 8 has finally been released!](https://www.catetan.pw/linux/centos-8-linux-released-download-dvd-iso/) The new version, which is a community version of RHEL 8, ships with new and exciting features which promise an enhanced user experience.
 
 Installing CentOS 8 is pretty much like installing the earlier versions of CentOS 7.x with only slight variations in the UI of the installer.
 
@@ -12,8 +12,7 @@ Installing CentOS 8 is pretty much like installing the earlier versions of CentO
 
 Before you begin, perform a flight check and ensure you have the following:
 
-- [Download Centos 8 DVD ISO Images]()
-- Create a bootable instance of **CentOS 8 USB drive** or DVD using **[Rufus tool](https://rufus.ie/)**.
+- [Download Centos 8 DVD ISO Images](/)- Create a bootable instance of **CentOS 8 USB drive** or DVD using **[Rufus tool](https://rufus.ie/)**.
 - A system with a minimum of **8GB Hard disk** space and 2 GB for optimal performance.
 - A good internet connection.
 
@@ -25,71 +24,71 @@ Let’s dive in and see [how to install CentOS 8](/linux/how-to-install-centos-8
 
 The boot screen will be displayed as shown below. Select the first option ‘Install CentOS 8.0.1905’ and Hit ‘ENTER‘.
 
-![CentOS 8 Boot Menu](https://www.tecmint.com/wp-content/uploads/2019/09/CentOS-8-Boot-Menu.jpg CentOS 8 Boot Menu)
+![CentOS 8 Boot Menu](https://www.tecmint.com/wp-content/uploads/2019/09/CentOS-8-Boot-Menu.jpg){:title="CentOS 8 Boot Menu"}
 
 2. Boot messages will follow thereafter as shown.
 
-![Booting CentOS 8](https://www.tecmint.com/wp-content/uploads/2019/09/Booting-CentOS-8.png Booting CentOS 8)
+![Booting CentOS 8](https://www.tecmint.com/wp-content/uploads/2019/09/Booting-CentOS-8.png){:title="Booting CentOS 8"}
 
 ### Step 2: Select CentOs 8 Installation Language
 
 3. On the ‘Welcome Screen’, choose your preferred installation language and click ‘Continue’.
 
-![Select CentOS 8 Installation Language](https://www.tecmint.com/wp-content/uploads/2019/09/Select-CentOS-8-Installation-Language.png Select CentOS 8 Installation Language)
+![Select CentOS 8 Installation Language](https://www.tecmint.com/wp-content/uploads/2019/09/Select-CentOS-8-Installation-Language.png){:title="Select CentOS 8 Installation Language"}
 
 ### Step 3: Installation Summary of CentOS 8
 
 4. On the next screen, an installation summary will be displayed presenting all the options that need to be configured as shown. We will configure each of these options in turn.
 
-![CentOS 8 Installation Summary](https://www.tecmint.com/wp-content/uploads/2019/09/CentOS-8-Installation-Summary.png CentOS 8 Installation Summary)
+![CentOS 8 Installation Summary](https://www.tecmint.com/wp-content/uploads/2019/09/CentOS-8-Installation-Summary.png){:title="CentOS 8 Installation Summary"}
 
 ### Step 4: Configure Keyboard
 
 5. Click on the keyboard option as shown to configure the keyboard.
 
-![Select Keyboard Option](https://www.tecmint.com/wp-content/uploads/2019/09/Select-Keyboard-Option.jpg Select Keyboard Option)
+![Select Keyboard Option](https://www.tecmint.com/wp-content/uploads/2019/09/Select-Keyboard-Option.jpg){:title="Select Keyboard Option"}
 
 6. By default, the keyboard layout is in English (US). At the right Text field, you can type a few words to verify that all is well, and you can type without any glitches with the current layout.
 
 To add a new keyboard layout, click the [+] button at the bottom left of the screen. Next, click ‘Done’ to return to the main menu.
 
-![Add Keyboard Layout](https://www.tecmint.com/wp-content/uploads/2019/09/Add-Keyboard-Layout.jpg Add Keyboard Layout)
+![Add Keyboard Layout](https://www.tecmint.com/wp-content/uploads/2019/09/Add-Keyboard-Layout.jpg){:title="Add Keyboard Layout"}
 
 ### Step 5: Configure Language
 
 7. Click on the ‘Language Support‘ option.
 
-![Select Language Option](https://www.tecmint.com/wp-content/uploads/2019/09/Select-Keyboard-Option.jpg Select Language Option)
+![Select Language Option](https://www.tecmint.com/wp-content/uploads/2019/09/Select-Keyboard-Option.jpg){:title="Select Language Option"}
 
 8. Select your preferred language and click ‘Done‘ on the top left corner of the window to go back to the main menu.
 
-![Configure Language Support](https://www.tecmint.com/wp-content/uploads/2019/09/Configure-Language.png Configure Language Support)
+![Configure Language Support](https://www.tecmint.com/wp-content/uploads/2019/09/Configure-Language.png){:title="Configure Language Support"}
 
 ### Step 6: Configure Time and Date
 
 9. Next, click on the ‘Time and Date‘ option.
 
-![Select Time and Date](https://www.tecmint.com/wp-content/uploads/2019/09/Select-Time-and-Date.jpg Select Time and Date)
+![Select Time and Date](https://www.tecmint.com/wp-content/uploads/2019/09/Select-Time-and-Date.jpg){:title="Select Time and Date}
 
 10. Click on the map as shown to configure the time and date settings based on your location on earth. Also, note the Region and City will automatically be set depending on where you click on the map.
 
-![Configure Timezone](https://www.tecmint.com/wp-content/uploads/2019/09/Configure-Timezone.jpg Configure Timezone)
+![Configure Timezone](https://www.tecmint.com/wp-content/uploads/2019/09/Configure-Timezone.jpg){:title="Configure Timezone"}
 
 ### Step 7: Configure Installation Source
 
 11. Back to the main menu click on the ‘Installation Source’ option.
 
-![Select Installation Source](https://www.tecmint.com/wp-content/uploads/2019/09/Select-Installation-source.jpg Select Installation Source)
+![Select Installation Source](https://www.tecmint.com/wp-content/uploads/2019/09/Select-Installation-source.jpg){:title="Select Installation Source"}
 
 12. Here, you need not do much because the installation source points to the installation medium which is auto-detected. Click ‘Done’ to head back to the main menu.
 
-![Select Installation Media](https://www.tecmint.com/wp-content/uploads/2019/09/Select-Installation-Media.jpg Select Installation Media)
+![Select Installation Media](https://www.tecmint.com/wp-content/uploads/2019/09/Select-Installation-Media.jpg){:title="Select Installation Media"}
 
 ### Step 8: Software Selection
 
 13. Next, click on ‘Software Selection’.
 
-![Choose Software Selection](https://www.tecmint.com/wp-content/uploads/2019/09/Choose-Software-Selection.jpg Choose Software Selection)
+![Choose Software Selection](https://www.tecmint.com/wp-content/uploads/2019/09/Choose-Software-Selection.jpg){:title="Choose Software Selection"}
 
 14. In the next Window, you will be presented with 6 options from which you can select your Base environment and a vast array of Software add-ons which are shipped with respective base environments.
 
@@ -97,13 +96,13 @@ In this guide, we have chosen to go with ‘Server with GUI’ base environment 
 
 When you are done with your selection, click on ‘Done’ to return to the main menu.
 
-![Select Server with GUI](https://www.tecmint.com/wp-content/uploads/2019/09/Select-Server-with-GUI.png Select Server with GUI)
+![Select Server with GUI](https://www.tecmint.com/wp-content/uploads/2019/09/Select-Server-with-GUI.png){:title="Select Server with GUI"}
 
 ### Step 9: Installation Destination
 
 15. On the main menu, click on the next option which is ‘Installation Destination’.
 
-![Select Installation Destination](https://www.tecmint.com/wp-content/uploads/2019/09/Select-Installation-Destination.jpg Installation Destination)
+![Select Installation Destination](https://www.tecmint.com/wp-content/uploads/2019/09/Select-Installation-Destination.jpg){:title="Installation Destination"}
 
 16. In this section, you will determine where to install CentOS 8 and configure the mount points. By default, the installer auto-detects your hard drives and selects the automatic partitioning option. If you are satisfied with the automatic partitioning, click on ‘Done’ to automatically create the mount points.
 
