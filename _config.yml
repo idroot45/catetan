@@ -125,6 +125,7 @@ footer:
       icon: "fab fa-fw fa-pie-chart"
       url: "/privacy/"
     - label: "Disclaimer"
+      title: "Disclaimer of SeBel"
       icon: "fab fa-fw fa-copyright"
       url: /disclaimer/
 
