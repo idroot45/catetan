@@ -41,17 +41,17 @@ The Catalina installer app will be in your Applications folder, so you can go th
 
 I used a free app called [Install Disk Creator](https://macdaddy.io/install-disk-creator/) to make the installation drive. Download Install Disk Creator by clicking on the link. When the download is done, you can move it over to your Applications folder. Then follow these steps to create your bootable macOS Catalina drive.
 
-1. Connect your drive to your Mac.
+_Step 1:_ Connect your drive to your Mac.
 
-2. Launch Install Disk Creator.
+_Step 2:_ Launch Install Disk Creator.
 
-3. In the main window, you’ll see a pop-up menu under Select the volume to become the installer. Click on the menu and select your drive.
+_Step 3:_ In the main window, you’ll see a pop-up menu under Select the volume to become the installer. Click on the menu and select your drive.
 
 {% include figure image_path="https://images.idgesg.net/images/article/2019/10/install-disk-creator-catalina-100812641-medium.jpg" url="https://images.idgesg.net/images/article/2019/10/install-disk-creator-catalina-100812641-orig.jpg" caption="The main window of Install Disk Creator." alt="disk creator" %}
 
-4. Under the pop-up menu, you’ll see Select the OS X installer. (macOS used to be called OS X.) If you have only the Catalina installer on your Mac, Install Disk Creator will automatically select it. If you have other macOS installers, you need to click on Select the OS X installer and select the Catalina installer.
+_Step 4:_ Under the pop-up menu, you’ll see Select the OS X installer. (macOS used to be called OS X.) If you have only the Catalina installer on your Mac, Install Disk Creator will automatically select it. If you have other macOS installers, you need to click on Select the OS X installer and select the Catalina installer.
 
-5. When you’re ready, click Create installer. Your Mac may tell you that Install Disk Creator wants to make changes, and you need to enter your user name and password. After you do this, the app will take a few minutes to create the boot drive. A progress bar. appears at the bottom of the Install Disk Create window.
+_Step 5:_ When you’re ready, click Create installer. Your Mac may tell you that Install Disk Creator wants to make changes, and you need to enter your user name and password. After you do this, the app will take a few minutes to create the boot drive. A progress bar. appears at the bottom of the Install Disk Create window.
 
 If you try to start the process and you get a failure message saying that the drive couldn’t be unmounted, try reformatting the drive first as ExFAT using Disk Utility. Then start the process over again.
 
@@ -63,45 +63,46 @@ When the app is done, the installer is ready to use.
 
 You don’t need to use Install Disk Creator to create a bootable installer. You can do it in the Terminal and it’s easy. Here are the instructions.
 
-1. Connect the external drive to your Mac. In these instructions, I use Untitled as the name of the external drive. If your drive is named something else, you need to change Untitled to the name of your drive.
+_Step 1:_ Connect the external drive to your Mac. In these instructions, I use Untitled as the name of the external drive. If your drive is named something else, you need to change Untitled to the name of your drive.
 
-2. Launch Terminal (/Applications/Utilities/Terminal.app).
+_Step 2:_ Launch Terminal (/Applications/Utilities/Terminal.app).
 
 {% include figure image_path="https://images.idgesg.net/images/article/2019/10/macos-catalina-external-terminal-01-100812642-large.jpg" caption="The Terminal." alt="terminal 1" %}
 
 Don’t worry if your screen doesn’t look like this. I changed it in the Terminal settings, and you can too. In Terminal, select Terminal > Preferences > Profiles, click on the one you like, and then click on the Default button.
 
-3. Select and copy the following:
+_Step 3:_ Select and copy the following:
+
 ```terminal
 sudo /Applications/Install\ macOS\ Catalina.app/Contents/Resources/createinstallmedia --volume /Volumes/Untitled -- /Applications/Install\ macOS\ Catalina.app
 ```
 
-4. Go back to Terminal and paste the copied code at the prompt. Press Return.
+_Step 4:_ Go back to Terminal and paste the copied code at the prompt. Press Return.
 
 ![terminal 2](https://images.idgesg.net/images/article/2019/10/macos-catalina-external-terminal-02-100812643-large.jpg)
 
 Paste the code you copied into the Terminal then press Return. You’ll be asked about erasing the disk.
 
-5. Terminal will warn you that your external drive needs to be erased. To proceed, type Y at the prompt and press Return.
+_Step 5:$ Terminal will warn you that your external drive needs to be erased. To proceed, type Y at the prompt and press Return.
 
-6. You’ll see that Terminal erases your drive and then copies the installer file to your drive. This will take a few minutes.
+_Step 6:_ You’ll see that Terminal erases your drive and then copies the installer file to your drive. This will take a few minutes.
 
 ![terminal 3](https://images.idgesg.net/images/article/2019/10/macos-catalina-external-terminal-03-100812644-large.jpg)
 
-7. After copying, Terminal is done. You should see Terminal display a “Copy complete” and Done notice. You can quit Terminal and your drive is ready for use.
+_Step 7:_ After copying, Terminal is done. You should see Terminal display a “Copy complete” and Done notice. You can quit Terminal and your drive is ready for use.
 
 ![terminal 4](https://images.idgesg.net/images/article/2019/10/macos-catalina-external-terminal-04-100812645-large.jpg)
 
 ### How to boot from the installer drive
 
-1. Plug your external drive into your Mac.
+_Step 1:_ Plug your external drive into your Mac.
 
-2. Power up (or restart) your Mac. Press down on the Option key while the Mac boots.
+_Step 2:_ Power up (or restart) your Mac. Press down on the Option key while the Mac boots.
 
-3. After a few moments, your Mac should display the Startup Manager, which will show you the available boot drives. Click on the external drive and press Return. (You don’t need to select a network to proceed.)
+_Step 3:_ After a few moments, your Mac should display the Startup Manager, which will show you the available boot drives. Click on the external drive and press Return. (You don’t need to select a network to proceed.)
 
 ![macos catalina select startup](https://images.idgesg.net/images/article/2019/10/macos-catalina-select-startup-100812649-large.jpg)
 
-4. Your Mac will display a macOS Utilites window. If you want to install Catalina and leave the data intact, select Install macOS. If you want to start over and wipe out the data, you need to go into Disk Utility to reformat the internal drive first, and then install macOS Catalina.
+_Step 4:_ Your Mac will display a macOS Utilites window. If you want to install Catalina and leave the data intact, select Install macOS. If you want to start over and wipe out the data, you need to go into Disk Utility to reformat the internal drive first, and then install macOS Catalina.
 
 ![macos catalina recovery options](https://images.idgesg.net/images/article/2019/10/macos-catalina-receovery-options-100812651-large.jpg)
