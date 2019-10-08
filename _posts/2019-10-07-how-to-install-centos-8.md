@@ -2,8 +2,8 @@
 title: "How to Install New ‘CentOS 8.0’ with Step-by-step Screenshots"
 excerpt: "Installing CentOS 8 is pretty much like installing the earlier versions of CentOS 7.x with only slight variations in the UI of the installer"
 header:
- image: https://www.tecmint.com/wp-content/uploads/2019/09/CentOS-8-Boot-Menu.png
- teaser: https://www.tecmint.com/wp-content/uploads/2019/09/CentOS-8-Boot-Menu-768x446.png
+ image: "https://www.tecmint.com/wp-content/uploads/2019/09/CentOS-8-Boot-Menu.png
+ teaser: "https://i0.wp.com/www.tecmint.com/wp-content/uploads/2019/09/CentOS-8-Boot-Menu.png?w=460"
  caption: "Installing CentOS 8"
 categories: [linux]
 tags: [centos 8, installing centos, tutorial centos, instalation guide]
