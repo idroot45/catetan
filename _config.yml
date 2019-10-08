@@ -116,12 +116,15 @@ author:
 
 footer:
   links:
-    - label: "Web"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://www.paciran.com/author/mukidi"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/lautansyair"
+    - label: "Terms and Condition"
+      icon: "fab fa-fw fa-copyright"
+      url: "/terms/"
+    - label: "Privacy Policy"
+      icon: "fab fa-fw fa-pie-chart"
+      url: "/privacy/"
+    - label: "Disclaimer"
+      icon: "fab fa-fw fa-power-off"
+    - url: /disclaimer/
 
 sass:
   style: compressed
