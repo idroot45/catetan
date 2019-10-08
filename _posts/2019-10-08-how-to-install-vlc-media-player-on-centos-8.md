@@ -11,7 +11,7 @@ How to install VLC Media Player on [CentOS 8](/linux/centos-8-linux-released-dow
 
 `#` -requires given linux commands to be executed with root privileges either directly as a root user or by use of `sudo` command
 `$` - requires given linux commands to be executed as a regular non-privileged user
-{:.notice}
+{:.notice .notice--info}
 
 ### Step 1: Prepare repository
 
