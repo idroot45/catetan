@@ -1,6 +1,9 @@
 ---
 title: "Jadikan STB HG680P sebagai Server Hotspot Mikhmon untuk Usaha RT/RW net"
 excerpt: "Install Nginx, MySQL, phpMyAdmin, dan Mikhmon dengan Openmediavault pada STB HG680P yang sudah terpasang OS Debian (Armbian Linux)"
+header:
+ image: "https://1.bp.blogspot.com/-TWS-kcHiUgM/XS2zWn9KITI/AAAAAAAAEpU/DsXVWIyyApQKCYxeLcvUuL1-pKWHW_8uQCLcBGAs/s0/armbian-linux-ubuntu-bionic-dekstop.jpg"
+ caption: "Armbian Linux"
 categories: [android]
 tags: [STB HG680P, armbian, 
 open media vault, unlock stb indihome, firmware stb indihome]
@@ -18,9 +21,10 @@ Pastikan STB HG680P :
 
 {% include video id="X0Mwl7dAy9U" provider="youtube" %}
 
-Update:
+**Update:**
 - [Armbian_5.87_Aml-s905_Debian_buster_default_5.1.0_20190529](https://yadi.sk/d/pHxaRAs-tZiei/5.87/s9xxx/Armbian_5.87_Aml-s905_Debian_buster_default_5.1.0_20190529.img.xz)
 - [Armbian_5.90_Aml-s905_Debian_buster_default_5.1.0_20190701](https://yadi.sk/d/pHxaRAs-tZiei/5.90/s9xxx/default/Armbian_5.90_Aml-s905_Debian_buster_default_5.1.0_20190701.img.xz)
+{:.notice .notice--info}
 
 ### 2. Install Openmediavault STB HG680P Armbian Linux:
 
