@@ -31,7 +31,7 @@ The macOS Catalina installer is available in the App Store. If you launch the Ap
 
 You can read the information to learn more about Catalina. When you’re ready to download the software, click the Download button under the icon on the upper left. (If you’ve already downloaded the installer, the button will say Install instead of Get.)
 
-{% include image_path="https://images.idgesg.net/images/article/2019/10/macos-catalina-app-store-100813257-large.jpg" caption="Catalina App Store" alt="macos catalina" %}
+{% include figure image_path="https://images.idgesg.net/images/article/2019/10/macos-catalina-app-store-100813257-large.jpg" caption="Catalina App Store" alt="macos catalina" %}
 
 Once the download is complete, the installer will launch automatically. But don’t continue with the installation. Instead, press Command-Q on your keyboard to quit the installer.
 
