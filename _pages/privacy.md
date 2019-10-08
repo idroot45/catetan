@@ -5,8 +5,9 @@ redirect_from:
  - /gdpr/
 ---
 Effective date: October 08, 2019
-Seluk Beluk (SeBel) ("us", "we", or "our") operates the https://www.catetan.pw website (hereinafter referred to as the "Service").
 {:.notice}
+
+Seluk Beluk (SeBel) ("us", "we", or "our") operates the https://www.catetan.pw website (hereinafter referred to as the "Service").
 
 This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data.
 
@@ -28,6 +29,7 @@ We collect several different types of information for various purposes to provid
 #### Personal Data
 
 While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you ("Personal Data"). Personally identifiable information may include, but is not limited to:
+
 - Cookies and Usage Data
 
 #### Usage Data
@@ -72,7 +74,7 @@ Seluk Beluk (SeBel) will take all steps reasonably necessary to ensure that your
 
 ### Legal Requirements
 
-**Seluk Beluk* (_SeBel_) may disclose your Personal Data in the good faith belief that such action is necessary to:
+**Seluk Beluk** (_SeBel_) may disclose your Personal Data in the good faith belief that such action is necessary to:
  - To comply with a legal obligation
  - To protect and defend the rights or property of Seluk Beluk (SeBel)
  - To prevent or investigate possible wrongdoing in connection with the Service
