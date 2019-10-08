@@ -1,5 +1,6 @@
 main:
   - title: "Home"
+    icon: "fa fa-home"
     url: https://knoacc.github.io/catetan/
   - title: "Tentang"
     url: /about/
