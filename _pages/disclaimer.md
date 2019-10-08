@@ -1,4 +1,5 @@
 ---
+permalink: /disclaimer/
 title: "Disclaimer for Seluk Beluk (SeBel)"
 ---
 <p>If you require any more information or have any questions about our site's disclaimer, please feel free to contact us by email at knoacc@gmail.com</p>
