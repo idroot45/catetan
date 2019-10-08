@@ -4,9 +4,11 @@ excerpt: "Install Nginx, MySQL, phpMyAdmin, dan Mikhmon dengan Openmediavault pa
 header:
  image: "https://1.bp.blogspot.com/-TWS-kcHiUgM/XS2zWn9KITI/AAAAAAAAEpU/DsXVWIyyApQKCYxeLcvUuL1-pKWHW_8uQCLcBGAs/s0/armbian-linux-ubuntu-bionic-dekstop.jpg"
  caption: "Armbian Linux"
-categories: [android]
+categories: [mikrotik]
 tags: [STB HG680P, armbian, 
 open media vault, unlock stb indihome, firmware stb indihome]
+redirect_from:
+ - /android/manfaatkan-stb-indihome-sebagagai-server-hotspot/
 ---
 Bahan dan video tutorial install Nginx, MySQL, phpMyAdmin, dan Mikhmon dengan memakai Open Media Vault (OMV) pada STB HG680P yang sudah terpasang OS Debian (Armbian Linux)
 
