@@ -118,15 +118,15 @@ footer:
   links:
     - label: "Terms"
       title: "Terms and Condition"
-      icon: "fab fa-fw fa-power-off"
+      icon: "fab fa-fw fa-tags"
       url: "/terms/"
     - label: "Privacy"
       title: "Privacy Policy"
-      icon: "fab fa-fw fa-pie-chart"
+      icon: "fab fa-fw fa-tags"
       url: "/privacy/"
     - label: "Disclaimer"
       title: "Disclaimer of SeBel"
-      icon: "fab fa-fw fa-copyright"
+      icon: "fab fa-fw fa-tags"
       url: /disclaimer/
 
 sass:
