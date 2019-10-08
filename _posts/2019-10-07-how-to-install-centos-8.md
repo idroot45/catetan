@@ -194,33 +194,33 @@ The installer will proceed to install the selected CentOS 8 packages, dependenci
 
 Finally, if all went well, you will get the notification below that the installation was successful. Click on the ‘Reboot’ button to restart and boot into your new system.
 
-![CentOS 8 Installation Complete](https://www.tecmint.com/wp-content/uploads/2019/09/Centos-8-Instslation-Complete.png){:title="CentOS 8 Installation Complete"}
+![CentOS 8 Installation Complete](https://www.tecmint.com/wp-content/uploads/2019/09/CentOS-8-Installation-Complete.png){:title="CentOS 8 Installation Complete"}
 
 ### Step 14: Boot and Accept License Agreement
 
-35. Upon rebooting, select the first option on the grub menu as shown.
+Upon rebooting, select the first option on the grub menu as shown.
 
-![CentOS 8 Boot Menu](https://www.tecmint.com/wp-content/uploads/2019/09/Centos-8-Boot-Menu.jpg){:title="CentOS 8 Boot Menu"}
+![CentOS 8 Boot Menu](https://www.tecmint.com/wp-content/uploads/2019/09/CentOS-8-Boot-Menu.png){:title="CentOS 8 Boot Menu"}
 
-36. You will be required to Accept the License information as shown.
+You will be required to Accept the License information as shown.
 
-![Initial Setup License](https://www.tecmint.com/wp-content/uploads/2019/09/Initial-Setup-License.jpg){:title="Initial Setup License"}
+![Initial Setup License](https://www.tecmint.com/wp-content/uploads/2019/09/Initial-Setup-License.png){:title="Initial Setup License"}
 
-37. Click on the ‘License Information’ option and check the ‘I Accept the license agreement’ checkbox.
+Click on the ‘License Information’ option and check the ‘I Accept the license agreement’ checkbox.
 
 ![Accept License Agreement](https://www.tecmint.com/wp-content/uploads/2019/09/Accept-License-Agreement.jpg){:title="Accept License Agreement"}
 
-38. Finally, click on ‘FINISH CONFIGURATION‘ to wind up the installation process and log in to your new CentOS 8 system.
+Finally, click on ‘FINISH CONFIGURATION‘ to wind up the installation process and log in to your new CentOS 8 system.
 
-![Finish CentOS 8 Installation](https://www.tecmint.com/wp-content/uploads/2019/09/Finish-Centos-8-Installation.png){:title="Finish CentOS 8 Installation"}
+![Finish CentOS 8 Installation](https://www.tecmint.com/wp-content/uploads/2019/09/Finish-CentOS-8-Installation.jpg){:title="Finish CentOS 8 Installation"}
 
 39. Once logged in, follow the post installation step and on the final section click on Start using CentOS Linux option.
 
-![Start Using CentOS 8](https://www.tecmint.com/wp-content/uploads/2019/09/Start-Using-Centos-8.png){:title="Start Using CentOS 8"}
+![Start Using CentOS 8](https://www.tecmint.com/wp-content/uploads/2019/09/Start-Using-CentOS-8.png){:title="Start Using CentOS 8"}
 
-40. CentOS 8 comes with a beautiful new GNOME desktop as shown.
+CentOS 8 comes with a beautiful new GNOME desktop as shown.
 
-![CentOS 8 Gnome Desktop](https://www.tecmint.com/wp-content/uploads/2019/09/Centos-8-Gnome-Desktop.png){:title="CentOS 8 Gnome Desktop"}
+![CentOS 8 Gnome Desktop](https://www.tecmint.com/wp-content/uploads/2019/09/CentOS-8-Gnome-Desktop.png){:title="CentOS 8 Gnome Desktop"}
 
 Congratulation! You have now successfully installed the last version of CentOS 8 on your bare new machine.
 
