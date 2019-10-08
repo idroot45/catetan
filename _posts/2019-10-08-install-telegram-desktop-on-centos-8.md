@@ -2,7 +2,8 @@
 title: How to Install Telegram Desktop on Centos 8 Linux
 except: "How to install Telegram messenger from terminal on CentOS 8 Linux step by step instructions"
 header:
- image: "https://linuxconfig.org/images/01-how-to-install-telegram-messenger-on-centos-8-linux.png"
+ image: "https://149366088.v2.pressablecdn.com/wp-content/uploads/2017/05/telegram-calls-desktop.jpg"
+ teaser: "https://i0.wp.com/linuxconfig.org/images/01-how-to-install-telegram-messenger-on-centos-8-linux.png?w=460"
  caption: "Telegram Messenger on CentOS 8"
 categories: [linux]
 tags: [centos 8, telegram messenger, telegram desktop, install telegram]
