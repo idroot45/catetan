@@ -116,15 +116,17 @@ author:
 
 footer:
   links:
-    - label: "Terms and Condition"
-      icon: "fab fa-fw fa-copyright"
+    - label: "Terms"
+      title: "Terms and Condition"
+      icon: "fab fa-fw fa-power-off"
       url: "/terms/"
-    - label: "Privacy Policy"
+    - label: "Privacy"
+      title: "Privacy Policy"
       icon: "fab fa-fw fa-pie-chart"
       url: "/privacy/"
     - label: "Disclaimer"
-      icon: "fab fa-fw fa-power-off"
-    - url: /disclaimer/
+      icon: "fab fa-fw fa-copyright"
+      url: /disclaimer/
 
 sass:
   style: compressed
