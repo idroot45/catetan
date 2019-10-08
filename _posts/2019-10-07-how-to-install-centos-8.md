@@ -190,7 +190,7 @@ Provide your preferred name and, again, provide a strong password for the regula
 
 The installer will proceed to install the selected CentOS 8 packages, dependencies, and the grub bootloader. This process takes a while depending on your internet speed and it may be a good time to grab your cup of coffee or favorite snack 😊.
 
-![CentOS 8 Installation Progress](https://www.tecmint.com/wp-content/uploads/2019/09/Centos-8-Instalation-Progress.png){:title="CentOS 8 Installation Progress"}
+![CentOS 8 Installation Progress](https://www.tecmint.com/wp-content/uploads/2019/09/CentOs-8-Installation-Progress.png){:title="CentOS 8 Installation Progress"}
 
 Finally, if all went well, you will get the notification below that the installation was successful. Click on the ‘Reboot’ button to restart and boot into your new system.
 
