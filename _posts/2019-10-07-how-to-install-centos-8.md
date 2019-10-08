@@ -68,7 +68,7 @@ Select your preferred language and click ‘Done‘ on the top left corner of th
 
 Next, click on the ‘Time and Date‘ option.
 
-![Select Time and Date](https://www.tecmint.com/wp-content/uploads/2019/09/Select-Time-and-Date.jpg){:title="Select Time and Date}
+![Select Time and Date](https://www.tecmint.com/wp-content/uploads/2019/09/Select-Time-and-Date.jpg){:title="Select Time and Date"}
 
 Click on the map as shown to configure the time and date settings based on your location on earth. Also, note the Region and City will automatically be set depending on where you click on the map.
 
