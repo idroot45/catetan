@@ -150,8 +150,7 @@ If you are in a network running DHCP, flip on the switch at the far right for yo
 
 If your network is not running a DHCP server, click on the ‘Configure’ button.
 
-[Configure Network Settings](https://www.tecmint.com/wp-content/uploads/2019/09/Configure-Network-Settings.jpg
-Configure Network Settings
+![Configure Network Settings](https://www.tecmint.com/wp-content/uploads/2019/09/Configure-Network-Settings.jpg){:title="Configure Network Settings"}
 
 This shows you the section below. Click on IPv4 option and select Manual IP on the drop-down list. Next click on the ‘Add’ button and key in your preferred IP address, subnet mask, and Default gateway. Be sure to also provide the DNS server details. Finally, click on ‘Save’ to save the changes.
 
@@ -159,7 +158,7 @@ This shows you the section below. Click on IPv4 option and select Manual IP on t
 
 To set the hostname, head out to the bottom left corner and define your own hostname.
 
-![Set Hostname for CentOS 8](https://www.tecmint.com/wp-content/uploads/2019/09/Set-Hostnsme-for-CentOS-8.jpg){:title="Set Hostname for CentOS 8"}
+![Set Hostname for CentOS 8](https://www.tecmint.com/wp-content/uploads/2019/09/Set-Hostname-for-CentOS-8.jpg){:title="Set Hostname for CentOS 8"}
 
 ### Step 12: Begin the CentOS 8 Installation
 
@@ -175,37 +174,37 @@ The next screen will prompt you to configure USER SETTINGS as shown.
 
 Click on ‘Root Password’ to configure the root password. Remember to set a strong password and ensure the password strength check indicates ‘Strong’. Click on ‘Done’ to save the changes.
 
-![Set Root Password](https://www.tecmint.com/wp-content/uploads/2019/09/Set-Root-Password.jpg){:title="Set Root Password"}
+![Set Root Password](https://www.tecmint.com/wp-content/uploads/2019/09/Set-Root-Password.png){:title="Set Root Password"}
 
 #### Create New User Account
 
 Next, click on ‘User Creation’ to create a regular system user.
 
-![Select User Creation](https://www.tecmint.com/wp-content/uploads/2019/09/Select-User-Creation.jpg){:title="Select User Creation"}
+![Select User Creation](https://www.tecmint.com/wp-content/uploads/2019/09/Select-User-Creation.png){:title="Select User Creation"}
 
 Provide your preferred name and, again, provide a strong password for the regular system user. Click ‘Done’ to save the regular user.
 
-![Create User Account](https://www.tecmint.com/wp-content/uploads/2019/09/Create-User-Account.jpg){:title="Create User Account"}
+![Create User Account](https://www.tecmint.com/wp-content/uploads/2019/09/Create-User-Account.png){:title="Create User Account"}
 
 ### Step 13: CentOS 8 Installation Process
 
 The installer will proceed to install the selected CentOS 8 packages, dependencies, and the grub bootloader. This process takes a while depending on your internet speed and it may be a good time to grab your cup of coffee or favorite snack 😊.
 
-![CentOS 8 Installation Progress](https://www.tecmint.com/wp-content/uploads/2019/09/Centos-8-Instalation-Progress.jpg){:title="CentOS 8 Installation Progress"}
+![CentOS 8 Installation Progress](https://www.tecmint.com/wp-content/uploads/2019/09/Centos-8-Instalation-Progress.png){:title="CentOS 8 Installation Progress"}
 
 Finally, if all went well, you will get the notification below that the installation was successful. Click on the ‘Reboot’ button to restart and boot into your new system.
 
-![CentOS 8 Installation Complete](https://www.tecmint.com/wp-content/uploads/2019/09/Centos-8-Instslation-Complete.jpg){:title="CentOS 8 Installation Complete"}
+![CentOS 8 Installation Complete](https://www.tecmint.com/wp-content/uploads/2019/09/Centos-8-Instslation-Complete.png){:title="CentOS 8 Installation Complete"}
 
 ### Step 14: Boot and Accept License Agreement
 
 35. Upon rebooting, select the first option on the grub menu as shown.
 
-CentOS 8 Boot Menu](https://www.tecmint.com/wp-content/uploads/2019/09/Centos-8-Boot-Menu.jpg){:title="CentOS 8 Boot Menu"}
+![CentOS 8 Boot Menu](https://www.tecmint.com/wp-content/uploads/2019/09/Centos-8-Boot-Menu.jpg){:title="CentOS 8 Boot Menu"}
 
 36. You will be required to Accept the License information as shown.
 
-![Initial Setup License](https://www.tecmint.com/wp-content/uploads/2019/09/Initial-Setuo-License.jpg){:title="Initial Setup License"}
+![Initial Setup License](https://www.tecmint.com/wp-content/uploads/2019/09/Initial-Setup-License.jpg){:title="Initial Setup License"}
 
 37. Click on the ‘License Information’ option and check the ‘I Accept the license agreement’ checkbox.
 
@@ -213,15 +212,15 @@ CentOS 8 Boot Menu](https://www.tecmint.com/wp-content/uploads/2019/09/Centos-8-
 
 38. Finally, click on ‘FINISH CONFIGURATION‘ to wind up the installation process and log in to your new CentOS 8 system.
 
-![Finish CentOS 8 Installation](https://www.tecmint.com/wp-content/uploads/2019/09/Finish-Centos-8-Installation.jpg){:title="Finish CentOS 8 Installation"}
+![Finish CentOS 8 Installation](https://www.tecmint.com/wp-content/uploads/2019/09/Finish-Centos-8-Installation.png){:title="Finish CentOS 8 Installation"}
 
 39. Once logged in, follow the post installation step and on the final section click on Start using CentOS Linux option.
 
-![Start Using CentOS 8](https://www.tecmint.com/wp-content/uploads/2019/09/Start-Using-Centos-8.jpg){:title="Start Using CentOS 8"}
+![Start Using CentOS 8](https://www.tecmint.com/wp-content/uploads/2019/09/Start-Using-Centos-8.png){:title="Start Using CentOS 8"}
 
 40. CentOS 8 comes with a beautiful new GNOME desktop as shown.
 
-![CentOS 8 Gnome Desktop](https://www.tecmint.com/wp-content/uploads/2019/09/Centos-8-Gnome-Desktop.jpg){:title="CentOS 8 Gnome Desktop"}
+![CentOS 8 Gnome Desktop](https://www.tecmint.com/wp-content/uploads/2019/09/Centos-8-Gnome-Desktop.png){:title="CentOS 8 Gnome Desktop"}
 
 Congratulation! You have now successfully installed the last version of CentOS 8 on your bare new machine.
 
