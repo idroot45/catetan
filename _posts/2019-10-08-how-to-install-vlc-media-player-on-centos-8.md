@@ -2,7 +2,8 @@
 title: "How to Install VLC Player on CentOS 8 Linux"
 excerpt: "How to install VLC Media Player on CentOS 8 from terminal step by step"
 header:
- image: https://linuxconfig.org/images/01-how-to-install-vlc-player-messenger-on-centos-8-rhel-8-linux.png
+ teaser: "https://i0.wp.com/linuxconfig.org/images/01-how-to-install-vlc-player-messenger-on-centos-8-rhel-8-linux.png?w=460"
+ image: "https://fossbytes.com/wp-content/uploads/2019/02/vlc-4.0-new-features.png"
  caption: "VLC on CentOS 8"
 categories: [linux]
 tags: [centos 8, vlc media player, install vlc]
