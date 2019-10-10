@@ -8,7 +8,9 @@ sitemap: false
 
 ## Watch All in a play lists
 
-**warch in a playlist on fembed.com**{:.btn .btn--success btn--lg onclick="window.location.href='http://go.knoacc.org/7U'"}
+Watch one by one in this page or watch all in one go available in a single playlists below:
+
+**playlist on fembed.com**{:.btn .btn--success btn--lg onclick="window.location.href='http://go.knoacc.org/7U'"}
 
 ### Bleach Movie 1: Memories of Nobody
 
