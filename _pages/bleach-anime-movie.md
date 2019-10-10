@@ -6,6 +6,10 @@ toc: true
 sitemap: false
 ---
 
+## Watch All in a play lists
+
+**warch in a playlist on fembed.com**{:.btn .btn--success btn--lg onclick="window.location.href='http://go.knoacc.org/7U'"}
+
 ### Bleach Movie 1: Memories of Nobody [BD] [sub indo] [720p] [mp4]
 
 {% include video id="3z42raml68q22x2" provider="fembed" %}
@@ -22,6 +26,3 @@ sitemap: false
 
 {% include video id="m8l46t5n4l30751" provider="fembed" %}
 
-### Watch All in play lists
-
-**playlist on fembed.com**{:.btn .btn--success btn--lg onclick="window.location.href='http://go.knoacc.org/7U'"}
