@@ -8,7 +8,7 @@ sitemap: false
 
 ## Watch All in a play lists
 
-Watch one by one in this page or watch all in one go available in a single playlists below:
+Watch one by one in this page or watch all in one go in a single playlist. Click on the button below:
 
 **playlist on fembed.com**{:.btn .btn--success btn--lg onclick="window.location.href='http://go.knoacc.org/7U'"}
 
