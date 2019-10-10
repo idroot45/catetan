@@ -1,5 +1,5 @@
 ---
-permalink: /watch/black-fox-movie/
+permalink: /watch/black-fox/
 title: Watch Anime Movie Black Fox Online
 sitemap: false
 ---
