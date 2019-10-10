@@ -1,6 +1,6 @@
 ---
 permalink: /watch/black-fox/
-title: Black Fox 2019
+title: Watch Anime Movie Black Fox Online
 sitemap: false
 ---
 
