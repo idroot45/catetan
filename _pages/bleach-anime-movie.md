@@ -21,3 +21,5 @@ sitemap: false
 ## Bleach Movie 4: Jigoku hen [BD] [sub indo] [720p] [mp4]
 
 {% include video id="m8l46t5n4l30751" provider="fembed" %}
+
+**playlist on fembed.com**{:.btn .btn--success onclick="window.location.href='http://go.knoacc.org/7U'"}
