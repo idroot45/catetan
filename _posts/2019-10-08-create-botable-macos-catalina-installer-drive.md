@@ -55,6 +55,8 @@ _Step 5:_ When you’re ready, click Create installer. Your Mac may tell you th
 
 If you try to start the process and you get a failure message saying that the drive couldn’t be unmounted, try reformatting the drive first as ExFAT using Disk Utility. Then start the process over again.
 
+{% include ads.html %}
+
 When the app is done, the installer is ready to use.
 
 {% include figure image_path="https://images.idgesg.net/images/article/2018/06/install-disk-create-mojave-done-100762230-large.jpg" alt="done" %}
