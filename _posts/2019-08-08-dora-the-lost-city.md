@@ -2,9 +2,9 @@
 title: "Dora And the Lost City of Gold"
 excerpt: "Film Dora and The Lost City of Gold: Petualangan Dora yang Seru dan Penuh Warna"
 header:
- video:
-  id: 5q71zfdgx-358-3
-  provider: fembed
+# video:
+#  id: 5q71zfdgx-358-3
+#  provider: fembed
  og_image: https://i.ytimg.com/vi/ksj69JaBrAo/maxresdefault.jpg
  teaser: https://dash.fembed.com/asset/userdata/257124/poster/5/q7/5q71zfdgx-358-3.png
 categories: [video]
