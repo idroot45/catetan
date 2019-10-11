@@ -20,5 +20,5 @@ tags: [filmorago apk pro, editor video android, video cutter android, filmora an
 |FilmoraGo|v3.1.5|35.3|August 17, 2019|Unlocked|
 {: .align-center}
 
-[Download](https://mi.knoacc.org/bitly?cde=2lO2feo&st1=open&st2=here){: target="_blank" rel="noopener" .btn .btn--info .align-center}
+**Download**{:onclick="window.location.href='https://mi.knoacc.org/bitly?cde=2lO2feo&st1=open&st2=here'" target="_blank" rel="noopener" .btn .btn--info .align-center}
 
