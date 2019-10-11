@@ -7,7 +7,7 @@ tags: [leaked notes, pubg leak, pubg mobile, pubg v0.15.0, update pubg]
 This leaked patch notes are as translated from Chinese for [PUBG Mobile v0.15.0](https://www.knoacc.org/2019/10/pubg-mobile-0150-kendaraan-amfibi-duar-memek-dan-parkour.html) wich will arive in mid October 2019.
 
 ### Payload Mode:
-- EvoGround – **Payload Mode**: On the basis of the classic competition, increase the flight vehicle helicopter experience land and air combat, compete for the power of the superweapon box to feel the heavy fire weapon, and use the communication tower to recall the eliminated teammates, new gameplay, firepower upgrade, doubling the double!
+- EvoGround — **Payload Mode**: On the basis of the classic competition, increase the flight vehicle helicopter experience land and air combat, compete for the power of the superweapon box to feel the heavy fire weapon, and use the communication tower to recall the eliminated teammates, new gameplay, firepower upgrade, doubling the double!
 - **Flying Vehicle**: Find the helipad on the island map, [you can drive and ride the helicopter](https://www.catetan.pw/game/helikopter-pubgm-beta-china/) to battle from land as well as air
 - Super Weapon Box: Timing refreshed weapon box, activated after 3 minutes of refresh, you can pick up airdrop guns, three-level armor suits, heavy fire weapons, and other supplies
 - **Recalling teammates**: Pick up the eliminated teammate ID card and go to the communication tower to recall the teammates!
@@ -21,22 +21,23 @@ This leaked patch notes are as translated from Chinese for [PUBG Mobile v0.15.0]
   - Air Raid Locator: Airstrike bombing of the target area, which can be used to block roads or strategically cover
   - Vehicle repair kit: Respond to part of the health value of the vehicle and repair damaged tires
 
-### New Gun – _Desert Eagle_:
+
+### New Gun — Desert Eagle_:
 - The Desert Eagle has the highest damage and bullet speed in PUBGM’s existing pistol-type firearms, which will be available on all maps
 - Desert Eagle has 62 damage, can be equipped with red dot sights, holographic sights, various magazines and laser sights that help improve shoulder accuracy
 - Compared to other firearms, the amount of damage and the speed of the bullets are outstanding, but in contrast, they have strong recoil when shooting with them
 - The gun uses a .45 caliber bullet and can be loaded with 7 rounds by default
 - It can be increased to 10 rounds after the expansion of the magazine
 
-### New mechanism – _climbing system/ledge grab_:
+### New mechanism  — _climbing system/ledge grab_:
 - Supporting players to climb in the air allows players to move between buildings and buildings, containers and containers, allowing players to go to places that were previously inaccessible, thus changing the player’s ability to move, explore and survive
 - How to Ledge Grab: After pressing the jump button to jump, find the right time in the vacant state and press the jump button again to achieve the climb operation, which takes effect on all maps
 
-### New mechanism – _fuel barrel explosion mechanism_:
+### New mechanism — _fuel barrel explosion mechanism_:
 
 - The fuel oil barrel will explode after being attacked by firearms and throwing objects, causing range damage to the surroundings
 
-### New spray function – _Graffiti_:
+### New spray function — _Graffiti_:
 - With the new spray function, players with spray props can personalize the spray on any object, like walls in the battle scene
 - Spraying is a consumable item. It takes 1 shot once, and players can carry up to 4 different types of spray into the battle
 - Added first-person training ground: Now you can choose to enter the first-person training ground
