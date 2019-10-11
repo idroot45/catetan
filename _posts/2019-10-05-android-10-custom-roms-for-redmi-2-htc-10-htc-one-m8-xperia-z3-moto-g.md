@@ -15,6 +15,8 @@ Download Unofficial LineageOS 17.0 for **Redmi 2** [link](https://forum.xda-de
 
 ### HTC 10
 
+{% include ads.html %}
+
 _Unofficial LineageOS 17.0_ for the HTC 10: Launched back in 2016, HTC 10 was one of the company’s last few popular devices. It was one of the first smartphones back in the day to sport a USB 3.1 Type-C port, with support for 18W fast charging. If you still have an HTC 10 lying around and want to upgrade it to the latest version of Android, this Unofficial LineageOS 17 build should do the job. Do note that since this is a beta build, you might encounter some unwanted bugs.
 
 Download Unofficial LineageOS 17.0 for the **HTC 10** [link](https://forum.xda-developers.com/htc-10/development/rom-lineageos-17-0-unofficial-builds-pme-t3976079).
