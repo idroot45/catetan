@@ -2,9 +2,9 @@
 title: "Fate/stay Night: Heaven's Feel II, Hadirkan Banyak Drama"
 excerpt: "Meski cukup banyak drama, namun pertarungan antara Berserker, dan Saber (Alter) menjadi adegan yang patut dilihat."
 header:
- video:
-  id: "eqp6zf-0p1421e-"
-  provider: fembed
+# video:
+#  id: "eqp6zf-0p1421e-"
+#  provider: fembed
  og_image: "https://img1.ak.crunchyroll.com/i/spire4/34615cabdf9c9f8ea03104759d7db7421547597227_full.jpg"
  teaser: "https://img1.ak.crunchyroll.com/i/spire3/99fd7e3815a2315abc385cb7f149144f1547595750_full.jpg"
 categories: [video]
