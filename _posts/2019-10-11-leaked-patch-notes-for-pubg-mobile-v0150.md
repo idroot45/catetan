@@ -3,6 +3,7 @@ title: "Leaked patch notes for the PUBG Mobile v0.15.0"
 excerpt: "PUBG Mobile 0.15.0 leaked patch notes reveal Desert Eagle weapon, Payload Mode with helicopters, and more!"
 categories: [game]
 tags: [leaked notes, pubg leak, pubg mobile, pubg v0.15.0, update pubg]
+last_mofified_at: 2019-10-12 04:00:32
 ---
 This leaked patch notes are as translated from Chinese for [PUBG Mobile v0.15.0](https://www.knoacc.org/2019/10/pubg-mobile-0150-kendaraan-amfibi-duar-memek-dan-parkour.html) wich will arive in mid October 2019.
 
