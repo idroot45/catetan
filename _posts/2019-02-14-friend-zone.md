@@ -2,9 +2,9 @@
 title: "Friend Zone - Zona yang Paling Nyaman dan Berbahaya"
 excerpt: "Sebuah review film Thailand. Kisah tentang zona yang paling nyaman sekaligus berbahaya"
 header:
- video:
-  id: yxqd6uew1w77pg2
-  provider: fembed
+# video:
+#  id: yxqd6uew1w77pg2
+#  provider: fembed
  og_image: https://i.ytimg.com/vi/0JQoehjnjZw/hqdefault.jpg
  teaser: https://i.ytimg.com/vi/0JQoehjnjZw/mqdefault.jpg
 categories: [video]
