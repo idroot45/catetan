@@ -4,9 +4,9 @@ excerpt: "Review film animasi Toy Story 4 (2019)"
 header:
  teaser: "https://cdnx.kincir.com/production/media/2019/juni/review-toy-story-4-2019/4-review-toy-story-4-2019.jpg?w=480&strip=all&q=70"
  og_image: "https://cdnx.kincir.com/production/media/2019/juni/review-toy-story-4-2019/4-review-toy-story-4-2019.jpg"
- video:
-  id: "65d3qu0x-y3mq86"
-  provider: "fembed"
+# video:
+#  id: "65d3qu0x-y3mq86"
+#  provider: "fembed"
 categories: [video]
 tags: [toy story 4, komedi, petualangan, animasi]
 last_modified_at: 2019-09-18 23:13:30
