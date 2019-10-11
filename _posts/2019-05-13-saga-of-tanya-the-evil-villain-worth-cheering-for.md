@@ -2,9 +2,9 @@
 title: "Saga of Tanya the Evil, A Villain Worth Cheering For"
 excerpt: "‘Saga of Tanya the Evil’ – The Movie Review by Cruncyroll: Finally, a Villain Worth Rooting For"
 header:
- video:
-  id: "2k30du2kzpjwpy6"
-  provider: "fembed"
+# video:
+#  id: "2k30du2kzpjwpy6"
+#  provider: "fembed"
  og_image: "https://i0.wp.com/cdn.collider.com/wp-content/uploads/2019/04/saga-of-tanya-the-evil-movie.jpg"
  teaser: "https://i0.wp.com/cdn.collider.com/wp-content/uploads/2019/04/saga-of-tanya-the-evil-movie.jpg?resize=460,320"
 categories: [video]
