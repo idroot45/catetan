@@ -42,11 +42,17 @@ Google Analytics is a web analytics tool I use to help understand how visitors e
 
 Google Adsense, a third party affiliate marketing network, uses cookies to help make sure I get a commission when you buy a product after clicking on a link or ad banner that takes you to the site of one of their merchants. You can read [Google Adsense Privacy Policy](http://support.google.com/adsense/bin/answer.py?hl=en&answer=48182).
 
+#### Children’s Privacy
+
+Our Service does not address anyone under the age of 18 (“Children”).
+
+We do not knowingly collect personally identifiable information from anyone under the age of 18. If you are a parent or guardian and you are aware that your Child has provided us with Personal Data, please contact us. If we become aware that we have collected Personal Data from children without verification of parental consent, we take steps to remove that information from our servers.
+
 ## Disclosure Policy
 
 I make money on this website through affiliate programs. If you click an affiliate link or ad banner and buy the product, you help support this website because I'll get a percentage of that sale.
 
-Currently I'm an affiliate for Amazon and Google Adsense.
+Currently I'm an affiliate Amazon for Google Adsense.
 
 What this means for you:
 
@@ -56,4 +62,3 @@ What this means for you:
 * I respect and value my readers too much to write anything other than my own genuine and objective opinions and advice.
 
 Just like this website, my Disclosure Policy is a work in progress. As the revenue streams evolve, so will this page.
-
