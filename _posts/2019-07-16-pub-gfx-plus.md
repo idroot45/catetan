@@ -18,7 +18,7 @@ tags: [pubg mobile, gfx pubgm]
 redirect_from:
  - /pubgfx
  - /inc.trilokia.pubgfxtool/
-last_modified_at: 2019-10-13 23:43:22
+last_modified_at: 2019-10-13 20:13:22
 ---
 
 > Download link for **PUB Gfx+** v0.17.3 *Updated*{: style="color:red"}
