@@ -5,7 +5,7 @@ header:
  overlay_image: "https://1.bp.blogspot.com/-3AE9pJK4H4c/XXuaJVcDi-I/AAAAAAAAPt0/vJyC67GKua4FgMH44HxYbBmQ2Y2v6LJAACLcBGAsYHQ/s1600/season-9.jpg"
  actions:
   - label: Download
-    url: "https://bit.ly/2lQGniF"
+    url: "https://bit.ly/2B6PYWP"
   - label: Playstore
     url: "https://play.google.com/store/apps/details?id=inc.trilokia.pubgfxtool"
  caption: "PUB GFX+, **Update PUBGM v0.15.0**"
@@ -31,9 +31,9 @@ Aplikasi ini untuk membantu [memperbaiki pengalaman bermain gim *Player Unknown'
 
 | Versi | Catatan Perubahan PUB Gfx+ | Download |
 |---|:---:|---:|
-| v.0.17.3 ||_link_{:onclick="window.location.href='https://bit.ly/nganumas'" .btn .btn--success}|
+| v.0.17.3 ||_link_{:onclick="window.location.href='https://bit.ly/2B6PYWP'" .btn .btn--success}|
 | v.0.17.2 ||none|
-| v.0.17.1 | Update untuk mengakomodasi Season 9 dan patch update v0.14.5 PUBGM | [link](https://bit.ly/2lQGniF){:.btn .btn--warning}
-| v.0.17.0 | Update terbaru **PUB Gfx+ v.0.17.0** (no-ads) untuk dukungan [Patch 0.14 PUBG Mobile](https://www.knoacc.org/2019/08/pubg-mobile-v014-sudah-bisa-diunduh.html) yang mendapatkan pembaruan peta **Erangel 2.0** dan mode zombie baru: **Infection** | [Link](https://bit.ly/2LmgUGC){:.btn .btn--warning} |
-| v.0.16.9 | Untuk versi **PUB Gfx+ v.16.9** sudah mendukung **update Season 8** baik versi _global_, _korea_ maupun _china_ yang paling baru, yakni update 4 Juli 2019 (versi global: v0.13.xx). Termasuk juga versi beta. | [Link](https://bit.ly/30kYKvu){:.btn .btn--danger} |
+| v.0.17.1 | Update untuk mengakomodasi Season 9 dan patch update v0.14.5 PUBGM | [link_{:onclick:"window.location.href='https://bit.ly/2lQGniF'" .btn .btn--success}|
+| v.0.17.0 | Update terbaru **PUB Gfx+ v.0.17.0** (no-ads) untuk dukungan [Patch 0.14 PUBG Mobile](https://www.knoacc.org/2019/08/pubg-mobile-v014-sudah-bisa-diunduh.html) yang mendapatkan pembaruan peta **Erangel 2.0** dan mode zombie baru: **Infection** | _Link_{: onclick="window.location.href='https://bit.ly/2LmgUGC'" .btn .btn--warning}| |
+| v.0.16.9 | Untuk versi **PUB Gfx+ v.16.9** sudah mendukung **update Season 8** baik versi _global_, _korea_ maupun _china_ yang paling baru, yakni update 4 Juli 2019 (versi global: v0.13.xx). Termasuk juga versi beta. | [Link](https://bit.ly/30kYKvu)'" .btn .btn--danger}||
 
