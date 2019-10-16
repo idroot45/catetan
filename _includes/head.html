@@ -4,7 +4,7 @@
     <link rel="amphtml" href="{{ page.id | prepend: site.baseurl | prepend: site.url | append : '/amp.html' }}">
   {% endif %}
 {% endif %}
-<meta property="fb:pages" content="1491339030880996" />
+{% include head/ia.html
 {% include seo.html %}
 {% include auto_ads.html %}
 <link href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ '/feed.xml' | relative_url }}{% endif %}" type="application/atom+xml" rel="alternate" title="{{ site.title }} Feed">
