@@ -98,6 +98,8 @@ plugins:
   - jekyll-include-cache
   - amp-jekyll
 
+ampdir: "/cache"
+
 author:
   name   : "Idlohulhaq Nasyrih"
   avatar : "/assets/images/bio-photo.jpg"
