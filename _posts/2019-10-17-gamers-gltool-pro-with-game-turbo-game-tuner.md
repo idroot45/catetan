@@ -33,6 +33,8 @@ You may not be able to *see* the changes, but we’ve made a few to keep your fa
 ### *Gamers GLTool Pro* with Game Turbo & Game Tuner v0.0.9 APK
 
 Before you download Gamers GLTool Pro with Game Turbo & Game Tuner v0.0.9 APK, read these technical APK details:
+
+| - | - |
 |---|---|
 |Full Application Name|Gamers GLTool Pro with Game Turbo & Game Tuner v0.0.9|
 |Supported Android Versions|4.3+|
