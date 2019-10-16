@@ -1,5 +1,4 @@
 ---
-amp: true
 title: "Pedih, tapi Akhirnya Bikin Senyum"
 excerpt: "Review film animasi Toy Story 4 (2019)"
 header:
