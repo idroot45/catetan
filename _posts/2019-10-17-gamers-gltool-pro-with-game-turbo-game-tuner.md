@@ -10,7 +10,7 @@ Developer of PUB Gfx+ Tool presenting another most advanced GFX optimizer tool
 This is the full version of Gamers Gltool for free. Before purchasing this paid version. You can try this gfx tool using download link provided here.
 Features of this app:
 
-- **Auto Gaming Mode: Automatically configures all the settings of Game Turbo & Game Tuner according to your device specifications.
+- **Auto Gaming Mode**: Automatically configures all the settings of Game Turbo & Game Tuner according to your device specifications.
 - **Game Turbo**: Includes CPU & GPU Boost, RAM & SD Card Booster, System Performance Tuner
 - **Game Tuner**: Includes features of our PUB GFX+ Tool like Zero Lag Mode, Potato Graphics and all other settings.
 - **Ping Booster with Speed Test**: For Optimize your ping by speeding it up.
@@ -25,11 +25,6 @@ DISCLAIMER: Before using this app Please make sure that you have read & accepted
 
 [![Gamers GLTool Pro](https://i.ytimg.com/vi/1lLqGW1mv6U/hqdefault.jpg)](https://i.ytimg.com/vi/1lLqGW1mv6U/hqdefault.jpg)
 
-### What’s New:
-
-You may not be able to *see* the changes, but we’ve made a few to keep your favorite app running at 100%.
-*Major update is just around the corner*
-
 ### *Gamers GLTool Pro* with Game Turbo & Game Tuner v0.0.9 APK
 
 Before you download Gamers GLTool Pro with Game Turbo & Game Tuner v0.0.9 APK, read these technical APK details:
@@ -43,3 +38,7 @@ Before you download Gamers GLTool Pro with Game Turbo & Game Tuner v0.0.9 APK, r
 |Official Play Store Link|[link](https://play.google.com/store/apps/details?id=inc.trilokia.gfxtool)|
 |Download APK|**GoogleDrive**{:onclick="window.location='//mi.knoacc.org/dl/drive?id=1Hp4VXXZIFLJ0CmRGgTGZyDHvG_7Qjsqx&size=1.8MB&name=Gamers_GLTool_Pro-0.0.9.apk'" .btn .btn--info}
 
+### What’s New:
+
+You may not be able to *see* the changes, but we’ve made a few to keep your favorite app running at 100%.
+*Major update is just around the corner*
