@@ -23,6 +23,8 @@ Features of this app:
 DISCLAIMER: Before using this app Please make sure that you have read & accepted out Privacy policy & Terms of service.
 {:.notice .notice--warning}
 
+[![Gamers GLTool Pro](https://i.ytimg.com/vi/1lLqGW1mv6U/hqdefault.jpg)](https://i.ytimg.com/vi/1lLqGW1mv6U/hqdefault.jpg)
+
 ### What’s New:
 
 You may not be able to *see* the changes, but we’ve made a few to keep your favorite app running at 100%.
@@ -37,5 +39,5 @@ Before you download Gamers GLTool Pro with Game Turbo & Game Tuner v0.0.9 APK, r
 |APK File Name!Gamers_GLTool_Pro-0.0.9.apk|
 |APK File Size|1.8 MB|
 |Official Play Store Link|[link](https://play.google.com/store/apps/details?id=inc.trilokia.gfxtool)|
+|Download APK|**GoogleDrive**{:onclick="window.location='//mi.knoacc.org/dl/drive?id=1Hp4VXXZIFLJ0CmRGgTGZyDHvG_7Qjsqx&size=1.8MB&name=Gamers_GLTool_Pro-0.0.9.apk'" .btn .btn--info}
 
-[![Gamers GLTool Pro](https://i.ytimg.com/vi/1lLqGW1mv6U/hqdefault.jpg)](https://i.ytimg.com/vi/1lLqGW1mv6U/hqdefault.jpg)
