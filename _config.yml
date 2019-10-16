@@ -96,6 +96,7 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+  - amp-jekyll
 
 author:
   name   : "Idlohulhaq Nasyrih"
