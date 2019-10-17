@@ -16,20 +16,26 @@ Tetapi jika file yang dibagikan lebih besar dari 100MB, google drive akan menamp
 
 Format penulisan direct download dari google drive tanpa peringatan jika file lebih besar dari 100MB bisa menggunakan format tautan berikut:
 
-`https://www.googleapis.com/drive/v3/files/**file_id**?alt=media&key=**kredensial_google_drive_api**`
+```html
+https://www.googleapis.com/drive/v3/files/**file_id**?alt=media&key=**kredensial_google_drive_api**
+```
 
 Format tautan di atas membutuhkan 2 variable query yakni **file_id** dan **kredensial_google_drive_api** yang nanti akan [dijelaskan](#keterangan-variable).
 
 Berikut contoh tautan direct download 
 
-`https://www.googleapis.com/drive/v3/files/**0B6l7IOFIIovsaFAyZmt1MjN0c0U**?alt=media&key=**AIzaSyAeViL9QOYB4sxwJcqXLMlvsIVOTpNpF5E**`
+```html
+https://www.googleapis.com/drive/v3/files/**0B6l7IOFIIovsaFAyZmt1MjN0c0U**?alt=media&key=**AIzaSyAeViL9QOYB4sxwJcqXLMlvsIVOTpNpF5E**
+```
 
 ### Keterangan variable
 
 **file_id** :
 
 Nilai `file_id` ini bisa didapatkan pada alamat tautan yang diberikan oleh google drive. Misalnya pada tautan di bawah ini:
- `https://drive.google.com/file/d/**0B6l7IOFIIovsaFAyZmt1MjN0c0U**/view?usp=sharing`
+```html
+https://drive.google.com/file/d/**0B6l7IOFIIovsaFAyZmt1MjN0c0U**/view?usp=sharing
+```
 
 Teks dengan huruf tebal `0B6l7IOFIIovsaFAyZmt1MjN0c0U` adalah **file_id** yang dibutuhkan. Nilai tersebut adalah **file_id** dari berkas yang sudah dibagikan dengan keterlihatan untuk **public on the web**.
 
