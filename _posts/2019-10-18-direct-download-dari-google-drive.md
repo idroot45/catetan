@@ -9,16 +9,26 @@ tags: [google drive, direct download, google drive api, google cloud console]
 lang: id
 ---
 
-Membagikan file Google Drive biasanya dengan memakai format tautan normal `https://drive.google.com/view?id=1HN2YlXE9dvDNwC2G2B8L1eMbg0Gi_R_d`, yang kemudian dibarahkan ke tautan `https://drive.google.com/uc?id=1HN2YlXE9dvDNwC2G2B8L1eMbg0Gi_R_d&export=download` yang jika file lebih kecil dari 100 MB bisa langsung diunduh. Karena itu, biasanya file yang dibagikan pada pemilik blog atau situs download akan membagikan tautan ke-2 agar file yang dibagikan  langsung terunduh.
+Membagikan file Google Drive biasanya dengan memakai format tautan normal berikut:
+```html
+https://drive.google.com/view?id=1HN2YlXE9dvDNwC2G2B8L1eMbg0Gi_R_d
+```
+Yang kemudian di arahkan ke tautan berikut:
 
-Tetapi jika file yang dibagikan lebih besar dari 100MB, google drive akan menampilkan halaman peringatan terlebih dahulu meskipun menggunakan format tautan ke-2.
+```html
+https://drive.google.com/uc?id=1HN2YlXE9dvDNwC2G2B8L1eMbg0Gi_R_d&export=download
+```
+
+Jika file lebih kecil dari 100 MB, file bisa langsung diunduh. Karena itu, biasanya file yang dibagikan pada pemilik blog atau situs download akan membagikan tautan ke-2. Agar file yang dibagikan langsung terunduh.
+
+Tetapi, jika file yang dibagikan lebih besar dari 100MB, google drive akan menampilkan halaman peringatan terlebih dahulu meskipun menggunakan format tautan ke-2.
 
 ### Format Tautan Direct Download
 
 Format penulisan direct download dari google drive tanpa peringatan jika file lebih besar dari 100MB bisa menggunakan format tautan berikut:
 
 ```html
-https://www.googleapis.com/drive/v3/files/<b>file_id</b>?alt=media&key=<b>kredensial_google_drive_api</b>
+https://www.googleapis.com/drive/v3/files/(file_id)?alt=media&key=(kredensial_google_drive_api)
 ```
 
 Format tautan di atas membutuhkan 2 variable query yakni **file_id** dan **kredensial_google_drive_api** yang nanti akan [dijelaskan](#keterangan-variable).
@@ -26,7 +36,7 @@ Format tautan di atas membutuhkan 2 variable query yakni **file_id** dan **krede
 Berikut contoh tautan direct download 
 
 ```html
-https://www.googleapis.com/drive/v3/files/**0B6l7IOFIIovsaFAyZmt1MjN0c0U**?alt=media&key=**AIzaSyAeViL9QOYB4sxwJcqXLMlvsIVOTpNpF5E**
+https://www.googleapis.com/drive/v3/files/0B6l7IOFIIovsaFAyZmt1MjN0c0U?alt=media&key=AIzaSyAeViL9QOYB4sxwJcqXLMlvsIVOTpNpF5E
 ```
 
 ### Keterangan variable
