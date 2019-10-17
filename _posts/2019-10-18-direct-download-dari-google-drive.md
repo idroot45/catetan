@@ -1,7 +1,9 @@
 ---
 title: "Membagikan File Google Drive Lebih Dari 100MB Tanpa Peringatan (Direct Download)"
 excerpt: "Mendapatkan tautan unduh langsung file google drive tanpa lewat halaman peringatan jika file lebih dari 100 MB. Step by step membuat Google Drive API Key"
-permalink: "/gdrive-direct-download-format"
+header:
+ image: https://www.catetan.pw/assets/images/DriveHeader.png
+ caption: Google Drive
 categories: [cloudhosting]
 tags: [google drive, direct download, google drive api, google cloud console]
 ---
