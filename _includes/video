@@ -1,11 +1,12 @@
 {% capture video_id %}{{ include.id }}{% endcapture %}
 {% capture video_provider %}{{ include.provider }}{% endcapture %}
+{% capture video_autoplay %}{{ include.autoplay }}{% endcapture %}
 
 <div class="responsive-video-container">
 {% if video_provider == "vimeo" %}
   <iframe src="https://player.vimeo.com/video/{{ video_id }}?dnt=true" frameborder="0" webkitAllowFullScreen="" mozallowfullscreen="" allowFullScreen=""></iframe>
 {% elsif video_provider == "youtube" %}
-  <iframe src="https://www.youtube-nocookie.com/embed/{{ video_id }}" frameborder="0" webkitAllowFullScreen="" mozallowfullscreen="" allowFullScreen=""></iframe>
+  <iframe src="https://www.youtube-nocookie.com/embed/{{ video_id }}?autoplay={{ video_autoplay }}" frameborder="0" webkitAllowFullScreen="" mozallowfullscreen="" allowFullScreen=""></iframe>
 {% elsif video_provider == "fembed"%}
   <iframe src="https://www.fembed.com/v/{{ video_id }}" frameborder="0" webkitAllowFullScreen="" mozallowfullscreen="" allowFullScreen="" ></iframe>
 {% elsif video_provider == "google-drive" %}
