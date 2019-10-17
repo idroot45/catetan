@@ -4,7 +4,7 @@ excerpt: "Manchester United vs Liverpool FC, Sabtu 20/10/2019 Kick-Off 22:30 WIB
 header:
  og_image: "https://i2-prod.liverpool.com/incoming/article17039930.ece/ALTERNATES/s810/0_GettyImages-1179188179-1.jpg"
  video:
-  id: c8B9P7WAsbA
+  id: Hd6gz1Uqe1Q
   provider: youtube
 categories: [streaming]
 tags: [streaming bola, streaming liverpool, rekap liverpool fc]
