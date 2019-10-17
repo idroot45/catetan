@@ -6,6 +6,7 @@ header:
  caption: Google Drive
 categories: [cloudhosting]
 tags: [google drive, direct download, google drive api, google cloud console]
+lang: id
 ---
 
 Membagikan file Google Drive biasanya dengan memakai format tautan normal `https://drive.google.com/view?id=1HN2YlXE9dvDNwC2G2B8L1eMbg0Gi_R_d`, yang kemudian dibarahkan ke tautan `https://drive.google.com/uc?id=1HN2YlXE9dvDNwC2G2B8L1eMbg0Gi_R_d&export=download` yang jika file lebih kecil dari 100 MB bisa langsung diunduh. Karena itu, biasanya file yang dibagikan pada pemilik blog atau situs download akan membagikan tautan ke-2 agar file yang dibagikan  langsung terunduh.
@@ -17,7 +18,7 @@ Tetapi jika file yang dibagikan lebih besar dari 100MB, google drive akan menamp
 Format penulisan direct download dari google drive tanpa peringatan jika file lebih besar dari 100MB bisa menggunakan format tautan berikut:
 
 ```html
-https://www.googleapis.com/drive/v3/files/**file_id**?alt=media&key=**kredensial_google_drive_api**
+https://www.googleapis.com/drive/v3/files/<b>file_id</b>?alt=media&key=<b>kredensial_google_drive_api</b>
 ```
 
 Format tautan di atas membutuhkan 2 variable query yakni **file_id** dan **kredensial_google_drive_api** yang nanti akan [dijelaskan](#keterangan-variable).
@@ -34,7 +35,7 @@ https://www.googleapis.com/drive/v3/files/**0B6l7IOFIIovsaFAyZmt1MjN0c0U**?alt=m
 
 Nilai `file_id` ini bisa didapatkan pada alamat tautan yang diberikan oleh google drive. Misalnya pada tautan di bawah ini:
 ```html
-https://drive.google.com/file/d/**0B6l7IOFIIovsaFAyZmt1MjN0c0U**/view?usp=sharing
+https://drive.google.com/file/d/<b>0B6l7IOFIIovsaFAyZmt1MjN0c0U</b>/view?usp=sharing
 ```
 
 Teks dengan huruf tebal `0B6l7IOFIIovsaFAyZmt1MjN0c0U` adalah **file_id** yang dibutuhkan. Nilai tersebut adalah **file_id** dari berkas yang sudah dibagikan dengan keterlihatan untuk **public on the web**.
