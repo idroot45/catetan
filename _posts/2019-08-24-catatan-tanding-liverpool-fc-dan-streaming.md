@@ -6,6 +6,7 @@ header:
  video:
   id: Hd6gz1Uqe1Q
   provider: youtube
+  autoplay: "1"
 categories: [streaming]
 tags: [streaming bola, streaming liverpool, rekap liverpool fc]
 last_modified_at: 2019-10-06 11:11:21
