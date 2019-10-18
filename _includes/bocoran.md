@@ -1,6 +1,6 @@
 ### Bocoran Playlist Streaming
 
-**Perhatikan:** Playlist ini selalu berubah ubah. Tidak ada jaminan akan selalu sama dan bisa diakses.
+**Perhatikan:** Playlist ini selalu berubah ubah. Tidak ada jaminan akan selalu sama dan bisa diakses lagi jika sudah lewat dari tanggal.
 
 |Tanggal|Match|M3U8|
 |---|---|:---:|---|
