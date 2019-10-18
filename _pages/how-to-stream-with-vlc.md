@@ -1,7 +1,9 @@
 ---
+permalink: /how-to-stream-with-vlc/
 title: "How to Play M3U8 Streaming Files in VLC Media Player?"
 excerpt: "Cara memutar video streaming dengan file m3u8 dalam VLC Media Player (B. Inggris)"
---
+last_modified_at: 2019-10-18 20:25:03
+---
 How to Play Streaming Video VLC Media Player with M3U8 Files?
 
 **Step 1.** Free download VLC media player, install and launch it on your computer.
