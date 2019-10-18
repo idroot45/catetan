@@ -31,6 +31,8 @@ Satu hal yang paling menarik dari Redmi Note 8 Pro adalah penggunaan chipset Med
 
 Walau begitu, jangan salah sangka ya, hasil Antutu Benchmark dari Redmi Note 8 Pro bahkan bisa mencapai angka [280 ribuan](https://www.kimovil.com/en/xiaomi-redmi-note-8-pro/antutu). Ya, Anda boleh mengumpat melihat skor ini. Di angka begini mah, settingan rata kanan aman banget. PUBG Mobile setingan grafisnya [langsung Smooth Extreme](https://www.catetan.pw/aplikasi/gamers-gltool-pro-with-game-turbo-game-tuner/). Anjay. Chipset gaming dari mediatek kali ini sungguh mindblowing sekali, mengejutkan, dan dijual di hape dengan harga tidak masuk akal.
 
+{% include tengah.html %}
+
 Dengan performa amat luar biasa (untuk ukuran hape kelas menengah), kalian tetap tidak perlu khawatir Redmi Note 8 Pro bakal panas macam setrikaan mengingat kehadiran fitur Liquid Cooling dari chipsetnya. Ya lumayan, tapi tidak terlalu panas. Oh ya, angka Antutu yang tinggi itu bisa didapat mengingat kehadiran fitur Game Turbo 2.0.
 
 ### Fitur
