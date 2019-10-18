@@ -41,16 +41,17 @@ function showTime(){
 showTime();
 </script>
 
-### Jadwal Selanjutnya:
+### Jadwal pekan ini:
+
+{% include tengah.html %}
 
 **EPL GW 9** Minggu (20/10/2019) **Manchester Utd. vs Liverpool FC** [A]. **KO 22:30 WIB**.
 
 - Tayang di MolaTV, lihat [poster ini](https://mola01.koicdn.com/u/image/e56abf4a-6885-4286-9a7d-363e470e6b3b/image.jpeg). Hanya dapat diakses dari aplikasi dan perangkat tertentu saja.
 - Tayang di TV lokal TVRI.
 - Untuk streaming dari browser atau chromebook, pantau terus di halaman ini.
-- Streaming memakai pemutar video [VLC Multimedia Player](/linux/how-to-install-vlc-media-player-on-centos-8/) (desktop/smartphone) bisa dilihat di [bocoran playlist m3u8](/streaming/bocoran-m3u8-hari-ini/)
-
-Last season away match (2018/2019) highlight:
+- Streaming memakai pemutar video [VLC Media Player](/linux/how-to-install-vlc-media-player-on-centos-8/) (desktop/smartphone) bisa dilihat di [bocoran playlist m3u8](/how-to-stream-with-vlc/)
+- Last season away match (2018/2019) highlight:
 
 {% include video id="-Q5bKEEQRps" provider="youtube" %}
 
