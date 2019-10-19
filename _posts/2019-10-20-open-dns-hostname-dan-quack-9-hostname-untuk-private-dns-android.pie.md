@@ -1,7 +1,7 @@
-----
+---
 title: "Private DNS Android Pie: OpenDNS Hostname dan Quack 9 DNS Hostname"
 excerpt: "Mencoba private dns hostname dengan mengarahkan A Record dan AAAA Record domain sendiri ke alamat DNS Resolver milik Quack 9 dan OpenDNS"
-categories: [cloudhosting]
+categories: [android]
 tags: [dns hostname, eksperimen, private dns, opendns hostname, quack 9 hostname]
 ---
 Di Android Pie, ada fitur Private DNS. Fitur yang berguna untuk mengalirkan permintaan DNS Record melalui TLS (_DNS over TLS_) demi membatasi intersepsi oleh ISP. Fitur ini membutuhkan **hostname** untuk menjembatani peralihan dari IPV4 ke IPV6.
