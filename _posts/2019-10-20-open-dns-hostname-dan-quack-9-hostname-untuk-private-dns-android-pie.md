@@ -23,6 +23,8 @@ Hostname tersebut juga punya AAAA Record (IPV6). Sehingga smartphone yang menggu
 
 ### Hostname _Quack 9_ dan _Open DNS_
 
+**Koreksi:** Quack 9 sudah punya hostname yakni `dns.quack9.net`
+
 Jika **Google** dan **Cloudflare** sudah punya _hostname_ untuk server DNS Resolver-nya, Tidak demikian dengan **Open DNS** dan **Quack 9**. Keduanya sepertinya belum menyediakan hostname untuk dipakai untuk fitur private DNS ini.
 
 Saya ingin mencoba memakai Open DNS atau Quack 9 melalui fitur _private dns_ ini. Jadi, saya coba buat hostname sendiri menuju alamat DNS Resolver milik Open DNS dan Quack 9.
