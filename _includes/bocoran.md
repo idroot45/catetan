@@ -34,9 +34,9 @@ https://dailysport00.global.ssl.fastly.net/live/22/playlist.m3u8
 ```
 **English 3**
 ```
-https://dailysport00.global.ssl.fastly.net/live/23/playlist.m3u8
+https://dailysport00.global.ssl.fastly.net/live/2/playlist.m3u8
 ```
 **English 4**
 ```
-https://dailysport00.global.ssl.fastly.net/live/24/playlist.m3u8
+https://dailysport00.global.ssl.fastly.net/live/1/playlist.m3u8
 ```
