@@ -28,7 +28,7 @@ Hostname tersebut juga punya AAAA Record (IPV6). Sehingga smartphone yang menggu
 
 Jika **Google** dan **Cloudflare** sudah punya _hostname_ untuk server DNS Resolver-nya, Tidak demikian dengan **Open DNS** dan **Quad 9**. Keduanya sepertinya belum menyediakan hostname untuk dipakai untuk fitur private DNS ini.
 
-Saya ingin mencoba memakai Open DNS atau Quad 9 melalui fitur _private dns_ ini. Jadi, saya coba buat hostname sendiri menuju alamat DNS Resolver milik Open DNS dan Quack 9.
+Saya ingin mencoba memakai Open DNS atau Quad 9 melalui fitur _private dns_ ini. Jadi, saya coba buat hostname sendiri menuju alamat DNS Resolver milik Open DNS dan Quad 9.
 
 ### Membuat A Record dan AAAA Record Untuk Hostname
 
@@ -45,6 +45,6 @@ Kalau mau ikut coba, silahkan dipakai. Dan kalau masih ragu dengan nilai A Recor
 
 Jadi tujuannya apa sih ini? Cuma iseng coba-coba, mumpung baru saja register domain murah yang belum jelas juga mau di pakai apa. Maksudnya, selain untuk blog-ing atau mencatat sesuatu di sini.
 
-Hasilnya bagaimana? Saat ini ketika saya uji pakai hasilnya: "Tidak terhubung", tetapi kita lihat besok, atau besoknya lagi, atau besoknya-besok, kita cek lagi. Bisa jadi karena ada syarat teknis tertentu agar bisa berfungsi layaknya hostname milik Google atau Cloudflare.
+Hasilnya bagaimana? Saat ini ketika saya uji pakai hasilnya: "Tidak terhubung", tetapi kita lihat besok, atau besoknya lagi, atau besoknya-besok, kita cek lagi. Bisa jadi karena open dns belum mendukung DoT ada syarat teknis tertentu agar bisa berfungsi layaknya hostname milik Google atau Cloudflare.
 
 Namanya juga eksperimen, coba-coba, trial-error.
