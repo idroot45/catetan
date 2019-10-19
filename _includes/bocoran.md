@@ -20,8 +20,8 @@
 
 #### M3U8 url:
 
-- Spanish 1: `https://dailysport00.global.ssl.fastly.net/live/21/playlist.m3u8`
-- Spanish 5: `https://dailysport00.global.ssl.fastly.net/live/25/playlist.m3u8`
-- English 2: `https://dailysport00.global.ssl.fastly.net/live/22/playlist.m3u8`
-- English 3: `https://dailysport00.global.ssl.fastly.net/live/23/playlist.m3u8`
-- English 4: `https://dailysport00.global.ssl.fastly.net/live/24/playlist.m3u8`
+- Spanish 1: ```https://dailysport00.global.ssl.fastly.net/live/21/playlist.m3u8```
+- Spanish 5: ```https://dailysport00.global.ssl.fastly.net/live/25/playlist.m3u8```
+- English 2: ```https://dailysport00.global.ssl.fastly.net/live/22/playlist.m3u8```
+- English 3: ```https://dailysport00.global.ssl.fastly.net/live/23/playlist.m3u8```
+- English 4: ```https://dailysport00.global.ssl.fastly.net/live/24/playlist.m3u8```
