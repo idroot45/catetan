@@ -8,7 +8,10 @@ How to Play Streaming Video VLC Media Player with M3U8 Files?
 
 **Step 1.** Free download VLC media player, install and launch it on your computer.
 
-**Step 2.** Copy the .m3u8 streaming video link (http://5.196.138.6:1935/live/nrjbelgique/playlist.m3u8) you want to play with M3U8 player VLC.
+**Step 2.** Copy the `.m3u8` streaming video link you want to play with M3U8 player VLC. For example:
+```
+http://5.196.138.6:1935/live/nrjbelgique/playlist.m3u8
+```
 
 **Step 3.** On the main interface of VLC, click on Media on the top left corner to choose "Open Network Stream…"
 
