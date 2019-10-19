@@ -17,8 +17,7 @@ How to Play Streaming Video VLC Media Player with M3U8 Files?
 ![Playing .m3u8 file in VLC](https://www.5kplayer.com/vlc/img/m3u8-vlc.jpg){:.align-center}
 
 **Notice:** In case that you need the way to find an .m3u8 playlist [to play with M3U8 player VLC](https://mi.knoacc.org/online-m3u8-player), you can do as follows:<br/>
-1. Open a video site on Chrome, find the video you want to extract the M3U8 URL and play it. Remember to skip the advertisement (if there any) before extracting. <br/>2. Right-click the video to click on Inspect to see the HTML interface.<br/>
-3. Click the small phone icon to choose your phone type > refresh the web page > choose Network > click the funnel icon > click Media > play your video > then there will pop up an.m3u8 link > just copy the link address.
+1 - Open a video site on Chrome, find the video you want to extract the M3U8 URL and play it. Remember to skip the advertisement (if there any) before extracting.<br/>1 - Right-click the video to click on Inspect to see the HTML interface.<br/>3 - Click the small phone icon to choose your phone type > refresh the web page > choose Network > click the funnel icon > click Media > play your video > then there will pop up an.m3u8 link > just copy the link address.
 {:.notice .notice--info}
 
 {% include tengah.html %}
