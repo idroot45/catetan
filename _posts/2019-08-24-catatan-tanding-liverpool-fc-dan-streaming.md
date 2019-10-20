@@ -2,11 +2,13 @@
 title: "Catatan Pertandingan Liverpool FC dan Link Streaming [Update]"
 excerpt: "Manchester United vs Liverpool FC, Sabtu 20/10/2019 Kick-Off 22:30 WIB. Premier League Game Week 8"
 header:
- og_image: "https://i2-prod.liverpool.com/incoming/article17039930.ece/ALTERNATES/s810/0_GettyImages-1179188179-1.jpg"
+ og_image: "https://i1.wp.com/mola01.koicdn.com/u/image/e56abf4a-6885-4286-9a7d-363e470e6b3b/image.jpeg?crop=350px,10px,1024px,512px"
  video:
-  id: Hd6gz1Uqe1Q
-  provider: youtube
-  autoplay: "1"
+  id: "https://dailysport00.global.ssl.fastly.net/live/22/playlist.m3u8"
+#  id: Hd6gz1Uqe1Q
+  provider: full_link
+#  provider: youtube
+#  autoplay: "1"
 categories: [streaming]
 tags: [streaming bola, streaming liverpool, rekap liverpool fc]
 last_modified_at: 2019-10-18 20:33:21
