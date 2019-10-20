@@ -27,11 +27,11 @@ https://dailysport00.global.ssl.fastly.net/live/21/playlist.m3u8
 ```
 **2 English**
 ```
-https://dailysport00.global.ssl.fastly.net/live/22/playlist.m3u8
+https://dailysport00.global.ssl.fastly.net/live/3/playlist.m3u8
 ```
 **3 English**
 ```
-https://dailysport00.global.ssl.fastly.net/live/2/playlist.m3u8
+https://dailysport00.global.ssl.fastly.net/live/1/playlist.m3u8
 ```
 **4 Spanish**
 ```
