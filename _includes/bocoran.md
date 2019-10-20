@@ -2,41 +2,46 @@
 
 **Perhatikan:** Playlist ini selalu berubah-ubah. Tidak ada jaminan **url m3u8** akan selalu sama dan bisa diakses lagi jika sudah lewat. Silahkan cek lagi mebjelang pertandingan.
 
-#### Date: 19/10/2019
+#### Date: 20/10/2019
 
 |Match|Channel 1|Channel 2|
-|---|:---:|---:|---:|
-|Eibar - FC Barcelona|Spanish 1|English 2|
-|At. Madrid - Valencia|Spanish 1|English 2|
-|Getafe - LLeganés|Spanish 1|-|
-|Mallorca - Real Madrid|Spanish 1|English 2|-|
-|Everton vs West Ham|English 3|-|
-|Chelsea vs West Ham|English 3|-|
-|Tottenham vs Watford|English 4|-|
-|Crystal Palace vs Manchester City|English 3|-|
-|Augsburg vs FC Bayern|Spanish 5|-|
-|Borussia Dortmund vs Borussia M'gladbach|Spanish 1|-|
-|Juventus vs Bologna|Spanish 1|-|
+|:---:|---:|---:|
+|Alavés - Celta|1 Spanish||
+|Espanyol - Villareal|1 Spanish||
+|Athletic - Valladolid|1 Spanish||
+|Sevilla - Levante|1 Spanish||
+|Manchester - Liverpool|2 English|3 English|
+|Sassuolo - Inter Milán|4 Spanish||
+|Sampdoria - AS Roma|4 Spanish||
+|AC Milán - US Lecce|4 Spanish||
+|Fuenlabrada - Albacete|5 Spanish||
+|Deportivo - Málaga|6 Spanish||
+|Tenerife - Racing|5 Spanish||
+|Real Oviedo - Girona|6 Spanish||
 
 #### M3U8 url:
 
-**Spanish 1**
+**1 Spanish**
 ```
 https://dailysport00.global.ssl.fastly.net/live/21/playlist.m3u8
 ```
-**Spanish 5**
-```
-https://dailysport00.global.ssl.fastly.net/live/25/playlist.m3u8
-```
-**English 2**
+**2 English**
 ```
 https://dailysport00.global.ssl.fastly.net/live/22/playlist.m3u8
 ```
-**English 3**
+**3 English**
 ```
 https://dailysport00.global.ssl.fastly.net/live/2/playlist.m3u8
 ```
-**English 4**
+**4 Spanish**
 ```
-https://dailysport00.global.ssl.fastly.net/live/1/playlist.m3u8
+https://dailysport00.global.ssl.fastly.net/live/25/playlist.m3u8
+```
+**5 Spanish**
+```
+https://dailysport00.global.ssl.fastly.net/live/26/playlist.m3u8
+```
+**6 Spanish**
+```
+https://dailysport00.global.ssl.fastly.net/live/3/playlist.m3u8
 ```
