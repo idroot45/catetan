@@ -4,7 +4,7 @@ excerpt: "Manchester United vs Liverpool FC, Sabtu 20/10/2019 Kick-Off 22:30 WIB
 header:
  og_image: "http://i1.wp.com/mola01.koicdn.com/u/image/e56abf4a-6885-4286-9a7d-363e470e6b3b/image.jpeg?crop=360px,40px,840px,480px"
  video:
-  id: "https://dailysport00.global.ssl.fastly.net/live/22/playlist.m3u8"
+  id: "https://dailysport00.global.ssl.fastly.net/live/3/playlist.m3u8"
 #  id: Hd6gz1Uqe1Q
   provider: full_link
 #  provider: youtube
