@@ -1,4 +1,5 @@
 ---
+permalink: /sourceforge
 title: "What Is Sourceforge?"
 excerpt: "Download your files from Sourceforge mirror"
 sitemap: false
