@@ -15,9 +15,9 @@ As of March 2014, the SourceForge repository claimed to host more than 430,000 p
 
 From mid-2013 SourceForge introduced a program called DevShare, which offered projects a way to monetize their downloads by having an optional download that includes prompts for the user to download additional software that is not part of the project. Negative community reactions to the partnership program led to a review of the program, which was nonetheless opened up to all SourceForge projects on February 7, 2014. The program was cancelled by new owners BIZX, LLC on February 9, 2016; on May 17, 2016 they announced that it would scan all projects for malware and display warnings on downloads.
 
-### Download From Sourceforge
-
 {% include tengah.html %}
+
+### Download From Sourceforge
 
 <div style="display:block;text-align:center">
 <a href="#" id="download" rel="nofollow noopener noreferrer" target="_blank" class="btn btn--info">Wait...</a>
