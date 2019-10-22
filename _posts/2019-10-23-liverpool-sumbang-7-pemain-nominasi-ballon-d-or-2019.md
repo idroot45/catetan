@@ -1,10 +1,10 @@
 ---
 title: "Nominasi Ballon d'Or 2019, Liverpool Sumbang 7 Pemain, Luca Modric Terlupakan"
-excerpt: 30 Nama Nominasi Ballon d'Or 2019: Liverpool Sumbang 7 Pemain, Manchester City 5 Pemain, Barcelona 4 Pemain. Modric dan Neymar Terlupakan."
+excerpt: "30 Nama Nominasi Ballon d'Or 2019: Liverpool Sumbang 7 Pemain, Manchester City 5 Pemain, Barcelona 4 Pemain. Modric dan Neymar Terlupakan."
 header:
  teaser: "https://i2-prod.liverpool.com/incoming/article17117502.ece/ALTERNATES/s810/0_GettyImages-1177196314.jpg"
 categories: [sepakbola]
-tags: [ballon d or, leverpool, nominasi ballon d or,
+tags: [ballon d or, liverpool, nominasi ballon d or,
 ---
 Kesuksesan Liverpool di Liga Champions musim 2018-2019 membuat [The Reds menyumbang 7 nama](liverpool-sumbang-7-pemain-nominasi-ballon-d-or-2019) dalam 30 nama yang masuk nominasi calon penerima Ballon d'Or 2019.
 
