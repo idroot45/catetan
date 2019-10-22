@@ -36,7 +36,7 @@ Berikut ini daftar lengkap 30 nama-nama yang masuk dalam nominasi untuk Ballon d
 - **Alisson Becker** (Liverpool)
 - Matthijs de Ligt (Juventus)
 - Karim Benzema (Real Madrid)
-- **Georginio Wijnaldum (Liverpool)
+- **Georginio Wijnaldum** (Liverpool)
 - **Virgil van Dijk** (Liverpool)
 - Bernardo Silva (Man City)
 - Heung-Min Son (Tottenham)
