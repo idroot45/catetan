@@ -4,7 +4,7 @@ excerpt: "30 Nama Nominasi Ballon d'Or 2019: Liverpool Sumbang 7 Pemain, Manches
 header:
  teaser: "https://i2-prod.liverpool.com/incoming/article17117502.ece/ALTERNATES/s810/0_GettyImages-1177196314.jpg"
 categories: [sepakbola]
-tags: [ballon d or, liverpool, nominasi ballon d or, pemain bola terbaik di dunia.
+tags: [ballon d or, liverpool, nominasi ballon d or, pemain bola terbaik di dunia]
 ---
 Kesuksesan Liverpool di Liga Champions musim 2018-2019 membuat [The Reds menyumbang 7 nama](liverpool-sumbang-7-pemain-nominasi-ballon-d-or-2019) dalam 30 nama yang masuk nominasi calon penerima Ballon d'Or 2019.
 
