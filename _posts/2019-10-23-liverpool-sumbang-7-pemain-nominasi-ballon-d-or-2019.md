@@ -16,7 +16,7 @@ Liverpool yang menjadi [juara Liga Champions 2018-2019](/sepakbola/tradisi-lama-
 
 Mereka adalah Sadio Mane, Trent Alexander-Arnold, Alisson Becker, Georginio Wijnaldum, Virgil van Dijk, Roberto Firmino dan Mohamed Salah.
 
-{% include image_path="https://i2-prod.liverpool.com/incoming/article17117502.ece/ALTERNATES/s810/0_GettyImages-1177196314.jpg" url="https://i2-prod.liverpool.com/incoming/article17117502.ece/ALTERNATES/s810/0_GettyImages-1177196314.jpg" title="Martin Atkinson infuriated Liverpool with his performance. (Image: Photo by OLI SCARFF/AFP via Getty Images)" alt="Martin Atkinson infuriated Liverpool" %}
+{% include figure image_path="https://i2-prod.liverpool.com/incoming/article17117502.ece/ALTERNATES/s810/0_GettyImages-1177196314.jpg" url="https://i2-prod.liverpool.com/incoming/article17117502.ece/ALTERNATES/s810/0_GettyImages-1177196314.jpg" title="Martin Atkinson infuriated Liverpool with his performance. (Image: Photo by OLI SCARFF/AFP via Getty Images)" alt="Martin Atkinson infuriated Liverpool" %}
 
 ### Daftar Lengkap 30 Nomine Ballon D'or
 
