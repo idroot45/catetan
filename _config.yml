@@ -33,9 +33,9 @@ facebook:
  app_id: 720457594754641
  publisher: https://www.facebook.com/KnoAcc
 # Images
-teaser: https://dummyimage.com/320x4:3/00/f.gif&text=Se+Bel
-og_image: https://dummyimage.com/1200x600/00/f.gif&text=Seluk+Beluk
-logo: https://dummyimage.com/88x88/00/f.gif&text=SeBel
+teaser: https://dummyimage.com/320x4:3/00/f.gif&text=CT
+og_image: https://dummyimage.com/1000x600/00/f.gif&text=Seluk+Beluk
+logo: https://dummyimage.com/88x88/fff/000.gif&text=CT
 #Search
 search: true
 search_provider: google
