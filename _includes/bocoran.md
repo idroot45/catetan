@@ -42,9 +42,9 @@ https://cdndaily.azureedge.net/live/8/playlist.m3u8
 ```
 **9 English**
 ```
-https://cdndaily.azureedge.net/live/1/playlist.m3u8
+https://cdndaily.azureedge.net/live/9/playlist.m3u8
 ```
 **10 English**
 ```
-https://cdndaily.azureedge.net/live/10/playlist.m3u8
+https://cdndaily.azureedge.net/live/eng/playlist.m3u8
 ```
