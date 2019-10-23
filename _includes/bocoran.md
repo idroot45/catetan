@@ -2,46 +2,49 @@
 
 **Perhatikan:** Playlist ini selalu berubah-ubah. Tidak ada jaminan **url m3u8** akan selalu sama dan bisa diakses lagi jika sudah lewat. Silahkan cek lagi mebjelang pertandingan.
 
-#### Date: 20/10/2019
+#### Date: 23/10/2019
 
 |Match|Channel 1|Channel 2|
 |:---:|---:|---:|
-|Alavés - Celta|1 Spanish||
-|Espanyol - Villareal|1 Spanish||
-|Athletic - Valladolid|1 Spanish||
-|Sevilla - Levante|1 Spanish||
-|Manchester - Liverpool|2 English|3 English|
-|Sassuolo - Inter Milán|4 Spanish||
-|Sampdoria - AS Roma|4 Spanish||
-|AC Milán - US Lecce|4 Spanish||
-|Fuenlabrada - Albacete|5 Spanish||
-|Deportivo - Málaga|6 Spanish||
-|Tenerife - Racing|5 Spanish||
-|Real Oviedo - Girona|6 Spanish||
+|Multi|Channel 5 Spanish||	
+|Ajax - Chelsea|Channel 3 Spanish|Channel 4 English|
+|RB Leipzig - Zenit|Channel 5 Spanish||
+|Slavia - FC Barcelona|Channel 1 Spanish|Channel 2 English|
+|Lille vs Valencia|Channel 3 Spanish||
+|Inter Milán - Borussia Dortmund|Channel 7 Spanish|Channel 8 English|
+|Genk - Liverpool|Channel 9 Spanish|Channel 10 English|
 
 #### M3U8 url:
 
-**1 Spanish**
+**3 Spanish **
 ```
-https://dailysport00.global.ssl.fastly.net/live/21/playlist.m3u8
+https://cdndaily1.azureedge.net/live/3/playlist.m3u8
 ```
-**2 English**
+**4 English**
 ```
-https://dailysport00.global.ssl.fastly.net/live/3/playlist.m3u8
-```
-**3 English**
-```
-https://dailysport00.global.ssl.fastly.net/live/1/playlist.m3u8
-```
-**4 Spanish**
-```
-https://dailysport00.global.ssl.fastly.net/live/25/playlist.m3u8
+https://cdndaily1.azureedge.net/live/4/playlist.m3u8
 ```
 **5 Spanish**
 ```
-https://dailysport00.global.ssl.fastly.net/live/26/playlist.m3u8
+https://cdndaily1.azureedge.net/live/5/playlist.m3u8
 ```
 **6 Spanish**
 ```
-https://dailysport00.global.ssl.fastly.net/live/3/playlist.m3u8
+https://cdndaily1.azureedge.net/live/6/playlist.m3u8
+```
+**7 Spanish**
+```
+https://cdndaily1.azureedge.net/live/7/playlist.m3u8
+```
+**8 English**
+```
+https://cdndaily1.azureedge.net/live/8/playlist.m3u8
+```
+**9 English**
+```
+https://cdndaily1.azureedge.net/live/1/playlist.m3u8
+```
+**10 English**
+```
+https://cdndaily.azureedge.net/live/10/playlist.m3u8
 ```
