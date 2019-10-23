@@ -18,31 +18,31 @@
 
 **3 Spanish**
 ```
-https://cdndaily1.azureedge.net/live/3/playlist.m3u8
+https://cdndaily.azureedge.net/live/3/playlist.m3u8
 ```
 **4 English**
 ```
-https://cdndaily1.azureedge.net/live/4/playlist.m3u8
+https://cdndaily.azureedge.net/live/4/playlist.m3u8
 ```
 **5 Spanish**
 ```
-https://cdndaily1.azureedge.net/live/5/playlist.m3u8
+https://cdndaily.azureedge.net/live/5/playlist.m3u8
 ```
 **6 Spanish**
 ```
-https://cdndaily1.azureedge.net/live/6/playlist.m3u8
+https://cdndaily.azureedge.net/live/6/playlist.m3u8
 ```
 **7 Spanish**
 ```
-https://cdndaily1.azureedge.net/live/7/playlist.m3u8
+https://cdndaily.azureedge.net/live/7/playlist.m3u8
 ```
 **8 English**
 ```
-https://cdndaily1.azureedge.net/live/8/playlist.m3u8
+https://cdndaily.azureedge.net/live/8/playlist.m3u8
 ```
 **9 English**
 ```
-https://cdndaily1.azureedge.net/live/1/playlist.m3u8
+https://cdndaily.azureedge.net/live/1/playlist.m3u8
 ```
 **10 English**
 ```
