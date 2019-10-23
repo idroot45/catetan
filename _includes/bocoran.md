@@ -2,17 +2,17 @@
 
 **Perhatikan:** Playlist ini selalu berubah-ubah. Tidak ada jaminan **url m3u8** akan selalu sama dan bisa diakses lagi jika sudah lewat. Silahkan cek lagi mebjelang pertandingan.
 
-#### Date: 23/10/2019
+#### Date: 23/10/2019 - 24/10/2019
 
-|Match|Channel 1|Channel 2|TV Lokal|
-|:---:|---:|---:|---|
-|Multi|5 Spanish|X|X|
-|Ajax vs Chelsea|3 Spanish|4 English|**SCTV**|
-|RB Leipzig vs Zenit|5 Spanish|X|X|
-|Slavia vs FC Barcelona|1 Spanish|2 English|**SCTV**|
-|Lille vs Valencia|3 Spanish|X|X|
-|Inter Milán vs Borussia Dortmund|7 Spanish|8 English|X|
-|Genk vs Liverpool|9 Spanish|10 English|X|
+|Kick Off|Match|Channel 1|Channel 2|TV Lokal|
+|---|:---:|---:|---:|---|
+|-|Multi|5 Spanish|X|X|
+|23:55 WIB|Ajax vs Chelsea|3 Spanish|4 English|**SCTV**|
+|23:55 WIB|RB Leipzig vs Zenit|5 Spanish|X|X|
+|02:00 WIB|Slavia vs FC Barcelona|1 Spanish|2 English|**SCTV**|
+|02:00 WIB|Lille vs Valencia|3 Spanish|X|X|
+|02:00 WIB|Inter Milán vs Borussia Dortmund|7 Spanish|8 English|X|
+|02:00 WIB|Genk vs Liverpool|9 Spanish|10 English|X|
 
 #### M3U8 url:
 
