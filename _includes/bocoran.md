@@ -16,7 +16,7 @@
 
 #### M3U8 url:
 
-**3 Spanish **
+**3 Spanish**
 ```
 https://cdndaily1.azureedge.net/live/3/playlist.m3u8
 ```
