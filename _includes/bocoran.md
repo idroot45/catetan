@@ -4,15 +4,15 @@
 
 #### Date: 23/10/2019
 
-|Match|Channel 1|Channel 2|
-|:---:|---:|---:|
-|Multi|5 Spanish|-|	
-|Ajax vs Chelsea|3 Spanish|4 English|
-|RB Leipzig vs Zenit|5 Spanish||
-|Slavia vs FC Barcelona|1 Spanish|2 English|
-|Lille vs Valencia|3 Spanish|-|
-|Inter Milán vs Borussia Dortmund|7 Spanish|8 English|
-|Genk vs Liverpool|9 Spanish|10 English|
+|Match|Channel 1|Channel 2|TV Lokal|
+|:---:|---:|---:|---|
+|Multi|5 Spanish|X|X|
+|Ajax vs Chelsea|3 Spanish|4 English|**SCTV**|
+|RB Leipzig vs Zenit|5 Spanish|X|X|
+|Slavia vs FC Barcelona|1 Spanish|2 English|**SCTV**|
+|Lille vs Valencia|3 Spanish|X|X|
+|Inter Milán vs Borussia Dortmund|7 Spanish|8 English|X|
+|Genk vs Liverpool|9 Spanish|10 English|X|
 
 #### M3U8 url:
 
