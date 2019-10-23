@@ -1,6 +1,6 @@
 ---
 title: "Catatan Pertandingan Liverpool FC dan Link Streaming [Update]"
-excerpt: "Manchester United vs Liverpool FC, Sabtu 20/10/2019 Kick-Off 22:30 WIB. Premier League Game Week 8"
+excerpt: "Genk vs Liverpool FC, Sabtu 24/10/2019 Kick-Off 02:00 WIB. Champions League Group E"
 header:
  og_image: "https://i1.wp.com/mola01.koicdn.com/u/image/e56abf4a-6885-4286-9a7d-363e470e6b3b/image.jpeg?crop=360px,40px,840px,480px"
  video:
@@ -45,6 +45,12 @@ showTime();
 
 ### Jadwal pekan ini:
 
+Genk vs Liverpool FC, Sabtu 24/10/2019 Kick-Off 02:00 WIB. Champions League Group E
+Lihat [bocoran m3u8](/how-to-stream-with-vlc/)
+{:.notice notice--danger}
+
+### Hasil Sebelumnya:
+
 {% include tengah.html %}
 
 **EPL GW 9** Minggu (20/10/2019) **Manchester Utd. vs Liverpool FC** [A]. **KO 22:30 WIB**.
@@ -58,8 +64,6 @@ showTime();
 - Last season away match (2018/2019) highlight:
 
 {% include video id="-Q5bKEEQRps" provider="youtube" %}
-
-### Hasil Sebelumnya:
 
 **EPL GW 8** Minggu (05/10/2019) **Liverpool FC vs Leicester City** [H]. **KO 21:00 WIB**.
 
