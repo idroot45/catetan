@@ -6,13 +6,13 @@
 
 |Match|Channel 1|Channel 2|
 |:---:|---:|---:|
-|Multi|Channel 5 Spanish||	
-|Ajax - Chelsea|Channel 3 Spanish|Channel 4 English|
-|RB Leipzig - Zenit|Channel 5 Spanish||
-|Slavia - FC Barcelona|Channel 1 Spanish|Channel 2 English|
-|Lille vs Valencia|Channel 3 Spanish||
-|Inter Milán - Borussia Dortmund|Channel 7 Spanish|Channel 8 English|
-|Genk - Liverpool|Channel 9 Spanish|Channel 10 English|
+|Multi|5 Spanish|-|	
+|Ajax vs Chelsea|3 Spanish|4 English|
+|RB Leipzig vs Zenit|5 Spanish||
+|Slavia vs FC Barcelona|1 Spanish|2 English|
+|Lille vs Valencia|3 Spanish|-|
+|Inter Milán vs Borussia Dortmund|7 Spanish|8 English|
+|Genk vs Liverpool|9 Spanish|10 English|
 
 #### M3U8 url:
 
