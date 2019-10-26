@@ -16,6 +16,7 @@ tags:
  - mikrotik kungfu
  - buku mikrotik
  - ebook mikrotik
+last_modified_at: 2019-10-26 22:40:23
 ---
 Router [MikroTik](https://www.knoacc.org/search/label/Mikrotik) dikenal karena fitur-fitur yang lengkap, murah dan kemampuannya yang sangat tinggi. Router Mikrotik bisa diterapkan pada berbagai skenario jaringan dari yang sederhana sampai yang rumit.
 
@@ -58,6 +59,6 @@ Kalau ditanya versi buku elektroniknya, sebenarnya tidak ada yang namanya versi 
 
 | Nama File | Ukuran | Google Drive |
 |:---:|:---:|:---:|
-| `MikrotikKungfuJilid2.zip` | **159 MB** | [disabled](#https://mi.knoacc.org/bitly?st1=MikrotikKungfuJilid2.zip&st2=159MB&cde=2KQMIFS){:.btn .btn--disable} |
+| `MikrotikKungfuJilid2.zip` | **159 MB** | [disabled](https://mi.knoacc.org/bitly?st1=MikrotikKungfuJilid2.zip&st2=159MB&cde=2KQMIFS){:.btn .btn--disable} |
 
 E-book di atas berupa file terkompresi yang didalamnya terdapat 4 file pdf terpisah dari buku karangan **Rendra Towidjojo** yang terbit pertamakali tahun 2013. Sedangkan e-book tersebut merupakan edisi revisi tahun 2016 yang secara resmi **TIDAK ADA**. Terakhir kali mencari, ada yang jual **Mikrotik Kungfu: Kitab 1** di Shopee seharga Rp. 85.000,- (belum ongkir) yang edisi revisi tahun 2019 dan masih bisa dicari di marketplace populer lainnnya. 
