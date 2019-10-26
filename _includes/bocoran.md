@@ -6,7 +6,6 @@
 
 |Kick Off|Match|Channel 1|Channel 2|TV Lokal|
 |---|:---:|---:|---:|---|
-
 |-|Leganes vs Mallorca|1 Spanish|-|-|
 |-|Real Valladolid vs Eibar|1 Spanish|-|-|
 |-|Atlético Madrid vs Athletic Club|1 Spanish|-|-|
