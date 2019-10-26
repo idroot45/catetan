@@ -2,27 +2,44 @@
 
 **Perhatikan:** Playlist ini selalu berubah-ubah. Tidak ada jaminan **url m3u8** akan selalu sama dan bisa diakses lagi jika sudah lewat. Silahkan cek lagi mebjelang pertandingan.
 
-#### Date: 23/10/2019 - 24/10/2019
+#### Date: 26/10/2019 - 27/10/2019
 
 |Kick Off|Match|Channel 1|Channel 2|TV Lokal|
 |---|:---:|---:|---:|---|
-|-|Multi|5 Spanish|X|X|
-|23:55 WIB|Ajax vs Chelsea|3 Spanish|4 English|**SCTV**|
-|23:55 WIB|RB Leipzig vs Zenit|5 Spanish|X|X|
-|02:00 WIB|Slavia vs FC Barcelona|1 Spanish|2 English|**SCTV**|
-|02:00 WIB|Lille vs Valencia|3 Spanish|X|X|
-|02:00 WIB|Inter Milán vs Borussia Dortmund|7 Spanish|8 English|X|
-|02:00 WIB|Genk vs Liverpool|9 Spanish|10 English|X|
+
+|-|Leganes vs Mallorca|1 Spanish|-|-|
+|-|Real Valladolid vs Eibar|1 Spanish|-|-|
+|-|Atlético Madrid vs Athletic Club|1 Spanish|-|-|
+|-|Manchester City vs Aston Villa|2 English|-|-|
+|-|Burnley vs Chelsea|2 English|-|-|
+|-|Rayo vs Ponferradina|6 Spanish|-|-|
+|-|Racing vs Deportivo|6 Spanish|-|-|
+|-|Mirandés vs Tenerife|7 Spanish|-|-|
+|-|Málaga vs Oviedo|8 Spanish|-|-|
+|-|Numancia vs Lugo|6 Spanish|-|-|
+|-|US Lecce vs Juventus|4 Spanish|-|-|
+|-|Inter milan vs Parma|3 Spanish|-|-|
+|-|FC Bayern vs Union Berlin|3 Spanish|-|-|
+|-|Schalke 04 vs Borussia|5 Spanish|-|-|
+|-|Bayer Leverkusen vs Werder Bremen|5 Spanish|-|-|
 
 #### M3U8 url:
 
+**1 Spanish**
+```
+https://cdndaily.azureedge.net/live/1/playlist.m3u8
+```
+**2 English**
+```
+https://cdndaily1.azureedge.net/live/1/playlist.m3u8
+```
 **3 Spanish**
 ```
 https://cdndaily.azureedge.net/live/3/playlist.m3u8
 ```
-**4 English**
+**4 Spanish**
 ```
-https://cdndaily.azureedge.net/live/4/playlist.m3u8
+https://cdndaily.azureedge.net/live/eng2/playlist.m3u8
 ```
 **5 Spanish**
 ```
@@ -36,15 +53,7 @@ https://cdndaily.azureedge.net/live/6/playlist.m3u8
 ```
 https://cdndaily.azureedge.net/live/7/playlist.m3u8
 ```
-**8 English**
+**8 Spanish**
 ```
-https://cdndaily.azureedge.net/live/8/playlist.m3u8
-```
-**9 English**
-```
-https://cdndaily.azureedge.net/live/9/playlist.m3u8
-```
-**10 English**
-```
-https://cdndaily.azureedge.net/live/eng/playlist.m3u8
+https://cdndaily.azureedge.net/live/1/playlist.m3u8
 ```
