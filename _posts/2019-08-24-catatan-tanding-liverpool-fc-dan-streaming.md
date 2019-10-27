@@ -1,6 +1,6 @@
 ---
 title: "Catatan Pertandingan Liverpool FC dan Link Streaming [Update]"
-excerpt: "Genk vs Liverpool FC, Sabtu 24/10/2019 Kick-Off 02:00 WIB. Champions League Group E"
+excerpt: "Liverpool FC vs Tottenham Hotspurs, Minggu 27/10/2019 Kick-Off 23:30 WIB. EPL Game Week 10"
 header:
  og_image: "https://i2-prod.liverpool.com/incoming/article17152992.ece/ALTERNATES/s810/0_GettyImages-1139686618.jpg"
  video:
