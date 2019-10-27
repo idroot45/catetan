@@ -26,31 +26,31 @@
 
 **1 Spanish**
 ```
-https://daily.global.ssl.fastly.net/live/1/playlist.m3u8
+https://d01.global.ssl.fastly.net/live/1/playlist.m3u8
 ```
 **2 English**
 ```
-https://daily.global.ssl.fastly.net/live/eng2/playlist.m3u8
+https://d01.global.ssl.fastly.net/live/1/playlist.m3u8
 ```
 **3 Spanish**
 ```
-https://daily.global.ssl.fastly.net/live/3/playlist.m3u8
+https://d01.global.ssl.fastly.net/live/3/playlist.m3u8
 ```
 **4 Spanish**
 ```
-https://daily.global.ssl.fastly.net/live/4/playlist.m3u8
+https://d01.global.ssl.fastly.net/live/4/playlist.m3u8
 ```
 **5 Spanish**
 ```
-https://daily.global.ssl.fastly.net/live/5/playlist.m3u8
+https://d01.global.ssl.fastly.net/live/5/playlist.m3u8
 ```
 **6 Spanish**
 ```
-https://daily.global.ssl.fastly.net/live/6/playlist.m3u8
+https://d01.global.ssl.fastly.net/live/6/playlist.m3u8
 ```
 **7 Spanish**
 ```
-https://daily.global.ssl.fastly.net/live/7/playlist.m3u8
+https://d01.global.ssl.fastly.net/live/7/playlist.m3u8
 ```
 **8 Spanish**
 ```
@@ -58,7 +58,7 @@ https://daily.global.ssl.fastly.net/live/8/playlist.m3u8
 ```
 **9 English**
 ```
-https://daily.global.ssl.fastly.net/live/9/playlist.m3u8
+https://d01.global.ssl.fastly.net/live/9/playlist.m3u8
 ```
 **11 English**
 ```
