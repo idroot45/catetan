@@ -55,7 +55,6 @@ Genk vs Liverpool FC, Sabtu 24/10/2019 Kick-Off 02:00 WIB. Champions League Grou
 Lihat [bocoran m3u8](/how-to-stream-with-vlc/)
 {:.notice notice--danger}
 
-
 {% include tengah.html %}
 
 **EPL GW 9** Minggu (20/10/2019) **Manchester Utd. vs Liverpool FC** [A]. **KO 22:30 WIB**.
