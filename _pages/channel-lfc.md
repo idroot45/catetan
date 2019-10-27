@@ -2,6 +2,7 @@
 permalink: /lfctv
 layout: stream
 title: "Liverpool FC Streamer Channel"
+excerpt: "Seluk Beluk https://www.catetan.pw/liverpool"
 header:
  og_image: "https://i2-prod.liverpool.com/incoming/article17152992.ece/ALTERNATES/s810/0_GettyImages-1139686618.jpg"
 video_id: "https://daily.global.ssl.fastly.net/live/eng2/playlist.m3u8"
