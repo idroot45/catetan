@@ -4,7 +4,7 @@ excerpt: "Liverpool FC vs Tottenham Hotspurs, Minggu 27/10/2019 Kick-Off 23:30 W
 header:
  og_image: "https://i2-prod.liverpool.com/incoming/article17152992.ece/ALTERNATES/s810/0_GettyImages-1139686618.jpg"
  video:
-  id: "lfctv"
+  id: lfctv
 #  id: Hd6gz1Uqe1Q
   provider: "internal"
 #  provider: youtube
@@ -42,8 +42,6 @@ showTime();
 </script>
 
 ### Jadwal pekan ini:
-
-{% include figure image_path="https://i2-prod.liverpool.com/incoming/article17152977.ece/ALTERNATES/s810/0_GettyImages-1147370076.jpg" url="https://i2-prod.liverpool.com/incoming/article17152977.ece/ALTERNATES/s810/0_GettyImages-1147370076.jpg" caption="The two managers know each others teams inside out. _(Image: Photo credit should read OSCAR DEL POZO/AFP/Getty Images)_"
 
 **EPL GW 10** Minggu (27/10/2019) **Liverpool FC** vs Tottenham Hotspurs [H]. **KO 22:30 WIB**.
 
