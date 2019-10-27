@@ -6,7 +6,7 @@
 
 |Kick Off|Match|Channel 1|Channel 2|
 |---|:---:|---:|---:|---|
-| |F1|10 Spanish| |
+| |F1 Grand Prix|10 Spanish| |
 | |Levante vs Espanyol|1 Spanish| |
 | |Sevilla vs Getafe|1 Spanish| |
 | |Osasuna vs Valencia|1 Spanish| |
@@ -20,7 +20,8 @@
 | |Spal vs Napoli|3 Spanish| |
 | |AS Roma vs Milan|3 Spanish| |
 | |Fiorentina vs Lazio|3 Spanish| |
-| |PSG vs Marseille|8 Spanish	| |
+| |PSG vs Marseille|8 Spanish| |
+
 #### M3U8 url:
 
 **1 Spanish**
