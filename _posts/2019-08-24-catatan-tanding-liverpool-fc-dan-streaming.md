@@ -2,16 +2,16 @@
 title: "Catatan Pertandingan Liverpool FC dan Link Streaming [Update]"
 excerpt: "Genk vs Liverpool FC, Sabtu 24/10/2019 Kick-Off 02:00 WIB. Champions League Group E"
 header:
- og_image: "https://i1.wp.com/mola01.koicdn.com/u/image/e56abf4a-6885-4286-9a7d-363e470e6b3b/image.jpeg?crop=360px,40px,840px,480px"
+ og_image: "https://i2-prod.liverpool.com/incoming/article17152992.ece/ALTERNATES/s810/0_GettyImages-1139686618.jpg"
  video:
-  id: "https://cdndaily.azureedge.net/live/eng/playlist.m3u8"
+  id: "liverpool"
 #  id: Hd6gz1Uqe1Q
-  provider: full_link
+  provider: "internal"
 #  provider: youtube
 #  autoplay: "1"
 categories: [streaming]
 tags: [streaming bola, streaming liverpool, rekap liverpool fc]
-last_modified_at: 2019-10-18 20:33:21
+last_modified_at: 2019-10-27 22:50:21
 redirect_from:
  - /streaming/streaming-m3u8/
  - /liverpool
@@ -23,8 +23,6 @@ redirect_from:
 {:.notice--warning}
 
 ## Catatan pertandingan dan streaming
-
-{% include figure caption="Premiere League Standing Minggu ke-8" image_path="https://i1.wp.com/knoacc.github.io/catetan/assets/images/Screenshot_20191006-235423.jpg?w=460" url="/assets/images/Screenshot_20191006-235423.jpg" alt="EPL 2019/2020 Standing"%}
 
 Postingan ini niatnya hanya untuk menyimpan streaming pertandingan-pertandingan **Liverpool FC** saja. Utamanya *Premier League*, tetapi mungkin ada juga pertandingan di kompetisi lain seperti _Carabao Cup_ dan _Champions League_.
 
@@ -45,11 +43,18 @@ showTime();
 
 ### Jadwal pekan ini:
 
+{% include figure image_path="https://i2-prod.liverpool.com/incoming/article17152977.ece/ALTERNATES/s810/0_GettyImages-1147370076.jpg" url="https://i2-prod.liverpool.com/incoming/article17152977.ece/ALTERNATES/s810/0_GettyImages-1147370076.jpg" caption="The two managers know each other's teams inside out. _(Image: Photo credit should read OSCAR DEL POZO/AFP/Getty Images)_"
+
+**EPL GW 10** Minggu (27/10/2019) **Liverpool FC** vs Tottenham Hotspurs [H]. **KO 22:30 WIB**.
+
+- Lihat [bocoran m3u8](/how-to-stream-with-vlc/) untuk stream via VLC/MX player.
+
+### Hasil Sebelumnya:
+
 Genk vs Liverpool FC, Sabtu 24/10/2019 Kick-Off 02:00 WIB. Champions League Group E
 Lihat [bocoran m3u8](/how-to-stream-with-vlc/)
 {:.notice notice--danger}
 
-### Hasil Sebelumnya:
 
 {% include tengah.html %}
 
