@@ -43,17 +43,24 @@ showTime();
 
 ### Jadwal pekan ini:
 
-**EPL GW 10** Minggu (27/10/2019) **Liverpool FC** vs Tottenham Hotspurs [H]. **KO 22:30 WIB**.
-
-- Lihat [bocoran m3u8](/how-to-stream-with-vlc/) untuk stream via VLC/MX player.
+{% include tengah.html %}
 
 ### Hasil Sebelumnya:
 
-Genk vs Liverpool FC, Sabtu 24/10/2019 Kick-Off 02:00 WIB. Champions League Group E
+**EPL GW 10** Minggu (27/10/2019) **Liverpool FC** vs Tottenham Hotspurs [H]. **KO 22:30 WIB**.
+
+- Lihat [bocoran m3u8](/how-to-stream-with-vlc/) untuk stream via VLC/MX player.
+- Gol tim _away_ di babak pertama.
+- Gol balasan Liverpool FC di menit ke-53 babak kedua: **J. Henderson** dan **Mo Salah** (P)
+- Skor Akhir 2-1, unggul di babak ke-dua.
+
+{% include video provider="youtube" id="5fk2HVGij7k" %}
+
+Genk vs Liverpool FC, Sabtu 24/10/2019 Kick-Off 02:00 WIB. Champions League Group E. Skor Akhir: **4-1**
 Lihat [bocoran m3u8](/how-to-stream-with-vlc/)
 {:.notice notice--danger}
 
-{% include tengah.html %}
+{% include video provider="youtube" id="WKPG0DiXd_A" %}
 
 **EPL GW 9** Minggu (20/10/2019) **Manchester Utd. vs Liverpool FC** [A]. **KO 22:30 WIB**.
 
