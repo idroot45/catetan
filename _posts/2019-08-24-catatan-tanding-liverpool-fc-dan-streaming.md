@@ -43,7 +43,7 @@ showTime();
 
 ### Jadwal pekan ini:
 
-{% include figure image_path="https://i2-prod.liverpool.com/incoming/article17152977.ece/ALTERNATES/s810/0_GettyImages-1147370076.jpg" url="https://i2-prod.liverpool.com/incoming/article17152977.ece/ALTERNATES/s810/0_GettyImages-1147370076.jpg" caption="The two managers know each other's teams inside out. _(Image: Photo credit should read OSCAR DEL POZO/AFP/Getty Images)_"
+{% include figure image_path="https://i2-prod.liverpool.com/incoming/article17152977.ece/ALTERNATES/s810/0_GettyImages-1147370076.jpg" url="https://i2-prod.liverpool.com/incoming/article17152977.ece/ALTERNATES/s810/0_GettyImages-1147370076.jpg" caption="The two managers know each others teams inside out. _(Image: Photo credit should read OSCAR DEL POZO/AFP/Getty Images)_"
 
 **EPL GW 10** Minggu (27/10/2019) **Liverpool FC** vs Tottenham Hotspurs [H]. **KO 22:30 WIB**.
 
