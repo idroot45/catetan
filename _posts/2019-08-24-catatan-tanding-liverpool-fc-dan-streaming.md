@@ -4,7 +4,7 @@ excerpt: "Liverpool FC vs Tottenham Hotspurs, Minggu 27/10/2019 Kick-Off 23:30 W
 header:
  og_image: "https://i2-prod.liverpool.com/incoming/article17152992.ece/ALTERNATES/s810/0_GettyImages-1139686618.jpg"
  video:
-  id: "liverpool"
+  id: "lfc"
 #  id: Hd6gz1Uqe1Q
   provider: "internal"
 #  provider: youtube
