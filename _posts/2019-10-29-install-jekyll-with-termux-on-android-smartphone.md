@@ -18,7 +18,7 @@ But, if you interested and want to know more about web developing with Jekyll, t
 
 There are plenty tutorial how to install jekyll on various OS such as: MacOS, Linux PC also Windows PC. For this time, we will use an Android OS powered smartphone.
 
-You will need Termux app to do this. Install via playstore first. Then do/write the following command.
+You will need [Termux](https://termux.com) app to do this. Install the app from [playstore](https://play.google.com/store/apps/details?id=com.termux) first. Then do/write the following command.
 
 ```terminal
 pkg install ruby clang make libffi 
