@@ -55,6 +55,8 @@ showTime();
 
 **EPL GW 11** Minggu (02/11/2019) **Aston Villa** vs **Liverpool FC** [A]. **KO 22:00 WIB**.
 
+- Ditayangkan TVRI, [hindarkan diri dari mola.tv](#molatv) kops!
+
 ### Hasil Sebelumnya:
 
 **EPL GW 10** Minggu (27/10/2019) **Liverpool FC** vs Tottenham Hotspurs [H]. **KO 22:30 WIB**.
