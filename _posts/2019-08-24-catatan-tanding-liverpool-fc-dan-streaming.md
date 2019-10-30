@@ -45,7 +45,8 @@ showTime();
 
 {% include figure image_path="https://images.daznservices.com/di/library/GOAL/2f/f7/caoimhin-kelleher-liverpool-2019-20_1ggy4dqlsdrik1vym8a70yotk4.jpg?t=513500030&amp;quality=100&amp;h=300" caption="Liverpool rookie Caoimhin Kelleher has been tipped to shine against Arsenal in the Carabao Cup by his international manager Mick McCarthy." %}
 
-**Football League Cup** 16 round: _Liverpool FC_ vs Arsenal FC [H]. Kamis, 1 November 2019 **KO 02:30 WIB**. _**note:** lebih dikenal sebagai **Carabao Cup**_
+**Football League Cup** 16 round: _Liverpool FC_ vs Arsenal FC [H]. Kamis, 1 November 2019 **KO 02:30 WIB**. <br /> _**note:** lebih dikenal sebagai **Carabao Cup**_ <br /> Lihat [bocoran m3u8](/how-to-stream-with-vlc/) untuk stream via VLC/MX player.
+
 {:.notice .notice--info}
 
 {% include tengah.html %}
@@ -54,7 +55,6 @@ showTime();
 
 **EPL GW 10** Minggu (27/10/2019) **Liverpool FC** vs Tottenham Hotspurs [H]. **KO 22:30 WIB**.
 
-- Lihat [bocoran m3u8](/how-to-stream-with-vlc/) untuk stream via VLC/MX player.
 - Gol tim _away_ di babak pertama.
 - Gol balasan Liverpool FC di menit ke-53 babak kedua: **J. Henderson** dan **Mo Salah** (P)
 - Skor Akhir 2-1, unggul di babak ke-dua.
