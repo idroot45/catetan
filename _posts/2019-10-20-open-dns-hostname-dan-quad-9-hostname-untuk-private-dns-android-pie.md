@@ -8,7 +8,7 @@ Di Android Pie, ada fitur Private DNS. Fitur yang berguna untuk mengalirkan perm
 
 Sementara ini, yang sudah punya hostname baru **Cloudflare DNS** dan **Google DNS**. Masing-masing adalah: `1dot1dot1dot1.cloudflare-dns.com` dan `dns.google.com`.
 
-**Koreksi:** Quack 9 sudah punya hostname yakni `dns.quack9.net`
+**Koreksi:** Quad 9 sudah punya hostname yakni `dns.quad9.net`
 {:.notice .notice--warning}
 
 Untuk melihat kebenaran alamat IPV4 masing-masing hostname bisa menggunakan perintah `dig [hostname] A` untuk IPV6 `dig [hostname] AAAA` dari terminal. Tentu harus terpasang paket `dnsutils` (pasang di centos/debian: `pkg install dnsutils`).
@@ -24,7 +24,7 @@ dns.google.com.         536     IN      A       8.8.4.4
 ```
 Hostname tersebut juga punya AAAA Record (IPV6). Sehingga smartphone yang menggunakan ISP yang mendukung IPV6 bisa memakainya sebagai DNS Resolver. Cek sendiri dengan `dig dns.google.com AAAA` dan lihat hasilnya.
 
-### Hostname _Quack 9_ dan _Open DNS_
+### Hostname _Quad 9_ dan _Open DNS_
 
 Jika **Google** dan **Cloudflare** sudah punya _hostname_ untuk server DNS Resolver-nya, Tidak demikian dengan **Open DNS** dan **Quad 9**. Keduanya sepertinya belum menyediakan hostname untuk dipakai untuk fitur private DNS ini.
 
