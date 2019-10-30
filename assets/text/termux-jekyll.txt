@@ -1,0 +1,1838 @@
+Welcome to Termux!
+
+Wiki:            https://wiki.termux.com
+Community forum: https://termux.com/community
+Gitter chat:     https://gitter.im/termux/termux
+IRC channel:     #termux on freenode
+
+Working with packages:
+
+ * Search packages:   pkg search <query>
+ * Install a package: pkg install <package>
+ * Upgrade packages:  pkg upgrade
+
+Subscribing to additional repositories:
+
+ * Root:     pkg install root-repo
+ * Unstable: pkg install unstable-repo
+ * X11:      pkg install x11-repo
+
+Report issues at https://termux.com/issues
+
+$ sudo apt-get install ruby-full
+No command sudo found, did you mean:
+ Command tsudo in package tsu
+$ pkg sudo
+Unknown command: 'sudo' (run 'pkg help' for usage inform
+ation)
+$ apt-get ruby-full
+E: Invalid operation ruby-full
+$ apt-get install ruby-full
+Reading package lists... Done
+Building dependency tree
+Reading state information... Done
+E: Unable to locate package ruby-full
+$ apt --help
+apt 1.4.9 (aarch64)
+Usage: apt [options] command
+
+apt is a commandline package manager and provides comman
+ds for
+searching and managing as well as querying information a
+bout packages.
+It provides the same functionality as the specialized AP
+T tools,
+like apt-get and apt-cache, but enables options more sui
+table for
+interactive use by default.
+
+Most used commands:
+  list - list packages based on package names
+  search - search in package descriptions
+  show - show package details
+  install - install packages
+  remove - remove packages
+  autoremove - Remove automatically all unused packages
+  update - update list of available packages
+  upgrade - upgrade the system by installing/upgrading p
+ackages
+  full-upgrade - upgrade the system by removing/installi
+ng/upgrading packages
+  edit-sources - edit the source information file
+
+See apt(8) for more information about the available comm
+ands.
+Configuration options and syntax is detailed in apt.conf
+(5).
+Information about how to configure sources can be found 
+in sources.list(5).
+Package and version choices can be expressed via apt_pre
+ferences(5).
+Security details are available in apt-secure(8).
+                                        This APT has Sup
+er Cow Powers.
+$ apt update
+Ign:2 https://dl.bintray.com/grimler/game-packages-24 ga
+mes InRelease
+Ign:3 https://dl.bintray.com/grimler/science-packages-24
+ science InRelease
+Ign:1 https://dl.bintray.com/termux/termux-packages-24 s
+table InRelease
+Get:5 https://dl.bintray.com/grimler/game-packages-24 ga
+mes Release [5344 B]
+Hit:5 https://dl.bintray.com/grimler/game-packages-24 ga
+mes Release
+Get:7 https://dl.bintray.com/grimler/science-packages-24
+ science Release [5348 B]
+Hit:7 https://dl.bintray.com/grimler/science-packages-24
+ science Release
+Get:4 https://dl.bintray.com/termux/termux-packages-24 s
+table Release [6061 B]
+Hit:4 https://dl.bintray.com/termux/termux-packages-24 s
+table Release
+Reading package lists... Done
+Building dependency tree
+Reading state information... Done
+All packages are up to date.
+$ apt search ruby
+Sorting... Done
+Full Text Search... Done
+ruby/stable 2.6.5 aarch64
+  Dynamic programming language with a focus on simplicit
+y and productivity
+
+ruby-ri/stable 2.6.5 all
+  Ruby documentation index
+
+weechat-ruby-plugin/stable 2.6-1 aarch64
+  WeeChat Ruby Plugin
+
+$ apt install ruby-ri
+Reading package lists... Done
+Building dependency tree
+Reading state information... Done
+The following additional packages will be installed:
+  libyaml ruby
+The following NEW packages will be installed:
+  libyaml ruby ruby-ri
+0 upgraded, 3 newly installed, 0 to remove and 0 not upg
+raded.
+Need to get 5570 kB of archives.
+After this operation, 96.7 MB of additional disk space w
+ill be used.
+Do you want to continue? [Y/n] y
+Get:1 https://dl.bintray.com/termux/termux-packages-24 s
+table/main aarch64 libyaml aarch64 0.2.2-1 [42.1 kB]
+Get:2 https://dl.bintray.com/termux/termux-packages-24 s
+table/main aarch64 ruby aarch64 2.6.5 [3795 kB]
+Get:3 https://dl.bintray.com/termux/termux-packages-24 s
+table/main aarch64 ruby-ri all 2.6.5 [1733 kB]
+Fetched 5570 kB in 13s (404 kB/s)
+Selecting previously unselected package libyaml.
+(Reading database ... 3053 files and directories current
+ly installed.)
+Preparing to unpack .../libyaml_0.2.2-1_aarch64.deb ...
+Unpacking libyaml (0.2.2-1) ...
+Selecting previously unselected package ruby.
+Preparing to unpack .../ruby_2.6.5_aarch64.deb ...
+Unpacking ruby (2.6.5) ...
+Selecting previously unselected package ruby-ri.
+Preparing to unpack .../archives/ruby-ri_2.6.5_all.deb .
+..
+Unpacking ruby-ri (2.6.5) ...
+Setting up libyaml (0.2.2-1) ...
+Setting up ruby (2.6.5) ...
+Setting up ruby-ri (2.6.5) ...
+$ ruby -v
+ruby 2.6.5p114 (2019-10-01 revision 67812) [aarch64-linu
+x-android]
+$ ruby-ri
+No command ruby-ri found, did you mean:
+ Command ruby in package ruby
+$ gem install bundler
+Fetching bundler-2.0.2.gem
+Successfully installed bundler-2.0.2
+Parsing documentation for bundler-2.0.2
+Installing ri documentation for bundler-2.0.2
+Done installing documentation for bundler after 18 secon
+ds
+1 gem installed
+$ git init blogger
+The program git is not installed. Install it by executin
+g:
+ pkg install git
+$ pkg install git
+Ign:2 https://dl.bintray.com/grimler/game-packages-24 ga
+mes InRelease
+Ign:3 https://dl.bintray.com/grimler/science-packages-24
+ science InRelease
+Ign:1 https://dl.bintray.com/termux/termux-packages-24 s
+table InRelease
+Get:5 https://dl.bintray.com/grimler/game-packages-24 ga
+mes Release [5344 B]
+Hit:5 https://dl.bintray.com/grimler/game-packages-24 ga
+mes Release
+Get:7 https://dl.bintray.com/grimler/science-packages-24
+ science Release [5348 B]
+Hit:7 https://dl.bintray.com/grimler/science-packages-24
+ science Release
+Get:4 https://dl.bintray.com/termux/termux-packages-24 s
+table Release [6061 B]
+Hit:4 https://dl.bintray.com/termux/termux-packages-24 s
+table Release
+Reading package lists... Done
+Building dependency tree
+Reading state information... Done
+All packages are up to date.
+Reading package lists... Done
+Building dependency tree
+Reading state information... Done
+The following additional packages will be installed:
+  pcre2
+The following NEW packages will be installed:
+  git pcre2
+0 upgraded, 2 newly installed, 0 to remove and 0 not upg
+raded.
+Need to get 3962 kB of archives.
+After this operation, 22.5 MB of additional disk space w
+ill be used.
+Do you want to continue? [Y/n] y
+Get:1 https://dl.bintray.com/termux/termux-packages-24 s
+table/main aarch64 pcre2 aarch64 10.33-1 [783 kB]
+Get:2 https://dl.bintray.com/termux/termux-packages-24 s
+table/main aarch64 git aarch64 2.23.0 [3179 kB]
+Fetched 3962 kB in 12s (330 kB/s)
+Selecting previously unselected package pcre2.
+(Reading database ... 22539 files and directories curren
+tly installed.)
+Preparing to unpack .../pcre2_10.33-1_aarch64.deb ...
+Unpacking pcre2 (10.33-1) ...
+Selecting previously unselected package git.
+Preparing to unpack .../git_2.23.0_aarch64.deb ...
+Unpacking git (2.23.0) ...
+Setting up pcre2 (10.33-1) ...
+Setting up git (2.23.0) ...
+$ https://github.com/knoacc/catetan.git
+bash: https://github.com/knoacc/catetan.git: No such fil
+e or directory
+$ git clone
+fatal: You must specify a repository to clone.
+
+usage: git clone [<options>] [--] <repo> [<dir>]
+
+    -v, --verbose         be more verbose
+    -q, --quiet           be more quiet
+    --progress            force progress reporting
+    -n, --no-checkout     don't create a checkout
+    --bare                create a bare repository
+    --mirror              create a mirror repository (im
+plies bare)
+    -l, --local           to clone from a local reposito
+ry
+    --no-hardlinks        don't use local hardlinks, alw
+ays copy
+    -s, --shared          setup as shared repository
+    --recursive ...       alias of --recurse-submodules
+    --recurse-submodules[=<pathspec>]
+                          initialize submodules in the c
+lone
+    -j, --jobs <n>        number of submodules cloned in
+ parallel
+    --template <template-directory>
+                          directory from which templates
+ will be used
+    --reference <repo>    reference repository
+    --reference-if-able <repo>
+                          reference repository
+    --dissociate          use --reference only while clo
+ning
+    -o, --origin <name>   use <name> instead of 'origin'
+ to track upstream
+    -b, --branch <branch>
+                          checkout <branch> instead of t
+he remote's HEAD
+    -u, --upload-pack <path>
+                          path to git-upload-pack on the
+ remote
+    --depth <depth>       create a shallow clone of that
+ depth
+    --shallow-since <time>
+                          create a shallow clone since a
+ specific time
+    --shallow-exclude <revision>
+                          deepen history of shallow clon
+e, excluding rev
+    --single-branch       clone only one branch, HEAD or
+ --branch
+    --no-tags             don't clone any tags, and make
+ later fetches not to follow them
+    --shallow-submodules  any cloned submodules will be 
+shallow
+    --separate-git-dir <gitdir>
+                          separate git dir from working 
+tree
+    -c, --config <key=value>
+                          set config inside the new repo
+sitory
+    --server-option <server-specific>
+                          option to transmit
+    -4, --ipv4            use IPv4 addresses only
+    -6, --ipv6            use IPv6 addresses only
+    --filter <args>       object filtering
+    --remote-submodules   any cloned submodules will use
+ their remote-tracking branch
+
+$
+$ git clone https://github.com/knoacc/catetan.git
+Cloning into 'catetan'...
+remote: Enumerating objects: 43, done.
+remote: Counting objects: 100% (43/43), done.
+remote: Compressing objects: 100% (43/43), done.
+Receiving objects:   4% (220/5491), 116.01 KiB | 208.00 
+Receiving objects:   5% (275/5491), 116.01 KiB | 208.00 
+Receiving objects:   6% (330/5491), 116.01 KiB | 208.00 
+Receiving objects:   7% (385/5491), 116.01 KiB | 208.00 
+Receiving objects:   8% (440/5491), 116.01 KiB | 208.00 
+Receiving objects:   9% (495/5491), 116.01 KiB | 208.00 
+Receiving objects:  10% (550/5491), 116.01 KiB | 208.00 
+Receiving objects:  10% (555/5491), 308.01 KiB | 289.00 
+Receiving objects:  11% (605/5491), 308.01 KiB | 289.00 
+Receiving objects:  12% (659/5491), 308.01 KiB | 289.00 
+Receiving objects:  13% (714/5491), 308.01 KiB | 289.00 
+Receiving objects:  14% (769/5491), 308.01 KiB | 289.00 
+Receiving objects:  15% (824/5491), 308.01 KiB | 289.00 
+Receiving objects:  16% (879/5491), 308.01 KiB | 289.00 
+Receiving objects:  17% (934/5491), 500.01 KiB | 316.00 
+Receiving objects:  18% (989/5491), 500.01 KiB | 316.00 
+Receiving objects:  19% (1044/5491), 500.01 KiB | 316.00
+Receiving objects:  20% (1099/5491), 500.01 KiB | 316.00
+Receiving objects:  21% (1154/5491), 500.01 KiB | 316.00
+Receiving objects:  22% (1209/5491), 500.01 KiB | 316.00
+Receiving objects:  22% (1262/5491), 500.01 KiB | 316.00
+Receiving objects:  23% (1263/5491), 500.01 KiB | 316.00
+Receiving objects:  24% (1318/5491), 500.01 KiB | 316.00
+Receiving objects:  25% (1373/5491), 724.01 KiB | 338.00
+Receiving objects:  26% (1428/5491), 724.01 KiB | 338.00
+Receiving objects:  27% (1483/5491), 724.01 KiB | 338.00
+Receiving objects:  28% (1538/5491), 724.01 KiB | 338.00
+Receiving objects:  29% (1593/5491), 948.01 KiB | 354.00
+Receiving objects:  29% (1600/5491), 1.14 MiB | 366.00 K
+Receiving objects:  29% (1600/5491), 1.59 MiB | 384.00 K
+Receiving objects:  29% (1600/5491), 2.13 MiB | 431.00 K
+Receiving objects:  29% (1600/5491), 2.74 MiB | 473.00 K
+Receiving objects:  29% (1600/5491), 3.40 MiB | 529.00 K
+Receiving objects:  29% (1600/5491), 5.22 MiB | 838.00 K
+Receiving objects:  29% (1600/5491), 6.83 MiB | 1.06 MiB
+Receiving objects:  29% (1601/5491), 7.90 MiB | 1.24 MiB
+Receiving objects:  29% (1602/5491), 10.18 MiB | 1.63 Mi
+Receiving objects:  29% (1608/5491), 11.82 MiB | 1.84 Mi
+Receiving objects:  29% (1621/5491), 14.08 MiB | 1.93 Mi
+Receiving objects:  29% (1638/5491), 17.11 MiB | 2.25 Mi
+Receiving objects:  29% (1638/5491), 18.38 MiB | 2.04 Mi
+Receiving objects:  29% (1638/5491), 20.13 MiB | 2.05 Mi
+Receiving objects:  29% (1639/5491), 21.14 MiB | 1.86 Mi
+Receiving objects:  29% (1639/5491), 24.65 MiB | 2.12 Mi
+Receiving objects:  29% (1640/5491), 27.28 MiB | 1.83 Mi
+Receiving objects:  29% (1640/5491), 29.76 MiB | 1.79 Mi
+Receiving objects:  29% (1640/5491), 30.18 MiB | 1.40 Mi
+Receiving objects:  29% (1640/5491), 30.20 MiB | 1.25 Mi
+Receiving objects:  29% (1640/5491), 30.21 MiB | 1.12 Mi
+Receiving objects:  29% (1640/5491), 30.23 MiB | 768.00 
+Receiving objects:  29% (1640/5491), 30.25 MiB | 462.00 
+Receiving objects:  29% (1640/5491), 30.26 MiB | 322.00 
+Receiving objects:  29% (1640/5491), 30.28 MiB | 216.00 
+Receiving objects:  29% (1640/5491), 30.29 MiB | 25.00 K
+Receiving objects:  29% (1640/5491), 30.31 MiB | 7.00 Ki
+Receiving objects:  29% (1640/5491), 30.32 MiB | 3.00 Ki
+Receiving objects:  29% (1640/5491), 30.34 MiB | 3.00 Ki
+Receiving objects:  29% (1640/5491), 30.42 MiB | 5.00 Ki
+Receiving objects:  29% (1640/5491), 30.57 MiB | 9.00 Ki
+Receiving objects:  29% (1640/5491), 30.71 MiB | 13.00 K
+Receiving objects:  29% (1640/5491), 31.23 MiB | 51.00 K
+Receiving objects:  29% (1640/5491), 31.76 MiB | 290.00 
+Receiving objects:  29% (1640/5491), 32.51 MiB | 428.00 
+Receiving objects:  29% (1640/5491), 33.83 MiB | 691.00 
+Receiving objects:  29% (1640/5491), 35.50 MiB | 993.00 
+Receiving objects:  29% (1640/5491), 36.50 MiB | 1.05 Mi
+Receiving objects:  29% (1640/5491), 36.58 MiB | 1016.00
+Receiving objects:  29% (1640/5491), 37.07 MiB | 923.00 
+Receiving objects:  29% (1640/5491), 37.08 MiB | 761.00 
+Receiving objects:  30% (1648/5491), 37.08 MiB | 761.00 
+Receiving objects:  31% (1703/5491), 37.08 MiB | 761.00 
+Receiving objects:  32% (1758/5491), 37.08 MiB | 761.00 
+Receiving objects:  33% (1813/5491), 37.08 MiB | 761.00 
+Receiving objects:  34% (1867/5491), 37.08 MiB | 761.00 
+Receiving objects:  35% (1922/5491), 37.08 MiB | 761.00 
+Receiving objects:  36% (1977/5491), 37.08 MiB | 761.00 
+Receiving objects:  37% (2032/5491), 37.08 MiB | 761.00 
+Receiving objects:  38% (2087/5491), 37.08 MiB | 761.00 
+Receiving objects:  39% (2142/5491), 37.08 MiB | 761.00 
+Receiving objects:  40% (2197/5491), 37.08 MiB | 761.00 
+Receiving objects:  41% (2252/5491), 37.08 MiB | 761.00 
+Receiving objects:  42% (2307/5491), 37.08 MiB | 761.00 
+Receiving objects:  43% (2362/5491), 37.08 MiB | 761.00 
+Receiving objects:  44% (2417/5491), 37.08 MiB | 761.00 
+Receiving objects:  45% (2471/5491), 37.08 MiB | 761.00 
+Receiving objects:  46% (2526/5491), 37.08 MiB | 761.00 
+Receiving objects:  47% (2581/5491), 37.08 MiB | 761.00 
+Receiving objects:  48% (2636/5491), 37.08 MiB | 761.00 
+Receiving objects:  48% (2643/5491), 37.77 MiB | 572.00 
+Receiving objects:  49% (2691/5491), 38.17 MiB | 497.00 
+Receiving objects:  50% (2746/5491), 38.17 MiB | 497.00 
+Receiving objects:  50% (2752/5491), 38.17 MiB | 497.00 
+Receiving objects:  51% (2801/5491), 38.17 MiB | 497.00 
+Receiving objects:  52% (2856/5491), 38.17 MiB | 497.00 
+Receiving objects:  53% (2911/5491), 38.17 MiB | 497.00 
+Receiving objects:  54% (2966/5491), 38.17 MiB | 497.00 
+Receiving objects:  55% (3021/5491), 38.17 MiB | 497.00 
+Receiving objects:  56% (3075/5491), 38.17 MiB | 497.00 
+Receiving objects:  57% (3130/5491), 38.17 MiB | 497.00 
+Receiving objects:  58% (3185/5491), 38.17 MiB | 497.00 
+Receiving objects:  59% (3240/5491), 38.17 MiB | 497.00 
+Receiving objects:  60% (3295/5491), 38.17 MiB | 497.00 
+Receiving objects:  61% (3350/5491), 38.17 MiB | 497.00 
+Receiving objects:  62% (3405/5491), 38.17 MiB | 497.00 
+Receiving objects:  63% (3460/5491), 38.17 MiB | 497.00 
+Receiving objects:  64% (3515/5491), 38.17 MiB | 497.00 
+Receiving objects:  65% (3570/5491), 38.17 MiB | 497.00 
+Receiving objects:  66% (3625/5491), 38.17 MiB | 497.00 
+Receiving objects:  67% (3679/5491), 38.17 MiB | 497.00 
+Receiving objects:  68% (3734/5491), 38.17 MiB | 497.00 
+Receiving objects:  69% (3789/5491), 38.17 MiB | 497.00 
+Receiving objects:  70% (3844/5491), 38.17 MiB | 497.00 
+Receiving objects:  71% (3899/5491), 38.17 MiB | 497.00 
+Receiving objects:  72% (3954/5491), 38.17 MiB | 497.00 
+Receiving objects:  73% (4009/5491), 38.17 MiB | 497.00 
+Receiving objects:  74% (4064/5491), 38.17 MiB | 497.00 
+Receiving objects:  75% (4119/5491), 38.17 MiB | 497.00 
+Receiving objects:  76% (4174/5491), 38.17 MiB | 497.00 
+Receiving objects:  77% (4229/5491), 38.17 MiB | 497.00 
+Receiving objects:  78% (4283/5491), 38.17 MiB | 497.00 
+Receiving objects:  79% (4338/5491), 38.17 MiB | 497.00 
+Receiving objects:  80% (4393/5491), 38.17 MiB | 497.00 
+Receiving objects:  81% (4448/5491), 38.17 MiB | 497.00 
+Receiving objects:  82% (4503/5491), 38.17 MiB | 497.00 
+Receiving objects:  83% (4558/5491), 38.17 MiB | 497.00 
+Receiving objects:  84% (4613/5491), 38.17 MiB | 497.00 
+Receiving objects:  85% (4668/5491), 38.17 MiB | 497.00 
+Receiving objects:  86% (4723/5491), 38.17 MiB | 497.00 
+Receiving objects:  87% (4778/5491), 38.17 MiB | 497.00 
+Receiving objects:  88% (4833/5491), 38.17 MiB | 497.00 
+Receiving objects:  89% (4887/5491), 38.17 MiB | 497.00 
+Receiving objects:  90% (4942/5491), 38.17 MiB | 497.00 
+Receiving objects:  91% (4997/5491), 38.17 MiB | 497.00 
+Receiving objects:  92% (5052/5491), 38.17 MiB | 497.00 
+Receiving objects:  93% (5107/5491), 38.17 MiB | 497.00 
+Receiving objects:  94% (5162/5491), 38.17 MiB | 497.00 
+Receiving objects:  95% (5217/5491), 38.17 MiB | 497.00 
+Receiving objects:  96% (5272/5491), 38.17 MiB | 497.00 
+Receiving objects:  97% (5327/5491), 38.17 MiB | 497.00 
+remote: Total 5491 (delta 21), reused 0 (delta 0), pack-
+reused 5448
+Receiving objects:  98% (5382/5491), 38.17 MiB | 497.00 
+Receiving objects:  99% (5437/5491), 38.17 MiB | 497.00 
+Receiving objects: 100% (5491/5491), 38.17 MiB | 497.00 
+Receiving objects: 100% (5491/5491), 38.38 MiB | 509.00 
+KiB/s, done.
+Resolving deltas: 100% (3677/3677), done.
+$ cd catetan
+$ bundle exec jekyll serve
+Could not find gem 'github-pages' in any of the gem sour
+ces listed in your Gemfile.
+Run `bundle install` to install missing gems.
+$ bundle install
+Fetching gem metadata from https://rubygems.org/........
+......
+Fetching gem metadata from https://rubygems.org/..
+Resolving dependencies..................................
+.....................
+Fetching concurrent-ruby 1.1.5
+Installing concurrent-ruby 1.1.5
+Fetching i18n 0.9.5
+Installing i18n 0.9.5
+Fetching minitest 5.12.2
+Installing minitest 5.12.2
+Fetching thread_safe 0.3.6
+Installing thread_safe 0.3.6
+Fetching tzinfo 1.2.5
+Installing tzinfo 1.2.5
+Fetching activesupport 4.2.11.1
+Installing activesupport 4.2.11.1
+Fetching public_suffix 3.1.1
+Installing public_suffix 3.1.1
+Fetching addressable 2.7.0
+Installing addressable 2.7.0
+Fetching fastimage 2.1.7
+Installing fastimage 2.1.7
+Fetching colorator 1.1.0
+Installing colorator 1.1.0
+Fetching eventmachine 1.2.7
+Installing eventmachine 1.2.7 with native extensions
+Gem::Ext::BuildError: ERROR: Failed to build gem native
+extension.
+
+current directory:
+/data/data/com.termux/files/usr/lib/ruby/gems/2.6.0/gems
+/eventmachine-1.2.7/ext
+/data/data/com.termux/files/usr/bin/ruby -I
+/data/data/com.termux/files/usr/lib/ruby/2.6.0 -r
+./siteconf20191029-14376-1273ow7.rb extconf.rb
+checking for -lcrypto... *** extconf.rb failed ***
+Could not create Makefile due to some reason, probably
+lack of necessary
+libraries and/or headers.  Check the mkmf.log file for
+more details.  You may
+need configuration options.
+
+Provided configuration options:
+        --with-opt-dir
+        --without-opt-dir
+        --with-opt-include
+        --without-opt-include=${opt-dir}/include
+        --with-opt-lib
+        --without-opt-lib=${opt-dir}/lib
+        --with-make-prog
+        --without-make-prog
+        --srcdir=.
+        --curdir
+--ruby=/data/data/com.termux/files/usr/bin/$(RUBY_BASE_N
+AME)
+        --with-ssl-dir
+        --without-ssl-dir
+        --with-ssl-include
+        --without-ssl-include=${ssl-dir}/include
+        --with-ssl-lib
+        --without-ssl-lib=${ssl-dir}/lib
+        --with-openssl-config
+        --without-openssl-config
+        --with-pkg-config
+        --without-pkg-config
+        --with-cryptolib
+        --without-cryptolib
+/data/data/com.termux/files/usr/lib/ruby/2.6.0/mkmf.rb:4
+67:in
+`try_do': The compiler failed to generate an executable
+file. (RuntimeError)
+You have to install development tools first.
+from
+/data/data/com.termux/files/usr/lib/ruby/2.6.0/mkmf.rb:5
+52:in
+`try_link0'
+from
+/data/data/com.termux/files/usr/lib/ruby/2.6.0/mkmf.rb:5
+70:in
+`try_link'
+from
+/data/data/com.termux/files/usr/lib/ruby/2.6.0/mkmf.rb:7
+89:in
+`try_func'
+from
+/data/data/com.termux/files/usr/lib/ruby/2.6.0/mkmf.rb:1
+016:in
+`block in have_library'
+from
+/data/data/com.termux/files/usr/lib/ruby/2.6.0/mkmf.rb:9
+59:in
+`block in checking_for'
+from
+/data/data/com.termux/files/usr/lib/ruby/2.6.0/mkmf.rb:3
+61:in
+`block (2 levels) in postpone'
+from
+/data/data/com.termux/files/usr/lib/ruby/2.6.0/mkmf.rb:3
+31:in
+`open'
+from
+/data/data/com.termux/files/usr/lib/ruby/2.6.0/mkmf.rb:3
+61:in
+`block in postpone'
+from
+/data/data/com.termux/files/usr/lib/ruby/2.6.0/mkmf.rb:3
+31:in
+`open'
+from
+/data/data/com.termux/files/usr/lib/ruby/2.6.0/mkmf.rb:3
+57:in
+`postpone'
+from
+/data/data/com.termux/files/usr/lib/ruby/2.6.0/mkmf.rb:9
+58:in
+`checking_for'
+from
+/data/data/com.termux/files/usr/lib/ruby/2.6.0/mkmf.rb:1
+011:in
+`have_library'
+        from extconf.rb:8:in `block in check_libs'
+        from extconf.rb:8:in `all?'
+        from extconf.rb:8:in `check_libs'
+        from extconf.rb:95:in `<main>'
+
+To see why this extension failed to compile, please
+check the mkmf.log which can be found here:
+
+/data/data/com.termux/files/usr/lib/ruby/gems/2.6.0/exte
+nsions/aarch64-linux/2.6.0/eventmachine-1.2.7/mkmf.log
+
+extconf failed, exit code 1
+
+Gem files will remain installed in
+/data/data/com.termux/files/usr/lib/ruby/gems/2.6.0/gems
+/eventmachine-1.2.7
+for inspection.
+Results logged to
+/data/data/com.termux/files/usr/lib/ruby/gems/2.6.0/exte
+nsions/aarch64-linux/2.6.0/eventmachine-1.2.7/gem_make.o
+ut
+
+An error occurred while installing eventmachine
+(1.2.7), and Bundler cannot continue.
+Make sure that `gem install eventmachine -v '1.2.7'
+--source 'https://rubygems.org/'` succeeds before
+bundling.
+
+In Gemfile:
+  amp-jekyll was resolved to 1.0.2, which depends on
+    jekyll was resolved to 3.8.5, which depends on
+em-websocket was resolved to 0.5.1, which depends
+on
+        eventmachine
+$ bundle install
+Fetching gem metadata from https://rubygems.org/........
+...
+Fetching gem metadata from https://rubygems.org/.
+Resolving dependencies..................................
+.............................
+Using concurrent-ruby 1.1.5
+Using i18n 0.9.5
+Using minitest 5.12.2
+Using thread_safe 0.3.6
+Using tzinfo 1.2.5
+Using activesupport 4.2.11.1
+Using public_suffix 3.1.1
+Using addressable 2.7.0
+Using bundler 2.0.2
+Fetching coffee-script-source 1.11.1
+Installing coffee-script-source 1.11.1
+Fetching execjs 2.7.0
+Installing execjs 2.7.0
+Fetching coffee-script 2.4.1
+Installing coffee-script 2.4.1
+Using colorator 1.1.0
+Fetching ruby-enum 0.7.2
+Installing ruby-enum 0.7.2
+Fetching commonmarker 0.17.13
+Installing commonmarker 0.17.13 with native extensions
+Gem::Ext::BuildError: ERROR: Failed to build gem native
+extension.
+
+current directory:
+/data/data/com.termux/files/usr/lib/ruby/gems/2.6.0/gems
+/commonmarker-0.17.13/ext/commonmarker
+/data/data/com.termux/files/usr/bin/ruby -I
+/data/data/com.termux/files/usr/lib/ruby/2.6.0 -r
+./siteconf20191029-16812-19xk6zl.rb extconf.rb
+creating Makefile
+
+current directory:
+/data/data/com.termux/files/usr/lib/ruby/gems/2.6.0/gems
+/commonmarker-0.17.13/ext/commonmarker
+make "DESTDIR=" clean
+sh: 1: make: not found
+
+current directory:
+/data/data/com.termux/files/usr/lib/ruby/gems/2.6.0/gems
+/commonmarker-0.17.13/ext/commonmarker
+make "DESTDIR="
+sh: 1: make: not found
+
+make failed, exit code 127
+
+Gem files will remain installed in
+/data/data/com.termux/files/usr/lib/ruby/gems/2.6.0/gems
+/commonmarker-0.17.13
+for inspection.
+Results logged to
+/data/data/com.termux/files/usr/lib/ruby/gems/2.6.0/exte
+nsions/aarch64-linux/2.6.0/commonmarker-0.17.13/gem_make
+.out
+
+An error occurred while installing commonmarker
+(0.17.13), and Bundler cannot continue.
+Make sure that `gem install commonmarker -v '0.17.13'
+--source 'https://rubygems.org/'` succeeds before
+bundling.
+
+In Gemfile:
+  github-pages was resolved to 202, which depends on
+jekyll-commonmark-ghpages was resolved to 0.1.6,
+which depends on
+jekyll-commonmark was resolved to 1.3.1, which
+depends on
+        commonmarker
+$ bundle install
+Fetching gem metadata from https://rubygems.org/........
+...
+Fetching gem metadata from https://rubygems.org/.
+Resolving dependencies..................................
+.............................
+Using concurrent-ruby 1.1.5
+Using i18n 0.9.5
+Using minitest 5.12.2
+Using thread_safe 0.3.6
+Using tzinfo 1.2.5
+Using activesupport 4.2.11.1
+Using public_suffix 3.1.1
+Using addressable 2.7.0
+Using bundler 2.0.2
+Using coffee-script-source 1.11.1
+Using execjs 2.7.0
+Using coffee-script 2.4.1
+Using colorator 1.1.0
+Using ruby-enum 0.7.2
+Fetching commonmarker 0.17.13
+Installing commonmarker 0.17.13 with native extensions
+Gem::Ext::BuildError: ERROR: Failed to build gem native
+extension.
+
+current directory:
+/data/data/com.termux/files/usr/lib/ruby/gems/2.6.0/gems
+/commonmarker-0.17.13/ext/commonmarker
+/data/data/com.termux/files/usr/bin/ruby -I
+/data/data/com.termux/files/usr/lib/ruby/2.6.0 -r
+./siteconf20191029-17082-3r66u0.rb extconf.rb
+creating Makefile
+
+current directory:
+/data/data/com.termux/files/usr/lib/ruby/gems/2.6.0/gems
+/commonmarker-0.17.13/ext/commonmarker
+make "DESTDIR=" clean
+sh: 1: make: not found
+
+current directory:
+/data/data/com.termux/files/usr/lib/ruby/gems/2.6.0/gems
+/commonmarker-0.17.13/ext/commonmarker
+make "DESTDIR="
+sh: 1: make: not found
+
+make failed, exit code 127
+
+Gem files will remain installed in
+/data/data/com.termux/files/usr/lib/ruby/gems/2.6.0/gems
+/commonmarker-0.17.13
+for inspection.
+Results logged to
+/data/data/com.termux/files/usr/lib/ruby/gems/2.6.0/exte
+nsions/aarch64-linux/2.6.0/commonmarker-0.17.13/gem_make
+.out
+
+An error occurred while installing commonmarker
+(0.17.13), and Bundler cannot continue.
+Make sure that `gem install commonmarker -v '0.17.13'
+--source 'https://rubygems.org/'` succeeds before
+bundling.
+
+In Gemfile:
+  github-pages was resolved to 202, which depends on
+jekyll-commonmark-ghpages was resolved to 0.1.6,
+which depends on
+jekyll-commonmark was resolved to 1.3.1, which
+depends on
+        commonmarker
+$ pkg install make
+Ign:2 https://dl.bintray.com/grimler/game-packages-24 ga
+mes InRelease
+Ign:3 https://dl.bintray.com/grimler/science-packages-24
+ science InRelease
+Ign:1 https://dl.bintray.com/termux/termux-packages-24 s
+table InRelease
+Get:5 https://dl.bintray.com/grimler/game-packages-24 ga
+mes Release [5344 B]
+Hit:5 https://dl.bintray.com/grimler/game-packages-24 ga
+mes Release
+Get:7 https://dl.bintray.com/grimler/science-packages-24
+ science Release [5348 B]
+Hit:7 https://dl.bintray.com/grimler/science-packages-24
+ science Release
+Get:4 https://dl.bintray.com/termux/termux-packages-24 s
+table Release [6061 B]
+Hit:4 https://dl.bintray.com/termux/termux-packages-24 s
+table Release
+Reading package lists... Done
+Building dependency tree
+Reading state information... Done
+All packages are up to date.
+Reading package lists... Done
+Building dependency tree
+Reading state information... Done
+The following NEW packages will be installed:
+  make
+0 upgraded, 1 newly installed, 0 to remove and 0 not upg
+raded.
+Need to get 213 kB of archives.
+After this operation, 872 kB of additional disk space wi
+ll be used.
+Get:1 https://dl.bintray.com/termux/termux-packages-24 s
+table/main aarch64 make aarch64 4.2.1-3 [213 kB]
+Fetched 213 kB in 4s (48.5 kB/s)
+Selecting previously unselected package make.
+(Reading database ... 23174 files and directories curren
+tly installed.)
+Preparing to unpack .../make_4.2.1-3_aarch64.deb ...
+Unpacking make (4.2.1-3) ...
+Setting up make (4.2.1-3) ...
+$ bundle install
+Fetching gem metadata from https://rubygems.org/........
+...
+Fetching gem metadata from https://rubygems.org/.
+Resolving dependencies..................................
+.............................
+Using concurrent-ruby 1.1.5
+Using i18n 0.9.5
+Using minitest 5.12.2
+Using thread_safe 0.3.6
+Using tzinfo 1.2.5
+Using activesupport 4.2.11.1
+Using public_suffix 3.1.1
+Using addressable 2.7.0
+Using bundler 2.0.2
+Using coffee-script-source 1.11.1
+Using execjs 2.7.0
+Using coffee-script 2.4.1
+Using colorator 1.1.0
+Using ruby-enum 0.7.2
+Fetching commonmarker 0.17.13
+Installing commonmarker 0.17.13 with native extensions
+Gem::Ext::BuildError: ERROR: Failed to build gem native
+extension.
+
+current directory:
+/data/data/com.termux/files/usr/lib/ruby/gems/2.6.0/gems
+/commonmarker-0.17.13/ext/commonmarker
+/data/data/com.termux/files/usr/bin/ruby -I
+/data/data/com.termux/files/usr/lib/ruby/2.6.0 -r
+./siteconf20191029-17578-1i7p0hz.rb extconf.rb
+creating Makefile
+
+current directory:
+/data/data/com.termux/files/usr/lib/ruby/gems/2.6.0/gems
+/commonmarker-0.17.13/ext/commonmarker
+make "DESTDIR=" clean
+
+current directory:
+/data/data/com.termux/files/usr/lib/ruby/gems/2.6.0/gems
+/commonmarker-0.17.13/ext/commonmarker
+make "DESTDIR="
+compiling arena.c
+make: aarch64-linux-android-clang: Command not found
+make: *** [Makefile:245: arena.o] Error 127
+
+make failed, exit code 2
+
+Gem files will remain installed in
+/data/data/com.termux/files/usr/lib/ruby/gems/2.6.0/gems
+/commonmarker-0.17.13
+for inspection.
+Results logged to
+/data/data/com.termux/files/usr/lib/ruby/gems/2.6.0/exte
+nsions/aarch64-linux/2.6.0/commonmarker-0.17.13/gem_make
+.out
+
+An error occurred while installing commonmarker
+(0.17.13), and Bundler cannot continue.
+Make sure that `gem install commonmarker -v '0.17.13'
+--source 'https://rubygems.org/'` succeeds before
+bundling.
+
+In Gemfile:
+  github-pages was resolved to 202, which depends on
+jekyll-commonmark-ghpages was resolved to 0.1.6,
+which depends on
+jekyll-commonmark was resolved to 1.3.1, which
+depends on
+        commonmarker
+$ gem install commonmarker -v
+ERROR:  While executing gem ... (OptionParser::MissingAr
+gument)
+    missing argument: -v
+$ gem install commonmarker -v '0.17.3' --source 'https:/
+/rubygems.org/'
+ERROR:  Could not find a valid gem 'commonmarker' (= 0.1
+7.3) in any repository
+
+ERROR:  Possible alternatives: commonmarker
+$
+$ gem install commonmarker -v '0.17.13' --source 'https:
+//rubygems.org/'
+Building native extensions. This could take a while...
+ERROR:  Error installing commonmarker:
+        ERROR: Failed to build gem native extension.
+
+    current directory: /data/data/com.termux/files/usr/l
+ib/ruby/gems/2.6.0/gems/commonmarker-0.17.13/ext/commonm
+arker
+/data/data/com.termux/files/usr/bin/ruby -I /data/data/c
+om.termux/files/usr/lib/ruby/2.6.0 -r ./siteconf20191029
+-18375-cmxc5q.rb extconf.rb
+creating Makefile
+
+current directory: /data/data/com.termux/files/usr/lib/r
+uby/gems/2.6.0/gems/commonmarker-0.17.13/ext/commonmarke
+r
+make "DESTDIR=" clean
+
+current directory: /data/data/com.termux/files/usr/lib/r
+uby/gems/2.6.0/gems/commonmarker-0.17.13/ext/commonmarke
+r
+make "DESTDIR="
+compiling arena.c
+make: aarch64-linux-android-clang: Command not found
+make: *** [Makefile:245: arena.o] Error 127
+
+make failed, exit code 2
+
+Gem files will remain installed in /data/data/com.termux
+/files/usr/lib/ruby/gems/2.6.0/gems/commonmarker-0.17.13
+ for inspection.
+Results logged to /data/data/com.termux/files/usr/lib/ru
+by/gems/2.6.0/extensions/aarch64-linux/2.6.0/commonmarke
+r-0.17.13/gem_make.out
+$ pkg install clang
+Ign:2 https://dl.bintray.com/grimler/game-packages-24 ga
+mes InRelease
+Ign:3 https://dl.bintray.com/grimler/science-packages-24
+ science InRelease
+Ign:1 https://dl.bintray.com/termux/termux-packages-24 s
+table InRelease
+Get:5 https://dl.bintray.com/grimler/game-packages-24 ga
+mes Release [5344 B]
+Hit:5 https://dl.bintray.com/grimler/game-packages-24 ga
+mes Release
+Get:7 https://dl.bintray.com/grimler/science-packages-24
+ science Release [5348 B]
+Hit:7 https://dl.bintray.com/grimler/science-packages-24
+ science Release
+Get:4 https://dl.bintray.com/termux/termux-packages-24 s
+table Release [6061 B]
+Hit:4 https://dl.bintray.com/termux/termux-packages-24 s
+table Release
+Reading package lists... Done
+Building dependency tree
+Reading state information... Done
+All packages are up to date.
+Reading package lists... Done
+Building dependency tree
+Reading state information... Done
+The following additional packages will be installed:
+  binutils libllvm ndk-sysroot
+The following NEW packages will be installed:
+  binutils clang libllvm ndk-sysroot
+0 upgraded, 4 newly installed, 0 to remove and 0 not upg
+raded.
+Need to get 28.0 MB of archives.
+After this operation, 176 MB of additional disk space wi
+ll be used.
+Do you want to continue? [Y/n] y
+Get:1 https://dl.bintray.com/termux/termux-packages-24 s
+table/main aarch64 binutils aarch64 2.33.1 [2237 kB]
+Get:2 https://dl.bintray.com/termux/termux-packages-24 s
+table/main aarch64 ndk-sysroot aarch64 20-6 [1443 kB]
+Get:3 https://dl.bintray.com/termux/termux-packages-24 s
+table/main aarch64 libllvm aarch64 9.0.0 [23.6 MB]
+Get:4 https://dl.bintray.com/termux/termux-packages-24 s
+table/main aarch64 clang aarch64 9.0.0 [680 kB]
+Fetched 28.0 MB in 32s (874 kB/s)
+Selecting previously unselected package binutils.
+(Reading database ... 23182 files and directories curren
+tly installed.)
+Preparing to unpack .../binutils_2.33.1_aarch64.deb ...
+Unpacking binutils (2.33.1) ...
+Selecting previously unselected package ndk-sysroot.
+Preparing to unpack .../ndk-sysroot_20-6_aarch64.deb ...
+Unpacking ndk-sysroot (20-6) ...
+Selecting previously unselected package libllvm.
+Preparing to unpack .../libllvm_9.0.0_aarch64.deb ...
+Unpacking libllvm (9.0.0) ...
+Selecting previously unselected package clang.
+Preparing to unpack .../clang_9.0.0_aarch64.deb ...
+Unpacking clang (9.0.0) ...
+Setting up ndk-sysroot (20-6) ...
+Setting up binutils (2.33.1) ...
+Setting up libllvm (9.0.0) ...
+Setting up clang (9.0.0) ...
+$ gem install commonmarker -v '0.17.13' --source 'https:
+//rubygems.org/'
+Building native extensions. This could take a while...
+Successfully installed commonmarker-0.17.13
+Parsing documentation for commonmarker-0.17.13
+Installing ri documentation for commonmarker-0.17.13
+Done installing documentation for commonmarker after 6 s
+econds
+1 gem installed
+$ bundle install
+Fetching gem metadata from https://rubygems.org/........
+...
+Fetching gem metadata from https://rubygems.org/.
+Resolving dependencies..................................
+.............................
+Using concurrent-ruby 1.1.5
+Using i18n 0.9.5
+Using minitest 5.12.2
+Using thread_safe 0.3.6
+Using tzinfo 1.2.5
+Using activesupport 4.2.11.1
+Using public_suffix 3.1.1
+Using addressable 2.7.0
+Using bundler 2.0.2
+Using coffee-script-source 1.11.1
+Using execjs 2.7.0
+Using coffee-script 2.4.1
+Using colorator 1.1.0
+Using ruby-enum 0.7.2
+Using commonmarker 0.17.13
+Fetching dnsruby 1.61.3
+Installing dnsruby 1.61.3
+Fetching eventmachine 1.2.7
+Installing eventmachine 1.2.7 with native extensions
+Fetching http_parser.rb 0.6.0
+Installing http_parser.rb 0.6.0 with native extensions
+Fetching em-websocket 0.5.1
+Installing em-websocket 0.5.1
+Fetching ffi 1.11.1
+Installing ffi 1.11.1 with native extensions
+Fetching ethon 0.12.0
+Installing ethon 0.12.0
+Fetching multipart-post 2.1.1
+Installing multipart-post 2.1.1
+Fetching faraday 0.17.0
+Installing faraday 0.17.0
+Fetching forwardable-extended 2.6.0
+Installing forwardable-extended 2.6.0
+Fetching gemoji 3.0.1
+Installing gemoji 3.0.1
+Fetching sawyer 0.8.2
+Installing sawyer 0.8.2
+Fetching octokit 4.14.0
+Installing octokit 4.14.0
+Fetching typhoeus 1.3.1
+Installing typhoeus 1.3.1
+Fetching github-pages-health-check 1.16.1
+Installing github-pages-health-check 1.16.1
+Fetching rb-fsevent 0.10.3
+Installing rb-fsevent 0.10.3
+Fetching rb-inotify 0.10.0
+Installing rb-inotify 0.10.0
+Fetching sass-listen 4.0.0
+Installing sass-listen 4.0.0
+Fetching sass 3.7.4
+Installing sass 3.7.4
+Fetching jekyll-sass-converter 1.5.2
+Installing jekyll-sass-converter 1.5.2
+Fetching ruby_dep 1.5.0
+Installing ruby_dep 1.5.0
+Fetching listen 3.1.5
+Installing listen 3.1.5
+Fetching jekyll-watch 2.2.1
+Installing jekyll-watch 2.2.1
+Fetching kramdown 1.17.0
+Installing kramdown 1.17.0
+Fetching liquid 4.0.0
+Installing liquid 4.0.0
+Fetching mercenary 0.3.6
+Installing mercenary 0.3.6
+Fetching pathutil 0.16.2
+Installing pathutil 0.16.2
+Fetching rouge 3.11.0
+Installing rouge 3.11.0
+Fetching safe_yaml 1.0.5
+Installing safe_yaml 1.0.5
+Fetching jekyll 3.8.5
+Installing jekyll 3.8.5
+Fetching jekyll-avatar 0.6.0
+Installing jekyll-avatar 0.6.0
+Fetching jekyll-coffeescript 1.1.1
+Installing jekyll-coffeescript 1.1.1
+Fetching jekyll-commonmark 1.3.1
+Installing jekyll-commonmark 1.3.1
+Fetching jekyll-commonmark-ghpages 0.1.6
+Installing jekyll-commonmark-ghpages 0.1.6
+Fetching jekyll-default-layout 0.1.4
+Installing jekyll-default-layout 0.1.4
+Fetching jekyll-feed 0.11.0
+Installing jekyll-feed 0.11.0
+Fetching jekyll-gist 1.5.0
+Installing jekyll-gist 1.5.0
+Fetching jekyll-github-metadata 2.12.1
+Installing jekyll-github-metadata 2.12.1
+Fetching mini_portile2 2.4.0
+Installing mini_portile2 2.4.0
+Fetching nokogiri 1.10.4
+Installing nokogiri 1.10.4 with native extensions
+Fetching html-pipeline 2.12.0
+Installing html-pipeline 2.12.0
+Fetching jekyll-mentions 1.4.1
+Installing jekyll-mentions 1.4.1
+Fetching jekyll-optional-front-matter 0.3.0
+Installing jekyll-optional-front-matter 0.3.0
+Fetching jekyll-paginate 1.1.0
+Installing jekyll-paginate 1.1.0
+Fetching jekyll-readme-index 0.2.0
+Installing jekyll-readme-index 0.2.0
+Fetching jekyll-redirect-from 0.14.0
+Installing jekyll-redirect-from 0.14.0
+Fetching jekyll-relative-links 0.6.0
+Installing jekyll-relative-links 0.6.0
+Fetching rubyzip 2.0.0
+Installing rubyzip 2.0.0
+Fetching jekyll-remote-theme 0.4.0
+Installing jekyll-remote-theme 0.4.0
+Fetching jekyll-seo-tag 2.5.0
+Installing jekyll-seo-tag 2.5.0
+Fetching jekyll-sitemap 1.2.0
+Installing jekyll-sitemap 1.2.0
+Fetching jekyll-swiss 0.4.0
+Installing jekyll-swiss 0.4.0
+Fetching jekyll-theme-architect 0.1.1
+Installing jekyll-theme-architect 0.1.1
+Fetching jekyll-theme-cayman 0.1.1
+Installing jekyll-theme-cayman 0.1.1
+Fetching jekyll-theme-dinky 0.1.1
+Installing jekyll-theme-dinky 0.1.1
+Fetching jekyll-theme-hacker 0.1.1
+Installing jekyll-theme-hacker 0.1.1
+Fetching jekyll-theme-leap-day 0.1.1
+Installing jekyll-theme-leap-day 0.1.1
+Fetching jekyll-theme-merlot 0.1.1
+Installing jekyll-theme-merlot 0.1.1
+Fetching jekyll-theme-midnight 0.1.1
+Installing jekyll-theme-midnight 0.1.1
+Fetching jekyll-theme-minimal 0.1.1
+Installing jekyll-theme-minimal 0.1.1
+Fetching jekyll-theme-modernist 0.1.1
+Installing jekyll-theme-modernist 0.1.1
+Fetching jekyll-theme-primer 0.5.3
+Installing jekyll-theme-primer 0.5.3
+Fetching jekyll-theme-slate 0.1.1
+Installing jekyll-theme-slate 0.1.1
+Fetching jekyll-theme-tactile 0.1.1
+Installing jekyll-theme-tactile 0.1.1
+Fetching jekyll-theme-time-machine 0.1.1
+Installing jekyll-theme-time-machine 0.1.1
+Fetching jekyll-titles-from-headings 0.5.1
+Installing jekyll-titles-from-headings 0.5.1
+Fetching jemoji 0.10.2
+Installing jemoji 0.10.2
+Fetching minima 2.5.0
+Installing minima 2.5.0
+Fetching unicode-display_width 1.6.0
+Installing unicode-display_width 1.6.0
+Fetching terminal-table 1.8.0
+Installing terminal-table 1.8.0
+Fetching github-pages 202
+Installing github-pages 202
+Fetching jekyll-include-cache 0.2.0
+Installing jekyll-include-cache 0.2.0
+Fetching tzinfo-data 1.2019.3
+Installing tzinfo-data 1.2019.3
+Bundle complete! 9 Gemfile dependencies, 87 gems now ins
+talled.
+Use `bundle info [gemname]` to see where a bundled gem i
+s installed.
+Post-install message from dnsruby:
+Installing dnsruby...
+  For issues and source code: https://github.com/alexdal
+itz/dnsruby
+  For general discussion (please tell us how you use dns
+ruby): https://groups.google.com/forum/#!forum/dnsruby
+Post-install message from sass:
+
+Ruby Sass has reached end-of-life and should no longer b
+e used.
+
+* If you use Sass as a command-line tool, we recommend u
+sing Dart Sass, the new
+  primary implementation: https://sass-lang.com/install
+
+* If you use Sass as a plug-in for a Ruby web framework,
+ we recommend using the
+  sassc gem: https://github.com/sass/sassc-ruby#readme
+
+* For more details, please refer to the Sass blog:
+  https://sass-lang.com/blog/posts/7828841
+
+Post-install message from html-pipeline:
+-------------------------------------------------
+Thank you for installing html-pipeline!
+You must bundle Filter gem dependencies.
+See html-pipeline README.md for more details.
+https://github.com/jch/html-pipeline#dependencies
+-------------------------------------------------
+$ bundle exec jekyll serve
+jekyll 3.8.5 | Error:  (/data/data/com.termux/files/home
+/catetan/_config.yml): did not find expected '-' indicat
+or while parsing a block collection at line 77 column 3
+$ bundle exec jekyll serve
+Configuration file: /data/data/com.termux/files/home/cat
+etan/_config.yml
+            Source: /data/data/com.termux/files/home/cat
+etan
+       Destination: /data/data/com.termux/files/home/cat
+etan/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating...
+Invalid theme folder: _sass
+      Remote Theme: Using theme mmistakes/minimal-mistak
+es
+       Jekyll Feed: Generating feed for posts
+   GitHub Metadata: No GitHub API authentication could b
+e found. Some fields may be missing or have incorrect da
+ta.
+   GitHub Metadata: No internet connection. GitHub metad
+ata may be missing or incorrect.
+    Liquid Warning: Liquid syntax error (line 154): Unex
+pected character $ in "{{$page.post.title}}" in /data/da
+ta/com.termux/files/home/catetan/_posts/2019-06-25-build
+ing-a-blog-with-vue-and-markdown-using-gridsome.md
+    Liquid Warning: Liquid syntax error (line 155): Unex
+pected character $ in "{{ $page.post.date}}" in /data/da
+ta/com.termux/files/home/catetan/_posts/2019-06-25-build
+ing-a-blog-with-vue-and-markdown-using-gridsome.md
+    Liquid Warning: Liquid syntax error (line 155): Unex
+pected character $ in "{{$page.post.timeToRead}}" in /da
+ta/data/com.termux/files/home/catetan/_posts/2019-06-25-
+building-a-blog-with-vue-and-markdown-using-gridsome.md
+                    done in 62.764 seconds.
+jekyll 3.8.5 | Error:  Permission denied @ rb_sysopen - 
+/proc/version
+$ su
+root@android:/data/data/com.termux/files/home/catetan # 
+bundle exec jekyll serve
+/system/bin/sh: bundle: not found
+127|root@android:/data/data/com.termux/files/home/cateta
+n # alias
+autoload='\\builtin typeset -fu'
+functions='\\builtin typeset -f'
+hash='\\builtin alias -t'
+history='\\builtin fc -l'
+integer='\\builtin typeset -i'
+l=ls
+la='l -a'
+ll='l -l'
+lo='l -a -l'
+local='\\builtin typeset'
+login='\\builtin exec login'
+nameref='\\builtin typeset -n'
+nohup='nohup '
+r='\\builtin fc -e -'
+type='\\builtin whence -v'
+root@android:/data/data/com.termux/files/home/catetan # 
+alias help
+help alias not found
+1|root@android:/data/data/com.termux/files/home/catetan 
+# help alias
+/system/bin/sh: help: not found
+127|root@android:/data/data/com.termux/files/home/cateta
+n # busybox
+BusyBox v1.30.1-osm0sis (2019-02-28 18:48:08 AST) multi-
+call binary.
+BusyBox is copyrighted by many authors between 1998-2015
+.
+Licensed under GPLv2. See source distribution for detail
+ed
+copyright notices.
+
+Usage: busybox [function [arguments]...]
+   or: busybox --list[-full]
+   or: busybox --show SCRIPT
+   or: busybox --install [-s] [DIR]
+   or: function [arguments]...
+
+        BusyBox is a multi-call binary that combines man
+y common Unix
+        utilities into a single executable.  Most people
+ will create a
+        link to busybox for each function they wish to u
+se and BusyBox
+        will act like whatever it was invoked as.
+
+Currently defined functions:
+        [, [[, acpid, adjtimex, ar, arch, arp, arping,
+        ash, awk, base64, basename, bbconfig, beep,
+        blkdiscard, blkid, blockdev, brctl, bunzip2,
+        bzcat, bzip2, cal, cat, chat, chattr, chgrp,
+        chmod, chown, chroot, chrt, chvt, cksum, clear,
+        cmp, comm, conspy, cp, cpio, crond, crontab,
+        cttyhack, cut, date, dc, dd, deallocvt, depmod,
+        devmem, df, dhcprelay, diff, dirname, dmesg,
+        dnsd, dnsdomainname, dos2unix, du, dumpkmap,
+        dumpleases, echo, ed, egrep, eject, env,
+        ether-wake, expand, expr, factor, fakeidentd,
+        false, fatattr, fbset, fbsplash, fdflush,
+        fdformat, fdisk, fgconsole, fgrep, find,
+        findfs, flock, fold, free, freeramdisk, fsck,
+        fsck.minix, fsfreeze, fstrim, fsync, ftpd,
+        ftpget, ftpput, fuser, getopt, grep, groups,
+        gunzip, gzip, hd, hdparm, head, hexdump,
+        hexedit, hostname, httpd, hush, hwclock, id,
+        ifconfig, ifdown, ifenslave, ifplugd, ifup,
+        inetd, inotifyd, insmod, install, ionice,
+        iostat, ip, ipaddr, ipcalc, ipcrm, ipcs,
+        iplink, ipneigh, iproute, iprule, iptunnel,
+        kbd_mode, kill, killall, killall5, klogd, less,
+        link, ln, loadfont, loadkmap, logread, losetup,
+        ls, lsattr, lsmod, lsof, lspci, lsscsi, lsusb,
+        lzcat, lzma, lzop, lzopcat, makedevs, makemime,
+        man, md5sum, mesg, microcom, mkdir, mkdosfs,
+        mke2fs, mkfifo, mkfs.ext2, mkfs.minix,
+        mkfs.reiser, mkfs.vfat, mknod, mkswap, mktemp,
+        modinfo, modprobe, more, mount, mountpoint,
+        mpstat, mv, nameif, nanddump, nandwrite,
+        nbd-client, nc, netstat, nice, nl, nmeter,
+        nohup, nologin, nslookup, nuke, od, openvt,
+        partprobe, paste, patch, pgrep, pidof, ping,
+        ping6, pipe_progress, pivot_root, pkill, pmap,
+        popmaildir, poweroff, powertop, printenv,
+        printf, ps, pscan, pstree, pwd, pwdx,
+        raidautorun, rdate, rdev, readlink,
+        readprofile, realpath, reboot, reformime,
+        renice, reset, resize, resume, rev, rfkill, rm,
+        rmdir, rmmod, route, rtcwake, run-init,
+        run-parts, rx, script, scriptreplay, sed,
+        sendmail, seq, setconsole, setfattr, setfont,
+        setkeycodes, setlogcons, setpriv, setserial,
+        setsid, setuidgid, sh, sha1sum, sha256sum,
+        sha3sum, sha512sum, showkey, shred, shuf,
+        slattach, sleep, smemcap, sort, split,
+        ssl_client, start-stop-daemon, stat, strings,
+        stty, sum, svc, svok, swapoff, swapon,
+        switch_root, sync, sysctl, syslogd, tac, tail,
+        tar, tc, tcpsvd, tee, telnet, telnetd, test,
+        tftp, tftpd, time, timeout, top, touch, tr,
+        traceroute, traceroute6, true, truncate, tty,
+        ttysize, tunctl, tune2fs, ubiattach, ubidetach,
+        ubimkvol, ubirename, ubirmvol, ubirsvol,
+        ubiupdatevol, udhcpc, udhcpc6, udhcpd, udpsvd,
+        uevent, umount, uname, uncompress, unexpand,
+        uniq, unix2dos, unlink, unlzma, unlzop, unxz,
+        unzip, uptime, usleep, uudecode, uuencode,
+        vconfig, vi, volname, watch, watchdog, wc,
+        wget, which, whoami, whois, xargs, xxd, xz,
+        xzcat, yes, zcat, zcip
+root@android:/data/data/com.termux/files/home/catetan # 
+exit
+$ whoami
+u0_a257
+$ chown
+chown: missing operand
+Try 'chown --help' for more information.
+$ chown --help
+Usage: chown [OPTION]... [OWNER][:[GROUP]] FILE...
+  or:  chown [OPTION]... --reference=RFILE FILE...
+Change the owner and/or group of each FILE to OWNER and/
+or GROUP.
+With --reference, change the owner and group of each FIL
+E to those of RFILE.
+
+  -c, --changes          like verbose but report only wh
+en a change is made
+  -f, --silent, --quiet  suppress most error messages
+  -v, --verbose          output a diagnostic for every f
+ile processed
+      --dereference      affect the referent of each sym
+bolic link (this is
+                         the default), rather than the s
+ymbolic link itself
+  -h, --no-dereference   affect symbolic links instead o
+f any referenced file
+                         (useful only on systems that ca
+n change the
+                         ownership of a symlink)
+      --from=CURRENT_OWNER:CURRENT_GROUP
+                         change the owner and/or group o
+f each file only if
+                         its current owner and/or group 
+match those specified
+                         here.  Either may be omitted, i
+n which case a match
+                         is not required for the omitted
+ attribute
+      --no-preserve-root  do not treat '/' specially (th
+e default)
+      --preserve-root    fail to operate recursively on 
+'/'
+      --reference=RFILE  use RFILE's owner and group rat
+her than
+                         specifying OWNER:GROUP values
+  -R, --recursive        operate on files and directorie
+s recursively
+
+The following options modify how a hierarchy is traverse
+d when the -R
+option is also specified.  If more than one is specified
+, only the final
+one takes effect.
+
+  -H                     if a command line argument is a
+ symbolic link
+                         to a directory, traverse it
+  -L                     traverse every symbolic link to
+ a directory
+                         encountered
+  -P                     do not traverse any symbolic li
+nks (default)
+
+      --help     display this help and exit
+      --version  output version information and exit
+
+Owner is unchanged if missing.  Group is unchanged if mi
+ssing, but changed
+to login group if implied by a ':' following a symbolic 
+OWNER.
+OWNER and GROUP may be numeric as well as symbolic.
+
+Examples:
+  chown root /u        Change the owner of /u to "root".
+  chown root:staff /u  Likewise, but also change its gro
+up to "staff".
+  chown -hR root /u    Change the owner of /u and subfil
+es to "root".
+
+GNU coreutils online help: <https://www.gnu.org/software
+/coreutils/>
+Report any translation bugs to <https://translationproje
+ct.org/team/>
+Full documentation <https://www.gnu.org/software/coreuti
+ls/chown>
+or available locally via: info '(coreutils) chown invoca
+tion'
+$ bundle exec jekyll serve
+Configuration file: /data/data/com.termux/files/home/cat
+etan/_config.yml
+            Source: /data/data/com.termux/files/home/cat
+etan
+       Destination: /data/data/com.termux/files/home/cat
+etan/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating...
+Invalid theme folder: _sass
+      Remote Theme: Using theme mmistakes/minimal-mistak
+es
+       Jekyll Feed: Generating feed for posts
+   GitHub Metadata: No GitHub API authentication could b
+e found. Some fields may be missing or have incorrect da
+ta.
+   GitHub Metadata: No internet connection. GitHub metad
+ata may be missing or incorrect.
+    Liquid Warning: Liquid syntax error (line 154): Unex
+pected character $ in "{{$page.post.title}}" in /data/da
+ta/com.termux/files/home/catetan/_posts/2019-06-25-build
+ing-a-blog-with-vue-and-markdown-using-gridsome.md
+    Liquid Warning: Liquid syntax error (line 155): Unex
+pected character $ in "{{ $page.post.date}}" in /data/da
+ta/com.termux/files/home/catetan/_posts/2019-06-25-build
+ing-a-blog-with-vue-and-markdown-using-gridsome.md
+    Liquid Warning: Liquid syntax error (line 155): Unex
+pected character $ in "{{$page.post.timeToRead}}" in /da
+ta/data/com.termux/files/home/catetan/_posts/2019-06-25-
+building-a-blog-with-vue-and-markdown-using-gridsome.md
+                    done in 61.624 seconds.
+jekyll 3.8.5 | Error:  Permission denied @ rb_sysopen - 
+/proc/version
+$ jekyll serve
+Configuration file: /data/data/com.termux/files/home/cat
+etan/_config.yml
+            Source: /data/data/com.termux/files/home/cat
+etan
+       Destination: /data/data/com.termux/files/home/cat
+etan/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating...
+Invalid theme folder: _sass
+      Remote Theme: Using theme mmistakes/minimal-mistak
+es
+       Jekyll Feed: Generating feed for posts
+   GitHub Metadata: No GitHub API authentication could b
+e found. Some fields may be missing or have incorrect da
+ta.
+   GitHub Metadata: No internet connection. GitHub metad
+ata may be missing or incorrect.
+    Liquid Warning: Liquid syntax error (line 154): Unex
+pected character $ in "{{$page.post.title}}" in /data/da
+ta/com.termux/files/home/catetan/_posts/2019-06-25-build
+ing-a-blog-with-vue-and-markdown-using-gridsome.md
+    Liquid Warning: Liquid syntax error (line 155): Unex
+pected character $ in "{{ $page.post.date}}" in /data/da
+ta/com.termux/files/home/catetan/_posts/2019-06-25-build
+ing-a-blog-with-vue-and-markdown-using-gridsome.md
+    Liquid Warning: Liquid syntax error (line 155): Unex
+pected character $ in "{{$page.post.timeToRead}}" in /da
+ta/data/com.termux/files/home/catetan/_posts/2019-06-25-
+building-a-blog-with-vue-and-markdown-using-gridsome.md
+                    done in 97.996 seconds.
+jekyll 3.8.5 | Error:  Permission denied @ rb_sysopen - 
+/proc/version
+$ bundle show jekyll
+/data/data/com.termux/files/usr/lib/ruby/gems/2.6.0/gems
+/jekyll-3.8.5
+$ bundle exec jekyll serve
+Configuration file: /data/data/com.termux/files/home/cat
+etan/_config.yml
+            Source: /data/data/com.termux/files/home/cat
+etan
+       Destination: /data/data/com.termux/files/home/cat
+etan/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating...
+Invalid theme folder: _sass
+      Remote Theme: Using theme mmistakes/minimal-mistak
+es
+       Jekyll Feed: Generating feed for posts
+   GitHub Metadata: No GitHub API authentication could b
+e found. Some fields may be missing or have incorrect da
+ta.
+   GitHub Metadata: No internet connection. GitHub metad
+ata may be missing or incorrect.
+    Liquid Warning: Liquid syntax error (line 154): Unex
+pected character $ in "{{$page.post.title}}" in /data/da
+ta/com.termux/files/home/catetan/_posts/2019-06-25-build
+ing-a-blog-with-vue-and-markdown-using-gridsome.md
+    Liquid Warning: Liquid syntax error (line 155): Unex
+pected character $ in "{{ $page.post.date}}" in /data/da
+ta/com.termux/files/home/catetan/_posts/2019-06-25-build
+ing-a-blog-with-vue-and-markdown-using-gridsome.md
+    Liquid Warning: Liquid syntax error (line 155): Unex
+pected character $ in "{{$page.post.timeToRead}}" in /da
+ta/data/com.termux/files/home/catetan/_posts/2019-06-25-
+building-a-blog-with-vue-and-markdown-using-gridsome.md
+                    done in 59.596 seconds.
+jekyll 3.8.5 | Error:  uninitialized constant Errno::EAC
+CESS
+$ bundle exec jekyll serve --incremental
+Configuration file: /data/data/com.termux/files/home/cat
+etan/_config.yml
+            Source: /data/data/com.termux/files/home/cat
+etan
+       Destination: /data/data/com.termux/files/home/cat
+etan/_site
+ Incremental build: enabled
+      Generating...
+Invalid theme folder: _sass
+      Remote Theme: Using theme mmistakes/minimal-mistak
+es
+       Jekyll Feed: Generating feed for posts
+   GitHub Metadata: No GitHub API authentication could b
+e found. Some fields may be missing or have incorrect da
+ta.
+   GitHub Metadata: No internet connection. GitHub metad
+ata may be missing or incorrect.
+    Liquid Warning: Liquid syntax error (line 154): Unex
+pected character $ in "{{$page.post.title}}" in /data/da
+ta/com.termux/files/home/catetan/_posts/2019-06-25-build
+ing-a-blog-with-vue-and-markdown-using-gridsome.md
+    Liquid Warning: Liquid syntax error (line 155): Unex
+pected character $ in "{{ $page.post.date}}" in /data/da
+ta/com.termux/files/home/catetan/_posts/2019-06-25-build
+ing-a-blog-with-vue-and-markdown-using-gridsome.md
+    Liquid Warning: Liquid syntax error (line 155): Unex
+pected character $ in "{{$page.post.timeToRead}}" in /da
+ta/data/com.termux/files/home/catetan/_posts/2019-06-25-
+building-a-blog-with-vue-and-markdown-using-gridsome.md
+                    done in 64.707 seconds.
+jekyll 3.8.5 | Error:  uninitialized constant Errno::EAC
+CESS
+$ jekyll serve
+Configuration file: /data/data/com.termux/files/home/cat
+etan/_config.yml
+            Source: /data/data/com.termux/files/home/cat
+etan
+       Destination: /data/data/com.termux/files/home/cat
+etan/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating...
+Invalid theme folder: _sass
+      Remote Theme: Using theme mmistakes/minimal-mistak
+es
+       Jekyll Feed: Generating feed for posts
+   GitHub Metadata: No GitHub API authentication could b
+e found. Some fields may be missing or have incorrect da
+ta.
+   GitHub Metadata: No internet connection. GitHub metad
+ata may be missing or incorrect.
+    Liquid Warning: Liquid syntax error (line 154): Unex
+pected character $ in "{{$page.post.title}}" in /data/da
+ta/com.termux/files/home/catetan/_posts/2019-06-25-build
+ing-a-blog-with-vue-and-markdown-using-gridsome.md
+    Liquid Warning: Liquid syntax error (line 155): Unex
+pected character $ in "{{ $page.post.date}}" in /data/da
+ta/com.termux/files/home/catetan/_posts/2019-06-25-build
+ing-a-blog-with-vue-and-markdown-using-gridsome.md
+    Liquid Warning: Liquid syntax error (line 155): Unex
+pected character $ in "{{$page.post.timeToRead}}" in /da
+ta/data/com.termux/files/home/catetan/_posts/2019-06-25-
+building-a-blog-with-vue-and-markdown-using-gridsome.md
+                    done in 63.269 seconds.
+jekyll 3.8.5 | Error:  uninitialized constant Errno::EAC
+CESS
+$ jekyll serve
+Configuration file: /data/data/com.termux/files/home/cat
+etan/_config.yml
+            Source: /data/data/com.termux/files/home/cat
+etan
+       Destination: /data/data/com.termux/files/home/cat
+etan/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating...
+Invalid theme folder: _sass
+      Remote Theme: Using theme mmistakes/minimal-mistak
+es
+       Jekyll Feed: Generating feed for posts
+   GitHub Metadata: No GitHub API authentication could b
+e found. Some fields may be missing or have incorrect da
+ta.
+   GitHub Metadata: No internet connection. GitHub metad
+ata may be missing or incorrect.
+    Liquid Warning: Liquid syntax error (line 154): Unex
+pected character $ in "{{$page.post.title}}" in /data/da
+ta/com.termux/files/home/catetan/_posts/2019-06-25-build
+ing-a-blog-with-vue-and-markdown-using-gridsome.md
+    Liquid Warning: Liquid syntax error (line 155): Unex
+pected character $ in "{{ $page.post.date}}" in /data/da
+ta/com.termux/files/home/catetan/_posts/2019-06-25-build
+ing-a-blog-with-vue-and-markdown-using-gridsome.md
+    Liquid Warning: Liquid syntax error (line 155): Unex
+pected character $ in "{{$page.post.timeToRead}}" in /da
+ta/data/com.termux/files/home/catetan/_posts/2019-06-25-
+building-a-blog-with-vue-and-markdown-using-gridsome.md
+                    done in 68.147 seconds.
+jekyll 3.8.5 | Error:  Permission denied @ rb_sysopen - 
+/proc/version
+$ jekyll -v
+jekyll 3.8.5
+$ pkg search jekyll
+Ign:2 https://dl.bintray.com/grimler/game-packages-24 ga
+mes InRelease
+Ign:3 https://dl.bintray.com/grimler/science-packages-24
+ science InRelease
+Ign:1 https://dl.bintray.com/termux/termux-packages-24 s
+table InRelease
+Get:5 https://dl.bintray.com/grimler/game-packages-24 ga
+mes Release [5344 B]
+Hit:5 https://dl.bintray.com/grimler/game-packages-24 ga
+mes Release
+Get:7 https://dl.bintray.com/grimler/science-packages-24
+ science Release [5348 B]
+Hit:7 https://dl.bintray.com/grimler/science-packages-24
+ science Release
+Get:4 https://dl.bintray.com/termux/termux-packages-24 s
+table Release [6061 B]
+Hit:4 https://dl.bintray.com/termux/termux-packages-24 s
+table Release
+Reading package lists... Done
+Building dependency tree
+Reading state information... Done
+All packages are up to date.
+Sorting... Done
+Full Text Search... Done
+$ pkg update
+Ign:2 https://dl.bintray.com/grimler/game-packages-24 ga
+mes InRelease
+Ign:3 https://dl.bintray.com/grimler/science-packages-24
+ science InRelease
+Ign:1 https://dl.bintray.com/termux/termux-packages-24 s
+table InRelease
+Get:5 https://dl.bintray.com/grimler/game-packages-24 ga
+mes Release [5344 B]
+Hit:5 https://dl.bintray.com/grimler/game-packages-24 ga
+mes Release
+Get:7 https://dl.bintray.com/grimler/science-packages-24
+ science Release [5348 B]
+Hit:7 https://dl.bintray.com/grimler/science-packages-24
+ science Release
+Get:4 https://dl.bintray.com/termux/termux-packages-24 s
+table Release [6061 B]
+Hit:4 https://dl.bintray.com/termux/termux-packages-24 s
+table Release
+Reading package lists... Done
+Building dependency tree
+Reading state information... Done
+All packages are up to date.
+Reading package lists... Done
+Building dependency tree
+Reading state information... Done
+Calculating upgrade... Done
+0 upgraded, 0 newly installed, 0 to remove and 0 not upg
+raded.
+$ jekyll upgrade --help
+jekyll 3.8.5 -- Jekyll is a blog-aware, static site gene
+rator in Ruby
+
+Usage:
+
+  jekyll <subcommand> [options]
+
+Options:
+        -s, --source [DIR]  Source directory (defaults t
+o ./)
+        -d, --destination [DIR]  Destination directory (
+defaults to ./_site)
+            --safe         Safe mode (defaults to false)
+        -p, --plugins PLUGINS_DIR1[,PLUGINS_DIR2[,...]] 
+ Plugins directory (defaults to ./_plugins)
+            --layouts DIR  Layouts directory (defaults t
+o ./_layouts)
+            --profile      Generate a Liquid rendering p
+rofile
+        -h, --help         Show this message
+        -v, --version      Print the name and version
+        -t, --trace        Show the full backtrace when 
+an error occurs
+
+Subcommands:
+  docs
+  import
+  build, b              Build your site
+  clean                 Clean the site (removes site out
+put and metadata file) without building.
+  doctor, hyde          Search site and print specific d
+eprecation warnings
+  help                  Show the help message, optionall
+y for a given subcommand.
+  new                   Creates a new Jekyll site scaffo
+ld in PATH
+  new-theme             Creates a new Jekyll theme scaff
+old
+  serve, server, s      Serve your site locally
+$ jekyll -h
+jekyll 3.8.5 -- Jekyll is a blog-aware, static site gene
+rator in Ruby
+
+Usage:
+
+  jekyll <subcommand> [options]
+
+Options:
+        -s, --source [DIR]  Source directory (defaults t
+o ./)
+        -d, --destination [DIR]  Destination directory (
+defaults to ./_site)
+            --safe         Safe mode (defaults to false)
+        -p, --plugins PLUGINS_DIR1[,PLUGINS_DIR2[,...]] 
+ Plugins directory (defaults to ./_plugins)
+            --layouts DIR  Layouts directory (defaults t
+o ./_layouts)
+            --profile      Generate a Liquid rendering p
+rofile
+        -h, --help         Show this message
+        -v, --version      Print the name and version
+        -t, --trace        Show the full backtrace when 
+an error occurs
+
+Subcommands:
+  docs
+  import
+  build, b              Build your site
+  clean                 Clean the site (removes site out
+put and metadata file) without building.
+  doctor, hyde          Search site and print specific d
+eprecation warnings
+  help                  Show the help message, optionall
+y for a given subcommand.
+  new                   Creates a new Jekyll site scaffo
+ld in PATH
+  new-theme             Creates a new Jekyll theme scaff
+old
+  serve, server, s      Serve your site locally
+$ jekyll serve
+Configuration file: /data/data/com.termux/files/home/cat
+etan/_config.yml
+            Source: /data/data/com.termux/files/home/cat
+etan
+       Destination: /data/data/com.termux/files/home/cat
+etan/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating...
+Invalid theme folder: _sass
+      Remote Theme: Using theme mmistakes/minimal-mistak
+es
+       Jekyll Feed: Generating feed for posts
+   GitHub Metadata: No GitHub API authentication could b
+e found. Some fields may be missing or have incorrect da
+ta.
+   GitHub Metadata: No internet connection. GitHub metad
+ata may be missing or incorrect.
+    Liquid Warning: Liquid syntax error (line 154): Unex
+pected character $ in "{{$page.post.title}}" in /data/da
+ta/com.termux/files/home/catetan/_posts/2019-06-25-build
+ing-a-blog-with-vue-and-markdown-using-gridsome.md
+    Liquid Warning: Liquid syntax error (line 155): Unex
+pected character $ in "{{ $page.post.date}}" in /data/da
+ta/com.termux/files/home/catetan/_posts/2019-06-25-build
+ing-a-blog-with-vue-and-markdown-using-gridsome.md
+    Liquid Warning: Liquid syntax error (line 155): Unex
+pected character $ in "{{$page.post.timeToRead}}" in /da
+ta/data/com.termux/files/home/catetan/_posts/2019-06-25-
+building-a-blog-with-vue-and-markdown-using-gridsome.md
+                    done in 63.064 seconds.
+ Auto-regeneration: enabled for '/data/data/com.termux/f
+iles/home/catetan'
+    Server address: http://127.0.0.1:4000
+  Server running... press ctrl-c to stop.
+[2019-10-29 18:16:35] ERROR `/favicon.ico' not found.
+      Regenerating: 2 file(s) changed at 2019-10-29 18:1
+7:02
+                    _posts/2019-06-25-building-a-blog-wi
+th-vue-and-markdown-using-gridsome.md
+                    _posts/2019-06-25-building-a-blog-wi
+th-vue-and-markdown-using-gridsome.bak
+Invalid theme folder: _sass
+      Remote Theme: Using theme mmistakes/minimal-mistak
+es
+       Jekyll Feed: Generating feed for posts
+    Liquid Warning: Liquid syntax error (line 154): Unex
+pected character $ in "{{$page.post.title}}" in /data/da
+ta/com.termux/files/home/catetan/_posts/2019-06-25-build
+ing-a-blog-with-vue-and-markdown-using-gridsome.bak
+    Liquid Warning: Liquid syntax error (line 155): Unex
+pected character $ in "{{ $page.post.date}}" in /data/da
+ta/com.termux/files/home/catetan/_posts/2019-06-25-build
+ing-a-blog-with-vue-and-markdown-using-gridsome.bak
+    Liquid Warning: Liquid syntax error (line 155): Unex
+pected character $ in "{{$page.post.timeToRead}}" in /da
+ta/data/com.termux/files/home/catetan/_posts/2019-06-25-
+building-a-blog-with-vue-and-markdown-using-gridsome.bak
+    Liquid Warning: Liquid syntax error (line 154): Unex
+pected character $ in "{{$page.post.title}}" in /data/da
+ta/com.termux/files/home/catetan/_posts/2019-06-25-build
+ing-a-blog-with-vue-and-markdown-using-gridsome.md
+    Liquid Warning: Liquid syntax error (line 155): Unex
+pected character $ in "{{ $page.post.date}}" in /data/da
+ta/com.termux/files/home/catetan/_posts/2019-06-25-build
+ing-a-blog-with-vue-and-markdown-using-gridsome.md
+    Liquid Warning: Liquid syntax error (line 155): Unex
+pected character $ in "{{$page.post.timeToRead}}" in /da
+ta/data/com.termux/files/home/catetan/_posts/2019-06-25-
+building-a-blog-with-vue-and-markdown-using-gridsome.md
+                    ...done in 46.045964223 seconds.
+
+      Regenerating: 2 file(s) changed at 2019-10-29 18:1
+7:48
+                    _posts/2019-06-25-building-a-blog-wi
+th-vue-and-markdown-using-gridsome.md
+                    _posts/2019-06-25-building-a-blog-wi
+th-vue-and-markdown-using-gridsome.bak
+Invalid theme folder: _sass
+      Remote Theme: Using theme mmistakes/minimal-mistak
+es
+       Jekyll Feed: Generating feed for posts
+    Liquid Warning: Liquid syntax error (line 154): Unex
+pected character $ in "{{$page.post.title}}" in /data/da
+ta/com.termux/files/home/catetan/_posts/2019-06-25-build
+ing-a-blog-with-vue-and-markdown-using-gridsome.md
+    Liquid Warning: Liquid syntax error (line 155): Unex
+pected character $ in "{{ $page.post.date}}" in /data/da
+ta/com.termux/files/home/catetan/_posts/2019-06-25-build
+ing-a-blog-with-vue-and-markdown-using-gridsome.md
+    Liquid Warning: Liquid syntax error (line 155): Unex
+pected character $ in "{{$page.post.timeToRead}}" in /da
+ta/data/com.termux/files/home/catetan/_posts/2019-06-25-
+building-a-blog-with-vue-and-markdown-using-gridsome.md
+[2019-10-29 18:17:52] ERROR `/favicon.ico' not found.
