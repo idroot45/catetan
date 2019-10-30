@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-locale: en-ID
+locale: en
 title: Seluk Beluk
 # email:
 description: Seluk Beluk catatan yang tak terlalu penting tentang Web Development, Distro Linux, Android OS, Security Vulnerabilities hingga club sepakbola Liverpool FC"
@@ -42,6 +42,7 @@ search_provider: google
 google:
   search_engine_id: "012409504556434517711:oxyvbv1u6ko"
   instant_search: true
+words_per_minute: 200
 comments:
   provider: utterances
   utterances:
@@ -70,11 +71,8 @@ timezone: Asia/Jakarta # https://en.wikipedia.org/wiki/List_of_tz_database_time_
 
 include:
   - _pages
-
 exclude:
   - _draft
-
-
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
@@ -96,9 +94,6 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
-#  - amp-jekyll
-
-ampdir: "/"
 
 author:
   name   : "Idlohulhaq Nasyrih"
@@ -132,10 +127,8 @@ footer:
       title: "Disclaimer of SeBel"
       icon: "fas fa-fw fa-copyright"
       url: /disclaimer/
-
 sass:
   style: compressed
-
 defaults:
   # _posts
   - scope:
@@ -155,12 +148,10 @@ defaults:
     values:
       layout: single
       author_profile: false
-
 compress_html:
   clippings: all
   ignore:
     envs: development
-
 category_archive:
   type: liquid
   path: /kategori/
