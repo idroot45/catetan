@@ -1,0 +1,10 @@
+language: ruby
+cache: bundler
+gemfile: docs/Gemfile
+script:
+  - bundle exec jekyll --source docs --destination _site --config _config.yml
+branches:
+  only:
+    - master
+rvm:
+ - 2.4
