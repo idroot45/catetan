@@ -1,8 +1,8 @@
 ---
 title: "Catatan Pertandingan Liverpool FC dan Link Streaming [Update]"
-excerpt: "Liverpool FC vs Tottenham Hotspurs, Minggu 27/10/2019 Kick-Off 23:30 WIB. EPL Game Week 10"
+excerpt: "Liverpool FC vs Arsenal FC, Kamis 27/10/2019 Kick-Off 23:30 WIB. EPL Game Week 10"
 header:
- og_image: "https://i2-prod.liverpool.com/incoming/article17152992.ece/ALTERNATES/s810/0_GettyImages-1139686618.jpg"
+ og_image: "https://i0.wp.com/www.thisisanfield.com/wp-content/uploads/007_Arsenal-CC-copy.jpg?resize=1200,625"
  video:
   id: lfctv
 #  id: Hd6gz1Uqe1Q
@@ -11,7 +11,7 @@ header:
 #  autoplay: "1"
 categories: [streaming]
 tags: [streaming bola, streaming liverpool, rekap liverpool fc]
-last_modified_at: 2019-10-27 22:50:21
+last_modified_at: 2019-10-30 20:37:21
 redirect_from:
  - /streaming/streaming-m3u8/
  - /liverpool
@@ -43,6 +43,9 @@ showTime();
 
 ### Jadwal pekan ini:
 
+**Football League Cup** 3<sup>rd</sup> round: _Liverpool FC_ vs Arsenal FC [H]. Kamis, 01 November 2019 **KO 02:30 WIB**. _**note:** lebih dikenal sebagai **Carabao Cup**_
+{:.notice .notice--info}
+
 {% include tengah.html %}
 
 ### Hasil Sebelumnya:
@@ -56,8 +59,7 @@ showTime();
 
 {% include video provider="youtube" id="E-SH2oDT9eQ" %}
 
-Genk vs Liverpool FC, Sabtu 24/10/2019 Kick-Off 02:00 WIB. Champions League Group E. Skor Akhir: **4-1**
-Lihat [bocoran m3u8](/how-to-stream-with-vlc/)
+**Champions League** Group Stage Matchday 3: _Genk_ vs _Liverpool FC_, Sabtu 24/10/2019 Kick-Off 02:00 WIB. Champions League Group E. Skor Akhir: **4-1**
 {:.notice notice--danger}
 
 {% include video provider="youtube" id="WKPG0DiXd_A" %}
@@ -90,8 +92,6 @@ Lihat [bocoran m3u8](/how-to-stream-with-vlc/)
 {: .notice .notice--info}
 
 {% include figure caption="Gol penyelamat dari Mo Salah" alt="Mo Salah vs RB Salzburg" image_path="https://i2-prod.liverpool.com/incoming/article17022711.ece/ALTERNATES/s810/0_GettyImages-1178635744.jpg" %}
-
-Lihat jadwal matchday 2 selengkapnya [di sini](/sepakbola/jadwal-liga-champions-matchday-2-group/).
 
 - Artikel pra-tanding dari portal [This Is Anfield](https://www.thisisanfield.com/2019/09/key-men-manager-impressions-a-curious-link-to-the-past-complete-lowdown-on-salzburg/), [Liverpool.com](https://www.liverpool.com/liverpool-fc-news/features/liverpool-salzburg-man-united-haaland-17001599) dan [Liverpool Echo](https://www.liverpoolecho.co.uk/sport/football/football-news/former-liverpool-man-identifies-key-17007724) bisa dibaca sambil ngopi.
 - Mungkin akan ditayangkan TV Lokal (SCTV).
