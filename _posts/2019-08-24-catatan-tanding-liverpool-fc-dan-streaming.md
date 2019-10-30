@@ -1,6 +1,6 @@
 ---
 title: "Catatan Pertandingan Liverpool FC dan Link Streaming [Update]"
-excerpt: "Liverpool FC vs Arsenal FC, Kamis 27/10/2019 Kick-Off 23:30 WIB. EPL Game Week 10"
+excerpt: "Liverpool FC vs Arsenal FC, Kamis 01/11/2019. Kick-Off 02:30 WIB. Carabao Cup 16 Besar"
 header:
  og_image: "https://i0.wp.com/www.thisisanfield.com/wp-content/uploads/007_Arsenal-CC-copy.jpg?resize=1200,625"
  video:
