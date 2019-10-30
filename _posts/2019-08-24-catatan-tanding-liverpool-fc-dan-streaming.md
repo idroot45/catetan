@@ -43,7 +43,9 @@ showTime();
 
 ### Jadwal pekan ini:
 
-**Football League Cup** 3<sup>rd</sup> round: _Liverpool FC_ vs Arsenal FC [H]. Kamis, 01 November 2019 **KO 02:30 WIB**. _**note:** lebih dikenal sebagai **Carabao Cup**_
+{% include figure image_path="https://images.daznservices.com/di/library/GOAL/2f/f7/caoimhin-kelleher-liverpool-2019-20_1ggy4dqlsdrik1vym8a70yotk4.jpg?t=513500030&amp;quality=100&amp;h=300" caption="Liverpool rookie Caoimhin Kelleher has been tipped to shine against Arsenal in the Carabao Cup by his international manager Mick McCarthy." %}
+
+**Football League Cup** 16 round: _Liverpool FC_ vs Arsenal FC [H]. Kamis, 1 November 2019 **KO 02:30 WIB**. _**note:** lebih dikenal sebagai **Carabao Cup**_
 {:.notice .notice--info}
 
 {% include tengah.html %}
