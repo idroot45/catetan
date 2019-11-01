@@ -1,8 +1,8 @@
 ---
 title: "Catatan Pertandingan Liverpool FC dan Link Streaming [Update]"
-excerpt: "Liverpool FC vs Arsenal FC, Kamis 31/10/2019. Kick-Off 02:30 WIB. Carabao Cup 16 Besar"
+excerpt: "Aston Villa FC vs Liverpool FC, Sabtu 02/11/2019. Kick-Off 22:00 WIB. EPL match game week 11"
 header:
- og_image: "https://i0.wp.com/www.thisisanfield.com/wp-content/uploads/007_Arsenal-CC-copy.jpg?resize=1200,625"
+ og_image: "https://i0.wp.com/res-mola01.koicdn.com/image/fca280ef-f568-47e8-815b-8f76723dd1b3/image.jpeg?crop=280px,70px,920px,460px"
  video:
   id: lfctv
 #  id: Hd6gz1Uqe1Q
@@ -41,23 +41,24 @@ function showTime(){
 showTime();
 </script>
 
-## Jadwal Liverpool FC pekan ini:
+### Jadwal Liverpool FC pekan ini:
 
-{% include figure image_path="https://images.daznservices.com/di/library/GOAL/2f/f7/caoimhin-kelleher-liverpool-2019-20_1ggy4dqlsdrik1vym8a70yotk4.jpg?t=513500030&amp;quality=100&amp;h=300" caption="Liverpool rookie Caoimhin Kelleher has been tipped to shine against Arsenal in the Carabao Cup by his international manager Mick McCarthy." %}
-
-**Football League Cup** 16 round: _Liverpool FC_ vs Arsenal FC [H]. Kamis, 31 Oktober 2019 **KO 02:30 WIB**. <br /> _**note:** lebih dikenal sebagai **Carabao Cup**_ <br /> Lihat [bocoran m3u8](/how-to-stream-with-vlc/) untuk stream via VLC/MX player.
-
-{:.notice .notice--info}
-
-{% include tengah.html %}
-
-{% include figure image_path="https://e0.365dm.com/16/02/768x432/daniel-sturridge-liverpool_3415748.jpg" caption="Six different goalscorers helped Liverpool to a rampant 6-0 win at bottom side Aston Villa in the Premier League _2016_" %}
+{% include figure image_path="https://res-mola01.koicdn.com/image/fca280ef-f568-47e8-815b-8f76723dd1b3/image.jpeg" caption="Poster Aston Villa vs Liverpool FC di mola.tv" %}
 
 **EPL GW 11** Minggu (02/11/2019) **Aston Villa** vs **Liverpool FC** [A]. **KO 22:00 WIB**.
 
+{% include figure image_path="https://e0.365dm.com/16/02/768x432/daniel-sturridge-liverpool_3415748.jpg" caption="Six different goalscorers helped Liverpool to a rampant 6-0 win at bottom side Aston Villa in the Premier League _2016_" %}
+
 - Ditayangkan TVRI, [hindarkan diri dari mola.tv](#molatv) kops!
 
+{% include tengah.html %}
+
 ### Hasil Sebelumnya:
+
+{% include figure image_path="https://images.daznservices.com/di/library/GOAL/2f/f7/caoimhin-kelleher-liverpool-2019-20_1ggy4dqlsdrik1vym8a70yotk4.jpg?t=513500030&amp;quality=100&amp;h=320" caption="Liverpool rookie Caoimhin Kelleher has been tipped to shine against Arsenal in the Carabao Cup by his international manager Mick McCarthy." %}
+
+**Football League Cup** 16 round: _Liverpool FC_ vs Arsenal FC [H]. Kamis, 31 Oktober 2019 **KO 02:30 WIB**. <br /> Hasil Akhir 5-5 (5-4) <br /> LFC's goals: S. Mustafi (9') [OG], J. Milner 43', A. Oxlade Chamberlain 58', D. Origi (63', 90+4). <br /> AFC's goals: L. T. Di Pascua (19'), G. Martinelli (26', 36'), A. Maitland Nilles (54'), J. Willock (70').
+{:.notice .notice--info}
 
 **EPL GW 10** Minggu (27/10/2019) **Liverpool FC** vs Tottenham Hotspurs [H]. **KO 22:30 WIB**.
 
