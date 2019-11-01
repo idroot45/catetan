@@ -4,7 +4,7 @@ excerpt: "This is spesific (personal purpose) enhancement for Minimal Mistakes J
 header:
  video:
   id: "NZ05T0rz0U"
-  provider="twitter"
+  provider: "twitter"
 categories: [eksperimen]
 tags: [twitter embed, twitter video]
 date: 2019-11-01 12:05:00
@@ -27,7 +27,7 @@ title: "Some Title"
 header:
  video:
   id: "NZ05T0rz0U"
-  provider="twitter"
+  provider: "twitter"
 ---
 ```
 
