@@ -6,6 +6,7 @@ header:
  caption: "Twitter tweet (ilustration)"
 categories: [tips]
 tags: [twitter tips, twitter tweet, video tweet]
+date: 2019-11-01 16:35:00
 ---
 In this post, you’ll learn how to share someone’s Twitter video without having to retweet them and why this is incredibly important.
 
