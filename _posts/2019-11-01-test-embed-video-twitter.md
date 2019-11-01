@@ -15,11 +15,16 @@ This blog is using [Minimal Mistakes Jekyll Theme](https://github.com/mmistakes/
 1. Modify the `video` file inside `_includes` like this:
 
 ```raw
-{% elseif video_provider = "twitter" %}
-<iframe src="https://t.co/{{ video_id }}"/></iframe>
+...
+
+{% elsif video_provider == "twitter" %}
+<iframe src="https://t.co/{{ video_id }}" frameborder="0" webkitAllowFullScreen="" mozallowfullscreen="" allowFullScreen="" ></iframe>
+{% endif %}
+
+...
 ```
 
-2. Twitter video embed as a post banner:
+2. Twitter video embed as a post banner by adding in the `yaml` front matter:
 
 ```yaml
 ---
@@ -31,7 +36,7 @@ header:
 ---
 ```
 
-3. Video embed as a body embed:
+3. Video embed as a body embed by adding as a `liquid` includes in the `_posts`:
 
 ```liquid
 {% include video id="NZ05T0rz0U" provider="twitter" %}
