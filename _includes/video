@@ -17,5 +17,7 @@
   <iframe src="{{ video_id }}" frameborder="0" webkitAllowFullScreen="" mozallowfullscreen="" allowFullScreen="" ></iframe>
 {% elsif video_provider == "internal" %}
 <iframe src="/{{ video_id }}" frameborder="0" webkitAllowFullScreen="" mozallowfullscreen="" allowFullScreen="" ></iframe>
+{% elsif video_provider == "twitter" %}
+<iframe src="https://t.co/{{ video_id }}" frameborder="0" webkitAllowFullScreen="" mozallowfullscreen="" allowFullScreen="" ></iframe>
 {% endif %}
 </div>
