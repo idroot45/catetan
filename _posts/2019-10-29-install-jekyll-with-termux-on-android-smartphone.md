@@ -1,7 +1,7 @@
 ---
 title: Install Jekyll via Terminal on Termux Android
 excerpt: Command line install Jekyll with Termux android app
-categories: [android]
+categories: [eksperimen]
 tags: [install jekyll, jekyll android, github pages, termux android]
 ---
 [Jekyll](https://jekylrb.com) is a simple, blog-aware, static site generator for personal, project, or organization sites. Written in Ruby by Tom Preston-Werner, GitHub's co-founder, it is distributed under the open source MIT license.
