@@ -1,6 +1,6 @@
 ---
-title: "Getting Firebase And GRPC Working Under Termux App""
-excerpt: ""We are going to **adjust** the settings of `node-gyp` to make it compile things right **under termux**, and then we are going to **tweak** the `grpc` package itself in our local cache **to make it build correctly** under Termux App on Android or Chromebook."
+title: "Getting Firebase And GRPC Working Under Termux App"
+excerpt: "We are going to **adjust** the settings of `node-gyp` to make it compile things right **under termux**, and then we are going to **tweak** the `grpc` package itself in our local cache **to make it build correctly** under Termux App on Android or Chromebook."
 categories: [ekperimen]
 tags: [firebase, termux, nodejs, yarn, grpc]
 ---
