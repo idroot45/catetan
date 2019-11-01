@@ -3,6 +3,7 @@ title: "Getting Firebase And GRPC Working Under Termux App"
 excerpt: "We are going to **adjust** the settings of `node-gyp` to make it compile things right **under termux**, and then we are going to **tweak** the `grpc` package itself in our local cache **to make it build correctly** under Termux App on Android or Chromebook."
 categories: [ekperimen]
 tags: [firebase, termux, nodejs, yarn, grpc]
+date: 2019-11-01 01:30:00
 ---
 [Firebase]() depends on `grpc`, which isn’t set to build right on the Chromebook/Android. This is because `node-pre-gyp`, which is used to download precompiled binaries, is **not setup correctly**. In then uses `node-gyp` to compile the C++ bindings directly, which is also **not setup correctly**.
 
