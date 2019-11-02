@@ -19,3 +19,22 @@
 |Eintracht vs FC Bayern|Channel 4 Spanish||
 |Bologna vs Inter Milan|Channel 4 Spanish||
 |Torino vs Juventus|Channel 4 Spanish||
+
+### Playlist M3U8
+
+Channel 3
+
+```html
+https://cdna0.global.ssl.fastly.net/live/3/playlist.m3u8
+```
+Channel 2
+
+```html
+https://cdna0.global.ssl.fastly.net/live/2/playlist.m3u8
+```
+
+Channel 4
+
+```html
+https://cdna0.global.ssl.fastly.net/live/4/playlist.m3u8
+```
