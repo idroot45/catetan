@@ -4,9 +4,11 @@ excerpt: "Aston Villa FC vs Liverpool FC, Sabtu 02/11/2019. Kick-Off 22:00 WIB. 
 header:
  og_image: "https://i0.wp.com/res-mola01.koicdn.com/image/fca280ef-f568-47e8-815b-8f76723dd1b3/image.jpeg?crop=280px,70px,920px,460px"
  video:
-  id: lfctv
+   id: "https://www.kooora4live.com/channels/%d8%a8%d9%8a-%d8%a7%d9%86-%d8%b3%d8%a8%d9%88%d8%b1%d8%aa-2?embed"
+#  id: lfctv
 #  id: Hd6gz1Uqe1Q
-  provider: "internal"
+   provider: "full_link"
+#  provider: "internal"
 #  provider: youtube
 #  autoplay: "1"
 categories: [streaming]
