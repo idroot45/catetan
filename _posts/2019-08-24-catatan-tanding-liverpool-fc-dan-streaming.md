@@ -11,7 +11,7 @@ header:
 #  autoplay: "1"
 categories: [streaming]
 tags: [streaming bola, streaming liverpool, rekap liverpool fc]
-last_modified_at: 2019-10-30 20:37:21
+last_modified_at: 2019-11-02 21:24:21
 redirect_from:
  - /streaming/streaming-m3u8/
  - /liverpool
@@ -59,6 +59,8 @@ showTime();
 
 **Football League Cup** 16 round: _Liverpool FC_ vs Arsenal FC [H]. Kamis, 31 Oktober 2019 **KO 02:30 WIB**. <br /> Hasil Akhir 5-5 (5-4) <br /> LFC's goals: S. Mustafi (9') [OG], J. Milner 43', A. Oxlade Chamberlain 58', D. Origi (63', 90+4). <br /> AFC's goals: L. T. Di Pascua (19'), G. Martinelli (26', 36'), A. Maitland Nilles (54'), J. Willock (70').
 {:.notice .notice--info}
+
+{% include video provider="youtube" id="L4ImKDNA8zY" %}
 
 **EPL GW 10** Minggu (27/10/2019) **Liverpool FC** vs Tottenham Hotspurs [H]. **KO 22:30 WIB**.
 
