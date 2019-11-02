@@ -7,7 +7,7 @@ header:
   provider: "twitter"
 categories: [eksperimen]
 tags: [twitter embed, twitter video]
-date: 2019-11-01 12:05:00
+
 ---
 
 This blog is using [Minimal Mistakes Jekyll Theme](https://github.com/mmistakes/minimal-mistakes/) with aplying it as a remote theme.
