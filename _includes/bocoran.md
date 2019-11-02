@@ -2,16 +2,20 @@
 
 **Perhatikan:** Playlist ini selalu berubah-ubah. Tidak ada jaminan **url m3u8** akan selalu sama dan bisa diakses lagi jika sudah lewat. Silahkan cek lagi menjelang pertandingan.
 
-#### Date: 27/10/2019 - 28/10/2019
+#### Date: 02/11/2019 - 03/10/2019
 
 |MATCH|LINK 1|LINK 2|
 |---|---|---|
-|Real Sociedad vs Levante|[Channel 3 Spanish](https://cdadi20.azureedge.net/live/3/playlist.m3u8)	
-|Valencia vs Sevilla|[Channel 1 Spanish](https://cdadi20.azureedge.net/live/1/playlist.m3u8)
-|Athletic vs Espanyol|[Channel 4 Spanish](https://cdadi20.azureedge.net/live/4/playlist.m3u8)
-|Betis vs Celta|[Channel 3 Spanish](https://cdadi20.azureedge.net/live/3/playlist.m3u8)
-|Real Madrid vs Leganés|[Channel 1 Spanish](https://cdadi20.azureedge.net/live/1/playlist.m3u8)
-|**Liverpool vs Arsenal**|[Channel 2 English](https://cdadi20.azureedge.net/live/2/playlist.m3u8)
-|Chelsea vs Manchester United|[Channel 5 English](https://cdadi20.azureedge.net/live/5/playlist.m3u8)	
-|Napoli vs Atalanta|[Channel 6 Spanish](https://cdadi20.azureedge.net/live/6/playlist.m3u8)
-|Juventus vs Genoa|[Channel 6 Spanish](https://cdadi20.azureedge.net/live/6/playlist.m3u8)
+|Espanyol vs Espanyol|Channel 1 Spanish||
+|Levante vs FC Barcelona|Channel 1 Spanish|Channel 2 English|
+|Sevilla vs At. Madrid|Channel 1 Spanish|Channel 2 English|
+|Real Madrid vs Real Betis|Channel 1 Spanish|Channel 2 English|
+|**Bournemouth vs Manchester United**|Channel 3 English|
+|**Manchester City vs Southampton**|Channel 3 English|
+|**Watford vs Chelsea**|Channel 3 English|
+|Fuenlabrada vs Deportivo|Channel 5 Spanish||
+|Alcorcón vs Racing|Channel 5 Spanish||
+|Tenerife vs Huesca|Channel 6 Spanish||
+|Eintracht vs FC Bayern|Channel 4 Spanish||
+|Bologna vs Inter Milan|Channel 4 Spanish||
+|Torino vs Juventus|Channel 4 Spanish||
