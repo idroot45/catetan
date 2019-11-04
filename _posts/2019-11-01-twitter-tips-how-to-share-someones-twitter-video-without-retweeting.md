@@ -68,11 +68,15 @@ For example, if you wanted to share this Tweet’s video without retweeting it:
 
 You would simply copy the link to the Tweet which is:
 
-`https://twitter.com/GramSpacer/status/1139189232508067841`
+```
+https://twitter.com/GramSpacer/status/1139189232508067841
+```
 
 And I’d just add **"/video/1"** to the end of the Tweet’s URL like so:
 
-`https://twitter.com/GramSpacer/status/1139189232508067841/video/1`
+```
+https://twitter.com/GramSpacer/status/1139189232508067841/video/1
+```
 
 Once you have the Tweet’s URL with `/video/1` at the end of it, you can paste the new link on Twitter to share a Twitter video without retweeting it like so:
 
@@ -90,16 +94,16 @@ _Step 3:_ Click “Embed Tweet” (See below)
 
 ![embed tweet](https://miro.medium.com/max/2074/1*IoD0SlHt5Bc8wCjXf1oODw.png)
 
-_Step 4: Copy the full text (see below)
+_Step 4:_ Copy the full text (see below)
 
 ![twee embed code](https://miro.medium.com/max/1374/1*-u8fyxCxmfjWK6SASOA0mQ.png)
 
-_Step 4:_ Paste what you just copied in a note or something so you can find the URL you need to copy next.
+_Step 5:_ Paste what you just copied in a note or something so you can find the URL you need to copy next.
 
 ![video url](https://miro.medium.com/max/2727/1*pq9xy4DpfW3i6tMw4xJG-w.png)
 
-_Step 5:_ From what you just did in Step 4, find and copy the 2nd URL in the text you pasted.
+_Step 6:_ From what you just did in Step 4, find and copy the 2nd URL in the text you pasted.
 
-_Step 6:_ Now just compose what you want to say and paste that URL at the end of your Tweet and you’ll successfully share someone’s video on Twitter without having to retweet them — and you don’t have to have an iPhone.
+_Step 7:_ Now just compose what you want to say and paste that URL at the end of your Tweet and you’ll successfully share someone’s video on Twitter without having to retweet them — and you don’t have to have an iPhone.
 
 _source: [AndrewLeeReal@Medium](https://medium.com/@AndrewLeeReal)_
