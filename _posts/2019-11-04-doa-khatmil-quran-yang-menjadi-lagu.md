@@ -41,11 +41,10 @@ sebagai hujjah bagiku
 ```
 ***
 
-Adaptasi lagu tersebut bisa diputar di bawah ini:
+Adaptasi lagu tersebut mempunyai lirik dalam 3 bahasa. Bisa diputar di bawah ini:
 
 <audio controls>
   <source src="/assets/audio/Allah%20Turunkan%20Rahmat%20Qur'an" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
 
-***
