@@ -40,7 +40,7 @@ _Step 2:_ Tap and hold down on the “play button” for the Tweet’s video
 
 _Step 3:_ Select the “Tweet Video” icon at the bottom of your screen.
 
-![Tweet Video icon]https://miro.medium.com/max/2025/1*mKRez6c_dEbH_85jDCOsIQ@2x.jpeg
+![Tweet Video icon](https://miro.medium.com/max/2025/1*mKRez6c_dEbH_85jDCOsIQ@2x.jpeg
 
 You’ll then be given a URL (like what you see below).
 
