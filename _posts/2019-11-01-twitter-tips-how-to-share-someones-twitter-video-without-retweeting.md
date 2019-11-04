@@ -40,7 +40,7 @@ _Step 2:_ Tap and hold down on the “play button” for the Tweet’s video
 
 _Step 3:_ Select the “Tweet Video” icon at the bottom of your screen.
 
-![Tweet Video icon](https://miro.medium.com/max/2025/1*mKRez6c_dEbH_85jDCOsIQ@2x.jpeg
+![Tweet Video icon](https://miro.medium.com/max/2025/1*mKRez6c_dEbH_85jDCOsIQ@2x.jpeg)
 
 You’ll then be given a URL (like what you see below).
 
@@ -76,7 +76,7 @@ And I’d just add **"/video/1"** to the end of the Tweet’s URL like so:
 
 Once you have the Tweet’s URL with `/video/1` at the end of it, you can paste the new link on Twitter to share a Twitter video without retweeting it like so:
 
-![the tweet result]https://miro.medium.com/max/2025/1*aYc4EOiXCwf1pGjAgAi8Cw.jpeg)
+![the tweet result](https://miro.medium.com/max/2025/1*aYc4EOiXCwf1pGjAgAi8Cw.jpeg)
 
 ### Another Way
 
