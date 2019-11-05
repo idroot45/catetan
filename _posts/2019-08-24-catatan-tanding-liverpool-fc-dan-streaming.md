@@ -1,6 +1,6 @@
 ---
 title: "Catatan Pertandingan Liverpool FC dan Link Streaming [Update]"
-excerpt: "Aston Villa FC vs Liverpool FC, Sabtu 02/11/2019. Kick-Off 22:00 WIB. EPL match game week 11"
+excerpt: "Liverpool FC vs Genk - Rabu 06/11/2019. Kick-Off 03:00 WIB. Champions League Group Stage"
 header:
  og_image: "https://i.ytimg.com/vi/dPnuTbPqEfM/maxresdefault.jpg"
  video:
