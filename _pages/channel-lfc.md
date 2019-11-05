@@ -4,7 +4,7 @@ permalink: /lfctv
 layout: stream
 header:
  og_image: "https://i0.wp.com/res-mola01.koicdn.com/image/fca280ef-f568-47e8-815b-8f76723dd1b3/image.jpeg?crop=280px,70px,920px,460px"
-video_id: "cdna0.global.ssl.fastly.net/live/3/playlist"
+video_id: "cdndaily000.azureedge.net/live/4/playlist"
 poster: "https://i0.wp.com/res-mola01.koicdn.com/image/fca280ef-f568-47e8-815b-8f76723dd1b3/image.jpeg?crop=280px,70px,920px,460px"
 sitemap: false
 ---
