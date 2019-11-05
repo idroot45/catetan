@@ -2,15 +2,10 @@
 title: "Catatan Pertandingan Liverpool FC dan Link Streaming [Update]"
 excerpt: "Aston Villa FC vs Liverpool FC, Sabtu 02/11/2019. Kick-Off 22:00 WIB. EPL match game week 11"
 header:
- og_image: "https://i0.wp.com/res-mola01.koicdn.com/image/fca280ef-f568-47e8-815b-8f76723dd1b3/image.jpeg?crop=280px,70px,920px,460px"
+ og_image: "https://i.ytimg.com/vi/dPnuTbPqEfM/maxresdefault.jpg"
  video:
-   id: "https://www.kooora4live.com/channels/%d8%a8%d9%8a-%d8%a7%d9%86-%d8%b3%d8%a8%d9%88%d8%b1%d8%aa-2?embed"
-#  id: lfctv
-#  id: Hd6gz1Uqe1Q
-   provider: "full_link"
-#  provider: "internal"
-#  provider: youtube
-#  autoplay: "1"
+  id: lfctv
+  provider: internal
 categories: [streaming]
 tags: [streaming bola, streaming liverpool, rekap liverpool fc]
 last_modified_at: 2019-11-02 21:24:21
@@ -45,7 +40,13 @@ showTime();
 
 ### Jadwal Liverpool FC pekan ini:
 
-{% include figure image_path="https://res-mola01.koicdn.com/image/fca280ef-f568-47e8-815b-8f76723dd1b3/image.jpeg" caption="Poster Aston Villa vs Liverpool FC di mola.tv" %}
+**Champions League** Group Stage Matchday 4: _Liverpool FC_ vs _Genk_, Rabu 05/11/2019 Kick-Off 02:00 WIB. Champions League Group E.
+{:.notice notice--danger}
+
+{% include tengah.html %}
+
+### Hasil Sebelumnya:
+
 
 **EPL GW 11** Minggu (02/11/2019) **Aston Villa** vs **Liverpool FC** [A]. **KO 22:00 WIB**.
 
@@ -53,9 +54,6 @@ showTime();
 
 - Ditayangkan TVRI, [hindarkan diri dari mola.tv](#molatv) kops!
 
-{% include tengah.html %}
-
-### Hasil Sebelumnya:
 
 {% include figure image_path="https://images.daznservices.com/di/library/GOAL/2f/f7/caoimhin-kelleher-liverpool-2019-20_1ggy4dqlsdrik1vym8a70yotk4.jpg?t=513500030&amp;quality=100&amp;h=320" caption="Liverpool rookie Caoimhin Kelleher has been tipped to shine against Arsenal in the Carabao Cup by his international manager Mick McCarthy." %}
 
