@@ -1,0 +1,8 @@
+#EXTM3U
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=354891,RESOLUTION=864x360,FRAME-RATE=23.974,CODECS="avc1.4d401f,mp4a.40.2"
+https://stream04.cdncv.net/hls/mfqjy6okxto6sr7qw74uziatxfbhws76mklz76v54gp7cgjw6cuvu4u7uvna/index-v1-a1.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1391828,RESOLUTION=1728x720,FRAME-RATE=30.000,CODECS="avc1.640020,mp4a.40.2"
+https://stream04.cdncv.net/hls/mfqjy6okxto6sr7qw74uziatxfbhws76mklz76v54pa7agjw6cuvri6gmkxq/index-v1-a1.m3u8
+
+#EXT-X-I-FRAME-STREAM-INF:BANDWIDTH=18859,RESOLUTION=864x360,CODECS="avc1.4d401f",URI="https://stream04.cdncv.net/hls/mfqjy6okxto6sr7qw74uziatxfbhws76mklz76v54gp7cgjw6cuvu4u7uvna/iframes-v1-a1.m3u8"
+#EXT-X-I-FRAME-STREAM-INF:BANDWIDTH=115256,RESOLUTION=1728x720,CODECS="avc1.640020",URI="https://stream04.cdncv.net/hls/mfqjy6okxto6sr7qw74uziatxfbhws76mklz76v54pa7agjw6cuvri6gmkxq/iframes-v1-a1.m3u8"
