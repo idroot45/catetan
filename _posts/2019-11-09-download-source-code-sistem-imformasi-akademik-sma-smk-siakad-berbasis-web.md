@@ -28,6 +28,6 @@ Source code aplikasi sistem informasi manajemen sekolah ini ditujukan untuk pemb
 
 Silakan download source code sistem informasi manajemen akademik sekolah (siakad) berbasis web melalui tombol download dibawah ini secara gratis.</p>
 
-<a href="" target="_blank" class="btn btn-info"><i class="fa fa-download"></i>Download</a>
+[_ _{:.fa .fa-download} Download](/){:.btn .btn--info .align-center target="_blank" rel="nofollow noopener noreferer"}
 
 _sumber: sarjanakomedi.com_
