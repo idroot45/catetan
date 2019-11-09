@@ -28,6 +28,6 @@ Source code aplikasi sistem informasi manajemen sekolah ini ditujukan untuk pemb
 
 Silakan download source code sistem informasi manajemen akademik sekolah (siakad) berbasis web melalui tombol download dibawah ini secara gratis.
 
-[<i class="fa fa-download"/> Download 28,86 MB](https://mi.knoacc.org/dl/mega?hash=Mk0gCIQT!sezpAaFEBXowvNhuxbDQgqPgKjMSGW_qR4P9vVwjwYg&size=27.53MB&name=siakad-sma-smk-master.zip){:.btn .btn--info .align-center target="_blank" rel="nofollow noopener noreferer"}
+[<i class="fa fa-download"/> Download 27.53 MB](https://mi.knoacc.org/dl/mega?hash=Mk0gCIQT!sezpAaFEBXowvNhuxbDQgqPgKjMSGW_qR4P9vVwjwYg&size=27.5MB&name=siakad-sma-smk-master.zip){:.btn .btn--info .align-center target="_blank" rel="nofollow noopener noreferer"}
 
 _sumber: sarjanakomedi.com_
