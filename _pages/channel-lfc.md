@@ -1,12 +1,12 @@
 ---
-title: "English Premiere Leguae (EPL) Aston Villa Liverpool FC"
+title: "LFCTV: Liverpool FC vs Manchester City"
 permalink: /lfctv
 layout: stream
 header:
- og_image: "https://i.ytimg.com/vi/dPnuTbPqEfM/maxresdefault.jpg"
-video_id: "cdndaily000.azureedge.net/live/4/playlist"
-poster: "https://i0.wp.com/res-mola01.koicdn.com/image/fca280ef-f568-47e8-815b-8f76723dd1b3/image.jpeg?crop=280px,70px,920px,460px"
+ og_image: "https://i2-prod.liverpool.com/incoming/article17156419.ece/ALTERNATES/s810/2_GettyImages-1183791780.jpg"
+video_id: "cdn0a.azureedge.net/live/2/playlist"
+poster: "https://i2-prod.liverpool.com/incoming/article17156419.ece/ALTERNATES/s810/2_GettyImages-1183791780.jpg"
 sitemap: false
 ---
-<style>h1#page-title{display:none;height:0;visibility:hidden;!important</style>
+Dummy
 
