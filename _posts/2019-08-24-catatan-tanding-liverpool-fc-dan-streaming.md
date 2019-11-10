@@ -41,7 +41,7 @@ showTime();
 **EPL GW 12** Minggu (02/11/2019) **Liverpool FC** vs **Manchester City** [H]. **KO 22:30 WIB**.
 
 - Tayangan dimonopoli mola.tv, TVRI kena PHP cuma menayangkan klub nyaris degradasi.
-- Fabinho 6' + Mo Salah = Ambyarr... 2-0 HT. Sementara itu Firmino belum beruntung.
+- **Fabinho** + **Mo Salah** = Ambyarr... 2-0 HT. Sementara itu Firmino belum beruntung.
 - Aguero berkali-kali shoot dibabat Allison. Sterling menari-nari dengan tarian manjanya.
 
 {% include tengah.html %}
