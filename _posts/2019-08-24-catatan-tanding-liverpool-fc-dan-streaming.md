@@ -43,6 +43,8 @@ showTime();
 
 **EPL GW 12** Minggu (02/11/2019) **Liverpool FC** vs **Manchester City** [H]. **KO 22:30 WIB**. Skor Akhir: 3-1, bisa kena hipotermia ini...
 
+{% include video id="xK5R8h7zIn0" provider="youtube" %}
+
 - Tayangan dimonopoli mola.tv, TVRI kena PHP cuma menayangkan klub nyaris degradasi.
 - **Fabinho** + **Mo Salah** = Ambyarr... **2-0 HT**. Sementara itu Firmino belum beruntung.
 - Aguero berkali-kali shoot dibabat Allison. Sterling menari-nari dengan tarian manjanya.
@@ -52,10 +54,13 @@ showTime();
 
 {% include tengah.html %}
 
+{% include figure image_path="https://cdn.statically.io/img/www.thisisanfield.com/wp-content/uploads/P2019-11-10-Liverpool_Man_City-132.jpg" url="https://cdn.statically.io/img/www.thisisanfield.com/wp-content/uploads/P2019-11-10-Liverpool_Man_City-132.jpg"
+
 ### Hasil Sebelumnya:
 
 **Champions League** Group Stage Matchday 4: _Liverpool FC_ vs _Genk_, Rabu 05/11/2019 Kick-Off 02:00 WIB. Champions League Group E.
-{:.notice notice--danger}
+{% include video id="aTYLL-6LWjA" provider="youtube" %}
+{:.notice .notice--danger}
 
 **EPL GW 11** Minggu (02/11/2019) **Aston Villa** vs **Liverpool FC** [A]. **KO 22:00 WIB**. Skor Akhir: 2-1, brrr... dingiiin...
 
@@ -75,9 +80,8 @@ showTime();
 {% include video provider="youtube" id="E-SH2oDT9eQ" %}
 
 **Champions League** Group Stage Matchday 3: _Genk_ vs _Liverpool FC_, Sabtu 24/10/2019 Kick-Off 02:00 WIB. Champions League Group E. Skor Akhir: **4-1**
-{:.notice notice--danger}
-
 {% include video provider="youtube" id="WKPG0DiXd_A" %}
+{:.notice .notice--danger}
 
 **EPL GW 9** Minggu (20/10/2019) **Manchester Utd. vs Liverpool FC** [A]. **KO 22:30 WIB**.
 
