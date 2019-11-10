@@ -1,6 +1,6 @@
 ---
 title: "Catatan Pertandingan Liverpool FC dan Link Streaming [Update]"
-excerpt: "Liverpool FC vs Manchester City - Minggu 10/11/2019. Kick-Off 22:30 WIB. English Premier League GW 12"
+excerpt: "Liverpool FC vs Manchester City - FT (3-1) - Minggu 10/11/2019. Kick-Off 22:30 WIB. English Premier League GW 12"
 header:
  og_image: "https:/i0.wp.com/www.catetan.pw/assets/images/Screenshot_20191111-012744.jpg"
  image: "https://www.statically.io/img/i2-prod.liverpool.com/incoming/article17041156.ece/ALTERNATES/s810/0_GettyImages-1173868960.jpg"
