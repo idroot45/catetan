@@ -22,7 +22,7 @@ redirect_from:
 
 ## Catatan pertandingan dan streaming
 
-Postingan ini niatnya hanya untuk menyimpan streaming pertandingan-pertandingan **Liverpool FC** saja. Utamanya *Premier League*, tetapi mungkin ada juga pertandingan di kompetisi lain seperti _Carabao Cup_ dan _Champions League_.
+Postingan ini niatnya hanya untuk menyimpan streaming pertandingan-pertandingan **[Liverpool FC](/)** saja. Utamanya *Premier League*, tetapi mungkin ada juga pertandingan di kompetisi lain seperti _Carabao Cup_ dan _Champions League_.
 
 ### Jadwal Liverpool FC pekan ini:
 
@@ -41,9 +41,13 @@ function showTime(){
 showTime();
 </script>
 
+{% include tengah.html %}
+
+### Hasil Sebelumnya:
+
 **EPL GW 12** Minggu (02/11/2019) **Liverpool FC** vs **Manchester City** [H]. **KO 22:30 WIB**. Skor Akhir: 3-1, bisa kena hipotermia ini...
 
-{% include video id="xK5R8h7zIn0" provider="youtube" %}
+{% include figure caption="Fabinho's goal as first score fot Liverpol" alt="Fabinho goal againts city" image_path="https://cdn.statically.io/img/www.thisisanfield.com/wp-content/uploads/P2019-11-10-Liverpool_Man_City-132.jpg" url="https://cdn.statically.io/img/www.thisisanfield.com/wp-content/uploads/P2019-11-10-Liverpool_Man_City-132.jpg" %}
 
 - Tayangan dimonopoli mola.tv, TVRI kena PHP cuma menayangkan klub nyaris degradasi.
 - **Fabinho** + **Mo Salah** = Ambyarr... **2-0 HT**. Sementara itu Firmino belum beruntung.
@@ -52,15 +56,12 @@ showTime();
 - Overall: Duo pelawak main cakep malam ini. **3-1 FT**.
 - Sssstt... Sebelumnya juga ada yang menang dengan sekor sama, tapi gak ada yang peduli.
 
-{% include tengah.html %}
-
-{% include figure image_path="https://cdn.statically.io/img/www.thisisanfield.com/wp-content/uploads/P2019-11-10-Liverpool_Man_City-132.jpg" url="https://cdn.statically.io/img/www.thisisanfield.com/wp-content/uploads/P2019-11-10-Liverpool_Man_City-132.jpg"
-
-### Hasil Sebelumnya:
+{% include video id="xK5R8h7zIn0" provider="youtube" %}
 
 **Champions League** Group Stage Matchday 4: _Liverpool FC_ vs _Genk_, Rabu 05/11/2019 Kick-Off 02:00 WIB. Champions League Group E.
+{:.notice .notice--info}
+
 {% include video id="aTYLL-6LWjA" provider="youtube" %}
-{:.notice .notice--danger}
 
 **EPL GW 11** Minggu (02/11/2019) **Aston Villa** vs **Liverpool FC** [A]. **KO 22:00 WIB**. Skor Akhir: 2-1, brrr... dingiiin...
 
@@ -80,8 +81,9 @@ showTime();
 {% include video provider="youtube" id="E-SH2oDT9eQ" %}
 
 **Champions League** Group Stage Matchday 3: _Genk_ vs _Liverpool FC_, Sabtu 24/10/2019 Kick-Off 02:00 WIB. Champions League Group E. Skor Akhir: **4-1**
+{:.notice .notice--info}
+
 {% include video provider="youtube" id="WKPG0DiXd_A" %}
-{:.notice .notice--danger}
 
 **EPL GW 9** Minggu (20/10/2019) **Manchester Utd. vs Liverpool FC** [A]. **KO 22:30 WIB**.
 
