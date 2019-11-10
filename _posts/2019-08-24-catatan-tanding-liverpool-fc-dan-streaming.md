@@ -1,8 +1,8 @@
 ---
 title: "Catatan Pertandingan Liverpool FC dan Link Streaming [Update]"
-excerpt: "Liverpool FC vs Genk - Rabu 06/11/2019. Kick-Off 03:00 WIB. Champions League Group Stage"
+excerpt: "Liverpool FC vs Manchester City - Minggu 10/11/2019. Kick-Off 22:30 WIB. English Premier League GW 12"
 header:
- og_image: "https://i.ytimg.com/vi/dPnuTbPqEfM/maxresdefault.jpg"
+ og_image: "https://i2-prod.liverpool.com/incoming/article17156419.ece/ALTERNATES/s810/2_GettyImages-1183791780.jpg"
  video:
   id: lfctv
   provider: internal
@@ -23,6 +23,8 @@ redirect_from:
 
 Postingan ini niatnya hanya untuk menyimpan streaming pertandingan-pertandingan **Liverpool FC** saja. Utamanya *Premier League*, tetapi mungkin ada juga pertandingan di kompetisi lain seperti _Carabao Cup_ dan _Champions League_.
 
+### Jadwal Liverpool FC pekan ini:
+
 <blockquote>Waktu lokal sekarang: <strong><span id="JamLokal" onload="showTime()"></span></strong></blockquote>
 <script>
 function showTime(){
@@ -38,14 +40,16 @@ function showTime(){
 showTime();
 </script>
 
-### Jadwal Liverpool FC pekan ini:
+**EPL GW 12** Minggu (02/11/2019) **Liverpool FC** vs **Manchester City** [H]. **KO 22:30 WIB**.
 
-**Champions League** Group Stage Matchday 4: _Liverpool FC_ vs _Genk_, Rabu 05/11/2019 Kick-Off 02:00 WIB. Champions League Group E.
-{:.notice notice--danger}
+- Tayangan dimonopoli mola.tv, TVRI kena PHP cuma menayangkan klub nyaris degradasi.
 
 {% include tengah.html %}
 
 ### Hasil Sebelumnya:
+
+**Champions League** Group Stage Matchday 4: _Liverpool FC_ vs _Genk_, Rabu 05/11/2019 Kick-Off 02:00 WIB. Champions League Group E.
+{:.notice notice--danger}
 
 **EPL GW 11** Minggu (02/11/2019) **Aston Villa** vs **Liverpool FC** [A]. **KO 22:00 WIB**.
 
