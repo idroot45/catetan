@@ -8,7 +8,7 @@ header:
   provider: internal
 categories: [streaming]
 tags: [streaming bola, streaming liverpool, rekap liverpool fc]
-last_modified_at: 2019-11-11 00:03:21
+last_modified_at: 2019-11-11 01:46:03
 redirect_from:
  - /streaming/streaming-m3u8/
  - /liverpool
@@ -38,11 +38,13 @@ function showTime(){
 showTime();
 </script>
 
-**EPL GW 12** Minggu (02/11/2019) **Liverpool FC** vs **Manchester City** [H]. **KO 22:30 WIB**.
+**EPL GW 12** Minggu (02/11/2019) **Liverpool FC** vs **Manchester City** [H]. **KO 22:30 WIB**. Skor Akhir: 3-1, bisa kena hipotermia ini...
 
 - Tayangan dimonopoli mola.tv, TVRI kena PHP cuma menayangkan klub nyaris degradasi.
-- **Fabinho** + **Mo Salah** = Ambyarr... 2-0 HT. Sementara itu Firmino belum beruntung.
+- **Fabinho** + **Mo Salah** = Ambyarr... **2-0 HT**. Sementara itu Firmino belum beruntung.
 - Aguero berkali-kali shoot dibabat Allison. Sterling menari-nari dengan tarian manjanya.
+- Tet teret tereeeet.... **S. Mane** dapat umpan manja dari Kapten tersayang. Biarpun **Semua sayang Ole**, Kep 14 tetep yang tersayang.
+- Overall: Duo pelawak main cakep malam ini. **3-1 FT**.
 
 {% include tengah.html %}
 
@@ -53,7 +55,7 @@ showTime();
 **Champions League** Group Stage Matchday 4: _Liverpool FC_ vs _Genk_, Rabu 05/11/2019 Kick-Off 02:00 WIB. Champions League Group E.
 {:.notice notice--danger}
 
-**EPL GW 11** Minggu (02/11/2019) **Aston Villa** vs **Liverpool FC** [A]. **KO 22:00 WIB**.
+**EPL GW 11** Minggu (02/11/2019) **Aston Villa** vs **Liverpool FC** [A]. **KO 22:00 WIB**. Skor Akhir: 2-1, brrr... dingiiin...
 
 {% include video id="wZQZrPmX84c" provider="youtube" %}
 
