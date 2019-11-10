@@ -48,6 +48,7 @@ showTime();
 - Aguero berkali-kali shoot dibabat Allison. Sterling menari-nari dengan tarian manjanya.
 - Tet teret tereeeet.... **S. Mane** dapat umpan manja dari Kapten tersayang. Biarpun **Semua sayang Ole**, Kep 14 tetep yang tersayang.
 - Overall: Duo pelawak main cakep malam ini. **3-1 FT**.
+- Sssstt... Sebelumnya juga ada yang menang dengan sekor sama, tapi gak ada yang peduli.
 
 {% include tengah.html %}
 
