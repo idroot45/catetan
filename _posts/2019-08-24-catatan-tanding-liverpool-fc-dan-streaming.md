@@ -14,8 +14,6 @@ redirect_from:
  - /liverpool
  - /streaming/m3u8/
 ---
-{% include figure alt="Liverpool Supporters!" caption="Anfield's mentality has been transformed." image_path="https://i2-prod.liverpool.com/incoming/article17041156.ece/ALTERNATES/s810/0_GettyImages-1173868960.jpg" %}
-
 *Ingat baik-baik!*{:.fa .fa-cog .fa-spin aria-hidden="true"} **1**. Tayangan akan tersedia hanya **jika ada** dan **tersedia** (dapat saya temukan) di internet. Baca [latar belakang](#latar-belakang) catatan ini. **2**. Refresh **10 menit** sebelum _kick off_, selain di waktu tersebut kemungkinan siaran tidak dapat diakses. **3**. Streaming di halaman ini diusahakan dalam kualitas HD, jadi kemungkinan akan menguras kuota/data hingga 2 GB dan membutuhkan kecepatan konektivitas minimal 10 mbps untuk kelancaran streaming. **4**. Sedangkan mengenai pilihan siaran **MolaTV**, tidak saya rekomendasikan. Silahkan baca [catatannya](#molatv).
 {:.notice--warning}
 
@@ -47,6 +45,8 @@ showTime();
 {% include tengah.html %}
 
 ### Hasil Sebelumnya:
+
+{% include figure alt="Liverpool Supporters!" caption="Anfield's mentality has been transformed." image_path="https://i2-prod.liverpool.com/incoming/article17041156.ece/ALTERNATES/s810/0_GettyImages-1173868960.jpg" %}
 
 **Champions League** Group Stage Matchday 4: _Liverpool FC_ vs _Genk_, Rabu 05/11/2019 Kick-Off 02:00 WIB. Champions League Group E.
 {:.notice notice--danger}
