@@ -2,10 +2,13 @@
 title: "Catatan Pertandingan Liverpool FC dan Link Streaming [Update]"
 excerpt: "Liverpool FC vs Manchester City - Minggu 10/11/2019. Kick-Off 22:30 WIB. English Premier League GW 12"
 header:
- og_image: "https://i2-prod.liverpool.com/incoming/article17156419.ece/ALTERNATES/s810/2_GettyImages-1183791780.jpg"
- video:
-  id: lfctv
-  provider: internal
+ og_image: "https:/i0.wp.com/www.catetan.pw/assets/images/Screenshot_20191111-012744.jpg"
+ image: "https://www.statically.io/img/i2-prod.liverpool.com/incoming/article17041156.ece/ALTERNATES/s810/0_GettyImages-1173868960.jpg"
+ caption: "Anfield’s mentality has been transformed."
+# video:
+#  id: lfctv
+#  provider: internal
+ teaser: https:/i0.wp.com/www.catetan.pw/assets/images/Screenshot_20191111-012744.jpg?resize=480,240"
 categories: [streaming]
 tags: [streaming bola, streaming liverpool, rekap liverpool fc]
 last_modified_at: 2019-11-11 01:46:03
@@ -50,16 +53,12 @@ showTime();
 
 ### Hasil Sebelumnya:
 
-{% include figure alt="Liverpool Supporters!" caption="Anfield's mentality has been transformed." image_path="https://i2-prod.liverpool.com/incoming/article17041156.ece/ALTERNATES/s810/0_GettyImages-1173868960.jpg" %}
-
 **Champions League** Group Stage Matchday 4: _Liverpool FC_ vs _Genk_, Rabu 05/11/2019 Kick-Off 02:00 WIB. Champions League Group E.
 {:.notice notice--danger}
 
 **EPL GW 11** Minggu (02/11/2019) **Aston Villa** vs **Liverpool FC** [A]. **KO 22:00 WIB**. Skor Akhir: 2-1, brrr... dingiiin...
 
 {% include video id="wZQZrPmX84c" provider="youtube" %}
-
-{% include figure image_path="https://images.daznservices.com/di/library/GOAL/2f/f7/caoimhin-kelleher-liverpool-2019-20_1ggy4dqlsdrik1vym8a70yotk4.jpg?t=513500030&amp;quality=100&amp;h=320" caption="Liverpool rookie Caoimhin Kelleher has been tipped to shine against Arsenal in the Carabao Cup by his international manager Mick McCarthy." %}
 
 **Football League Cup** 16 round: _Liverpool FC_ vs Arsenal FC [H]. Kamis, 31 Oktober 2019 **KO 02:30 WIB**. <br /> Hasil Akhir 5-5 (5-4) <br /> LFC's goals: S. Mustafi (9') [OG], J. Milner 43', A. Oxlade Chamberlain 58', D. Origi (63', 90+4). <br /> AFC's goals: L. T. Di Pascua (19'), G. Martinelli (26', 36'), A. Maitland Nilles (54'), J. Willock (70').
 {:.notice .notice--info}
