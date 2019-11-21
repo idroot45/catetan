@@ -1,7 +1,7 @@
 ---
 title: "Liverpool, England and Joe Gomez: The Uncomfortable Truth"
 categories: [sepakbola]
-tags:[Liverpool, england, joe gomes"]
+tags: [Liverpool, england, joe gomes"]
 ---
 Aaron Cutler looks back on a difficult week for Joe Gomez and asks whether the boos he heard at Wembley were more to do with his club side than Raheem Sterling.
 
@@ -15,9 +15,9 @@ As they prepared to stagger such articles they were handed a gift from the journ
 
 ### Confrontation
 <!--
-LIVERPOOL, ENGLAND - Sunday, November 10, 2019: Manchester City's Raheem Sterling (L) and Liverpool's Joe Gomez at the final whistle after the FA Premier League match between Liverpool FC and Manchester City FC at Anfield. Liverpool won 3-1. (Pic by David Rawcliffe/Propaganda)
-What transpired in the England canteen last Monday has been debated and dissected to death. No number of Manchester leaning writers nor crisis management campaigns can spin the fact a professional footballer attacked a teammate. An unsuspecting teammate at that.
+{% include figure image_path="https://www.thisisanfield.com/wp-content/uploads/P2019-11-10-Liverpool_Man_City-108.jpg" caption="LIVERPOOL, ENGLAND - Sunday, November 10, 2019: Manchester City's Raheem Sterling (L) and Liverpool's Joe Gomez at the final whistle after the FA Premier League match between Liverpool FC and Manchester City FC at Anfield. Liverpool won 3-1. _(Pic by David Rawcliffe/Propaganda)_" %}
 -->
+What transpired in the England canteen last Monday has been debated and dissected to death. No number of Manchester leaning writers nor crisis management campaigns can spin the fact a professional footballer attacked a teammate. An unsuspecting teammate at that.
 
 Joe Gomez was guilty purely of besting his opponent the previous afternoon. That Raheem Sterling could not handle this fact says more about him as an individual and suggests more millions may need to be ploughed into that carefully orchestrated ‘brand’ of his.
 
@@ -31,9 +31,9 @@ The unsavoury incident is just the latest in a long line widening the chasm betw
 
 ### History
 <!--
-LIVERPOOL, ENGLAND - Wednesday, October 2, 2019: Liverpool supporters on the Spion Kop with a banner "Champions of Europe" during the UEFA Champions League Group E match between Liverpool FC and FC Salzburg at Anfield. (Pic by David Rawcliffe/Propaganda)
-A quick history lesson will tell you Liverpool has historically been a town of immigrants, one welcoming of all comers. To this day it boasts the oldest African and Chinese communities in Europe.
+{% include figure image_path="" caption="LIVERPOOL, ENGLAND - Wednesday, October 2, 2019: Liverpool supporters on the Spion Kop with a banner "Champions of Europe" during the UEFA Champions League Group E match between Liverpool FC and FC Salzburg at Anfield. _(Pic by David Rawcliffe/Propaganda)_" %}
 -->
+A quick history lesson will tell you Liverpool has historically been a town of immigrants, one welcoming of all comers. To this day it boasts the oldest African and Chinese communities in Europe.
 
 Said movement was a result of its port, which attracted people from all corners of the globe throughout the 18th and 19th centuries in particular. This influx in itself was not exactly controversial.
 
@@ -71,7 +71,7 @@ Is it any wonder then that Liverpool voted overwhelmingly to remain, in contrast
 
 ### Football
 <!---
-LONDON, ENGLAND - Saturday, April 14, 2012: Liverpool supporters with 'Don't Buy The Sun' posters during the FA Cup Semi-Final match against Everton at Wembley. (Pic by David Rawcliffe/Propaganda)
+{% include figure image_path="" caption="LONDON, ENGLAND - Saturday, April 14, 2012: Liverpool supporters with 'Don't Buy The Sun' posters during the FA Cup Semi-Final match against Everton at Wembley. _(Pic by David Rawcliffe/Propaganda)_" %}
 -->
 Oh but there’s more. A distrust come dislike of the Royal Family gets many backs up, something made all the stranger in the wake of recent revelations. Then there’s the terraces.
 
@@ -85,7 +85,7 @@ There is even debate surrounding knighthoods. As deserving of the honour as Matt
 
 ### Club vs. Country
 <!---
-Liverpool, England - Sunday, June 10, 2007: The Liverpool skyline featuring the Liver Buildings. (Pic by David Rawcliffe/Propaganda)
+{% include figure image_path="" caption="Liverpool, England - Sunday, June 10, 2007: The Liverpool skyline featuring the Liver Buildings. _(Pic by David Rawcliffe/Propaganda)_" %}
 -->
 Given the long-running acrimony, it should come as no surprise to hear national pride is somewhat lacking in Liverpool. Many who saw beyond the politics and got behind the England team were disillusioned at the sight and sound of John Barnes being booed in the 1980s. Indeed Gomez isn’t the first.
 
