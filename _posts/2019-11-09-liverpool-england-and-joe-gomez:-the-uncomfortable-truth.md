@@ -1,7 +1,7 @@
 ---
 title: "Liverpool, England and Joe Gomez: The Uncomfortable Truth"
 categories: [sepakbola]
-tags: [Liverpool, england, joe gomes"]
+tags: [liverpool, england, joe gomes]
 ---
 Aaron Cutler looks back on a difficult week for Joe Gomez and asks whether the boos he heard at Wembley were more to do with his club side than Raheem Sterling.
 
