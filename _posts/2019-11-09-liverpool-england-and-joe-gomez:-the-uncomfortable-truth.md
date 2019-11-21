@@ -2,6 +2,9 @@
 title: "Liverpool, England and Joe Gomez: The Uncomfortable Truth"
 categories: [sepakbola]
 tags: [liverpool, england, joe gomes]
+header:
+ og_image: "https://www.thisisanfield.com/wp-content/uploads/featureimage-8.jpg"
+ teaser: "https://www.thisisanfield.com/wp-content/uploads/featureimage-8-324x235.jpg"
 ---
 Aaron Cutler looks back on a difficult week for Joe Gomez and asks whether the boos he heard at Wembley were more to do with his club side than Raheem Sterling.
 
@@ -14,9 +17,9 @@ They were surely salivating then at the fallout from our most recent victory. Pe
 As they prepared to stagger such articles they were handed a gift from the journalistic God’s, albeit the kind that tends to befall the national side with strange regularity.
 
 ### Confrontation
-<!--
+
 {% include figure image_path="https://www.thisisanfield.com/wp-content/uploads/P2019-11-10-Liverpool_Man_City-108.jpg" caption="LIVERPOOL, ENGLAND - Sunday, November 10, 2019: Manchester City's Raheem Sterling (L) and Liverpool's Joe Gomez at the final whistle after the FA Premier League match between Liverpool FC and Manchester City FC at Anfield. Liverpool won 3-1. _(Pic by David Rawcliffe/Propaganda)_" %}
--->
+
 What transpired in the England canteen last Monday has been debated and dissected to death. No number of Manchester leaning writers nor crisis management campaigns can spin the fact a professional footballer attacked a teammate. An unsuspecting teammate at that.
 
 Joe Gomez was guilty purely of besting his opponent the previous afternoon. That Raheem Sterling could not handle this fact says more about him as an individual and suggests more millions may need to be ploughed into that carefully orchestrated ‘brand’ of his.
@@ -30,9 +33,9 @@ That Gomez was introduced to a smattering of boos came as no surprise. Indeed it
 The unsavoury incident is just the latest in a long line widening the chasm between our city and its national team. So how has it comes to this?
 
 ### History
-<!--
-{% include figure image_path="" caption="LIVERPOOL, ENGLAND - Wednesday, October 2, 2019: Liverpool supporters on the Spion Kop with a banner "Champions of Europe" during the UEFA Champions League Group E match between Liverpool FC and FC Salzburg at Anfield. _(Pic by David Rawcliffe/Propaganda)_" %}
--->
+
+{% include figure image_path="https://www.thisisanfield.com/wp-content/uploads/P2019-10-02-033-Liverpool_Salzburg.jpg" caption="LIVERPOOL, ENGLAND - Wednesday, October 2, 2019: Liverpool supporters on the Spion Kop with a banner "Champions of Europe" during the UEFA Champions League Group E match between Liverpool FC and FC Salzburg at Anfield. _(Pic by David Rawcliffe/Propaganda)_" %}
+
 A quick history lesson will tell you Liverpool has historically been a town of immigrants, one welcoming of all comers. To this day it boasts the oldest African and Chinese communities in Europe.
 
 Said movement was a result of its port, which attracted people from all corners of the globe throughout the 18th and 19th centuries in particular. This influx in itself was not exactly controversial.
@@ -52,10 +55,10 @@ The arrival of Bill Shankly had already fostered an ‘us and them’ undercurre
 The Scot was a firm believer in socialism and the sense of community, with people banding together to make the best of things. A demigod, Shankly’s beliefs were upheld in Liverpool but deemed archaic in other parts of the country. The rise in the Conservative party and with it Thatcherism proved as much.
 
 ### Politics
-<!--
-Liverpool city centre River Mersey (PA Images)
+
+{% include figure image_path="https://www.thisisanfield.com/wp-content/uploads/PA-37742464-copy-1200x673.jpg" caption"Liverpool city centre River Mersey _(PA Images)_" %}
+
 Already sensing they were marooned and cut-off from the moneymen down south, Liverpool’s worst fears were realised under the so-called Iron Lady. In the wake of the Toxteth Riots, the Conservative leader suggested a period of ‘managed decline’, as dictated in a cabinet memo.
--->
 
 In short, Liverpool was left to rot, its finance cut in the hope residents would up sticks and start anew. The fighting spirit for which the city is revered, however, duly kicked in and an illegal budget was laid out by the city council in 1985, one spearheaded by the relentless Derek Hatton. All this is and more is brilliantly documented in BT Sport’s Two Tribes film.
 
@@ -63,16 +66,16 @@ The aftermath of the Hillsborough Disaster tragically added to the sense of dist
 
 Fast forward to 2019 and the current Tory Prime Minister has been guilty of pedalling those same untruths. Having been urged to apologise for historic but heinous remarks by Liverpool MP Maria Eagle, Johnson shamefully refused as recently as August.
 
-### Then there’s Brexit.
+**_Then there’s Brexit._**
 
 Having been cast aside by its own government for so long Liverpool was revitalised not by Westminster but the European Union. New life was breathed into the region in conjunction with it being named Capital of Culture in 2008. The picturesque strand, the sprawling John Lennon airport and the modern Echo Arena are each the result of EU funding.
 
 Is it any wonder then that Liverpool voted overwhelmingly to remain, in contrast to some pretty major cities? Salford among them.
 
 ### Football
-<!---
-{% include figure image_path="" caption="LONDON, ENGLAND - Saturday, April 14, 2012: Liverpool supporters with 'Don't Buy The Sun' posters during the FA Cup Semi-Final match against Everton at Wembley. _(Pic by David Rawcliffe/Propaganda)_" %}
--->
+
+{% include figure image_path="https://www.thisisanfield.com/wp-content/uploads/120414-053-Everton_Liverpool_FA_Cup.jpg" caption="LONDON, ENGLAND - Saturday, April 14, 2012: Liverpool supporters with 'Don't Buy The Sun' posters during the FA Cup Semi-Final match against Everton at Wembley. _(Pic by David Rawcliffe/Propaganda)_" %}
+
 Oh but there’s more. A distrust come dislike of the Royal Family gets many backs up, something made all the stranger in the wake of recent revelations. Then there’s the terraces.
 
 While a degree of ridicule is par for the course footballing banter takes on a decidedly sinister tone when directed at Liverpool supporters. Taunts about unemployment are in bad taste yet still bellowed proudly by nearly all fan bases, including Middlesbrough’s – whose own economy is in a far worse state. Nothing like a sense of irony.
@@ -84,9 +87,9 @@ By far and away the worst chant is that which suggests we are quick to paint our
 There is even debate surrounding knighthoods. As deserving of the honour as Matt Busby and Alex Ferguson clearly are why were Shankly and Bob Paisley overlooked? Kenny Dalglish meanwhile was only recognised in 2017 despite decades of sporting success and charitable work. Perhaps Her Majesty has favourites.
 
 ### Club vs. Country
-<!---
-{% include figure image_path="" caption="Liverpool, England - Sunday, June 10, 2007: The Liverpool skyline featuring the Liver Buildings. _(Pic by David Rawcliffe/Propaganda)_" %}
--->
+
+{% include figure image_path="https://www.thisisanfield.com/wp-content/uploads/PA-37742464-copy-1200x673.jpg" caption="Liverpool, England - Sunday, June 10, 2007: The Liverpool skyline featuring the Liver Buildings. _(Pic by David Rawcliffe/Propaganda)_" %}
+
 Given the long-running acrimony, it should come as no surprise to hear national pride is somewhat lacking in Liverpool. Many who saw beyond the politics and got behind the England team were disillusioned at the sight and sound of John Barnes being booed in the 1980s. Indeed Gomez isn’t the first.
 
 This has led to conflicting views to put it lightly. Michael Owen went from Liverpool youngster to national treasure almost overnight following his spectacular goal at the 1998 World Cup.
@@ -98,6 +101,8 @@ When Jamie Carragher confessed he hurt far more in the wake of a club defeat tha
 And so it continues. Whenever Liverpool appear in a domestic cup final, sections of our support will boo the national anthem; as is their right. Still it sparks genuine and faux outrage alike from the rest of the country while patriotic writers foam at the mouth.
 
 But why should Liverpudlians, who are accused of being victims, or worse still murderers, join arm-in-arm with those same people spitting such vitriol, and celebrate a Monarch they feel no connection towards?
+
+{% include figure image_path="https://www.thisisanfield.com/wp-content/uploads/PA-660734-e1501415718156.jpg" caption="The Kop worship at the feet of Liverpool manager Bill Shankly" %}
 
 The likelihood is Gomez won’t be the last Liverpool player booed by the England support as we dissociate ourselves with them and vice-versa.
 
