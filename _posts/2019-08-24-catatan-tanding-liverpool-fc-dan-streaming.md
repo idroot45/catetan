@@ -20,11 +20,13 @@ redirect_from:
 *Ingat baik-baik!*{:.fa .fa-cog .fa-spin aria-hidden="true"} **1**. Tayangan akan tersedia hanya **jika ada** dan **tersedia** (dapat saya temukan) di internet. Baca [latar belakang](#latar-belakang) catatan ini. **2**. Refresh **10 menit** sebelum _kick off_, selain di waktu tersebut kemungkinan siaran tidak dapat diakses. **3**. Streaming di halaman ini diusahakan dalam kualitas HD, jadi kemungkinan akan menguras kuota/data hingga 2 GB dan membutuhkan kecepatan konektivitas minimal 10 mbps untuk kelancaran streaming. **4**. Sedangkan mengenai pilihan siaran **MolaTV**, tidak saya rekomendasikan. Silahkan baca [catatannya](#molatv).
 {:.notice--warning}
 
-## Catatan pertandingan dan streaming
+Postingan ini niatnya hanya untuk menyimpan link streaming pertandingan-pertandingan **[Liverpool FC](/)** saja. Utamanya *Premier League*, tetapi mungkin ada juga pertandingan di kompetisi lain seperti _Carabao Cup_ dan _Champions League_ juga _Piala Dunia Antar-Klub_.
 
-Postingan ini niatnya hanya untuk menyimpan streaming pertandingan-pertandingan **[Liverpool FC](/)** saja. Utamanya *Premier League*, tetapi mungkin ada juga pertandingan di kompetisi lain seperti _Carabao Cup_ dan _Champions League_.
+## Jadwal Liverpool FC pekan ini:
 
-### Jadwal Liverpool FC pekan ini:
+**EPL GW 13** Sabtu (22/11/2019) **Crystall Pallace** vs **Liverpool FC** [A]. **KO 22:00 WIB**.
+
+- Pertandingan perdana setelah jeda internasional.
 
 <blockquote>Waktu lokal sekarang: <strong><span id="JamLokal" onload="showTime()"></span></strong></blockquote>
 <script>
@@ -43,7 +45,7 @@ showTime();
 
 {% include tengah.html %}
 
-### Hasil Sebelumnya:
+## Hasil Sebelumnya:
 
 **EPL GW 12** Minggu (02/11/2019) **Liverpool FC** vs **Manchester City** [H]. **KO 22:30 WIB**. Skor Akhir: 3-1, bisa kena hipotermia ini...
 
@@ -55,6 +57,7 @@ showTime();
 - Tet teret tereeeet.... **S. Mane** dapat umpan manja dari Kapten tersayang. Biarpun **Semua sayang Ole**, Kep 14 tetep yang tersayang.
 - Overall: Duo pelawak main cakep malam ini. **3-1 FT**.
 - Sssstt... Sebelumnya juga ada yang menang dengan sekor sama, tapi gak ada yang peduli.
+- [Liverpool, England and Joe Gomez: The Uncomfortable Truth](https://www.catetan.pw/sepakbola/liverpool-england-and-joe-gomez-the-uncomfortable-truth/)
 
 {% include video id="xK5R8h7zIn0" provider="youtube" %}
 
