@@ -1,5 +1,5 @@
 ---
-title="Liverpool, England and Joe Gomez: The Uncomfortable Truth"
+title: "Liverpool, England and Joe Gomez: The Uncomfortable Truth"
 categories: [sepakbola]
 tags:[Liverpool, england, joe gomes"]
 ---
