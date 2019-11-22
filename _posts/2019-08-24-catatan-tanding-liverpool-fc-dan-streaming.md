@@ -1,6 +1,6 @@
 ---
 title: "Catatan Pertandingan Liverpool FC dan Link Streaming [Update]"
-excerpt: "**Crystall Pallace** vs **Liverpool FC**. English Premiere Lrague Game Week 13th Sabtu (22/11/2019) Kick-Off 22:00 WIB."
+excerpt: "**Crystal Pallace** vs **Liverpool FC**. English Premiere Lrague Game Week 13th Sabtu (22/11/2019) Kick-Off 22:00 WIB."
 header:
  og_image: "https://cdn.staticaly.io/img/www.thisisanfield.com/wp-content/uploads/2019-01-19-101-Liverpool_Crystal_Palace-1-e1574272360607.jpg"
  image: "https://cdn.statically.io/img/i2-prod.liverpool.com/incoming/article17041156.ece/ALTERNATES/s810/0_GettyImages-1173868960.jpg"
@@ -24,7 +24,9 @@ Postingan ini niatnya hanya untuk menyimpan link streaming pertandingan-pertandi
 
 ## Jadwal Liverpool FC pekan ini:
 
-**EPL GW 13** Sabtu (22/11/2019) **Crystall Pallace** vs **Liverpool FC** [A]. **KO 22:00 WIB**.
+{%include figure caption="LIVERPOOL, ENGLAND - Saturday, August 19, 2017: Liverpool's Georginio Wijnaldum and Crystal Palace's Joel Ward during the FA Premier League match between Liverpool and Crystal Palace at Anfield. _(Pic by David Rawcliffe/Propaganda)_" image_path="https://cdn.statically.io/img/www.thisisanfield.com/wp-content/uploads/170819-045-Liverpool_Crystal_Palace.jpg" %}
+
+**EPL GW 13** Sabtu (22/11/2019) **Crystal Pallace** vs **Liverpool FC** [A]. **KO 22:00 WIB**.
 
 - Pertandingan perdana setelah jeda internasional.
 
