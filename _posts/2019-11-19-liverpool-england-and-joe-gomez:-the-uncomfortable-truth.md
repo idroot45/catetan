@@ -77,7 +77,7 @@ Is it any wonder then that Liverpool voted overwhelmingly to remain, in contrast
 
 ### Football	
 
-{% include figure image_path="https://www.thisisanfield.com/wp-content/uploads/120414-053-Everton_Liverpool_FA_Cup.jpg" caption="LONDON, ENGLAND - Saturday, April 14, 2012: Liverpool supporters with 'Don't Buy The Sun' posters during the FA Cup Semi-Final match against Everton at Wembley. _(Pic by David Rawcliffe/Propaganda)_" %}	
+{% include figure image_path="https://www.thisisanfield.com/wp-content/uploads/120414-053-Everton_Liverpool_FA_Cup.jpg" caption="LONDON, ENGLAND - Saturday, April 14, 2012: Liverpool supporters with *Don’t Buy The Sun* posters during the FA Cup Semi-Final match against Everton at Wembley. _(Pic by David Rawcliffe/Propaganda)_" %}	
 
 Oh but there’s more. A distrust come dislike of the Royal Family gets many backs up, something made all the stranger in the wake of recent revelations. Then there’s the terraces.	
 
