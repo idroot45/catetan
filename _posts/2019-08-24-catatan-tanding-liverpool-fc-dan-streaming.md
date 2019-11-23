@@ -29,6 +29,10 @@ Postingan ini niatnya hanya untuk menyimpan link streaming pertandingan-pertandi
 **EPL GW 13** Sabtu (22/11/2019) **Crystal Pallace** vs **Liverpool FC** [A]. **KO 22:00 WIB**.
 
 - Pertandingan perdana setelah jeda internasional.
+- Crystal Palace: Guaita, Ward, Tomkins, Cahill, Van Aanholt, Townsend, Kouyate, Milivojevic, McArthur, Zaha, Ayew
+- Subs: Hennessey, Dann, Meyer, Schlupp, Benteke, McCarthy, Kelly
+- Liverpool: Alisson, Alexander-Arnold, Lovren, Van Dijk, Robertson, Fabinho, Wijnaldum, Henderson, Oxlade-Chamberlain, Mane, Firmino
+- Subs: Adrian, Milner, Keita, Salah, Gomez, Lallana, Origi
 
 <blockquote>Waktu lokal sekarang: <strong><span id="JamLokal" onload="showTime()"></span></strong></blockquote>
 <script>
