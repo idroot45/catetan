@@ -1,13 +1,13 @@
 ---
 title: "Catatan Pertandingan Liverpool FC dan Link Streaming [Update]"
-excerpt: "**Crystal Pallace** vs **Liverpool FC**. English Premiere Lrague Game Week 13th Sabtu (22/11/2019) Kick-Off 22:00 WIB."
+excerpt: "**Crystal Palace** vs **Liverpool FC**. English Premiere Lrague Game Week 13th Sabtu (22/11/2019) Kick-Off 22:00 WIB."
 header:
  og_image: "https://cdn.staticaly.io/img/www.thisisanfield.com/wp-content/uploads/2019-01-19-101-Liverpool_Crystal_Palace-1-e1574272360607.jpg"
- image: "https://cdn.statically.io/img/i2-prod.liverpool.com/incoming/article17041156.ece/ALTERNATES/s810/0_GettyImages-1173868960.jpg"
+# image: "https://cdn.statically.io/img/i2-prod.liverpool.com/incoming/article17041156.ece/ALTERNATES/s810/0_GettyImages-1173868960.jpg"
  caption: "Anfield’s mentality has been transformed."
-# video:
-#  id: lfctv
-#  provider: internal
+ video:
+  id: lfctv
+  provider: internal
  teaser: "https://cdn.statically.io/img/www.thisisanfield.com/wp-content/uploads/2019-01-19-101-Liverpool_Crystal_Palace-1-e1574272360607-324x235.jpg"
 categories: [streaming]
 tags: [streaming bola, streaming liverpool, rekap liverpool fc]
