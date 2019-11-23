@@ -4,7 +4,7 @@ excerpt: "**Crystal Palace** vs **Liverpool FC**. English Premiere Lrague Game W
 header:
  og_image: "https://cdn.staticaly.io/img/www.thisisanfield.com/wp-content/uploads/2019-01-19-101-Liverpool_Crystal_Palace-1-e1574272360607.jpg"
 # image: "https://cdn.statically.io/img/i2-prod.liverpool.com/incoming/article17041156.ece/ALTERNATES/s810/0_GettyImages-1173868960.jpg"
- caption: "Anfield’s mentality has been transformed."
+# caption: "Anfield’s mentality has been transformed."
  video:
   id: lfctv
   provider: internal
