@@ -21,8 +21,8 @@ As they prepared to stagger such articles they were handed a gift from the journ
 
 ### Confrontation
 
-{% include figure image_path="https://www.thisisanfield.com/wp-content/uploads/P2019-11-10-Liverpool_Man_City-108.jpg" caption="LIVERPOOL, ENGLAND - Sunday, November 10, 2019: Manchester City's Raheem Sterling (L) and Liverpool's Joe Gomez at the final whistle after the FA Premier League match between Liverpool FC and Manchester City FC at Anfield. Liverpool won 3-1. _(Pic by David Rawcliffe/Propaganda)_" %}
-
+<!--{% include figure image_path="https://www.thisisanfield.com/wp-content/uploads/P2019-11-10-Liverpool_Man_City-108.jpg" caption="LIVERPOOL, ENGLAND - Sunday, November 10, 2019: Manchester City's Raheem Sterling (L) and Liverpool's Joe Gomez at the final whistle after the FA Premier League match between Liverpool FC and Manchester City FC at Anfield. Liverpool won 3-1. _(Pic by David Rawcliffe/Propaganda)_" %}
+-->
 What transpired in the England canteen last Monday has been debated and dissected to death. No number of Manchester leaning writers nor crisis management campaigns can spin the fact a professional footballer attacked a teammate. An unsuspecting teammate at that.
 
 Joe Gomez was guilty purely of besting his opponent the previous afternoon. That Raheem Sterling could not handle this fact says more about him as an individual and suggests more millions may need to be ploughed into that carefully orchestrated ‘brand’ of his.
@@ -37,8 +37,8 @@ The unsavoury incident is just the latest in a long line widening the chasm betw
 
 ### History	
 
-{% include figure image_path="https://www.thisisanfield.com/wp-content/uploads/P2019-10-02-033-Liverpool_Salzburg.jpg" caption="LIVERPOOL, ENGLAND - Wednesday, October 2, 2019: Liverpool supporters on the Spion Kop with a banner "Champions of Europe" during the UEFA Champions League Group E match between Liverpool FC and FC Salzburg at Anfield. _(Pic by David Rawcliffe/Propaganda)_" %}	
-
+<!--{% include figure image_path="https://www.thisisanfield.com/wp-content/uploads/P2019-10-02-033-Liverpool_Salzburg.jpg" caption="LIVERPOOL, ENGLAND - Wednesday, October 2, 2019: Liverpool supporters on the Spion Kop with a banner "Champions of Europe" during the UEFA Champions League Group E match between Liverpool FC and FC Salzburg at Anfield. _(Pic by David Rawcliffe/Propaganda)_" %}	
+-->
 A quick history lesson will tell you Liverpool has historically been a town of immigrants, one welcoming of all comers. To this day it boasts the oldest African and Chinese communities in Europe.	
 
 Said movement was a result of its port, which attracted people from all corners of the globe throughout the 18th and 19th centuries in particular. This influx in itself was not exactly controversial.	
@@ -59,8 +59,8 @@ The Scot was a firm believer in socialism and the sense of community, with peopl
 
 ### Politics	
 
-{% include figure image_path="https://www.thisisanfield.com/wp-content/uploads/PA-37742464-copy-1200x673.jpg" caption"Liverpool city centre River Mersey _(PA Images)_" %}	
-
+<!--{% include figure image_path="https://www.thisisanfield.com/wp-content/uploads/PA-37742464-copy-1200x673.jpg" caption"Liverpool city centre River Mersey _(PA Images)_" %}	
+-->
 Already sensing they were marooned and cut-off from the moneymen down south, Liverpool’s worst fears were realised under the so-called Iron Lady. In the wake of the Toxteth Riots, the Conservative leader suggested a period of ‘managed decline’, as dictated in a cabinet memo.	
 
 In short, Liverpool was left to rot, its finance cut in the hope residents would up sticks and start anew. The fighting spirit for which the city is revered, however, duly kicked in and an illegal budget was laid out by the city council in 1985, one spearheaded by the relentless Derek Hatton. All this is and more is brilliantly documented in BT Sport’s Two Tribes film.	
@@ -77,8 +77,8 @@ Is it any wonder then that Liverpool voted overwhelmingly to remain, in contrast
 
 ### Football	
 
-{% include figure image_path="https://www.thisisanfield.com/wp-content/uploads/120414-053-Everton_Liverpool_FA_Cup.jpg" caption="LONDON, ENGLAND - Saturday, April 14, 2012: Liverpool supporters with *Don’t Buy The Sun* posters during the FA Cup Semi-Final match against Everton at Wembley. _(Pic by David Rawcliffe/Propaganda)_" %}	
-
+<!--{% include figure image_path="https://www.thisisanfield.com/wp-content/uploads/120414-053-Everton_Liverpool_FA_Cup.jpg" caption="LONDON, ENGLAND - Saturday, April 14, 2012: Liverpool supporters with *Don’t Buy The Sun* posters during the FA Cup Semi-Final match against Everton at Wembley. _(Pic by David Rawcliffe/Propaganda)_" %}	
+-->
 Oh but there’s more. A distrust come dislike of the Royal Family gets many backs up, something made all the stranger in the wake of recent revelations. Then there’s the terraces.	
 
 While a degree of ridicule is par for the course footballing banter takes on a decidedly sinister tone when directed at Liverpool supporters. Taunts about unemployment are in bad taste yet still bellowed proudly by nearly all fan bases, including Middlesbrough’s – whose own economy is in a far worse state. Nothing like a sense of irony.	
@@ -91,8 +91,8 @@ There is even debate surrounding knighthoods. As deserving of the honour as Matt
 
 ### Club vs. Country	
 
-{% include figure image_path="https://www.thisisanfield.com/wp-content/uploads/PA-37742464-copy-1200x673.jpg" caption="Liverpool, England - Sunday, June 10, 2007: The Liverpool skyline featuring the Liver Buildings. _(Pic by David Rawcliffe/Propaganda)_" %}	
-
+<!--{% include figure image_path="https://www.thisisanfield.com/wp-content/uploads/PA-37742464-copy-1200x673.jpg" caption="Liverpool, England - Sunday, June 10, 2007: The Liverpool skyline featuring the Liver Buildings. _(Pic by David Rawcliffe/Propaganda)_" %}	
+-->
 Given the long-running acrimony, it should come as no surprise to hear national pride is somewhat lacking in Liverpool. Many who saw beyond the politics and got behind the England team were disillusioned at the sight and sound of John Barnes being booed in the 1980s. Indeed Gomez isn’t the first.	
 
 This has led to conflicting views to put it lightly. Michael Owen went from Liverpool youngster to national treasure almost overnight following his spectacular goal at the 1998 World Cup.	
@@ -105,8 +105,8 @@ And so it continues. Whenever Liverpool appear in a domestic cup final, sections
 
 But why should Liverpudlians, who are accused of being victims, or worse still murderers, join arm-in-arm with those same people spitting such vitriol, and celebrate a Monarch they feel no connection towards?	
 
-{% include figure image_path="https://www.thisisanfield.com/wp-content/uploads/PA-660734-e1501415718156.jpg" caption="The Kop worship at the feet of Liverpool manager Bill Shankly" %}	
-
+<!--{% include figure image_path="https://www.thisisanfield.com/wp-content/uploads/PA-660734-e1501415718156.jpg" caption="The Kop worship at the feet of Liverpool manager Bill Shankly" %}	
+-->
 The likelihood is Gomez won’t be the last Liverpool player booed by the England support as we dissociate ourselves with them and vice-versa.	
 
 Those who like to separate politics from football are well within their rights to do so. Sadly that’s becoming harder, particularly for the most ardent Reds supporters. To emotionally invest in our football club is to do likewise in the city, one that is increasingly at odds with the country’s narrative.	
