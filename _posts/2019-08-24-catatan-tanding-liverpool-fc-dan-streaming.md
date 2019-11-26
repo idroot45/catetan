@@ -1,6 +1,6 @@
 ---
 title: "Catatan Pertandingan Liverpool FC dan Link Streaming [Update]"
-excerpt: "**Liverpool FC** vs **SC Napoli**. Champions League Matchday 6. Kamis (28/11/2019) Kick-Off 03:00 WIB."
+excerpt: "**Liverpool FC** vs **SC Napoli**. Champions League Group Stage Matchday 5 of 6. Kamis (28/11/2019) Kick-Off 03:00 WIB."
 header:
  og_image: "https://cdn.statically.io/img/premierleague.sky-news.co.uk/wp-content/uploads/2019/11/liverpoolnapolicomposite241119a-777x437.jpg"
  image: "https://cdn.statically.io/img/i2-prod.liverpool.com/incoming/article17041156.ece/ALTERNATES/s810/0_GettyImages-1173868960.jpg"
@@ -24,7 +24,7 @@ Postingan ini niatnya hanya untuk menyimpan link streaming pertandingan-pertandi
 
 ## Jadwal Liverpool FC pekan ini:
 
-**Liverpool FC** vs **SC Napoli**. Champions League Matchday ke-6. Kick-Off 03:00 WIB (UTC+7) Kamis, 28/11/2019.
+**Liverpool FC** vs **SC Napoli**. Champions League Babak Grup Matchday ke-5 dari 6. Kick-Off 03:00 WIB (UTC+7) Kamis, 28/11/2019.
 
 {% include video provider="youtube" id="9UBx8h4TFcM" %}
 
