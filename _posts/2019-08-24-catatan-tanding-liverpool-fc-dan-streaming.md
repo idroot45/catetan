@@ -1,12 +1,12 @@
 ---
 title: "Catatan Pertandingan Liverpool FC dan Link Streaming [Update]"
-excerpt: "**Crystal Palace** vs **Liverpool FC**. English Premiere League Game Week 13th Sabtu (22/11/2019) Kick-Off 22:00 WIB."
+excerpt: "**Liverpool FC** vs **SC Napoli**. Champions League Matchday 6. Kamis (28/11/2019) Kick-Off 03:00 WIB."
 header:
  og_image: "https://cdn.staticaly.io/img/www.thisisanfield.com/wp-content/uploads/2019-01-19-101-Liverpool_Crystal_Palace-1-e1574272360607.jpg"
-# image: "https://cdn.statically.io/img/i2-prod.liverpool.com/incoming/article17041156.ece/ALTERNATES/s810/0_GettyImages-1173868960.jpg"
-# caption: "Anfield’s mentality has been transformed."
- video:
-  id: lfctv
+ image: "https://cdn.statically.io/img/i2-prod.liverpool.com/incoming/article17041156.ece/ALTERNATES/s810/0_GettyImages-1173868960.jpg"
+ caption: "Anfield’s mentality has been transformed."
+# video:
+#  id: lfctv
   provider: internal
  teaser: "https://cdn.statically.io/img/www.thisisanfield.com/wp-content/uploads/2019-01-19-101-Liverpool_Crystal_Palace-1-e1574272360607-324x235.jpg"
 categories: [streaming]
@@ -24,6 +24,10 @@ Postingan ini niatnya hanya untuk menyimpan link streaming pertandingan-pertandi
 
 ## Jadwal Liverpool FC pekan ini:
 
+**Liverpool FC** vs **SC Napoli**. Champions League Matchday ke-6. Kick-Off 03:00 WIB (UTC+7) Kamis, 28/11/2019.
+
+{% include tengah.html %}
+
 <blockquote>Waktu lokal sekarang: <strong><span id="JamLokal" onload="showTime()"></span></strong></blockquote>
 <script>
 function showTime(){
@@ -39,8 +43,6 @@ function showTime(){
 showTime();
 </script>
 
-{% include tengah.html %}
-
 ## Hasil Sebelumnya:
 
 {%include figure caption="LIVERPOOL, ENGLAND - Saturday, August 19, 2017: Liverpool's Georginio Wijnaldum and Crystal Palace's Joel Ward during the FA Premier League match between Liverpool and Crystal Palace at Anfield. _(Pic by David Rawcliffe/Propaganda)_" image_path="https://cdn.statically.io/img/www.thisisanfield.com/wp-content/uploads/170819-045-Liverpool_Crystal_Palace.jpg" %}
@@ -55,6 +57,8 @@ showTime();
 - Goal cepat babak kedua dicetak **S. Mane** umpan dari **A. Robertson**
 - {% include figure image_path="https://i2-prod.liverpool.com/liverpool-fc-news/features/article17308495.ece/ALTERNATES/s810/0_Zaha-goal.png" caption="With just a 0-1 lead, Liverpool were cut open down their right-hand side in the build-up to Wilfried Zaha's 82nd-minute equaliser" title="Zaha's equaliser goal" %}
 - Goal penentu kemenangan di lima menit akhir pertandingan dicetak **R. Firminho**. Pembuktian dari _mentality monster_ yang diungkapkan oleh **J. Klop**.
+
+{% include tengah.html %}
 
 **EPL GW 12** Minggu (02/11/2019) **Liverpool FC** vs **Manchester City** [H]. **KO 22:30 WIB**. Skor Akhir: 3-1, bisa kena hipotermia ini...
 
