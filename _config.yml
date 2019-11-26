@@ -62,7 +62,7 @@ analytics:
 
 # Build settings
 markdown: kramdown
-remote_theme: "mmistakes/minimal-mistakes@4.17.2"
+remote_theme: "mmistakes/minimal-mistakes"
 # Outputting
 permalink: /:categories/:title/
 paginate: 10 # amount of posts to show
@@ -72,7 +72,6 @@ timezone: Asia/Jakarta
 include:
   - _pages
 exclude:
-  - _draft
   - Gemfile
   - Gemfile.lock
   - _draft
