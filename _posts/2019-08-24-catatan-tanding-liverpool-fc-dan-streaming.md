@@ -26,6 +26,8 @@ Postingan ini niatnya hanya untuk menyimpan link streaming pertandingan-pertandi
 
 **Liverpool FC** vs **SC Napoli**. Champions League Matchday ke-6. Kick-Off 03:00 WIB (UTC+7) Kamis, 28/11/2019.
 
+{% include video provider="youtube" id="9UBx8h4TFcM" %}
+
 {% include tengah.html %}
 
 <blockquote>Waktu lokal sekarang: <strong><span id="JamLokal" onload="showTime()"></span></strong></blockquote>
@@ -54,9 +56,9 @@ showTime();
   - _Subs:_ Hennessey, Dann, Meyer, Schlupp, Benteke, McCarthy, Kelly
   - **Liverpool:** Alisson, Alexander-Arnold, Lovren, Van Dijk, Robertson, Fabinho, Wijnaldum, Henderson, Oxlade-Chamberlain, Mane, Firmino
   - _Subs:_ Adrian, Milner, Keita, Salah, Gomez, Lallana, Origi
-- {% include figure image_path="https://cdn.statically.io/img/i2-prod.liverpool.com/incoming/article17306186.ece/ALTERNATES/s458/0_GettyImages-1189561064-1.jpg" caption"Goal cepat babak kedua dicetak **S. Mane** umpan dari **A. Robertson**" %}
-- {% include figure image_path="https://cdn.sraticalli.io/img/i2-prod.liverpool.com/liverpool-fc-news/features/article17308495.ece/ALTERNATES/s810/0_Zaha-goal.png" caption="With just a 0-1 lead, Liverpool were cut open down their right-hand side in the build-up to Wilfried Zaha's 82nd-minute equaliser" title="Zaha's equaliser goal" %}
-- {% include figure image_path="https://cdn.sraticalli.io/img/i2-prod.liverpool.com/incoming/article17306328.ece/ALTERNATES/s810/0_GettyImages-1189564000.jpg" caption="Goal penentu kemenangan di lima menit akhir pertandingan dicetak **R. Firminho**. Pembuktian dari _mentality monster_ yang diungkapkan oleh **J. Klop**." %}
+- {% include figure image_path="https://cdn.statically.io/img/i2-prod.liverpool.com/incoming/article17306186.ece/ALTERNATES/s810/0_GettyImages-1189561064-1.jpg" caption"Goal cepat babak kedua dicetak **S. Mane** umpan dari **A. Robertson**" %}
+- {% include figure image_path="https://cdn.sratically.io/img/i2-prod.liverpool.com/liverpool-fc-news/features/article17308495.ece/ALTERNATES/s810/0_Zaha-goal.png" caption="With just a 0-1 lead, Liverpool were cut open down their right-hand side in the build-up to Wilfried Zaha's 82nd-minute equaliser" %}
+- {% include figure image_path="https://cdn.sratically.io/img/i2-prod.liverpool.com/incoming/article17306328.ece/ALTERNATES/s810/0_GettyImages-1189564000.jpg" caption="Goal penentu kemenangan di lima menit akhir pertandingan dicetak **R. Firminho**. Pembuktian dari _mentality monster_ yang diungkapkan oleh **J. Klop**." %}
 - Mo Salah sempat terlihat akan dimainkan namun urung setelah R. Firminho mencetak gol menjadikan skor akhir 1-2 untuk kemenangan Liverpool FC
 
 {% include tengah.html %}
