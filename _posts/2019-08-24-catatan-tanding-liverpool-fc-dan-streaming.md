@@ -45,7 +45,7 @@ showTime();
 
 ## Hasil Sebelumnya:
 
-{%include figure caption="LIVERPOOL, ENGLAND - Saturday, August 19, 2017: Liverpool's Georginio Wijnaldum and Crystal Palace's Joel Ward during the FA Premier League match between Liverpool and Crystal Palace at Anfield. _(Pic by David Rawcliffe/Propaganda)_" image_path="https://cdn.statically.io/img/www.thisisanfield.com/wp-content/uploads/170819-045-Liverpool_Crystal_Palace.jpg" %}
+{% include figure caption="LIVERPOOL, ENGLAND - Saturday, August 19, 2017: Liverpool's Georginio Wijnaldum and Crystal Palace's Joel Ward during the FA Premier League match between Liverpool and Crystal Palace at Anfield. _(Pic by David Rawcliffe/Propaganda)_" image_path="https://cdn.statically.io/img/www.thisisanfield.com/wp-content/uploads/170819-045-Liverpool_Crystal_Palace.jpg" %}
 
 **EPL GW 13** Sabtu (22/11/2019) **Crystal Pallace** vs **Liverpool FC** [A]. **KO 22:00 WIB**.
 
