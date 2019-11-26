@@ -11,7 +11,7 @@ header:
  teaser: "https://cdn.statically.io/img/www.thisisanfield.com/wp-content/uploads/2019-01-19-101-Liverpool_Crystal_Palace-1-e1574272360607-324x235.jpg"
 categories: [streaming]
 tags: [streaming bola, streaming liverpool, rekap liverpool fc]
-last_modified_at: 2019-11-23 22:10:03
+last_modified_at: 2019-11-26 19:58:03
 redirect_from:
  - /streaming/streaming-m3u8/
  - /liverpool
@@ -23,16 +23,6 @@ redirect_from:
 Postingan ini niatnya hanya untuk menyimpan link streaming pertandingan-pertandingan **[Liverpool FC](/)** saja. Utamanya *Premier League*, tetapi mungkin ada juga pertandingan di kompetisi lain seperti _Carabao Cup_ dan _Champions League_ juga _Piala Dunia Antar-Klub_.
 
 ## Jadwal Liverpool FC pekan ini:
-
-{%include figure caption="LIVERPOOL, ENGLAND - Saturday, August 19, 2017: Liverpool's Georginio Wijnaldum and Crystal Palace's Joel Ward during the FA Premier League match between Liverpool and Crystal Palace at Anfield. _(Pic by David Rawcliffe/Propaganda)_" image_path="https://cdn.statically.io/img/www.thisisanfield.com/wp-content/uploads/170819-045-Liverpool_Crystal_Palace.jpg" %}
-
-**EPL GW 13** Sabtu (22/11/2019) **Crystal Pallace** vs **Liverpool FC** [A]. **KO 22:00 WIB**.
-
-- Pertandingan perdana setelah jeda internasional.
-- Crystal Palace: Guaita, Ward, Tomkins, Cahill, Van Aanholt, Townsend, Kouyate, Milivojevic, McArthur, Zaha, Ayew
-- Subs: Hennessey, Dann, Meyer, Schlupp, Benteke, McCarthy, Kelly
-- Liverpool: Alisson, Alexander-Arnold, Lovren, Van Dijk, Robertson, Fabinho, Wijnaldum, Henderson, Oxlade-Chamberlain, Mane, Firmino
-- Subs: Adrian, Milner, Keita, Salah, Gomez, Lallana, Origi
 
 <blockquote>Waktu lokal sekarang: <strong><span id="JamLokal" onload="showTime()"></span></strong></blockquote>
 <script>
@@ -52,6 +42,19 @@ showTime();
 {% include tengah.html %}
 
 ## Hasil Sebelumnya:
+
+{%include figure caption="LIVERPOOL, ENGLAND - Saturday, August 19, 2017: Liverpool's Georginio Wijnaldum and Crystal Palace's Joel Ward during the FA Premier League match between Liverpool and Crystal Palace at Anfield. _(Pic by David Rawcliffe/Propaganda)_" image_path="https://cdn.statically.io/img/www.thisisanfield.com/wp-content/uploads/170819-045-Liverpool_Crystal_Palace.jpg" %}
+
+**EPL GW 13** Sabtu (22/11/2019) **Crystal Pallace** vs **Liverpool FC** [A]. **KO 22:00 WIB**.
+
+- Pertandingan perdana setelah jeda internasional.
+  - Crystal Palace: Guaita, Ward, Tomkins, Cahill, Van Aanholt, Townsend, Kouyate, Milivojevic, McArthur, Zaha, Ayew
+  - Subs: Hennessey, Dann, Meyer, Schlupp, Benteke, McCarthy, Kelly
+  - Liverpool: Alisson, Alexander-Arnold, Lovren, Van Dijk, Robertson, Fabinho, Wijnaldum, Henderson, Oxlade-Chamberlain, Mane, Firmino
+  - Subs: Adrian, Milner, Keita, Salah, Gomez, Lallana, Origi
+- Goal cepat babak kedua dicetak **S. Mane** umpan dari **A. Robertson**
+- {% include figure image_path="https://i2-prod.liverpool.com/liverpool-fc-news/features/article17308495.ece/ALTERNATES/s810/0_Zaha-goal.png" caption="With just a 0-1 lead, Liverpool were cut open down their right-hand side in the build-up to Wilfried Zaha's 82nd-minute equaliser" title="Zaha's equaliser goal" %}
+- Goal penentu kemenangan di lima menit akhir pertandingan dicetak **R. Firminho**. Pembuktian dari _mentality monster_ yang diungkapkan oleh **J. Klop**.
 
 **EPL GW 12** Minggu (02/11/2019) **Liverpool FC** vs **Manchester City** [H]. **KO 22:30 WIB**. Skor Akhir: 3-1, bisa kena hipotermia ini...
 
