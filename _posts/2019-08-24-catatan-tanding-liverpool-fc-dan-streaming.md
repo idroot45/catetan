@@ -30,8 +30,6 @@ Postingan ini niatnya hanya untuk menyimpan link streaming pertandingan-pertandi
 
 ### _Liverpool FC_ vs _SC Napoli_
 
-{% include image_path="https://cdn.statically.io/img/www.thisisanfield.com/wp-content/uploads/P2019-09-17-038-Napoli_Liverpool.jpg" caption="NAPLES, ITALY - Tuesday, September 17, 2019: Liverpool's Trent Alexander-Arnold is tackled by SSC Napoli's Mário Rui during the UEFA Champions League Group E match between SSC Napoli and Liverpool FC at the Studio San Paolo. _(Pic by David Rawcliffe/Propaganda)_" %}
-
 Champions League Babak Grup Matchday ke-5 dari 6. Kick-Off 03:00 WIB Kamis, 28/11/2019.
 
 {% include video provider="youtube" id="9UBx8h4TFcM" %}
