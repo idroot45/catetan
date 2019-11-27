@@ -1,7 +1,6 @@
 <meta charset="utf-8">
 {% include ia.html %}
 {% include seo.html %}
-<meta content="{% if page.lang %}{{ page.lang }}{% else %}{{ site.locale | slice: 0,2 | default: "en" }}{% endif%}" properties="og:locale">
 {% include auto_ads.html %}
 <link href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ '/feed.xml' | relative_url }}{% endif %}" type="application/atom+xml" rel="alternate" title="{{ site.title }} Feed">
 <!-- https://t.co/dKP3o1e -->
