@@ -28,29 +28,33 @@ Postingan ini niatnya hanya untuk menyimpan link streaming pertandingan-pertandi
 
 ## Jadwal Liverpool FC pekan ini:
 
-**Liverpool FC** vs **SC Napoli**. Champions League Babak Grup Matchday ke-5 dari 6. Kick-Off 03:00 WIB Kamis, 28/11/2019.
+**Liverpool FC** vs **SC Napoli**.
+
+Champions League Babak Grup Matchday ke-5 dari 6. Kick-Off 03:00 WIB Kamis, 28/11/2019.
 
 {% include video provider="youtube" id="9UBx8h4TFcM" %}
 
-- Last 5 against Napoli (All Competitions)
-  - Lost 2-0 – September 2019 (Mertens, Llorente)
-  - Won 1-0 – December 2018 (Salah)
-  - Lost 1-0 – October 2018 (Insigne)
-  - Won 3-1 – November 2010 (Gerrard x3; Lavezzi)
-  - Drew 0-0 – October 2010
-  In the last four meetings between the two teams, the home side has emerged as victors in each game – a record which makes for good reading for the Reds as they look to secure qualification.
-- Liverpool – Last five results (all competitions)
-  - Won 2-1 vs. Crystal Palace
-  - Won 3-1 vs. Man City
-  - Won 2-1 vs. Genk
-  - Won 2-1 vs. Aston Villa
-  - Won 5-4 on pens vs. Arsenal
-- Napoli – Last five results (all competitions)
-  - Drew 1-1 vs. AC Milan
-  - Drew 0-0 vs. Genoa
-  - Drew 1-1 vs. Salzburg
-  - Lost 2-1 vs. Roma
-  - Drew 2-2 vs. Atalanta
+Last 5 against Napoli (All Competitions)
+- Lost 2-0 – September 2019 (Mertens, Llorente)
+- Won 1-0 – December 2018 (Salah)
+- Lost 1-0 – October 2018 (Insigne)
+- Won 3-1 – November 2010 (Gerrard x3; Lavezzi)
+- Drew 0-0 – October 2010
+In the last four meetings between the two teams, the home side has emerged as victors in each game – a record which makes for good reading for the Reds as they look to secure qualification.
+
+**Liverpool** – Last five results (all competitions)
+- Won 2-1 vs. Crystal Palace
+- Won 3-1 vs. Man City
+- Won 2-1 vs. Genk
+- Won 2-1 vs. Aston Villa
+- Won 5-4 on pens vs. Arsenal
+
+**Napoli** – Last five results (all competitions)
+- Drew 1-1 vs. AC Milan
+- Drew 0-0 vs. Genoa
+- Drew 1-1 vs. Salzburg
+- Lost 2-1 vs. Roma
+- Drew 2-2 vs. Atalanta
 
 {% include tengah.html %}
 
