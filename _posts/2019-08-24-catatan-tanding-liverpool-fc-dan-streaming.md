@@ -40,6 +40,7 @@ Last 5 against Napoli (All Competitions)
 - Lost 1-0 – October 2018 (Insigne)
 - Won 3-1 – November 2010 (Gerrard x3; Lavezzi)
 - Drew 0-0 – October 2010
+
 In the last four meetings between the two teams, the home side has emerged as victors in each game – a record which makes for good reading for the Reds as they look to secure qualification.
 
 **Liverpool** – Last five results (all competitions)
@@ -91,7 +92,9 @@ Pertandingan perdana setelah jeda internasional. Line-up:
 
 {% include tengah.html %}
 
-### EPL GW 12 Minggu (02/11/2019) **Liverpool FC** vs **Manchester City** [H]. **KO 22:30 WIB**. Skor Akhir: 3-1, bisa kena hipotermia ini...
+### EPL GW 12 Minggu (02/11/2019) **Liverpool FC** vs **Manchester City** [H]. **KO 22:30 WIB**.
+
+Skor Akhir: 3-1, bisa kena hipotermia ini...
 
 {% include figure caption="Fabinho's goal as first score fot Liverpol" alt="Fabinho goal againts city" image_path="https://cdn.statically.io/img/www.thisisanfield.com/wp-content/uploads/P2019-11-10-Liverpool_Man_City-132.jpg" url="https://cdn.statically.io/img/www.thisisanfield.com/wp-content/uploads/P2019-11-10-Liverpool_Man_City-132.jpg" %}
 
@@ -109,11 +112,17 @@ Pertandingan perdana setelah jeda internasional. Line-up:
 
 {% include video id="aTYLL-6LWjA" provider="youtube" %}
 
-### EPL GW 11 Minggu (02/11/2019) **Aston Villa** vs **Liverpool FC** [A]. **KO 22:00 WIB**. Skor Akhir: 2-1, brrr... dingiiin...
+### EPL GW 11 Minggu (02/11/2019) **Aston Villa** vs **Liverpool FC** [A]. **KO 22:00 WIB**.
+
+Skor Akhir: 2-1, brrr... dingiiin...
 
 {% include video id="wZQZrPmX84c" provider="youtube" %}
 
-### Football League Cup 16 round: _Liverpool FC_ vs Arsenal FC [H]. Kamis, 31 Oktober 2019 **KO 02:30 WIB**. <br /> Hasil Akhir 5-5 (5-4) <br /> LFC's goals: S. Mustafi (9') [OG], J. Milner 43', A. Oxlade Chamberlain 58', D. Origi (63', 90+4). <br /> AFC's goals: L. T. Di Pascua (19'), G. Martinelli (26', 36'), A. Maitland Nilles (54'), J. Willock (70').
+### Football League Cup 16 round: _Liverpool FC_ vs Arsenal FC [H]. Kamis, 31 Oktober 2019 **KO 02:30 WIB**.
+
+Hasil Akhir 5-5 (5-4) <br /> LFC's goals: S. Mustafi (9') [OG], J. Milner 43', A. Oxlade Chamberlain 58', D. Origi (63', 90+4).
+
+AFC's goals: L. T. Di Pascua (19'), G. Martinelli (26', 36'), A. Maitland Nilles (54'), J. Willock (70').
 
 {% include video provider="youtube" id="L4ImKDNA8zY" %}
 
@@ -153,7 +162,9 @@ Pertandingan perdana setelah jeda internasional. Line-up:
 - Ribut-ribut pemain vs **A. Perez** di akhir pertandingan 🙄 [oh dikomandani oleh Adam Lallana](https://i2-prod.liverpool.com/incoming/article17040575.ece/ALTERNATES/s810/0_GettyImages-1173858117.jpg){:title="At full-time, Andy Robertson gave Ayoze Perez a slight elbow to the ribs on his way to celebrate with Lallana and Virgil van Dijk, only for the Spaniard to retaliate with a heavy shove in the Scotsman's back."}.
 - Review Liverpool FC vs Leicester City via [This Is Anfield](https://www.thisisanfield.com/2019/10/liverpool-2-1-leicester-player-ratings-what-the-media-and-statistics-say/)
 
-### Champions League Group Stage Matchday 2: _Liverpool FC_ vs _Red Bull Salzburg_ [H]. **KO 02:00 WIB**, Kamis, 3 Oktober 2019. Skor akhir: **4-3**
+### Champions League Group Stage Matchday 2: _Liverpool FC_ vs _Red Bull Salzburg_ [H]. **KO 02:00 WIB**, Kamis, 3 Oktober 2019.
+
+Skor akhir: **4-3**
 
 {% include figure caption="Gol penyelamat dari Mo Salah" alt="Mo Salah vs RB Salzburg" image_path="https://i2-prod.liverpool.com/incoming/article17022711.ece/ALTERNATES/s810/0_GettyImages-1178635744.jpg" %}
 
@@ -189,14 +200,17 @@ Pertandingan perdana setelah jeda internasional. Line-up:
 - Babak 2 **Kante** 71' melakukan akselerasi dan tendangan kesisi kiri gawang **Adrian** dan tak dapat dijangkau. 
 - Liverpool bertahan dengan bombardir serangan dari pemain-pemain Chelsea, kedudukan 2-1 tak berubah hingga akhir pertandingan.
 
-### Champions League Group Stage Matchday 1: _SC Napoli_ vs _Liverpool FC_ [away]. **KO 02:00 WIB**, Rabu, 17 September 2019. **Hasil: Kalah 0-2**.
-{: .notice .notice--info}
+### Champions League Group Stage Matchday 1: _SC Napoli_ vs _Liverpool FC_ [away]. **KO 02:00 WIB**, Rabu, 17 September 2019. 
+
+**Hasil: Kalah 0-2**.
+
 
 [![Adrian vs Napoli](https://i2-prod.liverpool.com/incoming/article16936166.ece/ALTERNATES/s510b/0_GettyImages-1168930358.jpg Adrian vs Napoli)](https://i2-prod.liverpool.com/incoming/article16936166.ece/ALTERNATES/s810/0_GettyImages-1168930358.jpg){:title="Napoli mengukuhkan kemenangan kandang dengan gol kedua di menit-menit akhir"}
 
 Lihat hasil matchday 1 selengkapnya [di sini](/sepakbola/jadwal-liga-champions-matchday-1-group/)
 
-### EPL GW 5 14 September 2019 **Liverpool vs Newcastle** [A] KO 18:30 WIB. Skor akhir 3-1, Liverpool FC tetap di pucuk.
+### EPL GW 5 14 September 2019 **Liverpool vs Newcastle** [A] KO 18:30 WIB.
+Skor akhir 3-1, Liverpool FC tetap di pucuk.
 
 - Tidak ditayangkan LIVE di TVRI maupun MolaTV [Web/App](https://mola.tv/watch?v=vd67493643){: onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Tonton Tayang Ulang" target="_new" rel="nofollow noreferer noopener"}, tetapi bisa ditonton tayangan ulangnya.
 - Link stream `m3u8` <del>hari ini masih burem 😒 gelap gulita. Jadi di ganti tayangan channel eurosport.</del>
@@ -206,7 +220,8 @@ Lihat hasil matchday 1 selengkapnya [di sini](/sepakbola/jadwal-liga-champions-m
 - Gol lagi, **S. Mane** 40', dari bola muntah rebutan **Firmino** dengan **Atsu**.
 - Gol **Mo Salah** 72', assist keren dari **Firmino**. 3-1 untuk Liverpool FC.
 
-### EPL GW 4 31 Agustus 2019 **Burnley vs Liverpool** [A] KO 23:30 WIB. Skor akhir 0-3 untuk kemenangan Liverpool.
+### EPL GW 4 31 Agustus 2019 **Burnley vs Liverpool** [A] KO 23:30 WIB.
+Skor akhir 0-3 untuk kemenangan Liverpool.
 
 - Tidak ditayangkan LIVE di MolaTV [Web/App](https://mola.tv/watch?v=vd66534925){: onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Tonton Tayang Ulang" target="_new" rel="nofollow noreferer noopener"}, tetapi bisa ditonton tayangan ulangnya.
 - Goal LFC: **C. Wood** 33' (og), S. Mane 37', R. Firmino 80'.
@@ -214,7 +229,8 @@ Lihat hasil matchday 1 selengkapnya [di sini](/sepakbola/jadwal-liga-champions-m
 
 > [Menerawang Starting XI Liverpool 5 Tahun Mendatang](https://catetan.istimiwir.host/sepakbola/liverpool-5-tahun-mendatang-tanpa-salah-mane-dan-van-dijk/){: rel="noopener"}
 
-### EPL GW 3 24 Agustus 2019 **Liverpool vs Arsenal** [H] KO 23:30 WIB. Skor akhir 3-1 untuk kemenangan Liverpool
+### EPL GW 3 24 Agustus 2019 **Liverpool vs Arsenal** [H] KO 23:30 WIB.
+Skor akhir 3-1 untuk kemenangan Liverpool
 
 - Tayang di MolaTV [Web/App](https://mola.tv/watch?v=vd65950609){: onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Tonton Tayang Ulang" target="_new" rel="nofollow noreferer noopener"}
 - Goal LFC: **Joel Matip** 41', **M. Salah** 49' (p), 58'. 
