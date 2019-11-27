@@ -1,11 +1,11 @@
 ---
-title: "LFCTV: Liverpool FC vs Manchester City"
+title: "Liverpool FC vs SC Napoli - LFCTV"
 permalink: /lfctv
 layout: stream
 header:
- og_image: "https://i0.wp.com/i2-prod.liverpool.com/incoming/article17305214.ece/ALTERNATES/s810/0_GettyImages-1189524788.jpg"
-video_id: "daily99.global.ssl.fastly.net/live/6/playlist"
-poster: "https://i0.wp.com/i2-prod.liverpool.com/incoming/article17305214.ece/ALTERNATES/s810/0_GettyImages-1189524788.jpg?resize=720,360"
+ og_image: "https://i.ytimg.com/vi/E4-NAKYDimw/maxresdefault.jpg"
+video_id: "cdndaily0.azureedge.net/live/5/playlist"
+poster: "https://i.ytimg.com/vi/E4-NAKYDimw/maxresdefault.jpg,360"
 sitemap: false
 ---
 Dummy
