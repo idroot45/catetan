@@ -6,12 +6,12 @@ header:
 # image: "https://cdn.statically.io/img/i2-prod.liverpool.com/incoming/article17041156.ece/ALTERNATES/s810/0_GettyImages-1173868960.jpg"
 # caption: "Anfield’s mentality has been transformed."
 header:
- og_image: "https://cdn.statically.io/img/www.thisisanfield.com/wp-content/uploads/P2019-09-17-038-Napoli_Liverpool.jpg"
- image: "https://cdn.statically.io/img/www.thisisanfield.com/wp-content/uploads/P2019-09-17-038-Napoli_Liverpool.jpg"
- caption: "NAPLES, ITALY - Tuesday, September 17, 2019: Liverpool's Trent Alexander-Arnold is tackled by SSC Napoli's Mário Rui during the UEFA Champions League Group E match between SSC Napoli and Liverpool FC at the Studio San Paolo. _(Pic by David Rawcliffe/Propaganda)_"
-# video:
-#  id: lfctv
-#  provider: internal
+ og_image: "https://cdn.statically.io/img/i.ytimg.com/vi/E4-NAKYDimw/maxresdefault.jpg"
+# image: "https://cdn.statically.io/img/www.thisisanfield.com/wp-content/uploads/P2019-09-17-038-Napoli_Liverpool.jpg"
+# caption: "NAPLES, ITALY - Tuesday, September 17, 2019: Liverpool's Trent Alexander-Arnold is tackled by SSC Napoli's Mário Rui during the UEFA Champions League Group E match between SSC Napoli and Liverpool FC at the Studio San Paolo. _(Pic by David Rawcliffe/Propaganda)_"
+ video:
+  id: lfctv
+  provider: internal
  teaser: "https://cdn.statically.io/img/premierleague.sky-news.co.uk/wp-content/uploads/2019/11/liverpoolnapolicomposite241119a-777x437.jpg"
 categories: [streaming]
 tags: [streaming bola, streaming liverpool, rekap liverpool fc]
@@ -28,7 +28,9 @@ Postingan ini niatnya hanya untuk menyimpan link streaming pertandingan-pertandi
 
 ## Jadwal Liverpool FC pekan ini:
 
-**Liverpool FC** vs **SC Napoli**.
+### _Liverpool FC_ vs _SC Napoli_
+
+{% include image_path="https://cdn.statically.io/img/www.thisisanfield.com/wp-content/uploads/P2019-09-17-038-Napoli_Liverpool.jpg" caption="NAPLES, ITALY - Tuesday, September 17, 2019: Liverpool's Trent Alexander-Arnold is tackled by SSC Napoli's Mário Rui during the UEFA Champions League Group E match between SSC Napoli and Liverpool FC at the Studio San Paolo. _(Pic by David Rawcliffe/Propaganda)_" %}
 
 Champions League Babak Grup Matchday ke-5 dari 6. Kick-Off 03:00 WIB Kamis, 28/11/2019.
 
