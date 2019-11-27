@@ -1,10 +1,14 @@
 ---
 title: "Catatan Pertandingan Liverpool FC dan Link Streaming [Update]"
-excerpt: "**Liverpool FC** vs **SC Napoli**. Champions League Group Stage Matchday 5 of 6. Kamis (28/11/2019) Kick-Off 03:00 WIB."
+excerpt: "Live Video Stream **Liverpool FC** vs **SC Napoli**. Champions League Group Stage Matchday 5 of 6. Kamis (28/11/2019) Kick-Off 03:00 WIB."
 header:
- og_image: "https://cdn.statically.io/img/premierleague.sky-news.co.uk/wp-content/uploads/2019/11/liverpoolnapolicomposite241119a-777x437.jpg"
- image: "https://cdn.statically.io/img/i2-prod.liverpool.com/incoming/article17041156.ece/ALTERNATES/s810/0_GettyImages-1173868960.jpg"
- caption: "Anfield’s mentality has been transformed."
+# og_image: "https://cdn.statically.io/img/premierleague.sky-news.co.uk/wp-content/uploads/2019/11/liverpoolnapolicomposite241119a-777x437.jpg"
+# image: "https://cdn.statically.io/img/i2-prod.liverpool.com/incoming/article17041156.ece/ALTERNATES/s810/0_GettyImages-1173868960.jpg"
+# caption: "Anfield’s mentality has been transformed."
+header:
+ og_image: "https://cdn.statically.io/img/www.thisisanfield.com/wp-content/uploads/P2019-09-17-038-Napoli_Liverpool.jpg"
+ image: "https://cdn.statically.io/img/www.thisisanfield.com/wp-content/uploads/P2019-09-17-038-Napoli_Liverpool.jpg"
+ caption: "NAPLES, ITALY - Tuesday, September 17, 2019: Liverpool's Trent Alexander-Arnold is tackled by SSC Napoli's Mário Rui during the UEFA Champions League Group E match between SSC Napoli and Liverpool FC at the Studio San Paolo. _(Pic by David Rawcliffe/Propaganda)_"
 # video:
 #  id: lfctv
 #  provider: internal
@@ -15,7 +19,7 @@ redirect_from:
  - /streaming/streaming-m3u8/
  - /liverpool
  - /streaming/m3u8/
-last_modified_at: 2019-11-26 20:26:05
+last_modified_at: 2019-11-27 22:46:05
 ---
 *Ingat baik-baik!*{:.fa .fa-cog .fa-spin aria-hidden="true"} **1**. Tayangan akan tersedia hanya **jika ada** dan **tersedia** (dapat saya temukan) di internet. Baca [latar belakang](#latar-belakang) catatan ini. **2**. Refresh **10 menit** sebelum _kick off_, selain di waktu tersebut kemungkinan siaran tidak dapat diakses. **3**. Streaming di halaman ini diusahakan dalam kualitas HD, jadi kemungkinan akan menguras kuota/data hingga 2 GB dan membutuhkan kecepatan konektivitas minimal 10 mbps untuk kelancaran streaming. **4**. Sedangkan mengenai pilihan siaran **MolaTV**, tidak saya rekomendasikan. Silahkan baca [catatannya](#molatv).
 {:.notice--warning}
@@ -27,6 +31,26 @@ Postingan ini niatnya hanya untuk menyimpan link streaming pertandingan-pertandi
 **Liverpool FC** vs **SC Napoli**. Champions League Babak Grup Matchday ke-5 dari 6. Kick-Off 03:00 WIB Kamis, 28/11/2019.
 
 {% include video provider="youtube" id="9UBx8h4TFcM" %}
+
+- Last 5 against Napoli (All Competitions)
+  - Lost 2-0 – September 2019 (Mertens, Llorente)
+  - Won 1-0 – December 2018 (Salah)
+  - Lost 1-0 – October 2018 (Insigne)
+  - Won 3-1 – November 2010 (Gerrard x3; Lavezzi)
+  - Drew 0-0 – October 2010
+  In the last four meetings between the two teams, the home side has emerged as victors in each game – a record which makes for good reading for the Reds as they look to secure qualification.
+- Liverpool – Last five results (all competitions)
+  - Won 2-1 vs. Crystal Palace
+  - Won 3-1 vs. Man City
+  - Won 2-1 vs. Genk
+  - Won 2-1 vs. Aston Villa
+  - Won 5-4 on pens vs. Arsenal
+- Napoli – Last five results (all competitions)
+  - Drew 1-1 vs. AC Milan
+  - Drew 0-0 vs. Genoa
+  - Drew 1-1 vs. Salzburg
+  - Lost 2-1 vs. Roma
+  - Drew 2-2 vs. Atalanta
 
 {% include tengah.html %}
 
