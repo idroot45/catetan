@@ -41,6 +41,8 @@ New to Kali Linux documentation is the use of **BTRFS as your root file system**
 
 ### Powershell
 
+{% include tengah.html %}
+
 The team also flagged the ability to execute PowerShell scripts directly on Kali, although this appears (correct us if we’re wrong) to have been initially introduced in June last year.
 
 (Powershell is a cross-platform automation and configuration tool optimised for dealing with structured data (e.g. JSON, CSV, XML, etc.), REST APIs, and object models. It includes a command-line shell, an associated scripting language and a framework for processing cmdlets.)
