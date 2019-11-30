@@ -1,11 +1,11 @@
 ---
-title: "Liverpool FC vs SC Napoli - LFCTV"
+title: "Liverpool FC vs Brighton HA - LFCTV"
 permalink: /lfctv
 layout: stream
 header:
- og_image: "https://i.ytimg.com/vi/E4-NAKYDimw/maxresdefault.jpg"
-video_id: "cdndaily0.azureedge.net/live/5/playlist"
-poster: "https://i.ytimg.com/vi/E4-NAKYDimw/maxresdefault.jpg"
+ og_image: "https://pbs.twimg.com/media/EKmGcZ_WkAUttOZ?format=jpg&name=large"
+video_id: "cdn4d.global.ssl.fastly.net/live/3/playlist"
+poster: "https://pbs.twimg.com/media/EKmGcZ_WkAUttOZ?format=jpg&name=large"
 sitemap: false
 ---
 dummy
