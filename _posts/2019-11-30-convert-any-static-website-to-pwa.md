@@ -3,6 +3,7 @@ title: "Convert Any Static Website To PWA"
 header:
  image: "https://cdn.statically.io/img/assets.browserlondon.com/app/uploads/2019/03/pwa-banner-768x432.png"
  og_image: "https://cdn.statically.io/img/assets.browserlondon.com/app/uploads/2019/03/pwa-banner.png"
+ teaser: "https://i0.wp.com/assets.browserlondon.com/app/uploads/2019/03/pwa-banner-768x432.png?resize=480,240"
  caption: "Progresive Web App"
 categories: [developer]
 tags: [progresive web app, static web site]
