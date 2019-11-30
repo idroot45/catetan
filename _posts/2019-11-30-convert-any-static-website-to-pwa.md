@@ -1,5 +1,11 @@
 ---
 title: "Convert Any Static Website To PWA"
+header:
+ image: "https://cdn.statically.io/img/assets.browserlondon.com/app/uploads/2019/03/pwa-banner-768x432.png"
+ og_image: "https://cdn.statically.io/img/assets.browserlondon.com/app/uploads/2019/03/pwa-banner.png"
+ caption: "Progresive Web App"
+categories: [developer]
+tags: [progresive web app, static web site]
 ---
 ## What is PWA?
 Progressive Web Apps are user experiences that have the reach of the web, and are:
