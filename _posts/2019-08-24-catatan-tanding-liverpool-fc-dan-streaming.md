@@ -1,6 +1,6 @@
 ---
 title: "Catatan Pertandingan Liverpool FC dan Link Streaming [Update]"
-excerpt: "Live Video Stream **Liverpool FC** vs **SC Napoli**. Champions League Group Stage Matchday 5 of 6. Kamis (28/11/2019) Kick-Off 03:00 WIB."
+excerpt: "Live Video Stream **Liverpool FC** vs **Brighton HA**. Premier League Game Week 14. Sabtu (30/11/2019) Kick-Off 22 :00 WIB."
 header:
 # og_image: "https://cdn.statically.io/img/premierleague.sky-news.co.uk/wp-content/uploads/2019/11/liverpoolnapolicomposite241119a-777x437.jpg"
 # image: "https://cdn.statically.io/img/i2-prod.liverpool.com/incoming/article17041156.ece/ALTERNATES/s810/0_GettyImages-1173868960.jpg"
@@ -32,7 +32,10 @@ Postingan ini niatnya hanya untuk menyimpan link streaming pertandingan-pertandi
 
 **Liverpool FC** vs **Brighton HA** [H]. **KO 22:00 WIB**
 
+{% include video id="Ak-QRQ0-AaE" provider="youtube" %}
+
 - Tayang di [mola.tv](#molatv) dan [TVRI](https://tvri.go.id)
+- Liverpool memenangkan seluruh pertandingan dari 7 pertemuan terakhir di semua ajang. Memasukkan 22 gol dan hanya kemasukan 5 gol.
 
 {% include tengah.html %}
 
@@ -57,11 +60,12 @@ showTime();
 
 Champions League Babak Grup Matchday ke-5 dari 6. Kick-Off 03:00 WIB Kamis, 28/11/2019.
 
+{% include video provider="youtube" id="9UBx8h4TFcM" %}
+
 - Fabinho cedera.
 - Skor Akhir 1-1.
 
-{% include video provider="youtube" id="9UBx8h4TFcM" %}
-
+{% include video provider="youtube" id="zuXn-bxau6g" %}
 
 ### EPL GW 13 Sabtu (22/11/2019)
 
