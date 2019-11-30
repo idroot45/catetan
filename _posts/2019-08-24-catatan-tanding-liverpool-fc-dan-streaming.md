@@ -19,7 +19,7 @@ redirect_from:
  - /streaming/streaming-m3u8/
  - /liverpool
  - /streaming/m3u8/
-last_modified_at: 2019-11-28 01:43:05
+last_modified_at: 2019-11-30 11:38:00
 ---
 *Ingat baik-baik!*{:.fa .fa-cog .fa-spin aria-hidden="true"} **1**. Tayangan akan tersedia hanya **jika ada** dan **tersedia** (dapat saya temukan) di internet. Baca [latar belakang](#latar-belakang) catatan ini. **2**. Refresh **10 menit** sebelum _kick off_, selain di waktu tersebut kemungkinan siaran tidak dapat diakses. **3**. Streaming di halaman ini diusahakan dalam kualitas HD, jadi kemungkinan akan menguras kuota/data hingga 2 GB dan membutuhkan kecepatan konektivitas minimal 10 mbps untuk kelancaran streaming. **4**. Sedangkan mengenai pilihan siaran **MolaTV**, tidak saya rekomendasikan. Silahkan baca [catatannya](#molatv).
 {:.notice--warning}
@@ -36,6 +36,18 @@ Postingan ini niatnya hanya untuk menyimpan link streaming pertandingan-pertandi
 
 - Tayang di [mola.tv](#molatv) dan [TVRI](https://tvri.go.id)
 - Liverpool memenangkan seluruh pertandingan dari 7 pertemuan terakhir di semua ajang. Memasukkan 22 gol dan hanya kemasukan 5 gol.
+
+#### Line-up
+
+Alex Oxlade-Chamberlain starts as Liverpool make three changes for today’s Premier League encounter with Brighton & Hove Albion at Anfield.
+
+The midfielder joins Georginio Wijnaldum in replacing the injured Fabinho and James Milner in the centre of the park for the Reds.
+
+Elsewhere, Trent Alexander-Arnold returns in place of Joe Gomez in defence, while Naby Keita is back on the substitutes’ bench.
+
+_Liverpool:_ Alisson, Alexander-Arnold, Lovren, Van Dijk, Robertson, Wijnaldum, Henderson, Oxlade-Chamberlain, Mane, Salah, Firmino.
+
+_Subs:_ Adrian, Milner, Keita, Gomez, Lallana, Shaqiri, Origi.
 
 {% include tengah.html %}
 
