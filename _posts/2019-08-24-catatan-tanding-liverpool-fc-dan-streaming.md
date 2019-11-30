@@ -6,13 +6,13 @@ header:
 # image: "https://cdn.statically.io/img/i2-prod.liverpool.com/incoming/article17041156.ece/ALTERNATES/s810/0_GettyImages-1173868960.jpg"
 # caption: "Anfield’s mentality has been transformed."
 header:
- og_image: "https://cdn.statically.io/img/i.ytimg.com/vi/E4-NAKYDimw/maxresdefault.jpg"
+ og_image: "https://pbs.twimg.com/media/EKmGcZ_WkAUttOZ?format=jpg&name=large"
 # image: "https://cdn.statically.io/img/www.thisisanfield.com/wp-content/uploads/P2019-09-17-038-Napoli_Liverpool.jpg"
 # caption: "NAPLES, ITALY - Tuesday, September 17, 2019: Liverpool's Trent Alexander-Arnold is tackled by SSC Napoli's Mário Rui during the UEFA Champions League Group E match between SSC Napoli and Liverpool FC at the Studio San Paolo. _(Pic by David Rawcliffe/Propaganda)_"
  video:
   id: lfctv
   provider: internal
-# teaser: "https://cdn.statically.io/img/premierleague.sky-news.co.uk/wp-content/uploads/2019/11/liverpoolnapolicomposite241119a-777x437.jpg"
+ teaser: "https://pbs.twimg.com/media/EKmGcZ_WkAUttOZ?format=jpg&name=medium.jpg"
 categories: [streaming]
 tags: [streaming bola, streaming liverpool, rekap liverpool fc]
 redirect_from:
@@ -28,34 +28,11 @@ Postingan ini niatnya hanya untuk menyimpan link streaming pertandingan-pertandi
 
 ## Jadwal Liverpool FC pekan ini:
 
-### _Liverpool FC_ vs _SC Napoli_
+### EPL GW 14 Sabtu (30/11/2019) 
 
-Champions League Babak Grup Matchday ke-5 dari 6. Kick-Off 03:00 WIB Kamis, 28/11/2019.
+**Liverpool FC** vs **Brighton HA** [H]. **KO 22:00 WIB**
 
-{% include video provider="youtube" id="9UBx8h4TFcM" %}
-
-Last 5 against Napoli (All Competitions)
-- Lost 2-0 – September 2019 (Mertens, Llorente)
-- Won 1-0 – December 2018 (Salah)
-- Lost 1-0 – October 2018 (Insigne)
-- Won 3-1 – November 2010 (Gerrard x3; Lavezzi)
-- Drew 0-0 – October 2010
-
-In the last four meetings between the two teams, the home side has emerged as victors in each game – a record which makes for good reading for the Reds as they look to secure qualification.
-
-**Liverpool** – Last five results (all competitions)
-- Won 2-1 vs. Crystal Palace
-- Won 3-1 vs. Man City
-- Won 2-1 vs. Genk
-- Won 2-1 vs. Aston Villa
-- Won 5-4 on pens vs. Arsenal
-
-**Napoli** – Last five results (all competitions)
-- Drew 1-1 vs. AC Milan
-- Drew 0-0 vs. Genoa
-- Drew 1-1 vs. Salzburg
-- Lost 2-1 vs. Roma
-- Drew 2-2 vs. Atalanta
+- Tayang di [mola.tv](#molatv) dan [TVRI](https://tvri.go.id)
 
 {% include tengah.html %}
 
@@ -76,7 +53,19 @@ showTime();
 
 ## Hasil Sebelumnya:
 
-### EPL GW 13 Sabtu (22/11/2019) **Crystal Pallace** vs **Liverpool FC** [A]. **KO 22:00 WIB**.
+### _Liverpool FC_ vs _SC Napoli_
+
+Champions League Babak Grup Matchday ke-5 dari 6. Kick-Off 03:00 WIB Kamis, 28/11/2019.
+
+- Fabinho cedera.
+- Skor Akhir 1-1.
+
+{% include video provider="youtube" id="9UBx8h4TFcM" %}
+
+
+### EPL GW 13 Sabtu (22/11/2019)
+
+**Crystal Pallace** vs **Liverpool FC** [A]. **KO 22:00 WIB**.
 
 {% include figure caption="LIVERPOOL, ENGLAND - Saturday, August 19, 2017: Liverpool's Georginio Wijnaldum and Crystal Palace's Joel Ward during the FA Premier League match between Liverpool and Crystal Palace at Anfield. _(Pic by David Rawcliffe/Propaganda)_" image_path="https://cdn.statically.io/img/www.thisisanfield.com/wp-content/uploads/170819-045-Liverpool_Crystal_Palace.jpg" %}
 
