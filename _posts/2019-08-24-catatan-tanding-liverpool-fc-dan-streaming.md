@@ -66,7 +66,7 @@ showTime();
 
 **Liverpool FC** vs **Brighton HA** [H]. **KO 22:00 WIB**
 
-{% include video id="Ak-QRQ0-AaE" provider="youtube" %}
+{% include video id="m5yfbTtGEBM" provider="youtube" %}
 
 - Tayang di [mola.tv](#molatv) dan [TVRI](https://tvri.go.id)
 - Liverpool memenangkan seluruh pertandingan dari 7 pertemuan terakhir di semua ajang. Memasukkan 22 gol dan hanya kemasukan 5 gol.
@@ -81,8 +81,7 @@ Champions League Babak Grup Matchday ke-5 dari 6. Kick-Off 03:00 WIB Kamis, 28/1
 
 {% include video provider="youtube" id="9UBx8h4TFcM" %}
 
-- Fabinho cedera.
-- Skor Akhir 1-1.
+{% include video id="eMM0hSBzZ3s" provider="youtube" %}
 
 {% include video provider="youtube" id="zuXn-bxau6g" %}
 
