@@ -4,7 +4,7 @@ tags: [microsoft, windows 7, windows 8, windows 10]
 last_modified_at: 2019-12-02 20:50:01
 title: "Why Microsoft Still Allows Free Windows 10 Upgrades And How To Get Yours"
 header:
- image: https://cdn.statically.io/im/images.hothardware.com/contentimages/newsitem/50025/content/windows-10-laptop.JPG
+ image: https://cdn.statically.io/img/images.hothardware.com/contentimages/newsitem/50025/content/windows-10-laptop.JPG
  caption: Windows 10 laptop
 excerpt: "You can still get with the times and get Microsoft's latest OS it without paying a dime. A loophole continues to allow users to upgrade to Windows 10 for free"
 ---
