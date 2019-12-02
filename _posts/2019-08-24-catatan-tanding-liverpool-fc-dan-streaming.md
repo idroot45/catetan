@@ -19,7 +19,7 @@ redirect_from:
  - /streaming/streaming-m3u8/
  - /liverpool
  - /streaming/m3u8/
-last_modified_at: 2019-11-30 11:38:00
+last_modified_at: 2019-13-02 22:10:00
 ---
 *Ingat baik-baik!*{:.fa .fa-cog .fa-spin aria-hidden="true"} **1**. Tayangan akan tersedia hanya **jika ada** dan **tersedia** (dapat saya temukan) di internet. Baca [latar belakang](#latar-belakang) catatan ini. **2**. Refresh **10 menit** sebelum _kick off_, selain di waktu tersebut kemungkinan siaran tidak dapat diakses. **3**. Streaming di halaman ini diusahakan dalam kualitas HD, jadi kemungkinan akan menguras kuota/data hingga 2 GB dan membutuhkan kecepatan konektivitas minimal 10 mbps untuk kelancaran streaming. **4**. Sedangkan mengenai pilihan siaran **MolaTV**, tidak saya rekomendasikan. Silahkan baca [catatannya](#molatv).
 {:.notice--warning}
@@ -28,26 +28,18 @@ Postingan ini niatnya hanya untuk menyimpan link streaming pertandingan-pertandi
 
 ## Jadwal Liverpool FC pekan ini:
 
-### EPL GW 14 Sabtu (30/11/2019) 
+### Jadwal Luar Biadab Bulan Desember 2019
 
-**Liverpool FC** vs **Brighton HA** [H]. **KO 22:00 WIB**
-
-{% include video id="Ak-QRQ0-AaE" provider="youtube" %}
-
-- Tayang di [mola.tv](#molatv) dan [TVRI](https://tvri.go.id)
-- Liverpool memenangkan seluruh pertandingan dari 7 pertemuan terakhir di semua ajang. Memasukkan 22 gol dan hanya kemasukan 5 gol.
-
-#### Line-up
-
-Alex Oxlade-Chamberlain starts as Liverpool make three changes for today’s Premier League encounter with Brighton & Hove Albion at Anfield.
-
-The midfielder joins Georginio Wijnaldum in replacing the injured Fabinho and James Milner in the centre of the park for the Reds.
-
-Elsewhere, Trent Alexander-Arnold returns in place of Joe Gomez in defence, while Naby Keita is back on the substitutes’ bench.
-
-_Liverpool:_ Alisson, Alexander-Arnold, Lovren, Van Dijk, Robertson, Wijnaldum, Henderson, Oxlade-Chamberlain, Mane, Salah, Firmino.
-
-_Subs:_ Adrian, Milner, Keita, Gomez, Lallana, Shaqiri, Origi.
+| EPL GW 15 | 05/12/2019 - 03:00 WIB | Home vs Everton |
+| EPL GW 16 | 07/12/2019 - 22:00 WIB | Away vs Bournemouth |
+| UCL Group | 11/12/2019 - 00:55 WIB | Away vs RB Salzburg |
+| EPL GW 17 | 14/12/2019 - 19:30 WIB | Home vs Watford |
+| FLC Perempat Final | 18/12/2019 02:45 WIB | Aston Villa |
+| CWC Semi Final | 19/12/2019 - 00:30 WIB | _lawan belum ditentukan_ |
+| CWC Final | 22/12/2019 - n/a | _lawan belum ditentukan_ |
+| EPL GW 18 | **Ditunda** | Away vs West Ham |
+| EPL GW 19 | 27/12/2019 - 03:00 WIB | Away vs Leicester |
+| EPL GW 20 | 29/12/2019 - 23:30 WIB | Home vs Wolves |
 
 {% include tengah.html %}
 
@@ -67,6 +59,19 @@ showTime();
 </script>
 
 ## Hasil Sebelumnya:
+
+### EPL GW 14 Sabtu (30/11/2019) 
+
+**Liverpool FC** vs **Brighton HA** [H]. **KO 22:00 WIB**
+
+{% include video id="Ak-QRQ0-AaE" provider="youtube" %}
+
+- Tayang di [mola.tv](#molatv) dan [TVRI](https://tvri.go.id)
+- Liverpool memenangkan seluruh pertandingan dari 7 pertemuan terakhir di semua ajang. Memasukkan 22 gol dan hanya kemasukan 5 gol.
+
+{% include video id="5IhOIm3sJA0" provider="youtube" %}
+
+> With more than a little help from Martin Atkinson blowing the whistle while Adrian clearly wasn't ready, Lewis Dunk was able to roll the ball into the bottom corner, leaving the whole of Anfield utterly bemused, faced with the prospect of clinging on to another slender one-goal advantage, this time with 10 men." _— liverpool.com_
 
 ### _Liverpool FC_ vs _SC Napoli_
 
