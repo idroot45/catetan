@@ -3,7 +3,7 @@ title: "Why use the Pantheon desktop for Linux Elementary OS"
 excerpt: "This article is part of a special series on Linux desktops. Get a much-loved Mac OS feature on Linux with the Pantheon desktop for Elementary OS"
 header:
  image: "https://cdn.statically.io/img/opensource.com/sites/default/files/styles/image-full-size/public/lead-images/computer_keyboard_laptop_development_code_woman.png"
- caption="A person programming"
+ caption: "A person programming"
 categories: [linux]
 tags: [pantheon desktop, elementary os]
 ---
