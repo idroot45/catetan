@@ -3,6 +3,10 @@ title: "The Latest Elementary OS 5.1 ‘Hera’ Linux Distro Released"
 excerpt: "Today, the latest version of the operating system is released. Code-named “Hera,” elementary OS 5.1 is now available for download. 
 header:
  image: "https://cdn.statically.io/img/betanews.com/wp-content/uploads/2019/11/elementary-laptop.png"
+ og_image: ""
+ teaser: ""
+categories: [linux]
+tags: [elementary os, hera 5.1, linux distro, sistem operasi]
 ---
 elementary OS has long been viewed by many as the future of Linux on the PC thanks to its beautiful desktop environment and overall polished experience. Development of the Ubuntu-based operating system has been frustratingly slow, however. This shouldn’t be surprising, really, as the team of developers is rather small, and its resources are likely much less than those of larger distributions such as the IBM-backed Fedora or Canonical’s Ubuntu. And that is what makes elementary OS so remarkable — its developers can make magic on a smaller budget.
 
