@@ -22,13 +22,13 @@ At first glance, the Pantheon desktop looks a little like Cinnamon or Budgie or 
 The clearest example of this is **file name highlighting**. For decades, Mac OS has had a much-loved feature whereby you can highlight the displayed name of an important file. People use this feature as a quick visual indicator to tell themselves which file is the "best" version of several, or which file should be sent to a friend, or which file still needs work. They're arbitrary colors and can mean whatever the user wants them to mean. Most importantly, it's noticeable visual metadata.
 Users switching from Mac OS tend to miss this feature in GNOME and KDE and every other desktop option Linux has on offer. Pantheon quietly and casually solves that problem.
 
-{% include figure alt="advent-pantheon-highlight.jpg" image_path="https://cdn.statically.io/img/opensource.com/sites/default/files/uploads/advent-pantheon-highlight.jpg" title="A highlighted file in the Pantheon desktop" %}
+{% include figure alt="advent-pantheon-highlight.jpg" image_path="https://cdn.statically.io/img/opensource.com/sites/default/files/uploads/advent-pantheon-highlight.jpg" caption="A highlighted file in the Pantheon desktop" %}
 
 Of course, that's just one example of many. Pantheon is filled with small features that you don't think about until you need them.
 
 The desktop is refined and attractive, with all the intuitive parts that have disappeared from many other desktops. In many ways, it has taken the best of the good ideas of many different interfaces and refrained from implementing the excesses.
 
-{% include figure alt="advent-pantheon.jpg" image_path="https://cdn.statically.io/img/opensource.com/sites/default/files/uploads/advent-pantheon.jpg" title="Pantheon desktop on Elementary OS" %}
+{% include figure alt="advent-pantheon.jpg" image_path="https://cdn.statically.io/img/opensource.com/sites/default/files/uploads/advent-pantheon.jpg" caption="Pantheon desktop on Elementary OS" %}
 
 ### Customizing the Pantheon desktop
 
@@ -36,7 +36,7 @@ The Pantheon desktop represents a pretty clear vision of how a computer ought to
 
 But this is open source. Things can be changed, and whatever can't be changed can be discarded for a different option. Pantheon is definitely a desktop for a specific set of users, but even those of us with our own expectations of how a desktop ought to work might find Pantheon refreshingly more flexible than it first appears. There are overrides for many built-in designs, and when you can't adjust something to your liking, you can easily choose an alternative application. The theme engine ensures that your replacement application looks integrated with the rest of your desktop, and the usual Linux system buses ensure that all of your chosen applications communicate with one another as expected.
 
-{% include figure alt="advent-pantheon-pcmanfm.jpg" image_path="https://cdn.statically.io/img/opensource.com/sites/default/files/uploads/advent-pantheon-pcmanfm.jpg" title="Which one is the guest?" %}
+{% include figure alt="advent-pantheon-pcmanfm.jpg" image_path="https://cdn.statically.io/img/opensource.com/sites/default/files/uploads/advent-pantheon-pcmanfm.jpg" caption="Which one is the guest?" %}
 
 As compromises go, this one does a lot to meet you halfway.
 
