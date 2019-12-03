@@ -9,7 +9,7 @@ header:
 categories: [linux]
 tags: [elementary os, hera 5.1, linux distro, sistem operasi]
 ---
-elementary OS has long been viewed by many as the future of Linux on the PC thanks to its beautiful desktop environment and overall polished experience. Development of the Ubuntu-based operating system has been frustratingly slow, however. This shouldn’t be surprising, really, as the team of developers is rather small, and its resources are likely much less than those of larger distributions such as the IBM-backed Fedora or Canonical’s Ubuntu. And that is what makes elementary OS so remarkable — its developers can make magic on a smaller budget.
+The **Elementary OS** has long been viewed by many as the future of Linux on the PC thanks to its beautiful desktop environment and overall polished experience. Development of the Ubuntu-based operating system has been frustratingly slow, however. This shouldn’t be surprising, really, as the team of developers is rather small, and its resources are likely much less than those of larger distributions such as the IBM-backed Fedora or Canonical’s [Ubuntu](https://www.catetan.pw/linux/ubuntu-19-10-will-boot-faster-with-lz4-compression/). And that is what makes elementary OS so remarkable — its developers can make magic on a smaller budget.
 
 Today, the latest version of the operating system is released. Code-named “Hera,” elementary OS 5.1 is now available for download. Support for Flatpak is now baked in — this is significant, as the developers explain it is “the first non-deb packaging format we’ve supported out of the box.” The Linux kernel now sits at a very modern 5.0. One of the most important aspects of elementary OS, the AppCenter, is now an insane 10 times faster than its predecessor. Wow.
 
