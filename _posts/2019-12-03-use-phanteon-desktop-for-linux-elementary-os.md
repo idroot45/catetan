@@ -9,9 +9,9 @@ header:
 categories: [linux]
 tags: [pantheon desktop, elementary os]
 ---
-Would you pay $20 for a Linux desktop? I would, and in fact, I regularly choose to pay more than that when I download free software! The reason I do this is that open source is worth it. For a copy of [Elementary OS](http://elementary.io/), US$ 20 happens to be the default asking price (you can download it for $1 or even $0 if you can't afford anything more). What you get in return is an excellent and heavily curated distribution that ships with its own **Pantheon desktop** design.
+Would you pay $20 for a Linux desktop? I would, and in fact, <del>I regularly choose to pay more than that when I download free software!</del> The reason I do this is that open source is worth it. For a copy of [Elementary OS](http://elementary.io/), US$ 20 happens to be the default asking price (you can **download it for $1 or even $0** if you **can't afford** anything more). What you get in return is an excellent and heavily curated [distribution](/linux/distro-elementary-os-51-hera-linux/) that ships with its own **Pantheon desktop** design.
 
-You may find Pantheon included in a software repository, as it is open source, but more likely, you'll have to download and install **Elementary Linux** to experience it. If you're not ready to install Elementary on your computer as the main OS, you can install it into a virtual machine, like GNOME Boxes.
+You may find Pantheon included in a software repository, as it is open source, but more likely, you'll have to download and install Elementary Linux to experience it. If you're not ready to install Elementary on your computer as the main OS, you can install it into a virtual machine, like GNOME Boxes.
 
 The Pantheon desktop is clean, attractive, and featur es many of the little things many users want in a desktop but could never quite get from the usual Linux desktops.
 
