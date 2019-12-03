@@ -1,6 +1,6 @@
 ---
 title: "The Latest Elementary OS 5.1 ‘Hera’ Linux Distro Released"
-excerpt: "Today, the latest version of the operating system is released. Code-named “Hera,” elementary OS 5.1 is now available for download. 
+excerpt: "Today, the latest version of the operating system is released. Code-named 'Hera,' elementary OS 5.1 is now available for download."
 header:
  image: "https://cdn.statically.io/img/betanews.com/wp-content/uploads/2019/11/elementary-laptop.png"
  og_image: ""
