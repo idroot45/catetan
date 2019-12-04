@@ -1,14 +1,10 @@
 ---
 title: "Catatan Pertandingan Liverpool FC dan Link Streaming [Update]"
-excerpt: "Live Video Stream **Liverpool FC** vs **Everton**. Premier League Game Week 15. Kamis (05/12/2019) Kick-Off 03:00 WIB."
+excerpt: "Live Video Stream **Liverpool FC** vs **Everton**. Premier League Game Week 15. Kamis (05/12/2019) Kick-Off 03:15 WIB."
 header:
  og_image: "https://cdn.statically.io/img/premierleague.sky-news.co.uk/wp-content/uploads/2019/11/liverpoolnapolicomposite241119a-777x437.jpg"
  image: "https://cdn.statically.io/img/i2-prod.liverpool.com/incoming/article17041156.ece/ALTERNATES/s810/0_GettyImages-1173868960.jpg"
  caption: "Anfield’s mentality has been transformed."
-header:
-# og_image: "https://pbs.twimg.com/media/EKmGcZ_WkAUttOZ?format=jpg&name=large"
-# image: "https://cdn.statically.io/img/www.thisisanfield.com/wp-content/uploads/P2019-09-17-038-Napoli_Liverpool.jpg"
-# caption: "NAPLES, ITALY - Tuesday, September 17, 2019: Liverpool's Trent Alexander-Arnold is tackled by SSC Napoli's Mário Rui during the UEFA Champions League Group E match between SSC Napoli and Liverpool FC at the Studio San Paolo. _(Pic by David Rawcliffe/Propaganda)_"
 # video:
 #  id: lfctv
 #  provider: internal;
@@ -32,7 +28,7 @@ Postingan ini niatnya hanya untuk menyimpan link streaming pertandingan-pertandi
 
 |Fixtures|Date - Kick Off|Match|
 |---|---|---|
-| EPL GW 15 | 05/12/2019 - 03:00 WIB | Home vs Everton |
+| EPL GW 15 | 05/12/2019 - 03:15 WIB | Home vs Everton |
 | EPL GW 16 | 07/12/2019 - 22:00 WIB | Away vs Bournemouth |
 | UCL Group | 11/12/2019 - 00:55 WIB | Away vs RB Salzburg |
 | EPL GW 17 | 14/12/2019 - 19:30 WIB | Home vs Watford |
