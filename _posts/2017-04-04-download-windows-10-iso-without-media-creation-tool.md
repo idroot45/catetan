@@ -8,6 +8,7 @@ header:
  image: "https://i.ytimg.com/vi/qDpvx2urt4Y/maxresdefault.jpg"
  teaser: "https://lh3.googleusercontent.com/proxy/6wm6-1F4hPjnJFw-xxZLnN1HYzzVDOQPXFRoTBSBEM7wd7awQ_FLOL3i8eo7qbNgckQPRvrVMrON7xMBajKbyK8NnvdrxGvk9hTOzhLQaUUnYMJRa3fhXEMfFavv9vGtUDUqNnYJVs1JP6DKICmvFi6fTDL_3OXV=w384-h384"
  caption: "Windows 10 Pro"
+last_modified_at: 2019-12-06 22:42:00
 ---
 
 Everyone knows that it’s possible to download Windows 10 ISO from Microsoft using the official Media Creation Tool. There are some other tools also available to download Windows 10 ISO, but the Media Creation Tool is better than third-party tools for obvious reasons.
