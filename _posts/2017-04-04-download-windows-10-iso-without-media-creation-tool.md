@@ -17,7 +17,7 @@ While downloading Windows 10 ISO using Media Creation Tool is easy, **the method
 
 Microsoft has designed the official Windows 10 ISO download page URL such that the page shows different content depending on from what device you are accessing the download page.
 
-![](https://mk0intowindows84fvao.kinstacdn.com/wp-content/uploads/2017/04/download-Windows-10-ISO-without-media-creation-tool-pic01.png)
+![](https://cdn.statically.io/img/mk0intowindows84fvao.kinstacdn.com/wp-content/uploads/2017/04/download-Windows-10-ISO-without-media-creation-tool-pic01.png)
 
 When you visit the download page from a PC running Windows 10/8/8.1/7, the download page URL gives you a link to download the Media Creation Tool which in turn allows you download the ISO. The same URL, if you **visit from a Mac/Linux or any smartphone**, you get **direct Windows 10 download** options instead of options to download the Media Creation Tool.
 
@@ -31,25 +31,25 @@ Complete the given below directions to **download Windows 10 ISO image** files f
 
 **Step 1:** On your Windows 10/8/7 PC, launch Internet Explorer browser. Head over to Windows 10 ISO download page to see the following page.
 
-![](https://mk0intowindows84fvao.kinstacdn.com/wp-content/uploads/2017/04/download-Windows-10-ISO-without-media-creation-tool-pic1.jpg)
+![](https://cdn.statically.io/img/mk0intowindows84fvao.kinstacdn.com/wp-content/uploads/2017/04/download-Windows-10-ISO-without-media-creation-tool-pic1.jpg)
 
 **Step 2:** When you are at the download page, press **F12** key to open **Developer tools**. Don’t worry. It’s easy.
 
 **Step 3:** Now, in the Developer Tools, switch to the Emulation tab. In the Browse profile, select **Windows Phone** (or Android if available) from the drop-down dialog, and then select Windows Phone 10 (or Android version if you chose Android phone) from the User agent string drop-down dialog. You are almost done!
 
-![](https://mk0intowindows84fvao.kinstacdn.com/wp-content/uploads/2017/04/download-Windows-10-ISO-without-media-creation-tool-pic2.jpg)
+![](https://cdn.statically.io/img/mk0intowindows84fvao.kinstacdn.com/wp-content/uploads/2017/04/download-Windows-10-ISO-without-media-creation-tool-pic2.jpg)
 
 **Step 4:** Internet Explorer will automatically reload the page. If not, refresh the page (URL) now to see Download Windows 10 Disc Image page. Choose your edition of Windows 10 (Creators Update is the latest one) and then click **Confirm** button.
 
-![](https://mk0intowindows84fvao.kinstacdn.com/wp-content/uploads/2017/04/download-Windows-10-ISO-without-media-creation-tool-pic3.jpg)
+![](https://cdn.statically.io/img/mk0intowindows84fvao.kinstacdn.com/wp-content/uploads/2017/04/download-Windows-10-ISO-without-media-creation-tool-pic3.jpg)
 
 **Step 5:** Next, you will see Select the product language page. Choose your language and then **Confirm** button.
 
-![](https://mk0intowindows84fvao.kinstacdn.com/wp-content/uploads/2017/04/download-Windows-10-ISO-without-media-creation-tool-pic4.jpg)
+![](https://cdn.statically.io/img/mk0intowindows84fvao.kinstacdn.com/wp-content/uploads/2017/04/download-Windows-10-ISO-without-media-creation-tool-pic4.jpg)
 
 **Step 6:** Finally, click either **32-bit Download** or **64-bit Download** (depending on what type of Windows 10 you want to install and run on your PC) to begin downloading your Windows 10 ISO image file.
 
-![](https://mk0intowindows84fvao.kinstacdn.com/wp-content/uploads/2017/04/download-Windows-10-ISO-without-media-creation-tool-pic6.png)
+![](https://cdn.statically.io/img/mk0intowindows84fvao.kinstacdn.com/wp-content/uploads/2017/04/download-Windows-10-ISO-without-media-creation-tool-pic6.png)
 
 > For conveniency reason, we added a remotely upload an ISO file (wich is the latest November 2019 update) to pCloud service with the link given from steps above. So this ISO file is untouched version form Microsoft sever itself. As we only have limited free storage we only managed to uplad the 64-bit version. You can download it from [this link](https://mi.knoacc.org/dl/pcloud?code=XZYxamkZPYwhUtgtwJ4zUyhxn0eiOYHRTo7y&name=Win10_1909_EnglishInternational_x64.iso&size=5.1GB)
 
@@ -71,13 +71,13 @@ Retail
 It’s important to make sure that you are creating `ei.cfg` and NOT `ei.cfg.txt` file.
 
 To make sure you, go check these 3 images:
-[image 1](https://mk0intowindows84fvao.kinstacdn.com/wp-content/uploads/2018/02/download-Windows-10-Professional-edition-pic05.jpg), [image 2](https://mk0intowindows84fvao.kinstacdn.com/wp-content/uploads/2018/02/download-Windows-10-Professional-edition-pic06.jpg), [image 3](https://mk0intowindows84fvao.kinstacdn.com/wp-content/uploads/2018/02/download-Windows-10-Professional-edition-pic07.jpg).
+[image 1](https://cdn.statically.io/img/mk0intowindows84fvao.kinstacdn.com/wp-content/uploads/2018/02/download-Windows-10-Professional-edition-pic05.jpg), [image 2](https://mk0intowindows84fvao.kinstacdn.com/wp-content/uploads/2018/02/download-Windows-10-Professional-edition-pic06.jpg), [image 3](https://mk0intowindows84fvao.kinstacdn.com/wp-content/uploads/2018/02/download-Windows-10-Professional-edition-pic07.jpg).
 
-Step 9: Finally, copy and paste this **ei.cfg** file to the root of the **Sources** folder in the bootable media of Windows 10. That is, open up the bootable media, open up the Sources folder, and then paste the `ei.cfg` there.
+**Step 9:** Finally, copy and paste this **ei.cfg** file to the root of the **Sources** folder in the bootable media of Windows 10. That is, open up the bootable media, open up the Sources folder, and then paste the `ei.cfg` there.
 
-![](https://mk0intowindows84fvao.kinstacdn.com/wp-content/uploads/2018/02/download-Windows-10-Professional-edition-pic08.jpg)
+![](https://cdn.statically.io/img/mk0intowindows84fvao.kinstacdn.com/wp-content/uploads/2018/02/download-Windows-10-Professional-edition-pic08.jpg)
 
-Step 10: You can now use the bootable media to automatically install Windows 10 Pro edition on any PC.
+**Step 10:** You can now use the bootable media to automatically install Windows 10 Pro edition on any PC.
 
 ## Adding ei.cfg file Windows 10 ISO to create bootable DVD
 
@@ -95,37 +95,37 @@ That's above is easy for adding ei.cfg to USB bootable. How to insert it into a 
 
 In this guide, I will show you how you can create a bootable Windows 7/8.1/10 ISO image file from Windows installation files.
 
-Step 1: If all the installation files are in a folder on your PC, you can skip to the next step. And if the files and folders on a USB drive, connect the USB flash drive containing Windows installation files to a PC running Windows 7/8/10 and copy all the contents from the USB to a newly created folder on desktop or any other location.
+**Step 1:** If all the installation files are in a folder on your PC, you can skip to the next step. And if the files and folders on a USB drive, connect the USB flash drive containing Windows installation files to a PC running Windows 7/8/10 and copy all the contents from the USB to a newly created folder on desktop or any other location.
 
-![](https://mk0intowindows84fvao.kinstacdn.com/wp-content/uploads/2014/06/Create-bootable-Window-ISO-from-USB-step2.jpg)
+![](https://cdn.statically.io/img/mk0intowindows84fvao.kinstacdn.com/wp-content/uploads/2014/06/Create-bootable-Window-ISO-from-USB-step2.jpg)
 
-Step 2: Visit this page and download ImgBurn software. ImgBurn is a free burning application but the setup offers you install Skype and Mobogenie during the installation. Make sure to select appropriate options to install the software **without Skype and Mobogenie**.
+**Step 2:** Visit this page and download ImgBurn software. ImgBurn is a free burning application but the setup offers you install Skype and Mobogenie during the installation. Make sure to select appropriate options to install the software **without Skype and Mobogenie**.
 
-![](https://mk0intowindows84fvao.kinstacdn.com/wp-content/uploads/2014/06/Create-bootable-ISO-from-USB.png)
+![](https://cdn.statically.io/img/mk0intowindows84fvao.kinstacdn.com/wp-content/uploads/2014/06/Create-bootable-ISO-from-USB.png)
 
-Step 3: Launch ImgBurn. Click on **Create image file from files/folders** option.
+**Step 3:** Launch ImgBurn. Click on **Create image file from files/folders** option.
 
-![](https://mk0intowindows84fvao.kinstacdn.com/wp-content/uploads/2014/06/Create-bootable-Window-ISO-from-USB-step3.jpg)
+![](https://cdn.statically.io/img/mk0intowindows84fvao.kinstacdn.com/wp-content/uploads/2014/06/Create-bootable-Window-ISO-from-USB-step3.jpg)
 
-Step 4: In the resulting ImgBurn dialog, click on the small folder icon (see picture) next to the **Source** box to browse to the folder containing all copied files from the bootable Windows USB. Browse to the folder and then click **Select folder**.
+**Step 4:** In the resulting ImgBurn dialog, click on the small folder icon (see picture) next to the **Source** box to browse to the folder containing all copied files from the bootable Windows USB. Browse to the folder and then click **Select folder**.
 
-![](https://mk0intowindows84fvao.kinstacdn.com/wp-content/uploads/2014/06/Create-bootable-Window-ISO-from-USB-step4.jpg)
+![](https://cdn.statically.io/img/mk0intowindows84fvao.kinstacdn.com/wp-content/uploads/2014/06/Create-bootable-Window-ISO-from-USB-step4.jpg)
 
-Step 5: Next, click on the browse icon located next to the Destination box to select a location to save the bootable ISO image file that you’re preparing now. Select a location and click Save button.
+**Step 5:** Next, click on the browse icon located next to the Destination box to select a location to save the bootable ISO image file that you’re preparing now. Select a location and click Save button.
 
-![](https://mk0intowindows84fvao.kinstacdn.com/wp-content/uploads/2014/06/Create-bootable-Window-ISO-from-USB-step41.jpg)
+![](https://cdn.statically.io/img/mk0intowindows84fvao.kinstacdn.com/wp-content/uploads/2014/06/Create-bootable-Window-ISO-from-USB-step41.jpg)
 
-Step 6: On the right side, switch to the Advanced tab (see picture) to see four tabs. Here, click on the tab labeled Bootable Disc.
+**Step 6:** On the right side, switch to the Advanced tab (see picture) to see four tabs. Here, click on the tab labeled Bootable Disc.
 
-Step 7: Now, select the option labeled Make Image Bootable, select Emulation type as None (custom), and type 8 in the Sectors to load box by removing the existing 4. Note that if you’re preparing a bootable Vista ISO, you need to keep the 4. For Windows 7, Windows 8 and Windows 10, you need to type 8 in the Sectors to load field.
+**Step 7:** Now, select the option labeled Make Image Bootable, select Emulation type as None (custom), and type 8 in the Sectors to load box by removing the existing 4. Note that if you’re preparing a bootable Vista ISO, you need to keep the 4. For Windows 7, Windows 8 and Windows 10, you need to type 8 in the Sectors to load field.
 
-![](https://mk0intowindows84fvao.kinstacdn.com/wp-content/uploads/2014/06/Create-bootable-Window-ISO-from-USB-step42.jpg)
+![](https://cdn.statically.io/img/mk0intowindows84fvao.kinstacdn.com/wp-content/uploads/2014/06/Create-bootable-Window-ISO-from-USB-step42.jpg)
 
-Step 8: Click on the small folder icon next to Boot Image box (see picture) and then browse to the folder containing Windows installation files (the folder that contains files copied from the USB), open Boot folder, select etfsboot.com file, and then click Open button to select etfsboot.com as the boot image file. We are almost done!
+**Step 8:** Click on the small folder icon next to Boot Image box (see picture) and then browse to the folder containing Windows installation files (the folder that contains files copied from the USB), open Boot folder, select etfsboot.com file, and then click Open button to select etfsboot.com as the boot image file. We are almost done!
 
-![](https://mk0intowindows84fvao.kinstacdn.com/wp-content/uploads/2014/06/Create-bootable-Window-ISO-from-USB-step6.jpg)
+![](https://cdn.statically.io/img/mk0intowindows84fvao.kinstacdn.com/wp-content/uploads/2014/06/Create-bootable-Window-ISO-from-USB-step6.jpg)
 
-Step 9: Finally, click on the Build button (see picture) to begin creating your bootable Windows ISO image file. Upon clicking the Build button, three dialog boxes will appear one after another. Simply click the Yes button when you see the first dialog, click the OK button when you see the second, and then, click the Yes button again when you see the last dialog. Check these images: [image 1](https://mk0intowindows84fvao.kinstacdn.com/wp-content/uploads/2014/06/Create-bootable-Window-ISO-from-USB-step5.jpg), [image 2](https://mk0intowindows84fvao.kinstacdn.com/wp-content/uploads/2014/06/ImageBurn4.png), [image 3](https://mk0intowindows84fvao.kinstacdn.com/wp-content/uploads/2014/06/Create-bootable-Window-ISO-from-USB-step9.jpg)
+**Step 9:** Finally, click on the Build button (see picture) to begin creating your bootable Windows ISO image file. Upon clicking the Build button, three dialog boxes will appear one after another. Simply click the Yes button when you see the first dialog, click the OK button when you see the second, and then, click the Yes button again when you see the last dialog. Check these images: [image 1](https://mk0intowindows84fvao.kinstacdn.com/wp-content/uploads/2014/06/Create-bootable-Window-ISO-from-USB-step5.jpg), [image 2](https://mk0intowindows84fvao.kinstacdn.com/wp-content/uploads/2014/06/ImageBurn4.png), [image 3](https://mk0intowindows84fvao.kinstacdn.com/wp-content/uploads/2014/06/Create-bootable-Window-ISO-from-USB-step9.jpg)
 
 Once the bootable ISO image is ready, you’ll see “Operation successfully completed” message.
 
