@@ -53,6 +53,8 @@ Complete the given below directions to **download Windows 10 ISO image** files f
 
 > For conveniency reason, we added a remotely upload an ISO file (wich is the latest November 2019 update) to pCloud service with the link given from steps above. So this ISO file is untouched version form Microsoft sever itself. As we only have limited free storage we only managed to uplad the 64-bit version. You can download it from [this link](https://mi.knoacc.org/dl/pcloud?code=XZYxamkZPYwhUtgtwJ4zUyhxn0eiOYHRTo7y&name=Win10_1909_EnglishInternational_x64.iso&size=5.1GB)
 
+{% include tengah.html %}
+
 Once the download is complete, you may close the tab or browser. Next is to prepare the ISO for creating bootable media using Rufus or any other program that you would use usually.
 
 ### Make it Windows 10 Pro edition
