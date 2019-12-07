@@ -1,13 +1,13 @@
 ---
 title: "Catatan Pertandingan Liverpool FC dan Link Streaming [Update]"
-excerpt: "Live Video Stream **Liverpool FC** vs **Everton**. Premier League Game Week 15. Kamis (05/12/2019) Kick-Off 03:15 WIB."
+excerpt: "Live Video Stream **Bournemouth** vs **Liverpool FC**. Premier League Game Week 16. Sabtu (07/12/2019) Kick-Off 22:00 WIB."
 header:
  og_image: "https://cdn.statically.io/img/premierleague.sky-news.co.uk/wp-content/uploads/2019/11/liverpoolnapolicomposite241119a-777x437.jpg"
- image: "https://cdn.statically.io/img/i2-prod.liverpool.com/incoming/article17041156.ece/ALTERNATES/s810/0_GettyImages-1173868960.jpg"
- caption: "Anfield’s mentality has been transformed."
-# video:
-#  id: lfctv
-#  provider: internal;
+# image: "https://cdn.statically.io/img/i2-prod.liverpool.com/incoming/article17041156.ece/ALTERNATES/s810/0_GettyImages-1173868960.jpg"
+# caption: "Anfield’s mentality has been transformed."
+ video:
+  id: lfctv
+  provider: internal
 # teaser: "https://pbs.twimg.com/media/EKmGcZ_WkAUttOZ?format=jpg&name=medium.jpg"
 categories: [streaming]
 tags: [streaming bola, streaming liverpool, rekap liverpool fc]
