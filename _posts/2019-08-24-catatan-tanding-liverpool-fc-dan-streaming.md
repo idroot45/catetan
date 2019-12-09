@@ -1,8 +1,8 @@
 ---
 title: "Catatan Pertandingan Liverpool FC dan Link Streaming [Update]"
-excerpt: "Live Video Stream **Bournemouth** vs **Liverpool FC**. Premier League Game Week 16. Sabtu (07/12/2019) Kick-Off 22:00 WIB."
+excerpt: "Live Video Stream **Liverpool FC** vs **RB Salzburg**. Champions League Group Stage. Rabu (11/12/2019) Kick-Off 00:55 WIB."
 header:
- og_image: "https://cdn.statically.io/img/www.thisisanfield.com/wp-content/uploads/2019-02-09-115-Liverpool_Bournemouth.jpg"
+ og_image: "https://cdn2.tstatic.net/kaltim/foto/bank/images/sadio-mane-saat-masih-memperkuat-salzburg.jpg"
 # image: "https://cdn.statically.io/img/i2-prod.liverpool.com/incoming/article17041156.ece/ALTERNATES/s810/0_GettyImages-1173868960.jpg"
 # caption: "Anfield’s mentality has been transformed."
  video:
@@ -15,7 +15,7 @@ redirect_from:
  - /streaming/streaming-m3u8/
  - /liverpool
  - /streaming/m3u8/
-last_modified_at: 2019-12-07 21:28:00
+last_modified_at: 2019-12-09 21:22:00
 ---
 *Ingat baik-baik!*{:.fa .fa-cog .fa-spin aria-hidden="true"} **1**. Tayangan akan tersedia hanya **jika ada** dan **tersedia** (dapat saya temukan) di internet. Baca [latar belakang](#latar-belakang) catatan ini. **2**. Refresh **10 menit** sebelum _kick off_, selain di waktu tersebut kemungkinan siaran tidak dapat diakses. **3**. Streaming di halaman ini diusahakan dalam kualitas HD, jadi kemungkinan akan menguras kuota/data hingga 2 GB dan membutuhkan kecepatan konektivitas minimal 10 mbps untuk kelancaran streaming. **4**. Sedangkan mengenai pilihan siaran **MolaTV**, tidak saya rekomendasikan. Silahkan baca [catatannya](#molatv).
 {:.notice--warning}
@@ -29,7 +29,7 @@ Postingan ini niatnya hanya untuk menyimpan link streaming pertandingan-pertandi
 |Fixtures|Date - Kick Off|Match|Result|
 |---|---|---|---|
 | EPL GW 15 | 05/12/2019 - 03:15 WIB | Home vs Everton | 5 - 2 |
-| EPL GW 16 | 07/12/2019 - 22:00 WIB | Away vs Bournemouth |
+| EPL GW 16 | 07/12/2019 - 22:00 WIB | Away vs Bournemouth | 0 - 3 |
 | UCL Group | 11/12/2019 - 00:55 WIB | Away vs RB Salzburg |
 | EPL GW 17 | 14/12/2019 - 19:30 WIB | Home vs Watford |
 | FLC Perempat Final | 18/12/2019 02:45 WIB | Aston Villa |
