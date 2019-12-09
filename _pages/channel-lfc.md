@@ -1,11 +1,11 @@
 ---
-title: "Bournemouth vs Liverpool FC- LFCTV"
+title: "Liverpool FC vs RB Salzburg - LFCTV"
 permalink: /lfctv
 layout: stream
 header:
- og_image: "https://cdn.statically.io/img/www.thisisanfield.com/wp-content/uploads/2019-02-09-115-Liverpool_Bournemouth.jpg"
+ og_image: "https://cdn2.tstatic.net/kaltim/foto/bank/images/sadio-mane-saat-masih-memperkuat-salzburg.jpg"
 video_id: "cdn11.dailysport.pw/1/1"
-poster: "https://cdn.statically.io/img/www.thisisanfield.com/wp-content/uploads/2019-02-09-115-Liverpool_Bournemouth.jpg"
+poster: "https://cdn2.tstatic.net/kaltim/foto/bank/images/sadio-mane-saat-masih-memperkuat-salzburg.jpg"
 sitemap: false
 ---
 dummy
