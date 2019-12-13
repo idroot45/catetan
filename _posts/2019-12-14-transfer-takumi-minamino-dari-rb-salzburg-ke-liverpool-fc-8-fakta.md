@@ -22,4 +22,6 @@ Dirangkum dari berbagai media berpengaruh, berikut 8 fakta mengenai transfer **T
 
 Dengan motto Salzburg : "Bakat membawa anda ke awal, namun sikap akan membawa anda ke tujuan." Membuat Klopp semakin yakin Minamino adalah pribadi yang mencerminkan semangat dan karakter yang dia cari untuk bergabung bersama skuadnya.
 
+### Debut Melawan Everton di Piala FA
+
 Takumi Minamino dijadwalkan bakal bergabung dengan Liverpool pada awal Januari 2020 mendatang. Pemain 24 tahun asal Jepang itu akan menjadi pemain baru Liverpool per 1 Januari 2020. Jika kepindahannya mulus, Takumi Minamino bakal menjalani debutnya sebagai pemain Liverpool kala melawan Everton di babak ketiga Piala FA. Hal ini sesuai aturan Liga Inggris yang menyebut bahwa pemain yang baru bergabung pada tanggal 1 atau 2 Januari tidak diperbolehkan bermain pada pertandingan yang berlangsung di tengah pekan. 
