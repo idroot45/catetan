@@ -56,3 +56,5 @@ But he is also a prize because of his status in the Far East as a true Japanese 
 That helps in trying to crack that particular market, which was a stated aim of the club when they won a court case to switch from New Balance to Nike for their kit deal.
 
 No wonder Klopp had a huge smile on Wednesday.
+
+_Sumber: salin tempel dari artikel MIRROR.CO.UK_
