@@ -23,7 +23,7 @@ Postingan ini niatnya hanya untuk menyimpan link streaming pertandingan-pertandi
 
 |Fixtures|Date - Kick Off|Match|Result|
 |---|---|---|---|
-| EPL GW 15 | 05/12/2019 - 03:15 WIB | [Home vs Everton](/liverpool/away-vs-everton/) | 5 - 2 |
+| EPL GW 15 | 05/12/2019 - 03:15 WIB | [Home vs Everton](/liverpool/home-vs-everton/) | 5 - 2 |
 | EPL GW 16 | 07/12/2019 - 22:00 WIB | [Away vs Bournemouth](/liverpool/away-vs-bournemouth/) | 0 - 3 |
 | UCL Group | 11/12/2019 - 00:55 WIB | [Away vs RB Salzburg](/liverpool/away-vs-rb-salzburg/) | 2 - 0 |
 | EPL GW 17 | 14/12/2019 - 19:30 WIB | [Home vs Watford](/liverpool/home-vs-watford/) |
