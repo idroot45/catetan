@@ -11,4 +11,4 @@ Yang pertama adalah ketika Mo. Salah mencetak gol. Disaat Mo. Salah mengecoh Bek
 
 Yang kedua adalah ketika pertandingan berakhir, saya sempat mengambil screenshoot dimana Klop bersalaman dengan manajer RB Salzburg. Dan membuat Status WA dengan caption: "klop: mina mino? ok, deal! 😁" dengan maksud bercanda. Tidak ada optimisme bahwa itu terealisasi. Status itu hanya ungkapan perasaan betapa penampilan Takumi Minamino sangat impresif di kedua pertandinganya melawan Liverpool. Dari gerak-gerik J. Klop saat pertandingan di Anfield juga seperti menyatakan hal itu.
 
-> **Update**: Yang tidak saya tahu adalah: [ternyata liverpool sudah tertarik dengan Minamino sejak 6 tahun lalu](/)!. Dan kembali lagi, serasa naik roaler coaster ketika mengetahui Takumi Minamino secara resmi menjadi bagian squad Liverpool FC. 
+> **Update**: Yang tidak saya tahu adalah: [ternyata liverpool sudah tertarik dengan Minamino sejak 6 tahun lalu](/liverpool/inside-story-behind-liverpools-six-year-transfer-pursuit-of-takumi-minamino/)!. Dan kembali lagi, serasa naik roaler coaster ketika mengetahui Takumi Minamino secara resmi menjadi bagian squad Liverpool FC. 
