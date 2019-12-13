@@ -3,6 +3,8 @@ title: "Inside story behind Liverpool's six-year transfer pursuit of Takumi Mina
 excerpt: "Liverpool signed Takumi Minamino on Thursday, days after an impressive showing against them in the Champions League, but the transfer has been a long time coming"
 categories: [liverpool]
 tags: [takumi minamino, rb salzburg, liverpool fc]
+header:
+ og_image: "https://asset-a.grid.id/photo/2019/12/12/2934751126.jpg"
 ---
 
 If Jurgen Klopp couldn’t hide a broader grin that usual in training on Wednesday, then it wasn’t just through Champions League satisfaction.
