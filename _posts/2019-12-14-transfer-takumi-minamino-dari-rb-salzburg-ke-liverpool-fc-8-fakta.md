@@ -9,7 +9,7 @@ header:
 ---
 Liverpool dikabarkan tinggal selangkah lagi untuk mendapatkan gelandang serang RB Salzburg, Takumi Minamino. Liverpool menjadi yang terdepan dalam mendapatkan Takumi Minamino setelah mereka setuju untuk menebus klausul pelepasannya sebesar 7,25 juta pounds (sekitar Rp 135 miliar) dari RB Salzburg.
 
-Dirangkum dari berbagai media berpengaruh, berikut 8 fakta mengenai transfer Takumi Minamino dari RB Salzburg ke Liverpool FC
+Dirangkum dari berbagai media berpengaruh, berikut 8 fakta mengenai [transfer Takumi Minamino](/liverpool/inside-story-behind-liverpools-six-year-transfer-pursuit-of-takumi-minamino/) dari RB Salzburg ke Liverpool FC
 
 (1) Michael Edwards dan tim scouting talent Liverpool sudah memantau Takumi Minamino dari 6 tahun yang lalu saat dirinya masih bermain di Cerezo Osaka di 2013.
 (2) Perkembangan Minamino dalam dua musim terakhir, mulai dari stamina, fisik dan kontribusi di Austria membuat Edwards dan Jurgen Klopp beserta klub klub lain menilai potensi dia lebih besar dari Eling Braut Haland.
@@ -17,7 +17,7 @@ Dirangkum dari berbagai media berpengaruh, berikut 8 fakta mengenai transfer Tak
 (4) Diskusi dan pembicaraan dengan Red Bull Salzburg sudah mulai intens di lakukan sejak bulan November 2019.
 (5) Hal itu karena Manchester United, AC Milan dan Borussia Mönchengladbach juga sangat intens memantau perkembangan Minamino, bahkan dapat dipahami scout milan berada di pertandingan Salzburg v Liverpool kemarin.
 (6) Klausul rilis untuk Menebus Minamino yang hanya 7,25m adalah harga yang Liverpool miliki untuk menjual Ryan Kent ke Rangers dan Rafael Camacho ke Sporting Lisbon musim panas lalu.
-(7) Para pemain Liverpool mendesak Jurgen Klopp untuk mendatangkan Minamino setelah kemenangan 0-2 mereka atas Salzburg.
+(7) Para pemain Liverpool mendesak Jurgen Klopp untuk mendatangkan Minamino setelah [kemenangan 0-2 mereka atas Salzburg](/liverpool/away-vs-rb-salzburg/).
 (8) Jurgen Klopp diketahui merupakan pengagum Red Bull Salzburg dalam mencari para pemain berbakat dan mengembangkanya secara luar biasa.
 
 Dengan motto Salzburg : "Bakat membawa anda ke awal, namun sikap akan membawa anda ke tujuan." Membuat Klopp semakin yakin Minamino adalah pribadi yang mencerminkan semangat dan karakter yang dia cari untuk bergabung bersama skuadnya.
