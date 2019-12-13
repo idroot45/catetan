@@ -1,14 +1,9 @@
 ---
 title: "Catatan Pertandingan Liverpool FC dan Link Streaming [Update]"
-excerpt: "Live Video Stream **Liverpool FC** vs **RB Salzburg**. Champions League Group Stage. Rabu (11/12/2019) Kick-Off 00:55 WIB."
+excerpt: "Live Video Stream **Liverpool FC** vs **Watford**. English Premier League GW-17. Sabtu (14/12/2019) Kick-Off 19:30 WIB."
 header:
- og_image: "https://cdn2.tstatic.net/kaltim/foto/bank/images/sadio-mane-saat-masih-memperkuat-salzburg.jpg"
-# image: "https://cdn.statically.io/img/i2-prod.liverpool.com/incoming/article17041156.ece/ALTERNATES/s810/0_GettyImages-1173868960.jpg"
-# caption: "Anfield’s mentality has been transformed."
- video:
-  id: lfctv
-  provider: internal
-# teaser: "https://pbs.twimg.com/media/EKmGcZ_WkAUttOZ?format=jpg&name=medium.jpg"
+ image: "https://cdn.statically.io/img/i2-prod.liverpool.com/incoming/article17041156.ece/ALTERNATES/s810/0_GettyImages-1173868960.jpg"
+ caption: "Anfield’s mentality has been transformed."
 categories: [streaming]
 tags: [streaming bola, streaming liverpool, rekap liverpool fc]
 redirect_from:
@@ -41,20 +36,7 @@ Postingan ini niatnya hanya untuk menyimpan link streaming pertandingan-pertandi
 
 {% include tengah.html %}
 
-<blockquote>Waktu lokal sekarang: <strong><span id="JamLokal" onload="showTime()"></span></strong></blockquote>
-<script>
-function showTime(){
-    var date = new Date();
-    var h = date.getHours();
-    var m = date.getMinutes();
-    var s = date.getSeconds();
-    var time = h + ":" + m + ":" + s;
-    document.getElementById("JamLokal").innerText = time;
-    document.getElementById("JamLokal").textContent = time;
-    setTimeout(showTime, 1000);
-}
-showTime();
-</script>
+
 
 ## Hasil Sebelumnya:
 
