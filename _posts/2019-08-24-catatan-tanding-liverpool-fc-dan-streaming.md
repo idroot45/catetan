@@ -17,7 +17,7 @@ redirect_from:
  - /streaming/m3u8/
 last_modified_at: 2019-12-09 21:22:00
 ---
-*Ingat baik-baik!*{:.fa .fa-cog .fa-spin aria-hidden="true"} **1**. Tayangan akan tersedia hanya **jika ada** dan **tersedia** (dapat saya temukan) di internet. Baca [latar belakang](#latar-belakang) catatan ini. **2**. Refresh **10 menit** sebelum _kick off_, selain di waktu tersebut kemungkinan siaran tidak dapat diakses. **3**. Streaming di halaman ini diusahakan dalam kualitas HD, jadi kemungkinan akan menguras kuota/data hingga 2 GB dan membutuhkan kecepatan konektivitas minimal 10 mbps untuk kelancaran streaming. **4**. Sedangkan mengenai pilihan siaran **MolaTV**, tidak saya rekomendasikan. Silahkan baca [catatannya](#molatv).
+*Ingat baik-baik!*{:.fa .fa-cog .fa-spin aria-hidden="true"} **1**. Tayangan akan tersedia hanya **jika ada** dan **tersedia** (dapat saya temukan) di internet. Baca [latar belakang](#latar-belakang) catatan ini.<br /> **2**. Refresh **10 menit** sebelum _kick off_, selain di waktu tersebut kemungkinan siaran tidak dapat diakses.<br /> **3**. Streaming di halaman ini diusahakan dalam kualitas HD, jadi kemungkinan akan menguras kuota/data hingga 2 GB dan membutuhkan kecepatan konektivitas minimal 10 mbps untuk kelancaran streaming.<br /> **4**. Sedangkan mengenai pilihan siaran **MolaTV**, tidak saya rekomendasikan. Silahkan baca [catatannya](#molatv).
 {:.notice--warning}
 
 Postingan ini niatnya hanya untuk menyimpan link streaming pertandingan-pertandingan **[Liverpool FC](/)** saja. Utamanya *Premier League*, tetapi mungkin ada juga pertandingan di kompetisi lain seperti _Carabao Cup_ dan _Champions League_ juga _Piala Dunia Antar-Klub_.
@@ -28,11 +28,11 @@ Postingan ini niatnya hanya untuk menyimpan link streaming pertandingan-pertandi
 
 |Fixtures|Date - Kick Off|Match|Result|
 |---|---|---|---|
-| EPL GW 15 | 05/12/2019 - 03:15 WIB | Home vs Everton | 5 - 2 |
-| EPL GW 16 | 07/12/2019 - 22:00 WIB | Away vs Bournemouth | 0 - 3 |
-| UCL Group | 11/12/2019 - 00:55 WIB | Away vs RB Salzburg |
-| EPL GW 17 | 14/12/2019 - 19:30 WIB | Home vs Watford |
-| FLC Perempat Final | 18/12/2019 02:45 WIB | Aston Villa |
+| EPL GW 15 | 05/12/2019 - 03:15 WIB | [Home vs Everton](/liverpool/away-vs-everton/)) | 5 - 2 |
+| EPL GW 16 | 07/12/2019 - 22:00 WIB | [Away vs Bournemouth](/liverpool/away-vs-bournemouth/) | 0 - 3 |
+| UCL Group | 11/12/2019 - 00:55 WIB | [Away vs RB Salzburg](/liverpool/away-vs-rb-salzburg/) | 2 - 0 |
+| EPL GW 17 | 14/12/2019 - 19:30 WIB | [Home vs Watford](/liverpool/home-vs-watford/) |
+| FLC Perempat Final | 18/12/2019 02:45 WIB | [Aston Villa](/liverpool/carabao-vs-aston-villa/) |
 | CWC Semi Final | 19/12/2019 - 00:30 WIB | _lawan belum ditentukan_ |
 | CWC Final | 22/12/2019 - n/a | _lawan belum ditentukan_ |
 | EPL GW 18 | **Ditunda** | Away vs West Ham |
