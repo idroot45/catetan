@@ -2,6 +2,7 @@
 title: "Liverpool's Champions League Away to RB Salzburg"
 excerpt: "Catatan dan fakta pertandingan Liverpool saat bertandang ke markas RB Salzburg"
 categories: [liverpool]
+last_modified_at: 2019-12-13 08:00:00
 ---
 
 Dua hal yang cukup berkesan bagi saya pribadi saat menonton perrandingan away lawan RB Salzburg ada dua.
