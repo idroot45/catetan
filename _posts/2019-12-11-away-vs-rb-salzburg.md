@@ -18,6 +18,6 @@ Yang kedua adalah ketika pertandingan berakhir, saya sempat mengambil screenshoo
 
 {% include figure caption="Screenshoot ini sempat jadi status Whatsapp" image_path="/assets/images/Screenshot_20191211-024556_Via.png" %}
 
-> **Update**: Yang tidak saya tahu adalah: [ternyata liverpool sudah tertarik dengan Minamino sejak 6 tahun lalu](/liverpool/inside-story-behind-liverpools-six-year-transfer-pursuit-of-takumi-minamino/)!. Dan kembali lagi, serasa naik roaler coaster ketika mengetahui Takumi Minamino secara resmi menjadi bagian squad Liverpool FC. 
+> **Update**: Yang tidak saya tahu adalah: [ternyata liverpool sudah tertarik dengan Minamino sejak 6 tahun lalu](/liverpool/inside-story-behind-liverpools-six-year-transfer-pursuit-of-takumi-minamino/)!. Dan kembali lagi, serasa naik roaler coaster ketika mengetahui ada kemungkina besar Takumi Minamino akan teken kontrak dalam minggu ini dan secara resmi menjadi bagian squad Liverpool FC. 
 
-Dari gerak-gerik J. Klop saat pertandingan pertama di Anfield juga seperti menyatakan hal itu.
+Kalau diingat kembali, gerak-gerik J. Klop saat pertandingan pertama di Anfield juga seperti menyiratkan sesuatu.
