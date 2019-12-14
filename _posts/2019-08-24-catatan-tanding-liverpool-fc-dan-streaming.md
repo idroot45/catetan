@@ -36,8 +36,6 @@ Postingan ini niatnya hanya untuk menyimpan link streaming pertandingan-pertandi
 
 {% include tengah.html %}
 
-
-
 ## Hasil Sebelumnya:
 
 ### EPL GW 14 Sabtu (30/11/2019) 
@@ -222,12 +220,7 @@ Skor akhir 0-3 untuk kemenangan Liverpool.
 
 > [Menerawang Starting XI Liverpool 5 Tahun Mendatang](https://catetan.istimiwir.host/sepakbola/liverpool-5-tahun-mendatang-tanpa-salah-mane-dan-van-dijk/){: rel="noopener"}
 
-### EPL GW 3 24 Agustus 2019 **Liverpool vs Arsenal** [H] KO 23:30 WIB.
-Skor akhir 3-1 untuk kemenangan Liverpool
-
-- Tayang di MolaTV [Web/App](https://mola.tv/watch?v=vd65950609){: onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Tonton Tayang Ulang" target="_new" rel="nofollow noreferer noopener"}
-- Goal LFC: **Joel Matip** 41', **M. Salah** 49' (p), 58'. 
-- Goal ARS: **L.T. Di Pascua** 85'.
+- [EPL GW 3: Home vs Arsenal](/liverpool/away-vs-arsenal/) Skor akhir 3-1 untuk kemenangan Liverpool.
 
 ## Tambahan-tambahan
 
