@@ -7,8 +7,9 @@ header:
  video:
   id: JXAP1Yp-edE
   provider: youtube
+ og_image: https://cdn.statically.io/img/i2-prod.liverpool.com/incoming/article17398630.ece/ALTERNATES/s810/0_GettyImages-1193159832.jpg"
+ teaser: https://cdn.statically.io/img/i2-prod.liverpool.com/incoming/article17398630.ece/ALTERNATES/s270b/0_GettyImages-1193159832.jpg
 ---
-
 Dua hal yang cukup berkesan bagi saya pribadi saat menonton perrandingan away lawan RB Salzburg ada dua.
 
 Yang pertama adalah ketika Mo. Salah mencetak gol. Disaat Mo. Salah mengecoh Bek dan Kiper RB Salzburg, saya sempat optimis dia mencetak gol dan mengambil screenshoot. Namun ketika keduanya sudah terlewati dan screenshoot terambil malah muncul pikiran "Ini bakalan cuma jadi tendangan gawang." Eh malah terjadi gol beneran, gol dari sudut sempit yang hampir mustahil untuk dikonversi menjadi goal. Poinnya, bukan masalah goal yang nyaris _impossible_ itu, tetap betapa cepat perubahan emosi yang saya rasakan dalam beberapa detik peristiwa itu berlangsung.
