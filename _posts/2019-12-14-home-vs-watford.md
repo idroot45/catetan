@@ -46,7 +46,7 @@ Firmino sprung a counter-attack by lofting a ball over his head out to Sadio Man
 
 The Egyptian stepped inside the full-back and, just when it looked like Watford’s recovering defenders might deny him, dispatched a clinical curler into the top corner off his right foot.
 
-{% include figure caption="Mohamed Salah's double gave Liverpool a 2-0 win from a tense Premier League clash with Watford on Saturday afternoon." image_path="https://d3j2s6hdd6a7rg.cloudfront.net/v2/uploads/media/default/0001/100/d6abc2d5107e4a7d826a53a976cf7eeec7fd2a4f.jpeg" %}
+{% include figure caption="Mo Salah's first goal assisted by Sadio Mane" image_path="https://d3j2s6hdd6a7rg.cloudfront.net/v2/uploads/media/default/0001/100/d6abc2d5107e4a7d826a53a976cf7eeec7fd2a4f.jpeg" %}
 
 The away team squandered another golden chance three minutes before the break, Sarr emulating Doucoure after Deulofeu’s cross was pushed into his path by Alisson Becker.
 
@@ -67,6 +67,8 @@ Firmino rolled a diagonal effort too close to Foster and Salah was then unable t
 Klopp sent on Alex Oxlade-Chamberlain for Shaqiri and there was a real chance for Firmino, found in the middle by Robertson, but the No.9’s shot was harmless after deflecting off Will Hughes.
 
 Virgil van Dijk was relieved to see a misplaced back pass to Alisson roll wide and Deulofeu swerved the subsequent corner onto the outside of the near post as Watford tested Liverpool’s resolve.
+
+{% include figure caption="Mohamed Salah's double gave Liverpool a 2-0 win from a tense Premier League clash with Watford on Saturday afternoon." image_path="https://akcdn.detik.net.id/community/media/visual/2019/12/14/53a482ae-293c-4784-98a4-9b859cf41e60_169.jpeg?w=600&q=90" %}
 
 But the hosts held firm and Salah finally settled it with 90 on the clock – backheeling in from substitute Divock Origi’s blocked strike – to ensure they break for a tilt at becoming world champions with their Premier League title charge still on course.
 
