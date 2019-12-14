@@ -6,6 +6,8 @@ tags: [takumi minamino, berita transfer]
 header:
  image: "https://z55cs7m7rg43v2f4blrxlpsgy5o3pomvrlnnihlkb3p3tm6gyxfa.cdn.ampproject.org/ii/w1200/s/i2-prod.mirror.co.uk/incoming/article21083333.ece/ALTERNATES/s615b/0_Champions-League-Group-E-KRC-Genk-v-FC-Salzburg.jpg"
  caption: "Takumi Minamino kala membela RB Salzburg melawan KRC Genk"
+date: 2019-12-13 23:45
+last_modified_at: 2019-12-14 08:00:02
 ---
 Liverpool dikabarkan tinggal selangkah lagi untuk mendapatkan gelandang serang RB Salzburg, Takumi Minamino. Liverpool menjadi yang terdepan dalam mendapatkan Takumi Minamino setelah mereka setuju untuk menebus klausul pelepasannya sebesar 7,25 juta pounds (sekitar Rp 135 miliar) dari RB Salzburg.
 
