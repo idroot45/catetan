@@ -211,16 +211,15 @@ Skor akhir 3-1, Liverpool FC tetap di pucuk.
 - Gol lagi, **S. Mane** 40', dari bola muntah rebutan **Firmino** dengan **Atsu**.
 - Gol **Mo Salah** 72', assist keren dari **Firmino**. 3-1 untuk Liverpool FC.
 
-### EPL GW 4 31 Agustus 2019 **Burnley vs Liverpool** [A] KO 23:30 WIB.
-Skor akhir 0-3 untuk kemenangan Liverpool.
+### EPL GW 4: Away vs Burnley
 
-- Tidak ditayangkan LIVE di MolaTV [Web/App](https://mola.tv/watch?v=vd66534925){: onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Tonton Tayang Ulang" target="_new" rel="nofollow noreferer noopener"}, tetapi bisa ditonton tayangan ulangnya.
-- Goal LFC: **C. Wood** 33' (og), S. Mane 37', R. Firmino 80'.
-- _Own goal_ C. Wood _deflected_ dari tendangan keras **T.A. Arnold** umpan **J. Henderson**.
+[Skor akhir 0-3](/liverpool/away-vs-burnley/) untuk kemenangan Liverpool.
 
 > [Menerawang Starting XI Liverpool 5 Tahun Mendatang](https://catetan.istimiwir.host/sepakbola/liverpool-5-tahun-mendatang-tanpa-salah-mane-dan-van-dijk/){: rel="noopener"}
 
-- [EPL GW 3: Home vs Arsenal](/liverpool/away-vs-arsenal/) Skor akhir 3-1 untuk kemenangan Liverpool.
+### EPL GW 3: Home vs Arsenal
+
+[Skor akhir 3-1]((/liverpool/home-vs-arsenal/) untuk kemenangan Liverpool.
 
 ## Tambahan-tambahan
 
