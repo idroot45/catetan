@@ -5,6 +5,7 @@ categories: [liverpool]
 tags: [takumi minamino, rb salzburg, liverpool fc]
 header:
  og_image: "https://asset-a.grid.id/photo/2019/12/12/2934751126.jpg"
+ teaser: "https://cdn.statically.io/img/i2-prod.liverpool.com/incoming/article17407665.ece/ALTERNATES/s458/0_GettyImages-1186859134.jpg"
 ---
 
 If Jurgen Klopp couldn’t hide a broader grin that usual in training on Wednesday, then it wasn’t just through Champions League satisfaction.
