@@ -9,7 +9,7 @@ tags: [english premier league, liverpool fc, watford]
 date: 2019-12-14 10:30:01
 last_modified_at: 2019-12-14 15:12:00
 ---
-Liverpool akan menjamu Watford di Liga Inggris akhir pekan ini. Pertandingan ini berpotensi menghasilkan banyak gol. Duel Liverpool vs Watford di pekan ke-17 Liga Inggris akan digelar di Anfield, Sabtu (14/12/2019) malam WIB. Di atas kertas, laga ini seharusnya tak sulit untuk The Reds.
+[Liverpool FC](/streaming/catatan-tanding-liverpool-fc-dan-streaming/) akan menjamu Watford di Liga Inggris akhir pekan ini. Pertandingan ini berpotensi menghasilkan banyak gol. Duel Liverpool vs Watford di pekan ke-17 Liga Inggris akan digelar di Anfield, Sabtu (14/12/2019) malam WIB. Di atas kertas, laga ini seharusnya tak sulit untuk The Reds.
 
 {% include figure caption="Liverpool memenangi tiga laga terakhir melawan Watford di Anfield dengan skor telak _(Foto: Lee Smith/REUTERS)_" image_path="https://akcdn.detik.net.id/community/media/visual/2018/03/19/cc3a7aa2-9fd4-4fdf-8419-605594b7ce8c_169.jpeg?w=600&q=90" %}
 
