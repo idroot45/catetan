@@ -6,7 +6,7 @@ tags: [liverpool fc, manchester utd, liga inggris]
 header:
  video:
   provider: "youtube"
-  id="ZQZZD7fblYY"
+  id: "ZQZZD7fblYY"
 ---
 {{ page.excerpt }}. Skor akhir 1-1 di kandang mereka dan munyukers berasa uda menang. 😅 taik.
 
@@ -17,6 +17,8 @@ header:
 - Lagi, VAR anulir gol S. Mane karena terlihat handball di layar.
 - Streaming memakai pemutar video [VLC Media Player](/linux/how-to-install-vlc-media-player-on-centos-8/) (desktop/smartphone) bisa dilihat di [bocoran playlist m3u8](/how-to-stream-with-vlc/)
 
-Last season away match (2018/2019) highlight:
+{% include video provider="youtube" id="rTALJEbrD_8" %}
+
+### Last season away match (2018/2019) highlight:
 
 {% include video id="-Q5bKEEQRps" provider="youtube" %}
