@@ -51,35 +51,15 @@ Postingan ini niatnya hanya untuk menyimpan link streaming pertandingan-pertandi
 
 > With more than a little help from Martin Atkinson blowing the whistle while Adrian clearly wasn't ready, Lewis Dunk was able to roll the ball into the bottom corner, leaving the whole of Anfield utterly bemused, faced with the prospect of clinging on to another slender one-goal advantage, this time with 10 men." _— liverpool.com_
 
-### _Liverpool FC_ vs _SC Napoli_
+### Champions League Group Stage Matchday 5 Liverpool FC vs SC Napoli
 
-Champions League Babak Grup Matchday ke-5 dari 6. Kick-Off 03:00 WIB Kamis, 28/11/2019.
+Champions League Babak Grup Matchday ke-5 dari 6. [Kick-Off 03:00 WIB Kamis, 28/11/2019](/liverpool/home-vs-sc-napoli/).
 
-{% include video provider="youtube" id="9UBx8h4TFcM" %}
-
-{% include video id="eMM0hSBzZ3s" provider="youtube" %}
-
-{% include video provider="youtube" id="zuXn-bxau6g" %}
-
-### EPL GW 13 Sabtu (22/11/2019)
-
-**Crystal Pallace** vs **Liverpool FC** [A]. **KO 22:00 WIB**.
-
-{% include figure caption="LIVERPOOL, ENGLAND - Saturday, August 19, 2017: Liverpool's Georginio Wijnaldum and Crystal Palace's Joel Ward during the FA Premier League match between Liverpool and Crystal Palace at Anfield. _(Pic by David Rawcliffe/Propaganda)_" image_path="https://cdn.statically.io/img/www.thisisanfield.com/wp-content/uploads/170819-045-Liverpool_Crystal_Palace.jpg" %}
-
-Pertandingan perdana setelah jeda internasional. Line-up:
-+ **Crystal Palace:** Guaita, Ward, Tomkins, Cahill, Van Aanholt, Townsend, Kouyate, Milivojevic, McArthur, Zaha, Ayew
-+ _Subs:_ Hennessey, Dann, Meyer, Schlupp, Benteke, McCarthy, Kelly
-+ **Liverpool:** Alisson, Alexander-Arnold, Lovren, Van Dijk, Robertson, Fabinho, Wijnaldum, Henderson, Oxlade-Chamberlain, Mane, Firmino
-+ _Subs:_ Adrian, Milner, Keita, Salah, Gomez, Lallana, Origi
-
-{% include figure image_path="https://cdn.statically.io/img/i2-prod.liverpool.com/incoming/article17306186.ece/ALTERNATES/s810/0_GettyImages-1189561064-1.jpg" caption="Goal cepat babak kedua dicetak **S. Mane** umpan dari **A. Robertson**" %}
-
-{% include figure image_path="https://cdn.statically.io/img/i2-prod.liverpool.com/liverpool-fc-news/features/article17308495.ece/ALTERNATES/s810/0_Zaha-goal.png" caption="With just a 0-1 lead, Liverpool were cut open down their right-hand side in the build-up to Wilfried Zaha's 82nd-minute equaliser" %}
+### EPL GW 13: Away vs Crystal Pallace
 
 {% include figure image_path="https://cdn.statically.io/img/i2-prod.liverpool.com/incoming/article17306328.ece/ALTERNATES/s810/0_GettyImages-1189564000.jpg" caption="Goal penentu kemenangan di lima menit akhir pertandingan dicetak **R. Firminho**. Pembuktian dari _mentality monster_ yang diungkapkan **J. Klop**." %}
 
-{% include figure image_path="https://cdn.statically.io/img/i2-prod.liverpool.com/incoming/article17311235.ece/ALTERNATES/s810/0_GettyImages-1184124797.jpg" caption="**Mo Salah** sempat terlihat akan dimainkan namun urung setelah **R. Firminho** mencetak gol menjadikan skor akhir 1-2 untuk kemenangan Liverpool FC" %}
+KO 22:00 WIB. [Skor akhir 2-1](/liverpool/away-vs-crystal-pallace/).
 
 {% include tengah.html %}
 
@@ -99,7 +79,9 @@ Skor Akhir: 3-1, bisa kena hipotermia ini...
 
 {% include video id="xK5R8h7zIn0" provider="youtube" %}
 
-### Champions League Group Stage Matchday 4: _Liverpool FC_ vs _Genk_, Rabu 05/11/2019 Kick-Off 02:00 WIB. Champions League Group E.
+### Champions League Group Stage Matchday 4 Liverpool FC vs Genk
+
+Rabu 05/11/2019 Kick-Off 02:00 WIB. Champions League Group E.
 
 {% include video id="aTYLL-6LWjA" provider="youtube" %}
 
