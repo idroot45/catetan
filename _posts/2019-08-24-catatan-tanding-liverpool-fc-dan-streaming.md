@@ -182,20 +182,13 @@ Skor akhir: **4-3**
 - Gol **J. Milner** 41' di babak pertama, dan **Ki-jana Hoever** 69' di babak kedua.
 - **C. Jones** lagi apes, dua tembakan terarah ke gawang cuma membentur mistar.
 
-### EPL GW 6 22 September 2019 **Chelsea vs Liverpool FC** [A] KO 22:30. Skor akhir 1-2, LFC [tetap di _putcjuk_](#standing) meskipun di laga lain **Man. City** memasukkan 8 gol tanpa balas ke gawang **Watford**
+### EPL GW 6: Away vs Chelsea FC
 
-![Firmino ft. Fabinho](https://www.thisisanfield.com/wp-content/uploads/P2019-09-22-039-Chelsea_Liverpool-1-e1569168573519.jpg){:title="Firmino ft. Fabinho"}
-
-- Tayangan langsung tidak tersedia, baik TVRI maupun MolaTV [Web/App](https://mola.tv/watch?v=vd68620074){: onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Tonton Tayang Ulang" target="_new" rel="nofollow noreferer noopener"}, tetapi bisa ditonton tayangan ulangnya.
-- Gol dari skema set piece: **TAA** 14' dan sundulan **Firmino** 30', kedudukan 2-0 di babak pertama.
-- Babak 2 **Kante** 71' melakukan akselerasi dan tendangan kesisi kiri gawang **Adrian** dan tak dapat dijangkau. 
-- Liverpool bertahan dengan bombardir serangan dari pemain-pemain Chelsea, kedudukan 2-1 tak berubah hingga akhir pertandingan.
+[Skor akhir 1-2](/liverpool/away-vs-chelsea/), LFC tetap di _putcjuk_ meskipun di laga lain **Man. City** memasukkan 8 gol tanpa balas ke gawang **Watford**
 
 ### Champions League Group Stage Matchday 1: _SC Napoli_ vs _Liverpool FC_ [away]. **KO 02:00 WIB**, Rabu, 17 September 2019. 
 
 [**Hasil: Kalah 0-2**](/liverpool/away-vs-napoli-sc/).
-
-[![Adrian vs Napoli](https://i2-prod.liverpool.com/incoming/article16936166.ece/ALTERNATES/s510b/0_GettyImages-1168930358.jpg Adrian vs Napoli)](https://i2-prod.liverpool.com/incoming/article16936166.ece/ALTERNATES/s810/0_GettyImages-1168930358.jpg){:title="Napoli mengukuhkan kemenangan kandang dengan gol kedua di menit-menit akhir"}
 
 ### EPL GW 5: Home vs Newcastle
 
