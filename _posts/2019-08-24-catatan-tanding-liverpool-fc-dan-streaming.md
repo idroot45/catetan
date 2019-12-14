@@ -129,17 +129,9 @@ AFC's goals: L. T. Di Pascua (19'), G. Martinelli (26', 36'), A. Maitland Nilles
 
 {% include video provider="youtube" id="WKPG0DiXd_A" %}
 
-### EPL GW 9 Minggu (20/10/2019) **Manchester Utd. vs Liverpool FC** [A]. **KO 22:30 WIB**.
+### EPL GW 9: Away vs Manchester Utd. vs Liverpool FC
 
-- Tayang di MolaTV, lihat [poster ini](https://mola01.koicdn.com/u/image/e56abf4a-6885-4286-9a7d-363e470e6b3b/image.jpeg). Hanya dapat diakses dari aplikasi dan perangkat tertentu saja.
-- Tayang di TV lokal TVRI.
-- Untuk streaming dari browser atau chromebook, pantau terus di halaman ini.
-- Goal M Rashford disahkan meskipun terlihat jelas ada kontak ke kaki D. Origi sebelum gol terjadi.
-- Lagi, VAR anulir gol S. Mane karena terlihat handball di layar.
-- Streaming memakai pemutar video [VLC Media Player](/linux/how-to-install-vlc-media-player-on-centos-8/) (desktop/smartphone) bisa dilihat di [bocoran playlist m3u8](/how-to-stream-with-vlc/)
-- Last season away match (2018/2019) highlight:
-
-{% include video id="-Q5bKEEQRps" provider="youtube" %}
+Ditahan [imbang 1-1](/liverpool/away-vs-manchester/). Tetap memimpin klasemen liga Inggris.
 
 ### EPL GW 8 Minggu (05/10/2019) **Liverpool FC vs Leicester City** [H]. **KO 21:00 WIB**.
 
@@ -175,7 +167,7 @@ AFC's goals: L. T. Di Pascua (19'), G. Martinelli (26', 36'), A. Maitland Nilles
 
 [Skor akhir 1-2](/liverpool/away-vs-chelsea/), LFC tetap di _putcjuk_ meskipun di laga lain **Man. City** memasukkan 8 gol tanpa balas ke gawang **Watford**
 
-### Champions League Group Stage Matchday 1: _SC Napoli_ vs _Liverpool FC_ [away]. **KO 02:00 WIB**, Rabu, 17 September 2019. 
+### Champions League Group Stage Matchday 1: SC Napoli vs Liverpool FC
 
 [**Hasil: Kalah 0-2**](/liverpool/away-vs-napoli-sc/).
 
