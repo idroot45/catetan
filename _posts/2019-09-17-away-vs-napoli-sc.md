@@ -1,6 +1,10 @@
 ---
 title: "Champions League Group Stage: Away vs SC Napoli"
 excerpt: "UCL SC Napoli vs Liverpool FC [away]. KO 02:00 WIB, Rabu, 17 September 2019"
+header:
+ video:
+  provider: youtube
+  id: N_7YRsXmjK0
 categories: [liverpool]
 tags: [champions league, liverpool fc, napoli sc]
 ---
