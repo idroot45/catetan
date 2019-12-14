@@ -12,6 +12,8 @@ tags: [english premier league, liverpool fc, watford]
 date: 2019-12-14 10:30:01
 last_modified_at: 2019-12-14 21:50:00
 ---
+## Pre-match
+
 [Liverpool FC](/streaming/catatan-tanding-liverpool-fc-dan-streaming/) akan menjamu Watford di Liga Inggris akhir pekan ini. Pertandingan ini berpotensi menghasilkan banyak gol. Duel Liverpool vs Watford di pekan ke-17 Liga Inggris akan digelar di Anfield, Sabtu (14/12/2019) malam WIB. Di atas kertas, laga ini seharusnya tak sulit untuk The Reds.
 
 {% include figure caption="Liverpool memenangi tiga laga terakhir melawan Watford di Anfield dengan skor telak _(Foto: Lee Smith/REUTERS)_" image_path="https://akcdn.detik.net.id/community/media/visual/2018/03/19/cc3a7aa2-9fd4-4fdf-8419-605594b7ce8c_169.jpeg?w=600&q=90" %}
@@ -21,6 +23,12 @@ Kedua tim bak bumi dan langit di klasemen Liga Inggris. Liverpool begitu tangguh
 Kala menghadapi Watford di Anfield, Liverpool belakangan dapat kemenangan besar. Tiga pertandingan terakhir melawan Watford di Anfield dimenangi Liverpool dengan skor telak. Tren tersebut dimulai tiga musim lalu. Liverpool menghajar Watford 6-1 di Anfield pada November 2016. Pada Maret 2018, Liverpool kembali menang telak atas Watford dengan skor 5-0. Skor sama dicatat Liverpool kala menjamu Watford di Liga Inggris musim lalu pada Februari 2019.
 
 Liverpool sendiri sedang melaju kencang di Anfield. Tim arahan Juergen Klopp itu memenangi 15 pertandingan kandang terakhir di Liga Inggris
+
+### Susunan Pemain
+
+**Liverpool:** Alisson, Alexander-Arnold, Van Dijk, Gomez, Milner, Henderson, Wijnaldum (Robertson 59'), Shaqiri (Oxlade-Chamberlain 70'), Mane, Salah, Firmino (Origi 88')
+
+**Watford:** Foster, Mariappa, Deulofeu, Deeney (Gray 75'), Cathcart, Doucoure (Quina 87'), Hughes, Femenia, Sarr, Kabasele, Capoue
 
 ## Match Report: _Ditched [from here](https://www.liverpoolfc.com/news/first-team/378067-match-report-liverpool-watford-premier-league)_
 
