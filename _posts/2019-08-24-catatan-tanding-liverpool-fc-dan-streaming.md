@@ -153,20 +153,9 @@ AFC's goals: L. T. Di Pascua (19'), G. Martinelli (26', 36'), A. Maitland Nilles
 - Ribut-ribut pemain vs **A. Perez** di akhir pertandingan 🙄 [oh dikomandani oleh Adam Lallana](https://i2-prod.liverpool.com/incoming/article17040575.ece/ALTERNATES/s810/0_GettyImages-1173858117.jpg){:title="At full-time, Andy Robertson gave Ayoze Perez a slight elbow to the ribs on his way to celebrate with Lallana and Virgil van Dijk, only for the Spaniard to retaliate with a heavy shove in the Scotsman's back."}.
 - Review Liverpool FC vs Leicester City via [This Is Anfield](https://www.thisisanfield.com/2019/10/liverpool-2-1-leicester-player-ratings-what-the-media-and-statistics-say/)
 
-### Champions League Group Stage Matchday 2: _Liverpool FC_ vs _Red Bull Salzburg_ [H]. **KO 02:00 WIB**, Kamis, 3 Oktober 2019.
+### Champions League Group Stage Matchday 2: Liverpool FC vs Red Bull Salzburg
 
-Skor akhir: **4-3**
-
-{% include figure caption="Gol penyelamat dari Mo Salah" alt="Mo Salah vs RB Salzburg" image_path="https://i2-prod.liverpool.com/incoming/article17022711.ece/ALTERNATES/s810/0_GettyImages-1178635744.jpg" %}
-
-- Artikel pra-tanding dari portal [This Is Anfield](https://www.thisisanfield.com/2019/09/key-men-manager-impressions-a-curious-link-to-the-past-complete-lowdown-on-salzburg/), [Liverpool.com](https://www.liverpool.com/liverpool-fc-news/features/liverpool-salzburg-man-united-haaland-17001599) dan [Liverpool Echo](https://www.liverpoolecho.co.uk/sport/football/football-news/former-liverpool-man-identifies-key-17007724) bisa dibaca sambil ngopi.
-- Mungkin akan ditayangkan TV Lokal (SCTV).
-- 3 Gol dari **S. Mane** 9', **A. Robertson** 25', **Mo Salah** 36' di babak pertama.
-- Gol balasan Redbull oleh **H. Hwang** 39'.
-- Babak kedua Liverpool bermain dibawah ekspektasi. 2 Gol balasan dari **M. Takumi** 56' dan **E.B. Halland** 60' hanya berselang kurang dari 5 menit.
-- Untungnya gol **Mo Salah** 69' mampu membuat Liverpool memimpin kembali.
-- Babak kedua berlangsung sangat terbuka. Banyak kesalahan yang dibuat pemain Liverpool; salah umpan, salah antisipasi.
-- Si Mini Me _mantep uga_ mainnya. “Liverpool have reportedly identified Red Bull Salzburg winger **Takumi Minamino** as a potential signing.”
+**KO 02:00 WIB**, Kamis, 3 Oktober 2019. [Skor akhir: **4-3**](/liverpool/home-vs-rb-salzburg/).
 
 ### EPL GW 7 28 September 2019 **Sheffield Utd. vs Liverpool FC** [A]. **KO 18:30 WIB**. Skor akhir 0-1 untuk tim tandang. Liverpool adem ayem di _putjuk_.
 
