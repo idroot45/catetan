@@ -4,7 +4,9 @@ excerpt: "Dirangkum dari berbagai laporan media Liverpool, inilah 8 data dan fak
 categories: [liverpool]
 tags: [takumi minamino, berita transfer]
 header:
+ teaser: "https://i2-prod.liverpool.com/incoming/article17409086.ece/ALTERNATES/s458/0_GettyImages-1180364689.jpg"
  image: "https://z55cs7m7rg43v2f4blrxlpsgy5o3pomvrlnnihlkb3p3tm6gyxfa.cdn.ampproject.org/ii/w1200/s/i2-prod.mirror.co.uk/incoming/article21083333.ece/ALTERNATES/s615b/0_Champions-League-Group-E-KRC-Genk-v-FC-Salzburg.jpg"
+ og_image: "https://i2-prod.liverpool.com/incoming/article17409086.ece/ALTERNATES/s810/0_GettyImages-1180364689.jpg"
  caption: "Takumi Minamino kala membela RB Salzburg melawan KRC Genk"
 date: 2019-12-13 23:45
 last_modified_at: 2019-12-14 08:00:02
