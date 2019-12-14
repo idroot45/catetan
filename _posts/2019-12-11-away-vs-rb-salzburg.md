@@ -22,6 +22,16 @@ Yang kedua adalah ketika pertandingan berakhir, saya sempat mengambil screenshoo
 
 {% include figure caption="Screenshoot ini sempat jadi status Whatsapp" image_path="/assets/images/Screenshot_20191211-024556_Via.png" %}
 
+### Henderson
+
+On to Salzburg, a game which Henderson described as "the biggest of the season" so far, with Liverpool facing the catastrophic humiliation of ending up in the Europa League should they have failed to secure the point they required.
+
+The skipper stepped up to the plate once again with another magnificent all-round display, helping set the tone for a consummate European away performance against dangerously gifted and fearless opposition, dovetailing superbly with Keita (and Gini Wijnaldum) in a way which Klopp almost certainly would not have experimented with had Fabinho been available.
+
+{% include figure caption="The captain was an instrumental force in Liverpool's 0-2 Champions League victory against Red Bull Salzburg. **(Image: Photo by David Geieregger/SEPA.Media /Getty Images)**" image_path="https://i2-prod.liverpool.com/incoming/article17398636.ece/ALTERNATES/s810/0_GettyImages-1187755452.jpg" %}
+
+Again, Henderson showed excellent quality and composure in possession, but was equally influential in the intelligence and intensity of his work off the ball, breaking up Salzburg's attacks with numerous well-timed tackles and interceptions, while showing exemplary tactical discipline to shut down the spaces the hosts were looking to exploit in the manner they had done so successfully at Anfield.
+
 > **Update**: Yang tidak saya tahu adalah: [ternyata liverpool sudah tertarik dengan Minamino sejak 6 tahun lalu](/liverpool/inside-story-behind-liverpools-six-year-transfer-pursuit-of-takumi-minamino/)!. Dan kembali lagi, serasa naik roaler coaster ketika mengetahui ada kemungkina besar Takumi Minamino akan teken kontrak dalam minggu ini dan secara resmi menjadi bagian squad Liverpool FC. 
 
-Kalau diingat kembali, gerak-gerik J. Klop saat pertandingan pertama di Anfield juga seperti menyiratkan sesuatu.
+Kalau diingat kembali, gerak-gerik J. Klop saat [pertandingan pertama di Anfield](/liverpool/home-vs-rb-salzburg/) juga seperti menyiratkan sesuatu.
