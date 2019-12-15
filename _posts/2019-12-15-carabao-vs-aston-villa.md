@@ -1,9 +1,9 @@
 ---
 title: "Carabao Cup Quarter Final vs Aston Villa"
 excerpt: "Football League Cup Quarter Final Liverpool FC vs Aston Villa. Rabu, 18 Desember 2019, 02:45 WIB"
- header:
-  image: "https://cdn.statically.io/img/i2-prod.liverpool.com/incoming/article16681628.ece/ALTERNATES/s810/0_GettyImages-1164740160.jpg"
-  caption: "Rhian Brewster and Ki-Jana Hoever"
+header:
+ image: "https://cdn.statically.io/img/i2-prod.liverpool.com/incoming/article16681628.ece/ALTERNATES/s810/0_GettyImages-1164740160.jpg"
+ caption: "Rhian Brewster and Ki-Jana Hoever"
 categories: [liverpool]
 tags: [liverpool fc, carabao cup, aston villa]
 last_modified_at: 2019-12-15 23:58:00
