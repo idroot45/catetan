@@ -1,6 +1,6 @@
 ---
 title: "5 Game Android Offline Terbaik per Desember 2019"
-excerpt: "Ini dia 5 game android offline terbaik yang sngat seru untuk menemani waktu luang nan gabut di akhir tahun 2019 ini"
+excerpt: "Ini dia 5 game android offline terbaik yang sangat seru untuk menemani waktu luang nan gabut di akhir tahun 2019 ini"
 header:
  og_image: "https://cdn.statically.io/img/efekrevisi.com/wp-content/uploads/2019/12/Game-Android-Offline-Terbaik-Desember-2019.jpg"
  teaser: "https://i0.wp.com/efekrevisi.com/wp-content/uploads/2019/12/Game-Android-Offline-Terbaik-Desember-2019.jpg?resize=345,255"
