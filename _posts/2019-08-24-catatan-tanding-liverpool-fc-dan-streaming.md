@@ -80,13 +80,9 @@ Group E Matchday 4. Kick-Off 02:00 WIB [Rabu 5 November 2019](/liverpool/ucl-hom
 
 Skor Akhir: 2-1, [brrr... dingiiin...](/liverpool/away-vs-aston-villa/)
 
-### Football League Cup 16 round: _Liverpool FC_ vs Arsenal FC [H]. Kamis, 31 Oktober 2019 **KO 02:30 WIB**.
+### Carabao 16 Besar: Home vs Arsenal FC
 
-Hasil Akhir 5-5 (5-4) <br /> LFC's goals: S. Mustafi (9') [OG], J. Milner 43', A. Oxlade Chamberlain 58', D. Origi (63', 90+4).
-
-AFC's goals: L. T. Di Pascua (19'), G. Martinelli (26', 36'), A. Maitland Nilles (54'), J. Willock (70').
-
-{% include video provider="youtube" id="L4ImKDNA8zY" %}
+Kamis, 31 Oktober 2019 **KO 02:30 WIB**. Hasil Akhir 5-5 (5-4). [Catetane](/liverpool/carabao-home-vs-arsenal/)
 
 ### EPL GW 10 Home vs Tottenham Hotspurs
 
