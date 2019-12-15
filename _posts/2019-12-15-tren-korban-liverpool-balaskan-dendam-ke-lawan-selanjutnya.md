@@ -2,7 +2,9 @@
 title: "Tren Liga Inggris? Klub Yang dikalahkan Liverpool Balaskan Dendam Ke Lawan Selanjutnya?"
 excerpt: "Dominasi Liverpool FC di Liga Inggris seperti menciptakan tren baru: **Membalas dendam pada klub lawan berikutnya**"
 categories: [sepakbola]
-
+header:
+ teaser: "https://cdn.statically.io/img/i2-prod.liverpool.com/incoming/article17421657.ece/ALTERNATES/s540/0_GettyImages-1193901986.jpg"
+ og_image: "https://cdn.statically.io/img/i2-prod.liverpool.com/incoming/article17421657.ece/ALTERNATES/s810/0_GettyImages-1193901986.jpg"
 ---
 {{ page.excerpt }}. Pada Game Week 17 pun terjadi lagi, korban Liverpool FC di Game Week sebelumnya menuntaskan dendam kepada lawan di Game Week berikutnya 😱. Yang terbaru, Bournemouth mampu tumbangkan Chelsea FC di menit-menit akhir pertandingan.
 
@@ -14,27 +16,27 @@ Berikut data laga dalam masing-masing Game Week dimaksud:
 
 **Game Week 13:**
 
-- Crystal Pallace (1 - 2) Liverpool
+- Crystal Pallace (1 - 2) **Liverpool**
 
 **Game Week 14:**
 
-- Burnley (0 - 2) Crystal Pallace
-- Liverpool (2 - 1) Brighton
+- Burnley (0 - 2) **Crystal Pallace**
+- **Liverpool** (2 - 1) Brighton
 
 **Game Week 15:**
 
-- Arsenal (1 - 2) Brighton
-- Liverpool (5 - 2) Everton
+- Arsenal (1 - 2) **Brighton**
+- **Liverpool** (5 - 2) Everton
 
 **Game Week 16:**
 
-- Everton (3 - 1) Chelsea
-- Bournemouth (0 - 3) Liverpool
+- **Everton** (3 - 1) Chelsea
+- Bournemouth (0 - 3) **Liverpool**
 
 **Game Week 17:**
 
-- Chelsea (0 - 1) Bournemouth
-- Liverpool (2 - 0) Watford
+- Chelsea (0 - 1) **Bournemouth**
+- **Liverpool** (2 - 0) Watford
 
 **Game Week 18:**
 
