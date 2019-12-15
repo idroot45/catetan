@@ -1,6 +1,6 @@
 ---
 title: "Tren Liga Inggris? Klub Yang dikalahkan Liverpool Balaskan Dendam Ke Lawan Selanjutnya?"
-excerpt: "Dominasi Liverpool FC di Liga Inggris seperti menciptakan tren baru: Balsakan dendam ke klub lawan berikutnya"
+excerpt: "Dominasi Liverpool FC di Liga Inggris seperti menciptakan tren baru: **Membalas dendam pada klub lawan berikutnya**"
 categories: [sepakbola]
 
 ---
@@ -8,7 +8,7 @@ categories: [sepakbola]
 
 Sebelumnya, Everton juga seperti melampiaskan kesumatnya di Game Week 16 setelah kena cukur 5 - 2 oleh Liverpool FC pada laga di Game Week 15. Secara kebetulan, lawannya adalah tim asuhan Frank Lampard.
 
-Tren ini seperti yang terjadi pada Game Week 15. Dimana Brighton Hove Albion yang juga melampiaskan kemarahan kepada Arsenal FC setelah dikalahkan Liverpool pada laga di Game Week 14. Kemudia ada juga Crystal Pallace yang menang melawan Burnley setelah kalah dari Liverpool di Game Week 13.
+Tren ini seperti yang terjadi pada Game Week 15. Dimana Brighton Hove Albion yang juga melampiaskan kemarahan kepada Arsenal FC setelah dikalahkan Liverpool pada laga di Game Week 14. Kemudian ada Crystal Pallace yang juga menang melawan Burnley setelah kalah dari Liverpool di Game Week 13.
 
 Berikut data laga dalam masing-masing Game Week dimaksud:
 
