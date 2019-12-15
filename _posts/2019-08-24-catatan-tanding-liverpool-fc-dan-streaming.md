@@ -1,6 +1,6 @@
 ---
 title: "Catatan Pertandingan Liverpool FC dan Link Streaming [Update]"
-excerpt: "Live Video Stream **Liverpool FC** vs **Watford**. English Premier League GW-17. Sabtu (14/12/2019) Kick-Off 19:30 WIB."
+excerpt: "Live Video Stream **Liverpool FC** vs **Watford**. Football League Cup (Carabao Cup) Quarter Final. Rabu (18/12/2019) Kick-Off 02:45 WIB."
 header:
  image: "https://cdn.statically.io/img/i2-prod.liverpool.com/incoming/article17041156.ece/ALTERNATES/s810/0_GettyImages-1173868960.jpg"
  caption: "Anfield’s mentality has been transformed."
@@ -10,7 +10,7 @@ redirect_from:
  - /streaming/streaming-m3u8/
  - /liverpool
  - /streaming/m3u8/
-last_modified_at: 2019-12-09 21:22:00
+last_modified_at: 2019-15-09 10:04:00
 ---
 *Ingat baik-baik!*{:.fa .fa-cog .fa-spin aria-hidden="true"} **1**. Tayangan akan tersedia hanya **jika ada** dan **tersedia** (dapat saya temukan) di internet. Baca [latar belakang](#latar-belakang) catatan ini.<br /> **2**. Refresh **10 menit** sebelum _kick off_, selain di waktu tersebut kemungkinan siaran tidak dapat diakses.<br /> **3**. Streaming di halaman ini diusahakan dalam kualitas HD, jadi kemungkinan akan menguras kuota/data hingga 2 GB dan membutuhkan kecepatan konektivitas minimal 10 mbps untuk kelancaran streaming.<br /> **4**. Sedangkan mengenai pilihan siaran **MolaTV**, tidak saya rekomendasikan. Silahkan baca [catatannya](#molatv).
 {:.notice--warning}
@@ -26,11 +26,11 @@ Postingan ini niatnya hanya untuk menyimpan link streaming pertandingan-pertandi
 | EPL GW 15 | 05/12/2019 - 03:15 WIB | [Home vs Everton](/liverpool/home-vs-everton/) | 5 - 2 |
 | EPL GW 16 | 07/12/2019 - 22:00 WIB | [Away vs Bournemouth](/liverpool/away-vs-bournemouth/) | 0 - 3 |
 | UCL Group | 11/12/2019 - 00:55 WIB | [Away vs RB Salzburg](/liverpool/away-vs-rb-salzburg/) | 2 - 0 |
-| EPL GW 17 | 14/12/2019 - 19:30 WIB | [Home vs Watford](/liverpool/home-vs-watford/) |
+| EPL GW 17 | 14/12/2019 - 19:30 WIB | [Home vs Watford](/liverpool/home-vs-watford/) | 2 -0 |
 | FLC Perempat Final | 18/12/2019 02:45 WIB | [Aston Villa](/liverpool/carabao-vs-aston-villa/) |
-| CWC Semi Final | 19/12/2019 - 00:30 WIB | _lawan belum ditentukan_ |
+| CWC Semi Final | 19/12/2019 - 00:30 WIB | [Monterey]()liverpool/cwc-vs-monterey/) |
 | CWC Final | 22/12/2019 - n/a | _lawan belum ditentukan_ |
-| EPL GW 18 | **Ditunda** | Away vs West Ham |
+| EPL GW 18 | **Menyesuaikan** | Away vs West Ham |
 | EPL GW 19 | 27/12/2019 - 03:00 WIB | Away vs Leicester |
 | EPL GW 20 | 29/12/2019 - 23:30 WIB | Home vs Wolves |
 
