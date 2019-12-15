@@ -54,21 +54,9 @@ KO 22:00 WIB. [Skor akhir 2-1](/liverpool/away-vs-crystal-pallace/).
 
 {% include tengah.html %}
 
-### EPL GW 12 Minggu (02/11/2019) **Liverpool FC** vs **Manchester City** [H]. **KO 22:30 WIB**.
+### EPL GW 12: Home vs Manchester City
 
-Skor Akhir: 3-1, bisa kena hipotermia ini...
-
-{% include figure caption="Fabinho's goal as first score fot Liverpol" alt="Fabinho goal againts city" image_path="https://cdn.statically.io/img/www.thisisanfield.com/wp-content/uploads/P2019-11-10-Liverpool_Man_City-132.jpg" url="https://cdn.statically.io/img/www.thisisanfield.com/wp-content/uploads/P2019-11-10-Liverpool_Man_City-132.jpg" %}
-
-- Tayangan dimonopoli mola.tv, TVRI kena PHP cuma menayangkan klub nyaris degradasi.
-- **Fabinho** + **Mo Salah** = Ambyarr... **2-0 HT**. Sementara itu Firmino belum beruntung.
-- Aguero berkali-kali shoot dibabat Allison. Sterling menari-nari dengan tarian manjanya.
-- Tet teret tereeeet.... **S. Mane** dapat umpan manja dari Kapten tersayang. Biarpun **Semua sayang Ole**, Kep 14 tetep yang tersayang.
-- Overall: Duo pelawak main cakep malam ini. **3-1 FT**.
-- Sssstt... Sebelumnya juga ada yang menang dengan sekor sama, tapi gak ada yang peduli.
-- [Liverpool, England and Joe Gomez: The Uncomfortable Truth](https://www.catetan.pw/sepakbola/liverpool-england-and-joe-gomez-the-uncomfortable-truth/)
-
-{% include video id="xK5R8h7zIn0" provider="youtube" %}
+[Skor Akhir: 3-1](/liverpool/home-vs-manchester-city), bisa kena hipotermia ini...
 
 ### Champions League Group Stage Matchday 4 Liverpool FC vs Genk
 
