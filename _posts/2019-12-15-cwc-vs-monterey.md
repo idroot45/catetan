@@ -8,6 +8,9 @@ last_modified_at: 2019-12-15 10:33:00
 ---
 {{ page.excerpt }} Sementara di pertandingan lain ada [CR Flamengo melawan Al-Hilal](/streaming/cwc-flamengo-vs-al-hilal/)
 
+Liverpool vs. Monterrey takes place at the Khalifa International Stadium on Wednesday, with a 5.30pm (GMT) kick off.
+{:.notice .notice--info}
+
 **Liverpool to face Monterrey in Club World Cup semi-final** via [liverpoolfc.com](https://www.liverpoolfc.com/news/first-team/378061-liverpool-to-face-monterrey-in-club-world-cup-semi-final)
 > Liverpool will face Mexican side Monterrey in the FIFA Club World Cup semi-finals.
 **Liverpool to face Mexican side Monterrey in Club World Cup semi-final** via [thisisanfield.com](https://www.thisisanfield.com/2019/12/liverpool-to-face-mexican-side-monterrey-in-club-world-cup-semi-final/)
