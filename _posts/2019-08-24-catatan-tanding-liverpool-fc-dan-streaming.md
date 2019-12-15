@@ -1,6 +1,6 @@
 ---
-title: "Catatan Pertandingan Liverpool FC dan Link Streaming [Update]"
-excerpt: "Live Video Stream **Liverpool FC** vs **Watford**. Football League Cup (Carabao Cup) Quarter Final. Rabu (18/12/2019) Kick-Off 02:45 WIB."
+title: "Jadwal dan Catatan Pertandingan Liverpool FC, Link Streaming [Update]"
+excerpt: "Live Video Stream **Liverpool FC** vs **Aston Villa**. Football League Cup (Carabao Cup) Quarter Final. Rabu (18/12/2019) Kick-Off 02:45 WIB."
 header:
  image: "https://cdn.statically.io/img/i2-prod.liverpool.com/incoming/article17041156.ece/ALTERNATES/s810/0_GettyImages-1173868960.jpg"
  caption: "Anfield’s mentality has been transformed."
@@ -23,10 +23,6 @@ Postingan ini niatnya hanya untuk menyimpan link streaming pertandingan-pertandi
 
 |Fixtures|Date - Kick Off|Match|Result|
 |---|---|---|---|
-| EPL GW 15 | 05/12/2019 - 03:15 WIB | [Home vs Everton](/liverpool/home-vs-everton/) | 5 - 2 |
-| EPL GW 16 | 07/12/2019 - 22:00 WIB | [Away vs Bournemouth](/liverpool/away-vs-bournemouth/) | 0 - 3 |
-| UCL Group | 11/12/2019 - 00:55 WIB | [Away vs RB Salzburg](/liverpool/away-vs-rb-salzburg/) | 2 - 0 |
-| EPL GW 17 | 14/12/2019 - 19:30 WIB | [Home vs Watford](/liverpool/home-vs-watford/) | 2 -0 |
 | FLC Perempat Final | 18/12/2019 02:45 WIB | [Aston Villa](/liverpool/carabao-vs-aston-villa/) |
 | CWC Semi Final | 19/12/2019 - 00:30 WIB | [Monterey](/liverpool/cwc-vs-monterey/) |
 | CWC Final | 22/12/2019 - n/a | _lawan belum ditentukan_ |
@@ -38,13 +34,31 @@ Postingan ini niatnya hanya untuk menyimpan link streaming pertandingan-pertandi
 
 ## Hasil Sebelumnya:
 
+### EPL GW 17: Home vs Watford
+
+Sabtu, 14 Desember 2019, Kick off 19:30 WIB. Skor akhir 2-0, [catetan](/liverpool/home-vs-watford/).
+
+### Champions League: Away vs RB Salzburg
+
+Tanding 7 Desember 2019 pukul 00:55 WIB. Skor akhir: 0-2, [catetan](/liverpool/away-vs-rb-salzburg/).
+
+> [8 Fakta Tentang Transfer Takumi Minamino](/liverpool/transfer-takumi-minamino-dari-rb-salzburg-ke-liverpool-fc-8-fakta/)
+
+### EPL GW 16: Away vs Bournemouth
+
+Tanding 7 Desember 2019 - 22:00 WIB. Skor akhir: 0-3, [catetan](/liverpool/away-vs-bournemouth/).
+
+### EPL GW 15: Home vs Everton
+
+Match 05 Desember 2019 pukul 03:15 WIB. Skor akhir 5-2, [catetan](/liverpool/home-vs-everton/)
+
 ### EPL GW 14: Home vs Brighton HA
 
-KO 22:00 WIB. [Skor akhir: 2-1](/liverpool/home-vs-brighton-ha/)
+Kick Off 22:00 WIB. Skor akhir: 2-1, baca [catetan](/liverpool/home-vs-brighton-ha/)
 
-### Champions League Group Stage Matchday 5 Liverpool FC vs SC Napoli
+### Champions League: Home vs SC Napoli
 
-Champions League Babak Grup Matchday ke-5 dari 6. [Kick-Off 03:00 WIB Kamis, 28/11/2019](/liverpool/home-vs-sc-napoli/).
+Champions League Grup E Matchday ke-5 dari 6. [Kick-Off 03:00 WIB Kamis, 28/11/2019](/liverpool/home-vs-sc-napoli/).
 
 ### EPL GW 13: Away vs Crystal Pallace
 
@@ -110,23 +124,23 @@ Group E Matchday 2: Liverpool FC vs Red Bull Salzburg. Kamis, 3 Oktober 2019, **
 
 [Skor akhir 1-2](/liverpool/away-vs-chelsea/), LFC tetap di _putcjuk_ meskipun di laga lain **Man. City** memasukkan 8 gol tanpa balas ke gawang **Watford**
 
-### Champions League Matchday 1: Away vs SC Napoli
+### Champions League: Away vs SC Napoli
 
 Group E Matchday 1: SC Napoli vs Liverpool FC. **Hasil: Kalah 0-2**, [catetannya](/liverpool/away-vs-napoli-sc/).
 
 ### EPL GW 5: Home vs Newcastle
 
-[Skor akhir 3-1](/liverpool/home-vs-newcastle/), Liverpool FC tetap di pucuk.
+Skor akhir: 3-1, Liverpool FC tetap di pucuk. Catetan [di sini](/liverpool/home-vs-newcastle/).
 
 ### EPL GW 4: Away vs Burnley
 
-[Skor akhir 0-3](/liverpool/away-vs-burnley/) untuk kemenangan Liverpool.
+Skor akhir: 0-3, untuk kemenangan Liverpool. [Catetane](/liverpool/away-vs-burnley/).
 
 > [Menerawang Starting XI Liverpool 5 Tahun Mendatang](https://catetan.istimiwir.host/sepakbola/liverpool-5-tahun-mendatang-tanpa-salah-mane-dan-van-dijk/){: rel="noopener"}
 
 ### EPL GW 3: Home vs Arsenal
 
-[Skor akhir 3-1]((/liverpool/home-vs-arsenal/) untuk kemenangan Liverpool.
+[Skor akhir 3-1](/liverpool/home-vs-arsenal/) untuk kemenangan Liverpool.
 
 ## Tambahan-tambahan
 
