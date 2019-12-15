@@ -1,6 +1,15 @@
 ---
 title: "Carabao Cup Quarter Final vs Aston Villa"
-excerpt: ""
+excerpt: "FLC Perempat Final Liverpool FC vs Aston Villa. 18 Desember 2019 KO 02:45 WIB"
+ header:
+  image: "https://i2-prod.liverpool.com/incoming/article16681628.ece/ALTERNATES/s810/0_GettyImages-1164740160.jpg"
+  caption: "Rhian Brewster and Ki-Jana Hoever"
 categories: [liverpool]
 tags: [liverpool fc, carabao cup, aston villa]
 ---
+
+{{ page.excerpt }}. Dengan semakin jelasnya squad yang teebang ke Qatar, kemungkinan starting eleven untuk laga perempat final Carabao Cup adalah: Kelleher; Williams, Hoever, Van den Berg, Larouci; Chirivella, Dixon-Bonner, Shaqiri; Elliott, Brewster, Jones.
+
+{% include figure image_path="https://i2-prod.liverpoolecho.co.uk/incoming/article16919538.ece/ALTERNATES/s615b/3_GettyImages-1174620197.jpg" caption="Liverpool boss Jurgen Klopp gives Xherdan Shaqiri instructions on the sideline at Anfield. (Image: Jan Kruger/Getty Images)" %}
+
+Dalam barisan tersebut ada beberapa pemain yang sebetulnya ikut ambil bagian dalam laga melawan Monterey (ditulis tebal) yang sepertinya akan menyusul ke Qatar begitu laga usai.
