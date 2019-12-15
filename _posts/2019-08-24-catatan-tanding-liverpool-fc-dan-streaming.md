@@ -4,11 +4,11 @@ excerpt: "Live Video Stream **Liverpool FC** vs **Aston Villa**. Football League
 header:
  image: "https://cdn.statically.io/img/i2-prod.liverpool.com/incoming/article17041156.ece/ALTERNATES/s810/0_GettyImages-1173868960.jpg"
  caption: "Anfield’s mentality has been transformed."
-categories: [streaming]
+categories: [liverpool]
 tags: [streaming bola, streaming liverpool, rekap liverpool fc]
 redirect_from:
  - /streaming/streaming-m3u8/
- - /liverpool
+ - /liverpool/
  - /streaming/m3u8/
 last_modified_at: 2019-12-15 10:04:00
 ---
