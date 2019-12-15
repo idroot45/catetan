@@ -78,13 +78,9 @@ AFC's goals: L. T. Di Pascua (19'), G. Martinelli (26', 36'), A. Maitland Nilles
 
 {% include video provider="youtube" id="L4ImKDNA8zY" %}
 
-### EPL GW 10 Minggu (27/10/2019) **Liverpool FC** vs Tottenham Hotspurs [H]. **KO 22:30 WIB**.
+### EPL GW 10 Home vs Tottenham Hotspurs
 
-- Gol tim _away_ di babak pertama.
-- Gol balasan Liverpool FC di menit ke-53 babak kedua: **J. Henderson** dan **Mo Salah** (P)
-- Skor Akhir 2-1, unggul di babak ke-dua.
-
-{% include video provider="youtube" id="E-SH2oDT9eQ" %}
+Skor Akhir 2-1, unggul [di babak ke-dua](/liverpool/home-vs-tottenham/).
 
 ### Champions League Group Stage Matchday 3: _Genk_ vs _Liverpool FC_, Sabtu 24/10/2019 Kick-Off 02:00 WIB. Champions League Group E. Skor Akhir: **4-1**
 
@@ -104,13 +100,9 @@ Skor akhir: 2-1, [catetan pertandingan](/liverpool/home-vs-leicester/)
 
 **KO 02:00 WIB**, Kamis, 3 Oktober 2019. [Skor akhir: **4-3**](/liverpool/home-vs-rb-salzburg/).
 
-### EPL GW 7 28 September 2019 **Sheffield Utd. vs Liverpool FC** [A]. **KO 18:30 WIB**. Skor akhir 0-1 untuk tim tandang. Liverpool adem ayem di _putjuk_.
+### EPL GW 7: Away vs Sheffield Utd
 
-[![Wijnaldum](https://www.liverpoolecho.co.uk/incoming/article16998248.ece/ALTERNATES/s510b/0_JS194232247.jpg G. Wijnaldum)](https://www.liverpoolecho.co.uk/incoming/article16998248.ece/ALTERNATES/s810/0_JS194232247.jpg){:title="Georginio Wijnaldum’s goal, courtesy of Dean Henderson’s blunder in the Blades net, was the difference."}
-
-- Tidak tayang di TV Lokal (TVRI) maupun MolaTV, tetapi tayangan ulang bisa dilihat di [Web/App](https://mola.tv/watch?v=vd68968790){: onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Tonton Tayang Ulang" target="_new" rel="nofollow noreferer noopener"}
-- Gol di babak kedua dari tendangan keras **G. Wijnaldum** 70' yang tak mampu ditangkap dengan baik dan lolos dari kolong kaki penjaga gawang.
-- Jadwal streaming/hasil pertandingan pekan ke-7 bisa dilihat [di sini](https://live.istimiwir.host/epl-7)
+[Skor akhir 0-1](/liverpool/away-vs-sheffield-utd/) untuk tim tandang. Liverpool adem ayem di _putjuk_.
 
 ### Football League Cup 3<sup>rd</sup> round: _MK Dons_ vs _Liverpool FC_ [A]. Kamis, 26 September 2019 **KO 01:45 WIB**. Skor akhir 0-2 untuk kemenangan Liverpool FC. _**note:** lebih dikenal sebagai **Carabao Cup**_
 
