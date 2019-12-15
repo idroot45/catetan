@@ -38,18 +38,9 @@ Postingan ini niatnya hanya untuk menyimpan link streaming pertandingan-pertandi
 
 ## Hasil Sebelumnya:
 
-### EPL GW 14 Sabtu (30/11/2019) 
+### EPL GW 14: Home vs Brighton HA
 
-**Liverpool FC** vs **Brighton HA** [H]. **KO 22:00 WIB**
-
-{% include video id="m5yfbTtGEBM" provider="youtube" %}
-
-- Tayang di [mola.tv](#molatv) dan [TVRI](https://tvri.go.id)
-- Liverpool memenangkan seluruh pertandingan dari 7 pertemuan terakhir di semua ajang. Memasukkan 22 gol dan hanya kemasukan 5 gol.
-
-{% include video id="5IhOIm3sJA0" provider="youtube" %}
-
-> With more than a little help from Martin Atkinson blowing the whistle while Adrian clearly wasn't ready, Lewis Dunk was able to roll the ball into the bottom corner, leaving the whole of Anfield utterly bemused, faced with the prospect of clinging on to another slender one-goal advantage, this time with 10 men." _— liverpool.com_
+KO 22:00 WIB. [Skor akhir: 2-1](/liverpool/home-vs-brighton-ha/)
 
 ### Champions League Group Stage Matchday 5 Liverpool FC vs SC Napoli
 
