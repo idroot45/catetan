@@ -56,19 +56,15 @@ KO 22:00 WIB. [Skor akhir 2-1](/liverpool/away-vs-crystal-pallace/).
 
 ### EPL GW 12: Home vs Manchester City
 
-[Skor Akhir: 3-1](/liverpool/home-vs-manchester-city), bisa kena hipotermia ini...
+Skor Akhir: 3-1. [Catetan](/liverpool/home-vs-manchester-city), bisa kena hipotermia ini...
 
-### Champions League Group Stage Matchday 4 Liverpool FC vs Genk
+### Champions League: Home vs Genk
 
-Rabu 05/11/2019 Kick-Off 02:00 WIB. Champions League Group E.
-
-{% include video id="aTYLL-6LWjA" provider="youtube" %}
+Group E Matchday 4. Kick-Off 02:00 WIB [Rabu 5 November 2019](/liverpool/ucl-home-vs-genk/)
 
 ### EPL GW 11 Minggu (02/11/2019) **Aston Villa** vs **Liverpool FC** [A]. **KO 22:00 WIB**.
 
-Skor Akhir: 2-1, brrr... dingiiin...
-
-{% include video id="wZQZrPmX84c" provider="youtube" %}
+Skor Akhir: 2-1, [brrr... dingiiin...](/liverpool/away-vs-aston-villa/)
 
 ### Football League Cup 16 round: _Liverpool FC_ vs Arsenal FC [H]. Kamis, 31 Oktober 2019 **KO 02:30 WIB**.
 
@@ -82,9 +78,9 @@ AFC's goals: L. T. Di Pascua (19'), G. Martinelli (26', 36'), A. Maitland Nilles
 
 Skor Akhir 2-1, unggul [di babak ke-dua](/liverpool/home-vs-tottenham/).
 
-### Champions League Group Stage Matchday 3: _Genk_ vs _Liverpool FC_, Sabtu 24/10/2019 Kick-Off 02:00 WIB. Champions League Group E. Skor Akhir: **4-1**
+### Champions League: Away vs Genk
 
-{% include video provider="youtube" id="WKPG0DiXd_A" %}
+Group E Matchday 3: Genk vs Liverpool FC. [Sabtu, 24 Oktober 2019, KO 02:00 WIB](/liverpool/ucl-away-vs-krc-genk/).
 
 ### EPL GW 9: Away vs Manchester Utd. vs Liverpool FC
 
