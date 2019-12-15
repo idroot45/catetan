@@ -13,20 +13,31 @@ Tren ini seperti yang terjadi pada Game Week 15. Dimana Brighton Hove Albion yan
 Berikut data laga dalam masing-masing Game Week dimaksud:
 
 **Game Week 13:**
+
 - Crystal Pallace (1 - 2) Liverpool
+
 **Game Week 14:**
+
 - Burnley (0 - 2) Crystal Pallace
 - Liverpool (2 - 1) Brighton
+
 **Game Week 15:**
+
 - Arsenal (1 - 2) Brighton
 - Liverpool (5 - 2) Everton
+
 **Game Week 16:**
+
 - Everton (3 - 1) Chelsea
 - Bournemouth (0 - 3) Liverpool
+
 **Game Week 17:**
+
 - Chelsea (0 - 1) Bournemouth
 - Liverpool (2 - 0) Watford
+
 **Game Week 18:**
+
 - Watford (?-?) Man Utd.
 
 Nah, pada helatan Game Week 17, ada Watford yang dikacangi Liverpool FC yang memasukkan gol di separuh akhir babak pertama (menit ke-38) dan menit akhir babak kedua lewat kaki Mohammed Salah.
