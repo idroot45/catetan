@@ -13,3 +13,6 @@ last_modified_at: 2019-12-15 10:33:00
 **Liverpool to face Mexican side Monterrey in Club World Cup semi-final** via [thisisanfield.com](https://www.thisisanfield.com/2019/12/liverpool-to-face-mexican-side-monterrey-in-club-world-cup-semi-final/)
 > Mexican side Monterrey will be Liverpool’s opponents in the FIFA Club World Cup semi-final after they beat Qatari side Al Sadd on Saturday evening.
 
+Pemain Liverpool FC yang masuk line-up Piala Dunia Antar-klub di Qatar: Alisson, Van Dijk, Wijnaldum, Milner, Keita, Firmino, Mane, Salah, Gomez, Adrian, Henderson, Oxlade-Chamberlain, Lallana, Lonergan, Shaqiri, Robertson, Origi, Jones, Alexander-Arnold, Williams. Namun, Wijnaldum diragukan dapat ikut ambil bagian setelah cedera saat melawan Watford. Dejan Lovren juga masih berkutat dengan cidera kala melawan RB Salzburg.
+
+Sementara dari barisan pemain muda, Rhian Brewster dan Harvey Elliot akan tetap tinggal untuk membela Liverpool kala [melawan Aston Villa](/liverpool/carabao-vs-aston-villa/) dalam helatan Carabao Cup. Sedangkan Curtis Jones dan Neco Williams ikut terbang ke Qatar.
