@@ -92,9 +92,9 @@ Ditahan [imbang 1-1](/liverpool/away-vs-manchester/). Tetap memimpin klasemen li
 
 Skor akhir: 2-1, [catetan pertandingan](/liverpool/home-vs-leicester/)
 
-### Champions League Group Stage Matchday 2: Liverpool FC vs Red Bull Salzburg
+### Champions League: Home vs RB Salzburg
 
-**KO 02:00 WIB**, Kamis, 3 Oktober 2019. [Skor akhir: **4-3**](/liverpool/home-vs-rb-salzburg/).
+Group E Matchday 2: Liverpool FC vs Red Bull Salzburg. Kamis, 3 Oktober 2019, **KO 02:00 WIB**. Skor akhir: **4-3** [catetan](/liverpool/home-vs-rb-salzburg/).
 
 ### EPL GW 7: Away vs Sheffield Utd
 
@@ -110,9 +110,9 @@ Skor akhir: 2-1, [catetan pertandingan](/liverpool/home-vs-leicester/)
 
 [Skor akhir 1-2](/liverpool/away-vs-chelsea/), LFC tetap di _putcjuk_ meskipun di laga lain **Man. City** memasukkan 8 gol tanpa balas ke gawang **Watford**
 
-### Champions League Group Stage Matchday 1: SC Napoli vs Liverpool FC
+### Champions League Matchday 1: Away vs SC Napoli
 
-[**Hasil: Kalah 0-2**](/liverpool/away-vs-napoli-sc/).
+Group E Matchday 1: SC Napoli vs Liverpool FC. **Hasil: Kalah 0-2**, [catetannya](/liverpool/away-vs-napoli-sc/).
 
 ### EPL GW 5: Home vs Newcastle
 
