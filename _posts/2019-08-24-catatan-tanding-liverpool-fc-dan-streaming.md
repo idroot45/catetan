@@ -28,7 +28,7 @@ Postingan ini niatnya hanya untuk menyimpan link streaming pertandingan-pertandi
 | UCL Group | 11/12/2019 - 00:55 WIB | [Away vs RB Salzburg](/liverpool/away-vs-rb-salzburg/) | 2 - 0 |
 | EPL GW 17 | 14/12/2019 - 19:30 WIB | [Home vs Watford](/liverpool/home-vs-watford/) | 2 -0 |
 | FLC Perempat Final | 18/12/2019 02:45 WIB | [Aston Villa](/liverpool/carabao-vs-aston-villa/) |
-| CWC Semi Final | 19/12/2019 - 00:30 WIB | [Monterey]()liverpool/cwc-vs-monterey/) |
+| CWC Semi Final | 19/12/2019 - 00:30 WIB | [Monterey](/liverpool/cwc-vs-monterey/) |
 | CWC Final | 22/12/2019 - n/a | _lawan belum ditentukan_ |
 | EPL GW 18 | **Menyesuaikan** | Away vs West Ham |
 | EPL GW 19 | 27/12/2019 - 03:00 WIB | Away vs Leicester |
