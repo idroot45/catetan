@@ -9,7 +9,7 @@ tags: [liverpool fc, carabao cup, aston villa]
 last_modified_at: 2019-12-15 23:58:00
 ---
 
-{{ page.excerpt }}. Dengan semakin jelasnya squad yang teebang ke Qatar, kemungkinan starting eleven untuk laga perempat final Carabao Cup adalah: Kelleher; Williams, Hoever, Van den Berg, Larouci; Chirivella, Dixon-Bonner, Shaqiri; Elliott, Brewster, Jones.
+{{ page.excerpt }}. Dengan semakin jelasnya squad yang teebang ke Qatar, kemungkinan starting eleven untuk laga perempat final Carabao Cup adalah: **Kelleher**; **Williams**, Hoever, Van den Berg, Larouci; Chirivella, Dixon-Bonner, **Shaqiri**; **Elliott**, **Brewster**, **Jones**.
 
 {% include figure image_path="https://i2-prod.liverpoolecho.co.uk/incoming/article16919538.ece/ALTERNATES/s615b/3_GettyImages-1174620197.jpg" caption="Liverpool boss Jurgen Klopp gives Xherdan Shaqiri instructions on the sideline at Anfield. (Image: Jan Kruger/Getty Images)" %}
 
