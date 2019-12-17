@@ -3,7 +3,7 @@ title: "Liverpool FC vs Aston Villa - LFCTV"
 permalink: /lfctv
 layout: stream
 header:
- og_image: "/assets/images/lfctv.png"
+ og_image: "/assets/images/lfctv.jpeg"
 video_id: "cdn10.dailysport.pw/11/1"
 poster: "/assets/images/lfctv.png"
 sitemap: false
