@@ -19,3 +19,5 @@ last_modified_at: 2019-12-15 23:58:00
 {% include figure image_path="https://i2-prod.liverpoolecho.co.uk/incoming/article16919538.ece/ALTERNATES/s615b/3_GettyImages-1174620197.jpg" caption="Liverpool boss Jurgen Klopp gives Xherdan Shaqiri instructions on the sideline at Anfield. (Image: Jan Kruger/Getty Images)" %}
 
 Dalam barisan tersebut ada beberapa pemain yang sebetulnya ikut ambil bagian dalam laga melawan Monterey (ditulis tebal) yang sepertinya akan menyusul ke Qatar begitu laga usai.
+
+{% include figure caption="Starting XI Liverpool FC" image_path="https://cdn.statically.io/img/www.catetan.pw/assets/images/FB_IMG_1576608350828.jpg" %}
