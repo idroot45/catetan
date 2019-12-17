@@ -24,6 +24,9 @@ Tantangan sang burung kecil tersebut tergolong sangat berat, karena di sisi lain
 | [download](https://play.google.com/store/apps/details?id=com.OsOs.Grayland.Premium){:.btn .btn--success} |
 | [download lite](https://play.google.com/store/apps/details?id=com.OsOs.Grayland){:.btn .btn--info} |
 
+Mau yang premium tapi gratisan? Unduh [dari sini](https://mi.knoacc.org/dl/drive?id=Xxx&name=graylanPrem.apk&size=49MB){: target="_blank" rel="nofollow noreferrer noopener"} saja.
+{: .notice .notice--success}
+
 ### 4. BLOOD COPTER
 
 {% include video provider="youtube" id="O8CZB__yNTo" %}
