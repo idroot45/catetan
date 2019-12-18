@@ -22,6 +22,6 @@ Ini bedanya dengan beberapa smartphone gaming lain. Yang masih terkesan _nanggun
 
 Dan hal inilah yang membuatnya unggul dari sekian banyak smartphone gaming yang pernah ditawarkan — terlebih harga resminya juga sangat bersaing yaitu 8,5 jutaan untuk varian 8GB RAM / 128GB storage.
 
-{% includes figure caption="Inilah HP Gaming Terbaik 2019 / 2020" image_path="https://cdn.statically.io/img/www.catetan.pw/assets/images/review-rog-phone-indonesia-01.jpeg" %}
+{% include figure caption="Inilah HP Gaming Terbaik 2019 / 2020" image_path="https://cdn.statically.io/img/www.catetan.pw/assets/images/review-rog-phone-indonesia-01.jpeg" %}
 
 Bagaimana kalau menurut kalian, apakah ASUS ROG Phone II layak disebut sebagai HP gaming terbaik saat ini.? Atau mungkin kamu punya jagoan lainnya.? Langsung saja sampaikan di kolom komentar yang disediakan.
