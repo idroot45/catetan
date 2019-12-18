@@ -1,5 +1,5 @@
 ---
-title: "[LIVE] Semifinal Piala Dunia Antar-klub: CF Monterey vs Liverpool FC"
+title: "Semifinal Piala Dunia Antar-klub: CF Monterey 1 - 2 Liverpool FC"
 excerpt: "Liverpool’s starting line-up for their FIFA Club World Cup semi-final with Monterrey is in"
 header:
  video:
@@ -90,3 +90,11 @@ And Monterrey have equalized! Alisson makes a hair-trigger save of a Gallardo sh
 **Half-time:** Liverpool 1-1 Monterrey
 An entertaining opening 45 minutes with brisk two-way action and plenty of chances on both ends. Liverpool are winning the possession battle while Monterrey have generated the better opportunities, showing they can take a punch with their rapid response to Keita’s early opening. Plenty more to come from Khalifa International Stadium!
 
+**2nd half**
+
+**GOAL!** Liverpool 2-1 Monterrey (Firmino, 90+1min)
+Salah beats two defenders down the right side, fends them off long enough to pick off the runner Alexander-Arnold, who finds Firmino practically on the goal line for the nifty finish. That should be the winner!
+
+## Result
+
+Seperti biasa, Liverpool FC menang di menit-menit akhir. 😁 
