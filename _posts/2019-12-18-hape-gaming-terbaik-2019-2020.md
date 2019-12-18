@@ -18,7 +18,7 @@ Rupanya ASUS mengusung pengalaman divisi ROG PC mereka ke ROG Phone, sehingga me
 
 Adanya fitur _Armoury Crate_ misalnya, membuat kita bisa mengatur CPU speed, temperatur, dan banyak parameter lain dalam rangka menjaga ponsel ini tetap _ngebut_ saat dipakai untuk bermain game. Atau adanya _double charging port_ — dimana satunya ada di bagian bawah, yang berguna ketika ponsel sedang dimainkan dalam posisi _landscape_, memungkinkan kita tetap bisa memainkan game tanpa terganggu kabel charger ketika sedang main sambil mengisi baterai. Belum lagi layarnya yang sudah AMOLED 120Hz — menjadikan _gaming experience_ lebih mulus. Bahkan frekuensi 120Hz ini membuat _experience_ ROG Phone II ketika digunakan sehari-hari terasa mulus, baik itu scroll, browsing, dll.
 
-Ini bedanya dengan beberapa smartphone gaming lain. Yang masih terkesan _nanggung_ jika dibandingkan dengan **ASUS ROG Phone II**. Misalnya, ada yang specs-nya tinggi — tapi baterai malah pas-pasan. Atau _specs_ tinggi, dan kapasitas baterai sudah besar, tapi tak dibekali _tool_ optimasi performa gaming sedetail _Armoury Crate_ di ROG Phone II.
+Ini bedanya dengan beberapa smartphone gaming lain. Yang masih terkesan _nanggung_ jika dibandingkan dengan **ASUS ROG Phone II**. Misalnya, ada yang specs-nya tinggi — tapi baterai malah pas-pasan. Atau _specs_ tinggi, dan kapasitas baterai sudah besar, tapi tak dibekali [_tool_ optimasi performa gaming](/aplikasi/gamers-gltool-pro-with-game-turbo-game-tuner/) sedetail _Armoury Crate_ di ROG Phone II.
 
 Dan hal inilah yang membuatnya unggul dari sekian banyak smartphone gaming yang pernah ditawarkan — terlebih harga resminya juga sangat bersaing yaitu 8,5 jutaan untuk varian 8GB RAM / 128GB storage.
 
