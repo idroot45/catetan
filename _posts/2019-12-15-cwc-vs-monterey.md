@@ -29,4 +29,7 @@ Sementara dari barisan pemain muda, ~Rhian Brewster~ dan Harvey Elliot akan teta
 ## Pre-match
 
 **CR Flamengo** lolos menuju final setelah kalahkan **Al-Hilal** via [thisisanfield.com](https://www.thisisanfield.com/2019/12/flamengo-book-place-in-club-world-cup-final-despite-tough-semi-final/)
+> Flamengo have a host of familiar faces in their squad, including ex-Chelsea left-back **Filipe Luis**, former Bayern Munich man **Rafinha**, on-loan Inter Milan striker **Gabriel Barbosa**—otherwise known as Gabigol—and veteran midfielder **Diego**, who Klopp will be well aware of from his spells with Werder Bremen and Wolfsburg.
 
+Pemain yang menyusul terbang ke Qatar: **Seep Van den Berg**, **Ki-Jana Hoever**, dan **Caomhin Kelleher**. **Harvey Elliot** tetap tinggal karena cidera. via [thisisanfield.com](https://www.thisisanfield.com/2019/12/young-liverpool-trio-head-to-qatar-but-harvey-elliott-misses-out/)
+> The young trio, of course, won’t be involved in the semi-final, but will be part of the training group and could be involved should Liverpool lose against Monterrey and therefore face a third-place play-off on Saturday.
