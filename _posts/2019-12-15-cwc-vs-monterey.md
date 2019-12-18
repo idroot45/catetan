@@ -2,14 +2,11 @@
 title: "Semifinal Piala Dunia Antar-klub: CF Monterey 1 - 2 Liverpool FC"
 excerpt: "Liverpool’s starting line-up for their FIFA Club World Cup semi-final with Monterrey is in"
 header:
- video:
-  provider: internal
-  id: lfctv2
-# image: "/assets/images/4817.jpg"
-# caption: "To Doha! (Karim Jaafar/AFP via Getty Images)"
+ image: "/assets/images/4817.jpg"
+ caption: "To Doha! (Karim Jaafar/AFP via Getty Images)"
  og_image: "/assets/images/4817.jpg"
  teaser: https://cdn.statically.io/img/www.thisisanfield.com/wp-content/uploads/P2019-12-14-FIFACWC_Monterrey_Al_Sadd-3-324x235.jpg
-last_modified_at: 2019-12-19 01:36:00
+last_modified_at: 2019-12-19 02:46:00
 ---
 **Liverpool FC** lawan klub asal Mexico dalam ajang **Piala Dunia Antar-klub** (CWC) dalam laga semi-final yang di gelar di Qatar. Sementara di pertandingan lain ada **CR Flamengo** melawan **Al-Hilal**
 
