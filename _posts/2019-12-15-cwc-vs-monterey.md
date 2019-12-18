@@ -38,3 +38,14 @@ Sementara dari barisan pemain muda, ~Rhian Brewster~ dan Harvey Elliot akan teta
 
 Pemain yang menyusul terbang ke Qatar: **Seep Van den Berg**, **Ki-Jana Hoever**, dan **Caomhin Kelleher**. **Harvey Elliot** tetap tinggal karena cidera. via [thisisanfield.com](https://www.thisisanfield.com/2019/12/young-liverpool-trio-head-to-qatar-but-harvey-elliott-misses-out/)
 > The young trio, of course, won’t be involved in the semi-final, but will be part of the training group and could be involved should Liverpool lose against Monterrey and therefore face a third-place play-off on Saturday.
+
+### Starting line-up
+
+Liverpool’s starting line-up for their FIFA Club World Cup semi-final with Monterrey is in and sees Divock Origi leading the attack alongside Mohamed Salah and Xherdan Shaqiri, but **Virgil van Dijk misses out due to illness**.
+
+{% include figure caption="Virgil van Dijk misses out due to illness (image: LiverpoolFC twitter)" image_path="https://pbs.twimg.com/ad_img/1207327380974510081/Coe18wMp?format=jpg&name=large" %}
+
+Liverpool: Alisson, Milner, Gomez, Henderson, Robertson, Lallana, Keita, Oxlade-Chamberlain, Shaqiri, Salah, Origi.
+
+Subs: Adrian, Lonergan, Firmino, Mane, Jones, Alexander-Arnold, Williams.
+
