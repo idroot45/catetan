@@ -1,7 +1,7 @@
 ---
 title: "CF Monterey vs Liverpool FC - LFCTV"
-permalink: /lfctv2
-layout: stream
+permalink: "/lfctv2"
+layout: "stream"
 header:
  og_image: "https://cdn.statically.io/img/www.catetan.pw/assets/images/lfctv.jpeg"
 video_id: "cdn10.dailysport.pw/live/3/3"
