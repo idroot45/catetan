@@ -1,13 +1,13 @@
 ---
-title: "Liverpool FC vs Aston Villa - LFCTV"
+title: "CF Monterey vs Liverpool FC - LFCTV"
 permalink: /lfctv
 layout: stream
 header:
- og_image: "/assets/images/lfctv.jpeg"
-video_id: "cdn10.dailysport.pw/11/1"
+ og_image: "https://cdn.statically.io/img/www.catetan.pw/assets/images/lfctv.jpeg"
+video_id: "cdn10.dailysport.pw/13/3"
 poster: "/assets/images/lfctv.jpeg"
 sitemap: false
 ---
-https://cdn10.dailysport.pw/14/4.m3u8
-https://cdn10.dailysport.pw/11/1.m3u8
+cdn10.dailysport.pw/14/4
+cdn10.dailysport.pw/11/1
 
