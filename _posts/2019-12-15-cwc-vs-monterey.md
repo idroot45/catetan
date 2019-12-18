@@ -2,11 +2,11 @@
 title: "Semifinal Piala Dunia Antar-klub: CF Monterey vs Liverpool FC"
 excerpt: "Liverpool’s starting line-up for their FIFA Club World Cup semi-final with Monterrey is in"
 header:
-# video:
-#  provider: internal
-#  id: lfctv
- image: "/assets/images/4817.jpg"
- caption: "To Doha! (Karim Jaafar/AFP via Getty Images)"
+ video:
+  provider: internal
+  id: lfctv
+# image: "/assets/images/4817.jpg"
+# caption: "To Doha! (Karim Jaafar/AFP via Getty Images)"
  og_image: "/assets/images/4817.jpg"
  teaser: https://cdn.statically.io/img/www.thisisanfield.com/wp-content/uploads/P2019-12-14-FIFACWC_Monterrey_Al_Sadd-3-324x235.jpg
 last_modified_at: 2019-12-19 00:12:00
