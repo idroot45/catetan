@@ -11,7 +11,7 @@ header:
  caption: "Rhian Brewster and Ki-Jana Hoever"
 categories: [liverpool]
 tags: [liverpool fc, carabao cup, aston villa]
-last_modified_at: 2019-12-15 23:58:00
+last_modified_at: 2019-12-18 10:21:00
 ---
 
 {{ page.excerpt }}. Dengan semakin jelasnya squad yang teebang ke Qatar, kemungkinan starting eleven untuk laga perempat final Carabao Cup adalah: **Kelleher**; **Williams**, Hoever, Van den Berg, Larouci; Chirivella, Dixon-Bonner, **Shaqiri**; **Elliott**, **Brewster**, **Jones**.
