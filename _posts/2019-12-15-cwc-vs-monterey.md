@@ -9,7 +9,7 @@ header:
 # caption: "To Doha! (Karim Jaafar/AFP via Getty Images)"
  og_image: "/assets/images/4817.jpg"
  teaser: https://cdn.statically.io/img/www.thisisanfield.com/wp-content/uploads/P2019-12-14-FIFACWC_Monterrey_Al_Sadd-3-324x235.jpg
-last_modified_at: 2019-12-19 00:12:00
+last_modified_at: 2019-12-19 01:36:00
 ---
 **Liverpool FC** lawan klub asal Mexico dalam ajang **Piala Dunia Antar-klub** (CWC) dalam laga semi-final yang di gelar di Qatar. Sementara di pertandingan lain ada **CR Flamengo** melawan **Al-Hilal**
 
@@ -85,7 +85,7 @@ Milner plays to Salah’s feet and the Liverpool star divides the defense with a
 
 And Monterrey have equalized! Alisson makes a hair-trigger save of a Gallardo shot after poor clearance of a free kick, but Funes Mori is perfectly positioned to tap in the rebound. Game on!
 
-{% include figure caption="Mohamed Salah and Nicolas Sanchez battle for the ball. Photograph: Adam Davy/PA" image_path="/assets/images/3500-.jpg" %}
+{% include figure caption="Mohamed Salah and Nicolas Sanchez battle for the ball. (Adam Davy/PA)" image_path="/assets/images/3500-.jpg" %}
 
 **Half-time:** Liverpool 1-1 Monterrey
 An entertaining opening 45 minutes with brisk two-way action and plenty of chances on both ends. Liverpool are winning the possession battle while Monterrey have generated the better opportunities, showing they can take a punch with their rapid response to Keita’s early opening. Plenty more to come from Khalifa International Stadium!
