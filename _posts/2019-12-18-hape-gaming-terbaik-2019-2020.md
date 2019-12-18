@@ -2,6 +2,7 @@
 title: "Inilah HP Gaming Terbaik 2019 / 2020"
 excerpt: "Ada beberapa alasan kenapa hape gaming ini terpilih sebagai smartphone gaming terbaik saat ini."
 header:
+ teaser: "https://cdn.statically.io/img/www.catetan.pw/assets/images/review-rog-phone-indonesia-01.jpeg"
  og_image: https://cdn.statically.io/img/i.ytimg.com/vi/lzsba6HARZY/maxresdefault.jpg
  video:
   provider: youtube
