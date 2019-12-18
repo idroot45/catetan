@@ -6,14 +6,14 @@ header:
  video:
   provider: youtube
   id: lzsba6HARZY
-categories: [android]
+categories: [ripiew]
 tags: [ponsel gaming, hape gaming terbaik, asus rog ii]
 ---
-Dulu, kalau membahas _gaming_, tentu identik dengan _PC gaming_. Tetapi sekarang kalau bicara _gaming_, tak lengkap rasanya jika tak mengulas HP gaming atau _smartphone gaming_. Untuk kalian yang penasaran apa HP Gaming Terbaik 2019 / 2020, ASUS ROG Phone II adalah jawabannya. Baru dirilis resmi di Indonesia beberapa minggu yang lalu, dan saya percaya bahwa ASUS ROG Phone II bakal tetap bertengger di puncak smartphone gaming terbaik sampai awal atau pertengahan 2020 nanti.
+Dulu, kalau membahas _[gaming](/game/rekomendasi-5-game-offline-android-terbaik-akhir-tahun-2019/)_, tentu identik dengan _PC gaming_. Tetapi sekarang kalau bicara _gaming_, tak lengkap rasanya jika tak mengulas HP gaming atau _smartphone gaming_. Untuk kalian yang penasaran apa HP Gaming Terbaik 2019 / 2020, ASUS ROG Phone II adalah jawabannya. Baru dirilis resmi di Indonesia beberapa minggu yang lalu, dan saya percaya bahwa ASUS ROG Phone II bakal tetap bertengger di puncak smartphone gaming terbaik sampai awal atau pertengahan 2020 nanti.
 
 Kenapa bukan hape gaming yang lain? Ada beberapa alasan kenapa ASUS ROG Phone II menjadi pilihan sebagai smartphone gaming terbaik saat ini. Kamu bisa melihat semua detailnya di video berikut di atas.
 
-Rupanya ASUS mengusung pengalaman divisi ROG PC mereka ke ROG Phone, sehingga mereka benar-benar tahu bahwa smartphone gaming bukan sekedar smartphone dengan specs tinggi, melainkan smartphone yang benar-benar **secara total didesain untuk gaming**. Jadi di ASUS ROG Phone II, secara fungsional desain, estetika desain, hardware, dan juga platform — terasa sekali kalau semuanya memang dirancang untuk gaming.
+Rupanya ASUS mengusung pengalaman divisi ROG PC mereka ke ROG Phone, sehingga mereka benar-benar tahu bahwa smartphone gaming bukan [sekedar smartphone](/ripiew/redmi-note-8-pro-layak-beli-asal-tidak-gaib/) dengan specs tinggi, melainkan smartphone yang benar-benar **secara total didesain untuk gaming**. Jadi di ASUS ROG Phone II, secara fungsional desain, estetika desain, hardware, dan juga platform — terasa sekali kalau semuanya memang dirancang untuk gaming.
 
 Adanya fitur _Armoury Crate_ misalnya, membuat kita bisa mengatur CPU speed, temperatur, dan banyak parameter lain dalam rangka menjaga ponsel ini tetap _ngebut_ saat dipakai untuk bermain game. Atau adanya _double charging port_ — dimana satunya ada di bagian bawah, yang berguna ketika ponsel sedang dimainkan dalam posisi _landscape_, memungkinkan kita tetap bisa memainkan game tanpa terganggu kabel charger ketika sedang main sambil mengisi baterai. Belum lagi layarnya yang sudah AMOLED 120Hz — menjadikan _gaming experience_ lebih mulus. Bahkan frekuensi 120Hz ini membuat _experience_ ROG Phone II ketika digunakan sehari-hari terasa mulus, baik itu scroll, browsing, dll.
 
