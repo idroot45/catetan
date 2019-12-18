@@ -1,6 +1,8 @@
 ---
 title: "Semifinal Piala Dunia Antar-klub: CF Monterey 1 - 2 Liverpool FC"
 excerpt: "Liverpool’s starting line-up for their FIFA Club World Cup semi-final with Monterrey is in"
+categories: [liverpool]
+tags: [cf monterey, liverpool fc, club world cup]
 header:
  image: "/assets/images/4044.jpg"
  caption: "Firmino scores Liverpool’s winner. (Andrew Powell/Liverpool FC via Getty Images)"
