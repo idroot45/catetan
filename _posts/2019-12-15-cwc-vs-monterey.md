@@ -2,9 +2,9 @@
 title: "Semifinal Piala Dunia Antar-klub: CF Monterey vs Liverpool FC"
 excerpt: "Liverpool dapat lawan klub asal Mexico dalam ajang Piala Dunia Antar-klub dalam laga semi-final yang di gelar di Qatar."
 header:
- video:
-  provider: internal
-  id: lfctv
+# video:
+#  provider: internal
+#  id: lfctv
  og_image: "https://pbs.twimg.com/ad_img/1207327380974510081/Coe18wMp?format=jpg&name=large"
  teaser: https://cdn.statically.io/img/www.thisisanfield.com/wp-content/uploads/P2019-12-14-FIFACWC_Monterrey_Al_Sadd-3-324x235.jpg
 last_modified_at: 2019-12-18 23:18:00
