@@ -4,7 +4,7 @@ permalink: /lfctv
 layout: stream
 header:
  og_image: "https://cdn.statically.io/img/www.catetan.pw/assets/images/lfctv.jpeg"
-video_id: "cdn10.dailysport.pw/13/3"
+video_id: "cdn10.dailysport.pw/3/3"
 poster: "/assets/images/lfctv.jpeg"
 sitemap: false
 ---
