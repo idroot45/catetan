@@ -90,8 +90,11 @@ An entertaining opening 45 minutes with brisk two-way action and plenty of chanc
 **2nd half**
 
 **Subtitution** Mane cames on for Shaqiri (68min)ahead of a corner for the Mexican side.
+
 **Chance** A good chance for Liverpool as Milner plays it in from the right side to Origi, but he’s swarmed by defenders can’t direct it squarely on target. The ball actually deflects off Mane in the end, but either way it’s out for a goal kick. 
+
 **Subtitution** Alexander-Arnold enters for Milner (75min), Liverpool’s second change.
+
 **Subtitution** We’re back up and running and Klopp will make his final substitution, inserting Firmino for Origi (85min).
 
 **GOAL!** Liverpool 2-1 Monterrey (Firmino, 90+1min)
@@ -99,6 +102,7 @@ An entertaining opening 45 minutes with brisk two-way action and plenty of chanc
 Salah beats two defenders down the right side, fends them off long enough to pick off the runner Alexander-Arnold, who finds Firmino practically on the goal line for the nifty finish. That should be the winner!
 
 **Full-time:** Liverpool 2-1 Monterrey
+
 There’s the whistle and Liverpool are through to the Club World Cup final for the first time since 2005 thanks to a late winner by the super sub Firmino! The European Champions advance to [Saturday’s final against Flamengo](/liverpool/cwc-vs-flamengo/), who rallied to defeat Saudi side Al-Hilal in yesterday’s first semi-final.
 
 ***
