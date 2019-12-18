@@ -12,11 +12,6 @@ last_modified_at: 2019-12-19 02:53:00
 
 **CF Monterrey** vs **Liverpool FC** takes place at the **Khalifa International Stadium** on Wednesday, with a 5.30pm (GMT) kick off.
 
-{% include video provider="youtube" id="pYmYO0t-g3w" %}
-
-Seperti biasa, streaming hanya tersedia dalam kualitas HD dan bisa diakses 5 menit sebelum kick-off. Sementara itu, nikmati video ofisial **Inside Qatar** di atas 😉
-{:.notice .notice--info}
-
 ## Artikel untuk dibaca:
 
 **Liverpool to face Monterrey in Club World Cup semi-final** via [liverpoolfc.com](https://www.liverpoolfc.com/news/first-team/378061-liverpool-to-face-monterrey-in-club-world-cup-semi-final)
