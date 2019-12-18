@@ -72,6 +72,21 @@ Subs: Lonergan, Adrian, Alexander-Arnold, Williams, Jones, Firmino, Mane
 
 _via theguardian_
 
-## LIVE
+## LIVE Stream
 
-jika video tak muncul, [klik disini](http://www.catetan.pw/lfctv2)
+**Kick-Off**
+
+**GOAL!** Liverpool 1-0 Monterrey (Keita, 11 min)
+{% include figure caption="Naby Keita scores Liverpool’s first goal. (Kai Pfaffenbach/Reuters)" image_path="/assets/images/3500.jpg" %}
+Milner plays to Salah’s feet and the Liverpool star divides the defense with a gorgeous reverse pass behind Sanchez and Montes. An excellent finish by Keita makes it 1-0.
+
+**GOAL!** Liverpool 1-1 Monterrey (Funes Mori, 14 min)
+{% include figure caption="Funes Mori of Monterrey scores. (Mike Hewitt - FIFA/FIFA via Getty Images)" image_path="/assets/images/2937.jpg" %}
+
+And Monterrey have equalized! Alisson makes a hair-trigger save of a Gallardo shot after poor clearance of a free kick, but Funes Mori is perfectly positioned to tap in the rebound. Game on!
+
+{% include figure caption="Mohamed Salah and Nicolas Sanchez battle for the ball. Photograph: Adam Davy/PA" image_path="/assets/images/3500-.jpg" %}
+
+**Half-time:** Liverpool 1-1 Monterrey
+An entertaining opening 45 minutes with brisk two-way action and plenty of chances on both ends. Liverpool are winning the possession battle while Monterrey have generated the better opportunities, showing they can take a punch with their rapid response to Keita’s early opening. Plenty more to come from Khalifa International Stadium!
+
