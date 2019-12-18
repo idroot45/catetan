@@ -4,6 +4,9 @@ excerpt: "The European Champions advance to Saturday’s final against Flamengo,
 categories: [liverpool]
 tags: [liverpool fc, cr flamengo, club world cup]
 ---
+{{ page.excerpt }}
 
-Seperti biasa, streaming hanya tersedia dalam kualitas HD dan bisa diakses 5 menit sebelum kick-off. Sementara itu, nikmati video Highlight [CF Monterey vs Liverpool FC](/liverpool/cwc-vs-monterey/) di atas 😉
+{% include video provider="youtube" id="pYmYO0t-g3w" %}
+
+Seperti biasa, streaming hanya tersedia dalam kualitas HD dan bisa diakses 5 menit sebelum kick-off. Sementara itu, nikmati video ofisial **Inside Qatar** di atas 😉
 {:.notice .notice--info}
