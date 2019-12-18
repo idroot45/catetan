@@ -4,7 +4,7 @@ excerpt: "Liverpool’s starting line-up for their FIFA Club World Cup semi-fina
 header:
  video:
   provider: internal
-  id: lfctv
+  id: lfctv2
 # image: "/assets/images/4817.jpg"
 # caption: "To Doha! (Karim Jaafar/AFP via Getty Images)"
  og_image: "/assets/images/4817.jpg"
