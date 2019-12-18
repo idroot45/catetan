@@ -34,7 +34,7 @@ facebook:
  publisher: https://www.facebook.com/KnoAcc
 # Images
 teaser: https://cdn.statically.io/img/www.catetan.pw/assets/images/teaser.gif
-og_image: https://cdn.statically.io/img/www.catetan.pw/assets/images/catetan.gif
+image: https://cdn.statically.io/img/www.catetan.pw/assets/images/catetan.gif
 logo: https://cdn.statically.io/img/www.catetan.pw/assets/images/photo45.jpg
 #Search
 search: true
