@@ -49,5 +49,25 @@ Liverpool: Alisson, Milner, Gomez, Henderson, Robertson, Lallana, Keita, Oxlade-
 
 Subs: Adrian, Lonergan, Firmino, Mane, Jones, Alexander-Arnold, Williams.
 
+_via twitter_
+
 {% include figure caption="To Doha! (Karim Jaafar/AFP via Getty Images)" image_path="/assets/images/4817.jpg" %}
+
+## The teams!
+
+Jürgen Klopp has made five changes from the side that beat Watford on Saturday to maintain their 10-point lead atop the Premier League table. The big change comes in the heart of the defense where skipper Jordan Henderson will pair with Joe Gomez. Adam Lallana, Naby Keita and Alex Oxlade-Chamberlain will come into the midfield while James Milner takes over at right back with Robertson moving over to the left side.
+
+**Monterrey**
+
+XI: Barovero, Sanchez, Vangioni, Medina, Montes, Pabon, Ortiz, Pizarro, Gallardo, Carlos Rodriguez, Funes Mori
+
+Subs: Cardenas, Resendez, Basanta, Layun, Gutierrez, Vasquez, Arturo Gonzalez, Meza, Jonathan Gonzalez, MejIa, Jonathan Urretaviscaya, Zaldivar
+
+**Liverpool**
+
+XI: Alisson, Milner, Henderson, Robertson, Gomez, Lallana, Oxlade-Chamberlain, Keita, Salah, Shaqiri, Origi
+
+Subs: Lonergan, Adrian, Alexander-Arnold, Williams, Jones, Firmino, Mane
+
+_via theguardian_
 
