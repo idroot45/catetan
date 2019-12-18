@@ -6,7 +6,7 @@ header:
 #  id: lfctv
 #  provider: internal
  image: "https://cdn.statically.io/img/i2-prod.liverpool.com/incoming/article16681628.ece/ALTERNATES/s810/0_GettyImages-1164740160.jpg"
- og_image: "https://cdn.statically.io/img/i2-prod.liverpoolecho.co.uk/incoming/article16919538.ece/ALTERNATES/s615b/3_GettyImages-1174620197.jpg"
+ og_image: "https://cdn.statically.io/img/i2-prod.liverpoolecho.co.uk/incoming/article17437762.ece/ALTERNATES/s810/0_GettyImages-1194535840.jpg"
  teaser: "https://cdn.statically.io/img/i2-prod.liverpool.com/incoming/article16681628.ece/ALTERNATES/s540/0_GettyImages-1164740160.jpg"
  caption: "Rhian Brewster and Ki-Jana Hoever"
 categories: [liverpool]
