@@ -7,7 +7,7 @@ header:
   id: pYmYO0t-g3w
  og_image: https://cdn.statically.io/img/www.thisisanfield.com/wp-content/uploads/P2019-12-14-FIFACWC_Monterrey_Al_Sadd-3.jpg
  teaser: https://cdn.statically.io/img/www.thisisanfield.com/wp-content/uploads/P2019-12-14-FIFACWC_Monterrey_Al_Sadd-3-324x235.jpg
-last_modified_at: 2019-12-15 10:33:00
+last_modified_at: 2019-12-18 20:33:00
 ---
 {{ page.excerpt }} Sementara di pertandingan lain ada [CR Flamengo melawan Al-Hilal](/streaming/cwc-flamengo-vs-al-hilal/)
 
