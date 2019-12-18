@@ -32,7 +32,7 @@ Make no mistake. The opening quarter of this game, this once-in-a-lifetime event
 
 It would have been easy for Neil Critchley to tell his players to simply go on to the pitch and enjoy it. That would have been one of the messages, undoubtedly. But there was also a clear instruction to do what they had been doing, whether at the Academy at Kirkby or Melwood with the senior side; to play with confidence, with off-the-ball movement, with tight first touches, with an identity.
 
-{% include figure caption="Liverpool's youngsters impressed early on against Aston Villa (Image: Michael Regan/Getty Images)" image_path="https://i2-prod.liverpoolecho.co.uk/incoming/article17437762.ece/ALTERNATES/s810/0_GettyImages-1194535840.jpg" %}
+{% include figure caption="Liverpool's youngsters impressed early on against Aston Villa (Image: Michael Regan/Getty Images)" image_path="https://cdn.staticalli.io/img/i2-prod.liverpoolecho.co.uk/incoming/article17437762.ece/ALTERNATES/s810/0_GettyImages-1194535840.jpg" %}
 
 In those first 14 minutes, the youngest-ever Liverpool side in history did that. They were the better side against Premier League Aston Villa, one with eight full internationals within it, even after 10 changes by coach Dean Smith. The ball popped from instep-to-instep; spaces were found in midfield, forward runs troubled the home side's defence. Elliott, in particular, was problematic for anybody in claret and blue.
 
@@ -43,7 +43,6 @@ There was always the danger of what would happen next if that question died down
 But there is no shame in that for Liverpool. They did all they could, and all that should be expected of them: a clear understanding of what it means to play for Liverpool, and the sort of football asked of anybody, regardless of age, who represents the shirt.
 
 {% include figure caption="Harvey Elliott was Liverpool's standout performer (Image: Michael Regan/Getty Images)" 
-image_path="https://i2-prod.liverpoolecho.co.uk/incoming/article17437873.ece/ALTERNATES/s810/0_GettyImages-1194547021.jpg" %}
+image_path="https://cdn.staticalli.io/img/i2-prod.liverpoolecho.co.uk/incoming/article17437873.ece/ALTERNATES/s810/0_GettyImages-1194547021.jpg" %}
 
 Nobody will want to paint this as a moral victory for Liverpool, although the first half statistics were remarkable. Critchley's young side finished the opening 45 with 54% possession, five corners and five more shots than Villa. Yet for those 14 minutes, Liverpool showed why so much is going right at the club right now. Even after a 5-0 defeat, Klopp should be afforded a smile in Qatar.
-
