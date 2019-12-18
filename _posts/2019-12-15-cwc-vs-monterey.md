@@ -5,12 +5,13 @@ header:
 # video:
 #  provider: internal
 #  id: lfctv
- og_image: "https://pbs.twimg.com/ad_img/1207327380974510081/Coe18wMp?format=jpg&name=large"
+ image: "/assets/images/4817.jpg"
+ caption: "To Doha! (Karim Jaafar/AFP via Getty Images)"
+ og_image: "/assets/images/4817.jpg"
  teaser: https://cdn.statically.io/img/www.thisisanfield.com/wp-content/uploads/P2019-12-14-FIFACWC_Monterrey_Al_Sadd-3-324x235.jpg
 last_modified_at: 2019-12-19 00:12:00
 ---
 **Liverpool FC** lawan klub asal Mexico dalam ajang **Piala Dunia Antar-klub** (CWC) dalam laga semi-final yang di gelar di Qatar. Sementara di pertandingan lain ada **CR Flamengo** melawan **Al-Hilal**
-
 
 **CF Monterrey** vs **Liverpool FC** takes place at the **Khalifa International Stadium** on Wednesday, with a 5.30pm (GMT) kick off.
 
