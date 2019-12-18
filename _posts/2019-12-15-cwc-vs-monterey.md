@@ -1,5 +1,5 @@
 ---
-title: "Semifinal Piala Dunia Antar-klub: CF Monterey vs Liverpool FC"
+title: "[LIVE] Semifinal Piala Dunia Antar-klub: CF Monterey vs Liverpool FC"
 excerpt: "Liverpool’s starting line-up for their FIFA Club World Cup semi-final with Monterrey is in"
 header:
  video:
@@ -72,3 +72,6 @@ Subs: Lonergan, Adrian, Alexander-Arnold, Williams, Jones, Firmino, Mane
 
 _via theguardian_
 
+## LIVE
+
+jika video tak muncul, [klik disini](http://www.catetan.pw/lfctv2)
