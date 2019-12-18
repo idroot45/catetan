@@ -23,9 +23,7 @@ Postingan ini niatnya hanya untuk menyimpan link streaming pertandingan-pertandi
 
 |Fixtures|Date - Kick Off|Match|Result|
 |---|---|---|---|
-| FLC Perempat Final | 18/12/2019 02:45 WIB | [Aston Villa](/liverpool/carabao-vs-aston-villa/) |
-| CWC Semi Final | 19/12/2019 - 00:30 WIB | [Monterey](/liverpool/cwc-vs-monterey/) |
-| CWC Final | 22/12/2019 - n/a | _lawan belum ditentukan_ |
+| CWC Final | 22/12/2019 - n/a | CR Flamengo |
 | EPL GW 18 | **Menyesuaikan** | Away vs West Ham |
 | EPL GW 19 | 27/12/2019 - 03:00 WIB | Away vs Leicester |
 | EPL GW 20 | 29/12/2019 - 23:30 WIB | Home vs Wolves |
@@ -33,6 +31,14 @@ Postingan ini niatnya hanya untuk menyimpan link streaming pertandingan-pertandi
 {% include tengah.html %}
 
 ## Hasil Sebelumnya:
+
+### CWC Semi Final vs CF Monterey
+
+Tanding 19 Desember pukul 00:30 WIB. Skor akhir: 1-2, Liverpool FC melaju ke final. [catatan](/liverpool/cwc-vs-monterey/)
+
+### FLC Perempat Final: Away vs Aston Villa
+
+Tanding 18 Desember 2019 pukul 02:45 WIB. Skor akhir: 5-0 untuk kemenangan Aston Villa. [Catatan](/liverpool/carabao-vs-aston-villa/)
 
 ### EPL GW 17: Home vs Watford
 
