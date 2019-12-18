@@ -46,3 +46,5 @@ But there is no shame in that for Liverpool. They did all they could, and all th
 image_path="https://cdn.statically.io/img/i2-prod.liverpoolecho.co.uk/incoming/article17437873.ece/ALTERNATES/s810/0_GettyImages-1194547021.jpg" %}
 
 Nobody will want to paint this as a moral victory for Liverpool, although the first half statistics were remarkable. Critchley's young side finished the opening 45 with 54% possession, five corners and five more shots than Villa. Yet for those 14 minutes, Liverpool showed why so much is going right at the club right now. Even after a 5-0 defeat, Klopp should be afforded a smile in Qatar.
+
+{% include video provider="youtube" id="HAaaRrTPeAA" %}
