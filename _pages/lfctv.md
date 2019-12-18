@@ -5,7 +5,7 @@ layout: stream
 header:
  og_image: "https://cdn.statically.io/img/www.catetan.pw/assets/images/lfctv.jpeg"
 video_id: "cdn10.dailysport.pw/3/3"
-poster: "/assets/images/lfctv.jpeg"
+poster: "https://pbs.twimg.com/media/EME_FrjWwAA5uEU?format=jpg&name=large"
 sitemap: false
 ---
 cdn10.dailysport.pw/14/4
