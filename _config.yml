@@ -33,9 +33,9 @@ facebook:
  app_id: 720457594754641
  publisher: https://www.facebook.com/KnoAcc
 # Images
-teaser: https://dummyimage.com/320x4:3/fff/eee.gif&text=SeBel
-og_image: https://dummyimage.com/1000x600/00/f.gif&text=Seluk+Beluk
-logo: https://dummyimage.com/88x88/000/fff.gif&text=CT
+teaser: https://cdn.statically.io/img/www.catetan.pw/assets/images/teaser.gif
+og_image: https://cdn.statically.io/img/www.catetan.pw/assets/images/catetan.gif
+logo: https://cdn.statically.io/img/www.catetan.pw/assets/images/photo45.jpg
 #Search
 search: true
 search_provider: google
