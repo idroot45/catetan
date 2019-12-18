@@ -3,15 +3,20 @@ title: "Semifinal Piala Dunia Antar-klub: CF Monterey vs Liverpool FC"
 excerpt: "Liverpool dapat lawan klub asal Mexico dalam ajang Piala Dunia Antar-klub dalam laga semi-final yang di gelar di Qatar."
 header:
  video:
-  provider: youtube
-  id: pYmYO0t-g3w
+  provider: internal
+  id: lfctv
  og_image: https://cdn.statically.io/img/www.thisisanfield.com/wp-content/uploads/P2019-12-14-FIFACWC_Monterrey_Al_Sadd-3.jpg
  teaser: https://cdn.statically.io/img/www.thisisanfield.com/wp-content/uploads/P2019-12-14-FIFACWC_Monterrey_Al_Sadd-3-324x235.jpg
-last_modified_at: 2019-12-18 20:33:00
+last_modified_at: 2019-12-18 23:18:00
 ---
 {{ page.excerpt }} Sementara di pertandingan lain ada **CR Flamengo** melawan **Al-Hilal**
 
-**CF Monterrey** vs **Liverpool FC** takes place at the **Khalifa International Stadium** on Wednesday, with a 5.30pm (GMT) kick off. Seperti biasa, streaming hanya tersedia dalam kualitas HD dan bisa diakses 5 menit sebelum kick-off. Sementara itu, nikmati video ofisial **Inside Qatar** di atas 😉
+
+**CF Monterrey** vs **Liverpool FC** takes place at the **Khalifa International Stadium** on Wednesday, with a 5.30pm (GMT) kick off.
+
+{% include video provider="youtube" id="pYmYO0t-g3w" %}
+
+Seperti biasa, streaming hanya tersedia dalam kualitas HD dan bisa diakses 5 menit sebelum kick-off. Sementara itu, nikmati video ofisial **Inside Qatar** di atas 😉
 {:.notice .notice--info}
 
 ## Artikel untuk dibaca:
