@@ -23,7 +23,7 @@ Postingan ini niatnya hanya untuk menyimpan link streaming pertandingan-pertandi
 
 |Fixtures|Date - Kick Off|Match|Result|
 |---|---|---|---|
-| CWC Final | 22/12/2019 - n/a | CR Flamengo |
+| CWC Final | 22/12/2019 - n/a | [vs CR Flamengo](/liverpool/cwc-vs-flamengo/) |
 | EPL GW 18 | **Menyesuaikan** | Away vs West Ham |
 | EPL GW 19 | 27/12/2019 - 03:00 WIB | Away vs Leicester |
 | EPL GW 20 | 29/12/2019 - 23:30 WIB | Home vs Wolves |
