@@ -4,13 +4,13 @@ excerpt: "Takumi Minamino is determined to hit the ground running when he offici
 categories: [liverpool fc]
 tags: [takumi minamino, liverpool fc]
 header:
-#  video:
-#   id: "takumi-signing.mp4"
-#   provider: internal
+ image: /assets/images/takumi-minamino.jpg"
 ---
 Takumi Minamino has revealed what he learned from facing Liverpool after completing a “dream” move to the European champions.
 
 Minamino has signed a four-and-a-half year contract with the Reds having finalised his £7.25million move from Red Bull Salzburg on Thursday.
+
+{% include video provider="internal" id="takumi-signing.mp4" %}
 
 The Japan international will officially arrive at Anfield when the transfer window opens on January 1.
 
