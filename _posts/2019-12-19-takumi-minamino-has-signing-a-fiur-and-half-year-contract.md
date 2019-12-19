@@ -26,7 +26,7 @@ And Minamino, who will wear the number 18 shirt, admits he never thought he woul
 
 “But I never thought I would be able to play in this team and I’m really happy about it. I’m looking forward to it.”
 
-{% include figure alt="Takumi Minamino signs for Liverpool" caption="Takumi Minamino signs for Liverpool (Image: Nick Taylor/Liverpool FC via Getty Images)"
+{% include figure alt="Takumi Minamino signs for Liverpool" caption="Takumi Minamino signs for Liverpool (Image: Nick Taylor/Liverpool FC via Getty Images)" %}
 
 Minamino scored 64 goals in 199 appearances for Salzburg having arrived from Cerezo Osaka in January 2015.
 
