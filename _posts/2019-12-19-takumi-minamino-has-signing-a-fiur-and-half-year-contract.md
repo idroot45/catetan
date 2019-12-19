@@ -10,7 +10,7 @@ Takumi Minamino has revealed what he learned from facing Liverpool after complet
 
 Minamino has signed a four-and-a-half year contract with the Reds having finalised his £7.25million move from Red Bull Salzburg on Thursday.
 
-{% include video provider="internal" id="takumi-signing.mp4" %}
+{% include video provider="internal" id="/assets/images/takumi-signing.mp4" %}
 
 The Japan international will officially arrive at Anfield when the transfer window opens on January 1.
 
