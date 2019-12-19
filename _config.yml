@@ -13,7 +13,11 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-locale: id
+url: https://www.catetan.pw
+title: SeBel
+subtitle: Catetan Seluk Beluk
+masthead_title: " "
+locale: id-ID
 title: Seluk Beluk
 # email:
 description: Seluk Beluk catatan yang tak terlalu penting tentang Web Development, Distro Linux, Android OS, Security Vulnerabilities hingga club sepakbola Liverpool FC"
