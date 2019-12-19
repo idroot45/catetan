@@ -1,4 +1,12 @@
+<!-- add favico -->
 {% include favicon.html %}
+<!-- add lost meta seo -->
+{% if page.last_modified_at %}
+  <meta property="article:updated_time" content="{{ page.last_modified_at | date_to_xmlschema }}">
+{% endif %}
+{% if page.header.image.caption %}
+  <meta property="og:image:alt" content="{{ page.header.image.caption }}">
+{% endif %}
 <!-- see if it "/_includes/head/custom.html" works -->
 <meta name="webcrawlers" content="all" />
 <meta name="rating" content="general" />
