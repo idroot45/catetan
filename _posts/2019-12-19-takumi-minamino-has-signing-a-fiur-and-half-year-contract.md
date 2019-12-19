@@ -2,11 +2,11 @@
 title: "Takumi Minamino makes Liverpool transfer admission and sounds Premier League and Champions League vow"
 excerpt: "Takumi Minamino is determined to hit the ground running when he officially becomes a Liverpool player on January 1, as he aims to bring his trophy-winning habit with him from Red Bull Salzburg."
 categories: [liverpool fc]
-tags: [takumi minamino, liverpool fc] ---
+tags: [takumi minamino, liverpool fc]
 header:
- video:
-  provider: internal
-  id: "/assets/video/takumi-signing.mp4"
+#  video:
+#   id: "takumi-signing.mp4"
+#   provider: internal
 ---
 Takumi Minamino has revealed what he learned from facing Liverpool after completing a “dream” move to the European champions.
 
