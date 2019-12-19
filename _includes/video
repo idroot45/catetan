@@ -20,9 +20,9 @@
 {% elsif video_provider == "twitter" %}
   <iframe src="https://t.co/{{ video_id }}" frameborder="0" webkitAllowFullScreen="" mozallowfullscreen="" allowFullScreen="" ></iframe>
 {% elsif video_provider == "internal" %}
-  <video width="100%" height="320" controls="">
-   <source src="{{ video_id }}" type="video/mp4">
-   <source src="{{ video_id }}" type="video/ogg">
+  <video width="320" height="320" controls="">
+   <source src="/assets/images/{{ video_id }}" type="video/mp4">
+   <!--source src="/assets/images/{{ video_id }}" type="video/ogg"-->
 Your browser does not support the video tag.
   </video>
 {% endif %}
