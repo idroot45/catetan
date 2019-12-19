@@ -1,9 +1,4 @@
 <meta charset="utf-8">
-{% if page.path contains '_posts' %}
-  {% if page.amp %}
-    <link rel="amphtml" href="{{ page.id | prepend: site.baseurl | prepend: site.url | append : '/amp.html' }}">
-  {% endif %}
-{% endif %}
 {% include ia.html %}
 {% include seo.html %}
 {% include auto_ads.html %}
