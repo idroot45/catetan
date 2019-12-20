@@ -1,5 +1,5 @@
 ---
-titel: "EPL Game Week ke-11: Aston Villa vs Liverpool FC"
+title: "EPL Game Week ke-11: Aston Villa vs Liverpool FC"
 excerpt: "EPL GW 11 Away vs Aston Villa. Kick off 22:00 Minggu, 02 November 2019. Skor akhir: 1-2."
 header:
  video:
