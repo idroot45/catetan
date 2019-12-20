@@ -1,6 +1,6 @@
 ---
-title: "EPL Game Week ke-9: Away vs Manchester Utd"
-excerpt: "EPL GW 9 Manchester Utd. vs Liverpool FC. KO 22:30 WIB, Minggu 20 Oktober 2019"
+title: "EPL Game Week ke-9: Manchester Utd. vs Liverpool FC"
+excerpt: "EPL GW 9 Away vs Manchester United. KO 22:30 WIB, Minggu 20 Oktober 2019. Skor akhir 1-1"
 categories: [liverpool]
 tags: [liverpool fc, manchester utd, liga inggris]
 header:
@@ -8,7 +8,7 @@ header:
   provider: "youtube"
   id: "ZQZZD7fblYY"
 ---
-{{ page.excerpt }}. Skor akhir 1-1 di kandang mereka dan munyukers berasa uda menang. 😅 taik.
+{{ page.excerpt }} di kandang mereka dan munyukers berasa uda menang. 😅 taik.
 
 - Tayang di MolaTV, lihat [poster ini](https://mola01.koicdn.com/u/image/e56abf4a-6885-4286-9a7d-363e470e6b3b/image.jpeg). Hanya dapat diakses dari aplikasi dan perangkat tertentu saja.
 - Tayang di TV lokal TVRI.
