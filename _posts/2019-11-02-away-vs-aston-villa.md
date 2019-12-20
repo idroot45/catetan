@@ -1,6 +1,6 @@
 ---
-titel: "EPL Game Week ke-11: Away vs Aston Villa"
-excerpt: "EPL GW 11 Aston Villa vs Liverpool FC. Minggu, 02 November 2019. KO 22:00 WIB"
+titel: "EPL Game Week ke-11: Aston Villa vs Liverpool FC"
+excerpt: "EPL GW 11 Away vs Aston Villa. Kick off 22:00 Minggu, 02 November 2019. Skor akhir: 1-2."
 header:
  video:
   id: wZQZrPmX84c
@@ -8,6 +8,8 @@ header:
 categories: [liverpool]
 tags: [liga inggris, liverpool fc, aston villa]
 ---
+{{ page.excerpt }} Kemengangan untuk tim tamu. Unbeaten streak unbreakable yet.
+
 "Liverpool's Roberto Firmino was flagged offside before putting the ball in the net against Aston Villa and the decision was confirmed by VAR. The red line signifies Firmino and was aligned to his armpit, which was marginally ahead of the last Villa defender"
 
 Have you ever heard such of a crock of sh*t in your life?
