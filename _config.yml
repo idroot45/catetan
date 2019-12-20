@@ -14,10 +14,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 url: https://www.catetan.pw
-title: SeBel
-subtitle: Catetan Seluk Beluk
-masthead_title: "Catetan SeBel"
-title: Seluk Beluk
+title: Catetan SeBel
+subtitle: Catetan dan Seluk Beluk
+masthead_title: "SeBel"
 # email:
 description: Seluk Beluk catatan yang tak terlalu penting tentang Web Development, Distro Linux, Android OS, Security Vulnerabilities hingga club sepakbola Liverpool FC"
 twitter_username: knoacc
@@ -34,7 +33,7 @@ social:
   - https://www.paciran.com/author/mukidi
 facebook:
  app_id: 720457594754641
- publisher: https://www.facebook.com/KnoAcc
+ publisher: https://www.facebook.com/pssi.vi
 # Images
 teaser: https://cdn.statically.io/img/www.catetan.pw/assets/images/teaser.gif
 image: https://cdn.statically.io/img/www.catetan.pw/assets/images/catetan.gif
