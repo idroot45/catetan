@@ -10,9 +10,13 @@ tags: [takumi minamino, liverpool fc]
 ---
 Takumi Minamino has revealed what he learned from facing Liverpool after completing a “dream” move to the European champions.
 
+{% include figure image_path="/assets/images/takumi-minamino.jpg" alt="Takumi Minamino" caption="Takumi Minamino signs for Liverpool (Image: Nick Taylor/Liverpool FC via Getty Images)" %}
+
 Minamino has signed a four-and-a-half year contract with the Reds having finalised his £7.25million move from Red Bull Salzburg on Thursday.
 
 The Japan international will officially arrive at Anfield when the transfer window opens on January 1.
+
+{% include figure image_path="https://cdn.statically.io/img/i2-prod.liverpool.com/incoming/article17449607.ece/ALTERNATES/s615b/0_GettyImages-1189599275.jpg" caption="Takumi Minamino can play a wide variety of roles in different tactical systems. (Image: Photo by Nick Taylor/Liverpool FC/Liverpool FC via Getty Images)" %{
 
 And Minamino, who will wear the number 18 shirt, admits he never thought he would be capable of playing for the Reds.
 
@@ -24,9 +28,9 @@ And Minamino, who will wear the number 18 shirt, admits he never thought he woul
 
 “But I never thought I would be able to play in this team and I’m really happy about it. I’m looking forward to it.”
 
-{% include figure image_path="/assets/images/takumi-minamino.jpg" alt="Takumi Minamino" caption="Takumi Minamino signs for Liverpool (Image: Nick Taylor/Liverpool FC via Getty Images)" %}
-
 Minamino scored 64 goals in 199 appearances for Salzburg having arrived from Cerezo Osaka in January 2015.
+
+{% include figure image_path="https://cdn.statically.io/img/i2-prod.liverpool.com/incoming/article17449616.ece/ALTERNATES/s810/0_GettyImages-1189599261.jpg" caption="The Japanese attacker's versatility will enhance his prospects of regular game time at Liverpool. (Image: Photo by Nick Taylor/Liverpool FC/Liverpool FC via Getty Images)" %}
 
 One of those strikes came at Anfield earlier this season in the Austrian side's 4-3 Champions League group stage defeat.
 
