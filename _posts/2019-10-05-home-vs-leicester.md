@@ -1,6 +1,6 @@
 ---
-title: "EPL Game Week ke-8: Away vs Leicester City"
-excerpt: "EPL GW 8 Liverpool FC vs Leicester City [H]. KO 21:00 WIB, Minggu (05/10/2019)
+title: "EPL Game Week ke-8: Liverpool FC vs Leicester City"
+excerpt: "EPL GW 8 Home vs Leicester City. Kick Off pukul 21:00 WIB, Minggu (05/10/2019). Skor Akhir: 2-1."
 categories: [liverpool]
 tags: [liverpool fc, leicester city, liga inggris]
 header:
@@ -8,7 +8,7 @@ header:
   provider: youtube
   id: _FpX3ytdiGs
 ---
-{{ page.excerpt }}. Skor akhir 2-1
+{{ page.excerpt }}
 
 - Artikel pra-tanding dari portal [This Is Anfield](https://www.thisisanfield.com/2019/09/brendan-rodgers-excited-for-first-return-to-incredible-former-club-liverpool/). Baca saja sambil tiduran.
 - Gol! **S. Mane** 40'. Assist dari **J. Milner**.
