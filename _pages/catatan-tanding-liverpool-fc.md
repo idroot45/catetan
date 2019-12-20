@@ -28,7 +28,32 @@ Postingan ini niatnya hanya untuk menyimpan link streaming pertandingan-pertandi
 
 {% include tengah.html %}
 
+## Tambahan-tambahan
+
+{% include figure image_path="https://s.france24.com/media/display/9b3e331e-84b5-11e9-9042-005056a964fe/w:1024/p:16x9/football-liverpool-ligue-champions-reds-tottenham.jpg" caption="Juara Champions League 2018/2019, Gelar ke-6 Liverpool FC" alt="Champions League 2018/2019 Winner" %}
+
+### Latar belakang
+
+Latar belakang sebelum memutuskan untuk mencatat setiap laga Liverpool FC (setelah GW-2) di halaman ini:
+
+Kalau di-ingat-ingat sudah kenal/tahu **Liverpool FC** sejak tanpa sengaja membeli stiker logonya (sticker bahan gravtech) di pasar desa saat masih SD/MI karena desain logonya menarik. Tetapi baru benar-benah _ngeh_ dan fanatik setelah berita **Epic Comeback** Liverpool FC melawan AC Milan di Istambul di _blow-up_ beberapa majalah bola. Ketika itu baru saja lulus kuliah (D1) dan sibuk pacaran, malas kerja. Jujur saja, baru benar-benar intens menonton setiap pertandingan Liverpool FC sejak nyaris juara di EPL 2013/2014, jamannya Suarez dkk. dilatih Ojes dan Gerrard kepleset. Sejak itu pula selalu berburu link-link streaming setiap pertandingan Liverpool FC ketika tak ada **streaming tayangan resmi yang gratis**. Utamanya ketika tidak ditayangkan di TV lokal atau tak ada tempat untuk _nebeng_ tontonan TV kabel hingga sekarang. Apalagi, kini semakin sulit karena hak siar berpindah dari tangan FMA 😭.
+
+### Mengenai MolaTV dan Tips Untuk Nonton Streaming via MolaTV Web
+{:#molatv}
+
+Untuk wilayah Indonesia bisa melihat di laman web [mola.tv](https://mola.tv/){: rel="nofollow noreferrer noopener" target="_blank"} sebagai pemegang hak siar resmi di Indonesia.
+Agar bisa melihat dengan browser Chrome Mobile (Android) tanpa harus memasang aplikasi, aktifkan/centrang pilihan Situs dekstop dari menu Chrome.
+
+**Pendapat pribadi:**
+- Aplikasi mola.tv **sangat tidak saya rekomendasikan**, sering _force closed_ tanpa alasan. Aplikasi sampah, selalu meminta pembaruan, mungkin karena masih beta.
+- Untuk yang gratisan, kualitas tayangan terbatas hingga 569p saja dan ada tampilan iklan yang berakibat tidak bisa menikmati tampilan layar penuh. Sedangkan yang berbayar, untuk pertandingan tertentu juga kadang tak tersedi di Web maupun Aplikasinya.
+- Kalaupun masih mau yang berbayar, mending sekalian saja langganan Matrix. Percuma bayar langganan premium jika cuma menonton via aplikasi atau web streaming.
+
 ## Hasil Sebelumnya:
+
+> [Menerawang Starting XI Liverpool 5 Tahun Mendatang](/sepakbola/liverpool-5-tahun-mendatang-tanpa-salah-mane-dan-van-dijk/){: rel="noopener"}
+
+<!--
 
 ### CWC Semi Final vs CF Monterey
 
@@ -45,8 +70,6 @@ Sabtu, 14 Desember 2019, Kick off 19:30 WIB. Skor akhir 2-0, [catetan](/liverpoo
 ### Champions League: Away vs RB Salzburg
 
 Tanding 7 Desember 2019 pukul 00:55 WIB. Skor akhir: 0-2, [catetan](/liverpool/away-vs-rb-salzburg/).
-
-> [8 Fakta Tentang Transfer Takumi Minamino](/liverpool/transfer-takumi-minamino-dari-rb-salzburg-ke-liverpool-fc-8-fakta/)
 
 ### EPL GW 16: Away vs Bournemouth
 
@@ -69,8 +92,6 @@ Champions League Grup E Matchday ke-5 dari 6. [Kick-Off 03:00 WIB Kamis, 28/11/2
 {% include figure image_path="https://cdn.statically.io/img/i2-prod.liverpool.com/incoming/article17306328.ece/ALTERNATES/s810/0_GettyImages-1189564000.jpg" caption="Goal penentu kemenangan di lima menit akhir pertandingan dicetak **R. Firminho**. Pembuktian dari _mentality monster_ yang diungkapkan **J. Klop**." %}
 
 KO 22:00 WIB. [Skor akhir 2-1](/liverpool/away-vs-crystal-pallace/).
-
-{% include tengah.html %}
 
 ### EPL GW 12: Home vs Manchester City
 
@@ -136,29 +157,10 @@ Skor akhir: 3-1, Liverpool FC tetap di pucuk. Catetan [di sini](/liverpool/home-
 
 Skor akhir: 0-3, untuk kemenangan Liverpool. [Catetane](/liverpool/away-vs-burnley/).
 
-> [Menerawang Starting XI Liverpool 5 Tahun Mendatang](https://catetan.istimiwir.host/sepakbola/liverpool-5-tahun-mendatang-tanpa-salah-mane-dan-van-dijk/){: rel="noopener"}
-
 ### EPL GW 3: Home vs Arsenal
 
 [Skor akhir 3-1](/liverpool/home-vs-arsenal/) untuk kemenangan Liverpool.
 
-## Tambahan-tambahan
+-->
 
-{% include figure image_path="https://s.france24.com/media/display/9b3e331e-84b5-11e9-9042-005056a964fe/w:1024/p:16x9/football-liverpool-ligue-champions-reds-tottenham.jpg" caption="Juara Champions League 2018/2019, Gelar ke-6 Liverpool FC" alt="Champions League 2018/2019 Winner" %}
-
-### Latar belakang
-
-Latar belakang sebelum memutuskan untuk mencatat setiap laga Liverpool FC (setelah GW-2) di halaman ini:
-
-Kalau di-ingat-ingat sudah kenal/tahu **Liverpool FC** sejak tanpa sengaja membeli stiker logonya (sticker bahan gravtech) di pasar desa saat masih SD/MI karena desain logonya menarik. Tetapi baru benar-benah _ngeh_ dan fanatik setelah berita **Epic Comeback** Liverpool FC melawan AC Milan di Istambul di _blow-up_ beberapa majalah bola. Ketika itu baru saja lulus kuliah (D1) dan sibuk pacaran, malas kerja. Jujur saja, baru benar-benar intens menonton setiap pertandingan Liverpool FC sejak nyaris juara di EPL 2013/2014, jamannya Suarez dkk. dilatih Ojes dan Gerrard kepleset. Sejak itu pula selalu berburu link-link streaming setiap pertandingan Liverpool FC ketika tak ada **streaming tayangan resmi yang gratis**. Utamanya ketika tidak ditayangkan di TV lokal atau tak ada tempat untuk _nebeng_ tontonan TV kabel hingga sekarang. Apalagi, kini semakin sulit karena hak siar berpindah dari tangan FMA 😭.
-
-### Mengenai MolaTV dan Tips Untuk Nonton Streaming via MolaTV Web
-{:#molatv}
-
-Untuk wilayah Indonesia bisa melihat di laman web [mola.tv](https://mola.tv/){: rel="nofollow noreferrer noopener" target="_blank"} sebagai pemegang hak siar resmi di Indonesia.
-Agar bisa melihat dengan browser Chrome Mobile (Android) tanpa harus memasang aplikasi, aktifkan/centrang pilihan Situs dekstop dari menu Chrome.
-
-**Pendapat pribadi:**
-- Aplikasi mola.tv **sangat tidak saya rekomendasikan**, sering _force closed_ tanpa alasan. Aplikasi sampah, selalu meminta pembaruan, mungkin karena masih beta.
-- Untuk yang gratisan, kualitas tayangan terbatas hingga 569p saja dan ada tampilan iklan yang berakibat tidak bisa menikmati tampilan layar penuh. Sedangkan yang berbayar, untuk pertandingan tertentu juga kadang tak tersedi di Web maupun Aplikasinya.
-- Kalaupun masih mau yang berbayar, mending sekalian saja langganan Matrix. Percuma bayar langganan premium jika cuma menonton via aplikasi atau web streaming.
+{% include tengah.html %}
