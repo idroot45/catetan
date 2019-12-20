@@ -36,4 +36,6 @@ One of those strikes came at Anfield earlier this season in the Austrian side's 
 
 The forward, who is eligible to play for his new club in the knockout stages of the competition, was also an impressive performer in the reverse fixture earlier this month when a 2-0 win for Liverpool put them through to the last 16 at Salzburg's expense.
 
-“From those games I learned this team has such a high level of technique and intensity,” said Minamino, speaking to [liverpoolfc.com](https://www.liverpoolfc.com/news/first-team/379061-takumi-minamino-first-liverpool-interview).
+> Recomended reading: **Takumi Minamino's biggest strength at Liverpool has gone under the radar** via [liverpool.com](https://www.liverpool.com/liverpool-fc-news/transfer-news/takumi-minamino-liverpool-position-klopp-17449487)
+
+From those games I learned this team has such a high level of technique and intensity,” said Minamino, speaking to [liverpoolfc.com](https://www.liverpoolfc.com/news/first-team/379061-takumi-minamino-first-liverpool-interview).
