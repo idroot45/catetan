@@ -1,6 +1,6 @@
 ---
-title: "Champions League Group Stage: SC Napoli vs"
-excerpt: "Liverpool FC Away, Kick Off pukul 02:00 WIB, Rabu, 17 September 2019. Hasil Akhir: Kalah 2-0"
+title: "UCL Group Stage Matchday 2: SC Napoli vs Liverpool FC"
+excerpt: "Champions League Matchday 2: Liverpool FC Away, Kick Off pukul 02:00 WIB, Rabu, 17 September 2019. Hasil Akhir: Kalah 2-0"
 header:
  video:
   provider: youtube
