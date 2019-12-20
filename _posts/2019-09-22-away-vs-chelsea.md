@@ -1,10 +1,10 @@
 ---
-title: "EPL Game Week ke-6: Away vs Chelsea FC"
-excerpt: "EPL GW 6 Chelsea vs Liverpool FC KO 22:30 22 September 2019"
+title: "EPL Game Week ke-6: Chelsea FC vs Liverpool FC"
+excerpt: "EPL GW 6 Liverpool FC Away. Kick Off pukul 22:30, 22 September 2019. Skor akhir 1-2, LFC tetap di _putcjuk_"
 categories: [liverpool]
 tags: [liverpool fc, chelsea fc, liga inggris]
 ---
-Skor akhir 1-2, LFC [tetap di _putcjuk_](#standing) meskipun di laga lain **Man. City** memasukkan 8 gol tanpa balas ke gawang **Watford**
+{{ page.excerpt }}, meskipun di laga lain **Man. City** memasukkan 8 gol tanpa balas ke gawang **Watford**
 
 ![Firmino ft. Fabinho](https://www.thisisanfield.com/wp-content/uploads/P2019-09-22-039-Chelsea_Liverpool-1-e1569168573519.jpg){:title="Firmino ft. Fabinho"}
 
