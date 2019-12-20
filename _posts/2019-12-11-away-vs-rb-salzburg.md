@@ -1,6 +1,6 @@
 ---
-title: "Liverpool's Champions League Away to RB Salzburg"
-excerpt: "Catatan dan fakta pertandingan Liverpool saat bertandang ke markas RB Salzburg"
+title: "UCL Group Stage Macthday 6: RB Salzburg vs Liverpool FC"
+excerpt: "Champions League Groul E Matchday 6 Liverpool Away to RB Salzburg. Skor akhir: 0-2."
 categories: [liverpool]
 last_modified_at: 2019-12-13 08:00:00
 header:
@@ -10,6 +10,8 @@ header:
  og_image: https://cdn.statically.io/img/i2-prod.liverpool.com/incoming/article17398630.ece/ALTERNATES/s810/0_GettyImages-1193159832.jpg"
  teaser: https://cdn.statically.io/img/i2-prod.liverpool.com/incoming/article17398630.ece/ALTERNATES/s270b/0_GettyImages-1193159832.jpg
 ---
+{{ page.excerprt }} 
+
 Dua hal yang cukup berkesan bagi saya pribadi saat menonton perrandingan away lawan RB Salzburg ada dua.
 
 Yang pertama adalah ketika Mo. Salah mencetak gol. Disaat Mo. Salah mengecoh Bek dan Kiper RB Salzburg, saya sempat optimis dia mencetak gol dan mengambil screenshoot. Namun ketika keduanya sudah terlewati dan screenshoot terambil malah muncul pikiran "Ini bakalan cuma jadi tendangan gawang." Eh malah terjadi gol beneran, gol dari sudut sempit yang hampir mustahil untuk dikonversi menjadi goal. Poinnya, bukan masalah goal yang nyaris _impossible_ itu, tetap betapa cepat perubahan emosi yang saya rasakan dalam beberapa detik peristiwa itu berlangsung.
