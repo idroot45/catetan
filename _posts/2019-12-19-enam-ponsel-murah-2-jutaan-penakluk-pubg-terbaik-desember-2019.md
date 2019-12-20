@@ -28,7 +28,7 @@ Penasaran? Berikut ini ada 6 smartphone murah rekomendasi seharga Rp 2 jutaan ya
 
 ## 1. Redmi Note 8
 
-{% include figure image_path="https://media.hitekno.com/thumbs/2019/10/30/38393-redmi-note-8/730x480-img-38393-redmi-note-8.jpg" caption="Redmi Note 8 dari Xiaomi. Banyak pilihan" alt="Redmi Note 8" %}
+{% include figure image_path="https://cdn.statically.io/img/media.hitekno.com/thumbs/2019/10/30/38393-redmi-note-8/730x480-img-38393-redmi-note-8.jpg" caption="Redmi Note 8 dari Xiaomi. Banyak pilihan" alt="Redmi Note 8" %}
 
 Tidak perlu diragukan lagi, Redmi Note 8 mejadi salah satu ponsel baru dengan performa tinggi disertai beragam kelebihan.
 
@@ -48,7 +48,7 @@ Redmi Note 8 RAM 6 GB + 128 GB|Rp 2.899.000 (promo Rp 2.799.000)
 
 ## 2. Realme 5s
 
-{% include figure image_path="https://media.hitekno.com/thumbs/2019/11/29/53156-realme-5s-realme-indonesia/730x480-img-53156-realme-5s-realme-indonesia.jpg" caption="Realme 5s dari Oppo. Versi upgrade" alt="Realme 5s" %}
+{% include figure image_path="https://cdn.statically.io/img/media.hitekno.com/thumbs/2019/11/29/53156-realme-5s-realme-indonesia/730x480-img-53156-realme-5s-realme-indonesia.jpg" caption="Realme 5s dari Oppo. Versi upgrade" alt="Realme 5s" %}
 
 Bukan sekadar _upgrade minor_ dari Realme 5, ponsel baru buatan Oppo ini hadir menawarkan kelebihan lain pada kamera. Kamera belakang kini lebih memukau di banding pendahulunya.
 
@@ -61,7 +61,7 @@ Realme 5s RAM 4 GB + 128 GB|Rp 2.699.000.
 
 ## 3. Realme 5
 
-{% include figure image_path="https://media.hitekno.com/thumbs/2019/10/08/91452-realme-5/730x480-img-91452-realme-5.jpg" caption="Realme 5 dari Oppo. Masih mumpuni" alt="Realme 5" %}
+{% include figure image_path="https://cdn.statically.io/img/media.hitekno.com/thumbs/2019/10/08/91452-realme-5/730x480-img-91452-realme-5.jpg" caption="Realme 5 dari Oppo. Masih mumpuni" alt="Realme 5" %}
 
 Realme 5 yang lebih dulu hadir juga mengusung chipset Qualcomm Snapdragon 665. Sama seperti Redmi Note 8. Tak kalah soal performa, namun jelas unggul soal penyokong catu daya. Sebabnya, tentu karena sudah dibekali baterai berkapasitas jumbo, 5.000 mAh. Sayangnya belum mempunyai fitur _fast charging_ dan konektifitas data melalui kabel masih memakai port microUSB.
 
@@ -73,7 +73,7 @@ Realme 5 RAM 4 GB + 128 GB|Rp 2.499.000.
 
 ## 4. Realme 3 Pro
 
-{% include figure image_path="https://media.hitekno.com/thumbs/2019/04/22/20159-realme-3-pro/730x480-img-20159-realme-3-pro.jpg" caption="Realme 3 Pro dari Oppo. Kalah di baterai, unggul kamera selfi" alt="Realme 3 Pro varian Niro Blue" %}
+{% include figure image_path="https://cdn.statically.io/img/media.hitekno.com/thumbs/2019/04/22/20159-realme-3-pro/730x480-img-20159-realme-3-pro.jpg" caption="Realme 3 Pro dari Oppo. Kalah di baterai, unggul kamera selfi" alt="Realme 3 Pro varian Niro Blue" %}
 
 Meski bukan smartphone paling baru, Realme 3 Pro masih layak diperhitungkan di kelas ponsel Rp 2 jutaan karena performa buasnya.
 
@@ -89,7 +89,7 @@ Realme 3 Pro RAM 6 GB + 128 GB|Rp 3.499.000.
 
 ## 5. Redmi Note 7
 
-{% include figure image_path="https://media.hitekno.com/thumbs/2019/08/21/28332-redmi-note-7/730x480-img-28332-redmi-note-7.jpg" caption="Redmi Note 7 dari Xiaomi. Kamera belakang oke, baterai minim" alt="Redmi Note 7" %}
+{% include figure image_path="https://cdn.statically.io/img/media.hitekno.com/thumbs/2019/08/21/28332-redmi-note-7/730x480-img-28332-redmi-note-7.jpg" caption="Redmi Note 7 dari Xiaomi. Kamera belakang oke, baterai minim" alt="Redmi Note 7" %}
 
 Kakak dari ponsel Redmi Note 8, ponsel murah buatan Xiaomi ini juga tidak bisa dipandang sebelah mata. Hingga akhir tahun 2019 ini, Redmi Note 7 masih bisa bersaing dengan deretan ponsel yang lebih baru.
 
@@ -107,7 +107,7 @@ Redmi Note 7 RAM 4 GB + 128 GB|Rp 2.599.000.
 
 ## 6. ZenFone Max Pro M2
 
-{% include figure image_path="https://media.hitekno.com/thumbs/2018/12/12/81646-spesifikasi-asus-zenfone-max-pro-m2/730x480-img-81646-spesifikasi-asus-zenfone-max-pro-m2.jpg" caption="Zenfone Max Pro M2 dari Asus. Sensor kamera jempolan dan baterai jumbo" alt="Asus Zenfone Max Pro M2" %}
+{% include figure image_path="https://cdn.statically.io/img/media.hitekno.com/thumbs/2018/12/12/81646-spesifikasi-asus-zenfone-max-pro-m2/730x480-img-81646-spesifikasi-asus-zenfone-max-pro-m2.jpg" caption="Zenfone Max Pro M2 dari Asus. Sensor kamera jempolan dan baterai jumbo" alt="Asus Zenfone Max Pro M2" %}
 
 Terakhir dalam deretan ponsel 2 jutaan pelahap gim PUBG, adalah smartphone yang juga keluaran lama. Namun, jangan meremehkan dulu. Terutaman bagi pencinta antarmuka Stock Android yang bersih dan ringan, Asus Zenfone Max Pro M2 bisa jadi pilihan.
 
