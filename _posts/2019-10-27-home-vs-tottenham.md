@@ -1,9 +1,10 @@
 ---
-title: "EPL Game Week ke-10: Home vs Tottenham Hotspurs"
-excerpt: "EPL GW 10 Liverpool FC vs Tottenham Hotspurs. KO 22:30 WIB. Minggu,27 Oktober 2019"
+title: "EPL Game Week ke-10: Liverpool FC vs Tottenham Hotspurs"
+excerpt: "EPL GW 10 Home vs Tottemham Hotspurs. Kick off pukul 22:30 WIB. Minggu, 27 Oktober 2019. Skor akhis: 2-1."
 categories: [liverpool]
+tags: [liverpool fc, tottenham hostpurs, liga inggris]
 ---
-{{ page.excerpt }}.
+{{ page.excerpt }}
 
 - Gol tim _away_ di babak pertama.
 - Gol balasan Liverpool FC di menit ke-53 babak kedua: **J. Henderson** dan **Mo Salah** (P)
