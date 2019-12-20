@@ -16,7 +16,7 @@ Minamino has signed a four-and-a-half year contract with the Reds having finalis
 
 The Japan international will officially arrive at Anfield when the transfer window opens on January 1.
 
-{% include figure image_path="https://cdn.statically.io/img/i2-prod.liverpool.com/incoming/article17449607.ece/ALTERNATES/s615b/0_GettyImages-1189599275.jpg" caption="Takumi Minamino can play a wide variety of roles in different tactical systems. (Image: Photo by Nick Taylor/Liverpool FC/Liverpool FC via Getty Images)" %{
+{% include figure image_path="https://cdn.statically.io/img/i2-prod.liverpool.com/incoming/article17449607.ece/ALTERNATES/s615b/0_GettyImages-1189599275.jpg" caption="Takumi Minamino can play a wide variety of roles in different tactical systems. (Image: Photo by Nick Taylor/Liverpool FC/Liverpool FC via Getty Images)" %}
 
 And Minamino, who will wear the number 18 shirt, admits he never thought he would be capable of playing for the Reds.
 
