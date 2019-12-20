@@ -1,5 +1,5 @@
 ---
-title: "EPL Game Week ke-5: Liverpool FC vs Newcastle"
+title: "EPL Game Week ke-5: Liverpool FC vs Newcastle United"
 excerpt: "Kick off pukul 18:30 WIB 14 September 2019. Skor akhir 3-1, Liverpool FC tetap di pucuk."
 categories: [liverpool]
 tags: [liverpool fc, newcastle united, liga inggris]
