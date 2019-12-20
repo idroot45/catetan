@@ -77,5 +77,4 @@ Sudut kiri bibir Parman terangkat sembari menatap ubun-ubun Mukidi yang masih me
 
 "Sekalian teh hangatnya kau bayarkan." Muka kisutnya menghadap Parman.
 
-_bersambung_
-> koyone iso dadi dowo iki, gak mari-mari cuuuuk... sambung sesok maneh.
+> koyone iso dadi tambah dowo iki. gak mari-mari cuuuuk... sambung sesok maneh, ngantuk.
