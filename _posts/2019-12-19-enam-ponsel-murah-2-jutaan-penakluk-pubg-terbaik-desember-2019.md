@@ -7,7 +7,8 @@ header:
  caption: "Smartphone Murah Rp 2 jutaan, lancar main PUBG" 
  alt: "smartphone 2 jutaan lancar pubg"
 categories: [ripiew]
-tags: [pubg mobile, ponsel 2 jutaan, ponsel terbaik desember]
+tags: [pubg mobile, ponsel 2 jutaan, ponsel terbaik desember, asus, xiaomi, oppo]
+last_modified_at: 2019-12-20 22:45:03
 ---
 Sedang mencari smartphone murah terbaik Desember 2019 ini? Ada kok ponsel di kisaran harga Rp 2 jutaan yang bisa dengan lancar memainkan gim PUBG Mobile. PUBG Mobile bukanlah gim sembarangan yang bisa dimainkan pada smartphone murah.
 
