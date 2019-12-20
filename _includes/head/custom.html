@@ -3,8 +3,28 @@
 <meta content='en_GB' property='og:locale:alternate'/>
 <meta content='ms_MY' property='og:locale:alternate'/>
 <meta content='id_ID' property='og:locale:alternate'/>
+<!-- add prefetch -->
+<link href='//ajax.googleapis.com' rel='dns-prefetch'/>
+<link href='//www.google-analytics.com' rel='dns-prefetch'/>
+<link href='//googleads.g.doubleclick.net' rel='dns-prefetch'/>
+<link href='//www.googletagservices.com' rel='dns-prefetch'/>
+<link href='//pagead2.googlesyndication.com' rel='dns-prefetch'/>
+<link href='//cdn.statically.io' rel='dns-prefetch'/>
+<link href='//adservice.google.ca' rel='dns-prefetch'/>
+<link href='//adservice.google.com' rel='dns-prefetch'/>
+<link href='//resources.blogblog.com' rel='dns-prefetch'/>
+<link href='//fonts.googleapis.com' rel='dns-prefetch'/>
+<link href='//1.bp.blogspot.com' rel='dns-prefetch'/>
+<link href='//2.bp.blogspot.com' rel='dns-prefetch'/>
+<link href='//3.bp.blogspot.com' rel='dns-prefetch'/>
+<link href='//4.bp.blogspot.com' rel='dns-prefetch'/>
+<link href='//disqus.com' rel='dns-prefetch'/>
+<link href='//github.com' rel='dns-prefetch'/>
+<link href='//cdn.jsdelivr.net' rel='dns-prefetch'/>
+<link href='//fontawesome.com' rel='dns-prefetch'/>
+<link href='//i0.wp.com' rel='dns-prefetch'/>
 {% if page.header.image.caption %}
-  <meta property="og:image:alt" content="{{ page.header.image.caption }}">
+  <meta property="og:image:alt" content="{{ page.header.image | replace absolute  }}">
 {% endif %}
 <!-- see if it "/_includes/head/custom.html" works -->
 <meta name="webcrawlers" content="all" />
