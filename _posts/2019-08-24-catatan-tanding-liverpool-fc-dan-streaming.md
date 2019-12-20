@@ -8,8 +8,6 @@ categories: [liverpool]
 tags: [streaming bola, streaming liverpool, rekap liverpool fc]
 redirect_from:
  - /streaming/catatan-tanding-liverpool-fc-dan-streaming/
- - /liverpool
- - /liverpool/
 last_modified_at: 2019-12-15 10:04:00
 ---
 *Ingat baik-baik!*{:.fa .fa-cog .fa-spin aria-hidden="true"} **1**. Tayangan akan tersedia hanya **jika ada** dan **tersedia** (dapat saya temukan) di internet. Baca [latar belakang](#latar-belakang) catatan ini.<br /> **2**. Refresh **10 menit** sebelum _kick off_, selain di waktu tersebut kemungkinan siaran tidak dapat diakses.<br /> **3**. Streaming di halaman ini diusahakan dalam kualitas HD, jadi kemungkinan akan menguras kuota/data hingga 2 GB dan membutuhkan kecepatan konektivitas minimal 10 mbps untuk kelancaran streaming.<br /> **4**. Sedangkan mengenai pilihan siaran **MolaTV**, tidak saya rekomendasikan. Silahkan baca [catatannya](#molatv).
