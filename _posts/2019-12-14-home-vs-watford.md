@@ -1,6 +1,6 @@
 ---
-title: "Liverpool Vs Watford: Pesta Gol Lagi di Anfield? Cukup 2-0 Saja"
-description: "Catatan pertandingan Liverpool FC vs Watford EPL Game Week 17, Salah nyekor 2 gol"
+title: "EPL Game Weeknke-7: Liverpool FC Vs Watford, Pesta Gol Lagi di Anfield?"
+description: "EPL GW 17 Home vs Watford, Cukup 2 gol saja, semua diborong Mo Salah."
 header:
 # video:
 #  provider: internal
@@ -12,6 +12,8 @@ tags: [english premier league, liverpool fc, watford]
 date: 2019-12-14 10:30:01
 last_modified_at: 2019-12-14 21:50:00
 ---
+{{ page.excerpt }}
+
 ## Pre-match
 
 [Liverpool FC](/streaming/catatan-tanding-liverpool-fc-dan-streaming/) akan menjamu Watford di Liga Inggris akhir pekan ini. Pertandingan ini berpotensi menghasilkan banyak gol. Duel Liverpool vs Watford di pekan ke-17 Liga Inggris akan digelar di Anfield, Sabtu (14/12/2019) malam WIB. Di atas kertas, laga ini seharusnya tak sulit untuk The Reds.
@@ -85,7 +87,7 @@ But the hosts held firm and Salah finally settled it with 90 on the clock – ba
 Pos.|P|W|D|L|GD|Pts
 ---|:---:|---|---|---|---|---
 1|Liverpool|17|16|1|0|28|49
-2|Leicester|16|12|2|2|29|38
-3|Man City|16|10|2|4|25|32
-4|Chelsea|16|9|2|5|7|29
+2|Leicester|17|12|3|2|29|39
+3|Man City|17|11|2|4|28|35
+4|Chelsea|17|9|2|6|6|29
 
