@@ -2,9 +2,10 @@
 title: "Takumi Minamino makes Liverpool transfer admission and sounds Premier League and Champions League vow"
 excerpt: "Takumi Minamino is determined to hit the ground running when he officially becomes a Liverpool player on January 1, as he aims to bring his trophy-winning habit with him from Red Bull Salzburg."
 header:
+ og_image: "/assets/images/takumi-minamino.jpg"
  video:
   provider: twitter
-  id: 2yH2N0v3Y1 
+  id: 2yH2N0v3Y1
 categories: [liverpool]
 tags: [takumi minamino, liverpool fc]
 ---
@@ -16,7 +17,7 @@ Minamino has signed a four-and-a-half year contract with the Reds having finalis
 
 The Japan international will officially arrive at Anfield when the transfer window opens on January 1.
 
-{% include figure image_path="https://cdn.statically.io/img/i2-prod.liverpool.com/incoming/article17449607.ece/ALTERNATES/s615b/0_GettyImages-1189599275.jpg" caption="Takumi Minamino can play a wide variety of roles in different tactical systems. (Image: Photo by Nick Taylor/Liverpool FC/Liverpool FC via Getty Images)" %}
+{% include figure image_path="https://cdn.statically.io/img/i2-prod.liverpool.com/incoming/article17449607.ece/ALTERNATES/s615b/0_GettyImages-1189599275.jpg" caption="Takumi Minamino can play a wide variety of roles in different tactical systems. (Image: Photo by Nick Taylor/Liverpool FC via Getty Images)" %}
 
 And Minamino, who will wear the number 18 shirt, admits he never thought he would be capable of playing for the Reds.
 
@@ -30,7 +31,7 @@ And Minamino, who will wear the number 18 shirt, admits he never thought he woul
 
 Minamino scored 64 goals in 199 appearances for Salzburg having arrived from Cerezo Osaka in January 2015.
 
-{% include figure image_path="https://cdn.statically.io/img/i2-prod.liverpool.com/incoming/article17449616.ece/ALTERNATES/s810/0_GettyImages-1189599261.jpg" caption="The Japanese attacker's versatility will enhance his prospects of regular game time at Liverpool. (Image: Photo by Nick Taylor/Liverpool FC/Liverpool FC via Getty Images)" %}
+{% include figure image_path="https://cdn.statically.io/img/i2-prod.liverpool.com/incoming/article17449616.ece/ALTERNATES/s810/0_GettyImages-1189599261.jpg" caption="The Japanese attacker's versatility will enhance his prospects of regular game time at Liverpool. (Image: Photo by Nick Taylor/Liverpool FC via Getty Images)" %}
 
 One of those strikes came at Anfield earlier this season in the Austrian side's 4-3 Champions League group stage defeat.
 
