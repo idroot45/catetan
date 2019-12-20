@@ -1,6 +1,6 @@
 ---
-title: "Final Piala Dunia Antar-klub: CR Flamengo vs Liverpool FC"
-excerpt: "The European Champions advance to Saturday’s final against Flamengo, who rallied to defeat Saudi side Al-Hilal earlier in first semi-final."
+title: "Final Piala Dunia Antar-klub: CR Flamengo vs Liverpool FC (Rabu dini hari)"
+excerpt: "The European Champions advance to Saturday’s final (Kick off tanggal 22 Desember 2019 pukul 00:30 WIB) against Flamengo, who rallied to defeat Saudi side Al-Hilal earlier in first semi-final."
 categories: [liverpool]
 tags: [liverpool fc, cr flamengo, club world cup]
 # header:
