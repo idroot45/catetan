@@ -1,6 +1,6 @@
 ---
-title: "UCL Group Stage Matchday 2: Liverpool FC vs Red Bull Salzburg"
-excerpt: "Champions League Group Stage Matchday 2: Home vs Red Bull Salzburg. **KO 02:00 WIB**, Kamis, 3 Oktober 2019. Skor akhir: 4-3"
+title: "UCL Group Stage Matchday 3: Liverpool FC vs Red Bull Salzburg"
+excerpt: "Champions League Group Stage Matchday 3: Home vs Red Bull Salzburg. **KO 02:00 WIB**, Kamis, 3 Oktober 2019. Skor akhir: 4-3"
 categories: [liverpool]
 tags: [liverpool fc, rb salzburg, champions league]
 header:
