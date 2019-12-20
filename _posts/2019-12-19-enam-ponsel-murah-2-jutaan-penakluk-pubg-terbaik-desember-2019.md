@@ -18,7 +18,7 @@ Tapi jika ada diantara kalian yang masih memaksa memainkan PUBG Mobile versi pen
 
 Jika ingin lancar, RAM 4 GB atau lebih hukumnya wajib. Selain itu, chipset juga harus bisa mengolah data dengan kinerja tinggi. Jadi, CPU dan GPU juga harus bertenaga. Chipset Qualcomm Snapdragon seri 6 jadi syarat minimal. Atau jika memilih ponsel bercipset MediaTek, maka seri Helio P60 adalah batas bawah agar tetap lancar memainkan gim PUBG Mobile.
 
-{% include figure alt="ponsel 2 jutaan" caption="{{ page.image.caption }}" image_path="https://media.hitekno.com/thumbs/2019/11/21/83098-smartphone-murah-rp-2-jutaan-lancar-main-pubg-mobile/730x480-img-83098-smartphone-murah-rp-2-jutaan-lancar-main-pubg-mobile.jpg" %}
+{% include figure alt="ponsel 2 jutaan" caption="Ponsel 2 jutaan yang lancar main PUBG Mobile" image_path="https://media.hitekno.com/thumbs/2019/11/21/83098-smartphone-murah-rp-2-jutaan-lancar-main-pubg-mobile/730x480-img-83098-smartphone-murah-rp-2-jutaan-lancar-main-pubg-mobile.jpg" %}
 
 Untuk bulan Desember 2019, adakah smartphone murah yang bisa memenuhi syarat di atas? Ada donk.. Karena belakangan makin banyak ponsel cerdas baru yang harganya terjangkau. Dari smartphone rilisan yang baru, makin banyak yang memiliki performa tinggi. Selain itu, ponsel baru ini (ada keluaran lama juga) hadir dengan kapasitas RAM yang memadai.
 
