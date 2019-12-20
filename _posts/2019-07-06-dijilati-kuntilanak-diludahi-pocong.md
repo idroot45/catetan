@@ -5,9 +5,11 @@ header:
  overlay_image: https://i0.wp.com/mojok.co/wp-content/uploads/2019/07/liverpool.jpg
  caption: "_copyright_{:.fa fa-copyright} mojok.co"
 link: https://mojok.co/yms/balbalan/meja-perundingan-liverpool-dijilati-kuntilanak-dan-diludahi-pocong/
-categories: [olahraga]
+categories: [liverpool]
 tags: [liverpool fc, bursa transfer, kuntilanak, pocong]
----
+redirect_from:
+ - /olahraga/liverpool-dijilati-kuntilanak-diludahi-pocong/
+--
 
 …
 
