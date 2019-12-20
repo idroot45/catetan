@@ -4,10 +4,13 @@ excerpt: "Live Video Stream **Liverpool FC** vs **Aston Villa**. Football League
 header:
  image: "https://cdn.statically.io/img/i2-prod.liverpool.com/incoming/article17041156.ece/ALTERNATES/s810/0_GettyImages-1173868960.jpg"
  caption: "Anfield’s mentality has been transformed."
-categories: [liverpool]
-tags: [streaming bola, streaming liverpool, rekap liverpool fc]
+layout: category
+permalink: /liverpool/catatan-tanding-dan-jadwal-streaming/
+taxonomy: liverpool
 redirect_from:
+ - /liverpool
  - /streaming/catatan-tanding-liverpool-fc-dan-streaming/
+ - /liverpool/catetan-tanding-liverpool-fc-dan-streaming/
 last_modified_at: 2019-12-15 10:04:00
 ---
 *Ingat baik-baik!*{:.fa .fa-cog .fa-spin aria-hidden="true"} **1**. Tayangan akan tersedia hanya **jika ada** dan **tersedia** (dapat saya temukan) di internet. Baca [latar belakang](#latar-belakang) catatan ini.<br /> **2**. Refresh **10 menit** sebelum _kick off_, selain di waktu tersebut kemungkinan siaran tidak dapat diakses.<br /> **3**. Streaming di halaman ini diusahakan dalam kualitas HD, jadi kemungkinan akan menguras kuota/data hingga 2 GB dan membutuhkan kecepatan konektivitas minimal 10 mbps untuk kelancaran streaming.<br /> **4**. Sedangkan mengenai pilihan siaran **MolaTV**, tidak saya rekomendasikan. Silahkan baca [catatannya](#molatv).
