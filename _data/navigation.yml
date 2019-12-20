@@ -3,6 +3,6 @@ main:
     icon: "fa fa-home"
     url: https://knoacc.github.io/catetan/
   - title: "Tentang"
-    url: "/about/?utm_source=navigation
+    url: "/about/?utm_source=navigation"
   - title: "Liverpool FC"
     url: "/liverpool?utm_source=navigation"
