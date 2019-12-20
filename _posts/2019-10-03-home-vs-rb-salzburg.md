@@ -1,6 +1,6 @@
 ---
-title: "UCL Group Stage Matchday 2: Home vs Red Bull Salzburg"
-excerpt: "Champions League Group Stage Matchday 2: Liverpool FC vs Red Bull Salzburg. **KO 02:00 WIB**, Kamis, 3 Oktober 2019"
+title: "UCL Group Stage Matchday 2: Liverpool FC vs Red Bull Salzburg"
+excerpt: "Champions League Group Stage Matchday 2: Home vs Red Bull Salzburg. **KO 02:00 WIB**, Kamis, 3 Oktober 2019. Skor akhir: 4-3"
 categories: [liverpool]
 tags: [liverpool fc, rb salzburg, champions league]
 header:
@@ -8,7 +8,7 @@ header:
   provider: youtube
   id: Y26HYaY3qls 
 ---
-{{ page.excerpt }}. Skor akhir: **4-3**
+{{ page.excerpt }}.
 
 {% include figure caption="Gol penyelamat dari Mo Salah" alt="Mo Salah vs RB Salzburg" image_path="https://i2-prod.liverpool.com/incoming/article17022711.ece/ALTERNATES/s810/0_GettyImages-1178635744.jpg" %}
 
