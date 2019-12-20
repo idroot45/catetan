@@ -120,4 +120,4 @@ Varian|Harga
 ZenFone Max Pro M2 RAM 4 GB + 64 GB|Rp 2.599.000.
 ZenFone Max Pro M2 RAM 6 GB + 64 GB|Rp 2.999.000.
 
-Itulah 6 ponsel android murah 2 jutaan terbaik akhir tahun 2019 yang mampu melibas PUBG Mobile (bukan yang lite) meski cuma seharga Rp 2 jutaan. Semuanya bisa kamu dapatkan di Desember 2019 ini jika masih belum punya dana untuk meminang [ponsel gaming terbaik 2019]().
+Itulah 6 ponsel android murah 2 jutaan terbaik akhir tahun 2019 yang mampu melibas PUBG Mobile (bukan yang lite) meski cuma seharga Rp 2 jutaan. Semuanya bisa kamu dapatkan di Desember 2019 ini jika masih belum punya dana untuk meminang [ponsel gaming terbaik 2019](/ripiew/hape-gaming-terbaik-2019-2020/).
