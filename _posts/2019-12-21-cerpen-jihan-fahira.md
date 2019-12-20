@@ -1,5 +1,5 @@
 ---
-title: "Jihan Fahira"
+title: "Cerita Pendek “Jihan Fahira”"
 excerpt: "Realita itu perih kawan, mending Kau balikan saja sama mimpi."
 categories: [cerpen]
 tags: [cerpen]
