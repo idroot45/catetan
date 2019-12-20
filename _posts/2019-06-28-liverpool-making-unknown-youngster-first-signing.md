@@ -7,7 +7,7 @@ header:
   provider: "full_link"
  teaser: "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/4221396001/50ff65f3-690b-43ec-8f22-f5390b55bdcd/bf440c62-f30e-46db-a922-45c5045f6d1e/1280x720/match/image.jpg"
 categories: 
- - sepakbola
+ - liverpool
 tags:
  - liverpool fc
  - van den berg
@@ -15,6 +15,7 @@ tags:
  - transfer window
 redirect_from:
  - /olahraga/liverpool-making-unknown-youngster-first-signing/
+ - /sepakbola/liverpool-making-unknown-youngster-first-signing/
 link: https://www.mirror.co.uk/sport/football/news/making-unknown-youngster-first-signing-17267069.amp
 ---
 Liverpool have signalled their summer transfer intent… by making an unknown youngster their first signing.
