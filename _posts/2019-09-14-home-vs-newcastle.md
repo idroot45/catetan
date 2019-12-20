@@ -1,6 +1,6 @@
 ---
-title: "EPL Game Week ke-5: Away vs Newcastle"
-excerpt: "EPL GW 5 Liverpool vs Newcastle KO 18:30 WIB 14 September 2019"
+title: "EPL Game Week ke-5: Liverpool FC vs Newcastle"
+excerpt: "Kick off pukul 18:30 WIB 14 September 2019. Skor akhir 3-1, Liverpool FC tetap di pucuk."
 categories: [liverpool]
 tags: [liverpool fc, newcastle united, liga inggris]
 header:
@@ -8,7 +8,7 @@ header:
   provider: youtube
   id: ZMPihAQzrGQ
 ---
-{{ page.excerpt }}. Skor akhir 3-1, Liverpool FC tetap di pucuk.
+{{ page.excerpt }}
 
 - Tidak ditayangkan LIVE di TVRI maupun MolaTV [Web/App](https://mola.tv/watch?v=vd67493643){: onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Tonton Tayang Ulang" target="_new" rel="nofollow noreferer noopener"}, tetapi bisa ditonton tayangan ulangnya.
 - Link stream `m3u8` <del>hari ini masih burem 😒 gelap gulita. Jadi di ganti tayangan channel eurosport.</del>
