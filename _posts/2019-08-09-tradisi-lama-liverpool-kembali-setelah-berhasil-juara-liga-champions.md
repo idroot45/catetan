@@ -14,8 +14,10 @@ figure2:
    image_path: "/assets/images/bill-shankly-gettyimages.jpg"
    alt: "Manajer Liverpool, Bill Shankly"
    title: "Manajer Liverpool, Bill Shankly. GettyImages"
-categories: [sepakbola]
+categories: [liverpool]
 tags: [this is anfield, tradisi liverpool]
+redirect_from:
+ - /sepakbola/tradisi-lama-liverpool-kembali-setelah-berhasil-juara-liga-champions/
 ---
 > {{ page.excerpt }}
 
