@@ -3,6 +3,7 @@ title: "Cerita Pendek “Jihan Fahira”"
 excerpt: "Realita itu perih kawan, mending Kau balikan saja sama mimpi."
 categories: [cerpen]
 tags: [cerpen]
+author_profile: true
 header:
  image: https://cdn-brilio-net.akamaized.net/news/2017/02/25/121337/591626-jihan-fahiraa.jpg
  caption: "Jihan Fahira, Semi finalis Gadis Sampul 93"
