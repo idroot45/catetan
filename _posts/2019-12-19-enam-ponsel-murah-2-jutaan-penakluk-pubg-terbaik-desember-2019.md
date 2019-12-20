@@ -10,7 +10,7 @@ categories: [ripiew]
 tags: [pubg mobile, ponsel 2 jutaan, ponsel terbaik desember, asus, xiaomi, oppo]
 last_modified_at: 2019-12-20 22:45:03
 ---
-Sedang mencari smartphone murah terbaik Desember 2019 ini? Ada kok ponsel di kisaran harga Rp 2 jutaan yang bisa dengan lancar memainkan gim PUBG Mobile. PUBG Mobile bukanlah gim sembarangan yang bisa dimainkan pada smartphone murah.
+Sedang mencari smartphone murah terbaik Desember 2019 ini? Ada kok ponsel di kisaran harga Rp 2 jutaan yang bisa dengan lancar memainkan gim PUBG Mobile. PUBG Mobile bukanlah gim sembarangan yang [bisa dimainkan pada smartphone murah](/game/rekomendasi-5-game-offline-android-terbaik-akhir-tahun-2019/).
 
 PUBG Mobile bisa dibilang gim yang cukup berat jikandimainkan di smartphone murah. Karena itulah Tencent sebagai pengembangnya menghadirkan PUBG Mobile lite untuk dimainkan smartphone kentang.
 
