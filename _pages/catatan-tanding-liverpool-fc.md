@@ -29,5 +29,3 @@ Postingan ini niatnya hanya untuk menyimpan link streaming pertandingan-pertandi
 > [Menerawang Starting XI Liverpool 5 Tahun Mendatang](/sepakbola/liverpool-5-tahun-mendatang-tanpa-salah-mane-dan-van-dijk/){: rel="noopener"}
 
 Liverpool predicted lineup (4-3-3): Alisson; Alexander-Arnold, Gomez, Van Dijk, Robertson; Henderson, Milner, Keita; Salah, Firmino, Mane
-
-> Kalau tak bisa memejamkan mata, ada laga pengganti laga akbar antara Westham United vs Liverpool FC yang ditunda. Yakni:<br/> [Manchester City vs Leicester City](/lfctv2)<br/>
