@@ -1,6 +1,6 @@
 ---
-title: "Manchester City vs Leicester City - LFCTV"
-excerpt: "English Premier League: Manchester City vs Leicester City. Program pengganti laga Westham United vs Liverpool FC"
+title: "Norwich vs Wolverhampton - LFCTV"
+excerpt: "English Premier League: Norwich vs Wolverhampton. Program pengganti laga Westham United vs Liverpool FC"
 permalink: "/lfctv2"
 layout: "stream"
 header:
