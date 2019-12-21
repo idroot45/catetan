@@ -1,6 +1,7 @@
 ---
-title: "CF Monterey vs Liverpool FC - LFCTV"
-permalink: "/lfctv2"
+title: "CR Flamengo vs Liverpool FC - LFCTV"
+excerpt: "Club World Cup Final CR Flamengo vs Liverpool FC Live Stream Video"
+permalink: "/lfctv"
 layout: "stream"
 header:
  og_image: "https://cdn.statically.io/img/www.catetan.pw/assets/images/lfctv.jpeg"
