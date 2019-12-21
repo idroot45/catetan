@@ -11,13 +11,13 @@ redirect_from:
  - /liverpool
  - /streaming/catatan-tanding-liverpool-fc-dan-streaming/
  - /liverpool/catetan-tanding-liverpool-fc-dan-streaming/
-last_modified_at: 2019-12-15 10:04:00
+last_modified_at: 2019-12-21 18:34:00
 ---
 Postingan ini niatnya hanya untuk menyimpan link streaming pertandingan-pertandingan **[Liverpool FC](/liverpool?utm_source=document)** saja. Utamanya *Premier League*, tetapi mungkin ada juga pertandingan di kompetisi lain seperti _Carabao Cup_ dan _Champions League_ juga _Piala Dunia Antar-Klub_. Baca selengkapnya: [
 
 ## Jadwal Luar Biadab Bulan Desember 2019
 
-|Fixtures|Date - Kick Off|Match|Result|
+|Fixtures|Date - Kick Off|Match|
 |---|---|---|---|
 | CWC Final | 22/12/2019 - n/a | [vs CR Flamengo](/liverpool/cwc-vs-flamengo/) |
 | EPL GW 18 | **Menyesuaikan** | Away vs West Ham |
@@ -26,8 +26,8 @@ Postingan ini niatnya hanya untuk menyimpan link streaming pertandingan-pertandi
 
 {% include tengah.html %}
 
-## Hasil Sebelumnya:
-
 > [Menerawang Starting XI Liverpool 5 Tahun Mendatang](/sepakbola/liverpool-5-tahun-mendatang-tanpa-salah-mane-dan-van-dijk/){: rel="noopener"}
+
+> Liverpool FC absen dalam Game Week 18 Liga Inggris karena keikutsertaannya dalam [Club World Cup](/liverpool/cwc-vs-flamengo/). Sebagai program pengganti ada laga **Westham United vs Liverpool FC**: 1. [Manchester City vs Leicester City](/lfctv2), 2. [Everton vs Arsenal FC](/lfctv1).
 
 {% include tengah.html %}
