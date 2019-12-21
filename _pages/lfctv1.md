@@ -4,9 +4,9 @@ excerpt: "English Premier League: Manchester City vs Leicester CityProgram pengg
 permalink: "/lfctv1"
 layout: "stream"
 header:
- og_image: "https://cdn.statically.io/img/www.catetan.pw/assets/images/lfctv.jpeg"
-video_id: "cdn10.dailysport.pw/live/3/3"
-poster: "https://pbs.twimg.com/media/EME_FrjWwAA5uEU?format=jpg&name=large"
+ og_image: "https://i2-prod.football.london/arsenal-fc/article17456615.ece/ALTERNATES/s1200/0_everton-arsenal.png"
+video_id: "cdn10.dailysport.pw/live/4/4"
+poster: "https://i2-prod.football.london/arsenal-fc/article17456615.ece/ALTERNATES/s1200/0_everton-arsenal.png"
 sitemap: false
 ---
 
