@@ -28,6 +28,13 @@ Postingan ini niatnya hanya untuk menyimpan link streaming pertandingan-pertandi
 
 > [Menerawang Starting XI Liverpool 5 Tahun Mendatang](/sepakbola/liverpool-5-tahun-mendatang-tanpa-salah-mane-dan-van-dijk/){: rel="noopener"}
 
-> Liverpool FC absen dalam Game Week 18 Liga Inggris karena keikutsertaannya dalam [Club World Cup](/liverpool/cwc-vs-flamengo/). Sebagai program pengganti ada laga **Westham United vs Liverpool FC**: 1. [Manchester City vs Leicester City](/lfctv2), 2. [Everton vs Arsenal FC](/lfctv1).
-
+> Liverpool FC absen dalam Game Week 18 Liga Inggris karena keikutsertaannya dalam Club World Cup.<br/>
+> Tetapi, usahakan nanti malam siapkan kebugaran jantung.<br/>
+> Menabung tidur untuk stok nanti malam juga dipersilahkan.<br/>
+> Sebab tengah malam nanti ada laga CR Flamengo vs Liverpool FC di ajang Piala Dunia Antar-klub.<br/>
+> Haram hukumnya bagi Fans Liverpool punya penyakit jantung.<br/>
+> Kalau tak bisa memejamkan mata, ada laga pengganti laga akbar antara Westham United vs Liverpool FC yang ditunda. Yakni:<br/>
+> 1. [Manchester City vs Leicester City](/lfctv2)<br/>
+> 2. [Everton vs Arsenal FC](/lfctv1)<br/>
+> Pilih sesuka hati.
 {% include tengah.html %}
