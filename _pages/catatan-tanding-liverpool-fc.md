@@ -44,9 +44,7 @@ Liverpool look set to welcome Virgil van Dijk back as they bid to become world c
 
 Liverpool predicted lineup (4-3-3): Alisson; Alexander-Arnold, Gomez, Van Dijk, Robertson; Henderson, Milner, Keita; Salah, Firmino, Mane
 
-> Kalau tak bisa memejamkan mata, ada laga pengganti laga akbar antara Westham United vs Liverpool FC yang ditunda. Yakni:<br/>
-> 1. [Manchester City vs Leicester City](/lfctv2)<br/>
-> 2. [Everton vs Arsenal FC](/lfctv1)<br/>
-> Pilih sesuka hati.
+> Kalau tak bisa memejamkan mata, ada laga pengganti laga akbar antara Westham United vs Liverpool FC yang ditunda. Yakni:<br/> [Manchester City vs Leicester City](/lfctv2)<br/>
+
 
 {% include tengah.html %}
