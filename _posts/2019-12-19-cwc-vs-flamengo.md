@@ -1,12 +1,14 @@
 ---
 title: "Final Piala Dunia Antar-klub: CR Flamengo vs Liverpool FC (Minggu dini hari)"
-excerpt: "The European Champions advance to Saturday’s final (Kick off tanggal 22 Desember 2019 pukul 00:30 WIB) against Flamengo, who rallied to defeat Saudi side Al-Hilal earlier in first semi-final."
+excerpt: "The European Champions advance to Saturday’s final against Flamengo, who rallied to defeat Saudi side Al-Hilal earlier in first semi-final."
 categories: [liverpool]
 tags: [liverpool fc, cr flamengo, club world cup]
 header:
  video:
   id: "internal"
   provider: "lfctv"
+ og_image: "https://cdn.statically.io/img/www.catetan.pw/assets/images/5472.jpg"
+ teaser: "https://i0.wp.com/www.catetan.pw/assets/images/5472.jpg?resize=400,250"
 last_modified_at: 2019-12-22 00:00:01
 ---
 {{ page.excerpt }}
@@ -30,9 +32,10 @@ Liverpool look set to welcome Virgil van Dijk back as they bid to become world c
 
 ## Prematch
 
+{% include figure image_path="https://cdn.statically.io/img/www.catetan.pw/assets/images/5472.jpg" caption="Here’s the scene in Qatar. (Matthew Ashton - AMA/Getty Images)" %}
+
 **The teams in full:**
 
 **Liverpool:** Alisson, Van Dijk, Robertson, Gomez, Alexander-Arnold, Henderson, Oxlade-Chamberlain, Keita, Salah, Firmino, Mane. Subs: Lonergan, Adrian, van den Berg, Hoever, Williams, Milner, Lallana, Wijnaldum, Jones, Elliott, Shaqiri, Origi.
 
 **Flamengo: Diego Alves, Filipe Luis, Rafinha, Rodrigo Caio, Pablo Mari, Everton Ribeiro, Willian Arao, De Arrascaeta, Gerson, Bruno Henrique, Gabriel Barbosa. Subs: Cesar, Gabriel Batista, Rhodolfo, Rodinei, Rene, Thuler, Diego, Berrio, Vitinho, Piris Da Motta, Reinier, Lincoln.
-
