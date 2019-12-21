@@ -10,9 +10,6 @@ header:
  og_image: https://cdn-brilio-net.akamaized.net/news/2017/02/25/121337/591626-jihan-fahiraa.jpg
 last_modified_at: 2019-12-21 15:41:01
 ---
-
-# Jihan Fahira dan Warung Nasi Kucing
-
 Dihembuskannya perlahan-lahan asap rokok yang sedetik lalu disesapnya. Sorot lampu neon di tengah warung meredup terhalang kabut putih kecoklatan. Mukidi terdiam.
 
 "Realita itu perih kawan, mending Kau balikan saja sama mimpi," ujarnya sejurus kemudian sembari menampakkan sederet gigi yang masih sehat meskipun warnanya menguning langsat. Mencoba melucu, tapi tak lucu.
