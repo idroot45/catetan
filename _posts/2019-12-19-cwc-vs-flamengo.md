@@ -1,12 +1,12 @@
 ---
-title: "Final Piala Dunia Antar-klub: CR Flamengo vs Liverpool FC (Minggu dini hari)"
+title: "🔴 LIVE Final Piala Dunia Antar-klub: Liverpool FC vs CR Flamengo"
 excerpt: "The European Champions advance to Saturday’s final against Flamengo, who rallied to defeat Saudi side Al-Hilal earlier in first semi-final."
 categories: [liverpool]
 tags: [liverpool fc, cr flamengo, club world cup]
 header:
  video:
-  id: "internal"
-  provider: "lfctv"
+  provider: "internal"
+  id: "lfctv"
  og_image: "https://cdn.statically.io/img/www.catetan.pw/assets/images/5472.jpg"
  teaser: "https://i0.wp.com/www.catetan.pw/assets/images/5472.jpg?resize=400,250"
 last_modified_at: 2019-12-22 00:00:01
