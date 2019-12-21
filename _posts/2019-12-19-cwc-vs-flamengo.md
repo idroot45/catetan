@@ -3,10 +3,11 @@ title: "Final Piala Dunia Antar-klub: CR Flamengo vs Liverpool FC (Minggu dini h
 excerpt: "The European Champions advance to Saturday’s final (Kick off tanggal 22 Desember 2019 pukul 00:30 WIB) against Flamengo, who rallied to defeat Saudi side Al-Hilal earlier in first semi-final."
 categories: [liverpool]
 tags: [liverpool fc, cr flamengo, club world cup]
- header:
-  video:
-   id: "internal"
-   provider: "lfctv"
+header:
+ video:
+  id: "internal"
+  provider: "lfctv"
+last_modified_at: 2019-12-22 00:00:01
 ---
 {{ page.excerpt }}
 
