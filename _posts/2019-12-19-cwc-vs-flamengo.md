@@ -7,9 +7,9 @@ header:
 # video:
 #  provider: "internal"
 #  id: "lfctv3"
- image: "https://cdn.statically.io/img/www.catetan.pw/assets/images/4942.jpgfilter=grayscale"
+ image: "https://cdn.statically.io/img/www.catetan.pw/assets/images/4942.jpg?filter=grayscale"
  og_image: "https://cdn.statically.io/img/www.catetan.pw/assets/images/5472.jpg"
- teaser: "https://cdn.statically.io/img/www.catetan.pw/assets/images/5472.jpg?w=160&h=320&quality=80&filter=grayscale"
+ teaser: "https://cdn.statically.io/img/www.catetan.pw/assets/images/5472.jpg?h=180&w=320&quality=80&filter=grayscale"
 last_modified_at: 2019-12-22 00:00:01
 ---
 The European Champions advance to Saturday’s final against Flamengo, who rallied to defeat Saudi side Al-Hilal earlier in first semi-final."
