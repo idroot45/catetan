@@ -29,7 +29,7 @@ Liverpool predicted lineup (4-3-3): Alisson; Alexander-Arnold, Gomez, Van Dijk, 
 
 Liverpool look set to welcome Virgil van Dijk back as they bid to become world champions for the first time by beating Flamengo in the Fifa Club World Cup final this evening.
 
-{% include figure image_path="https://static.standard.co.uk/s3fs-public/thumbnails/image/2019/12/20/10/liverpool-xi-flamengo-0.png" caption="Liverpool predicted line-up vs Flamengo (image via buildlineup.com" %}
+{% include figure image_path="https://cdn.statically.io/img/static.standard.co.uk/s3fs-public/thumbnails/image/2019/12/20/10/liverpool-xi-flamengo-0.png?format=webp" caption="Liverpool predicted line-up vs Flamengo (image via buildlineup.com" %}
 
 ## Prematch
 
