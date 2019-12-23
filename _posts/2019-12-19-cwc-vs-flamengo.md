@@ -56,3 +56,6 @@ Roberto Firmino’s extra-time goal brought Liverpool glory in the Club World Cu
 ## Aftermatch
 
 {% include video provider="youtube" id="XcIFKaLWOHY" %}
+
+
+Video reaksi J. Klopp Liverpool FC 1 - 0 CR Flamengo via [liverpoolfc.com](https://indonesia.liverpoolfc.com/news/indonesia-news/379662-liverpool-1-0-flamengo-reaksi-jurgen-klopp)
