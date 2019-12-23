@@ -7,9 +7,9 @@ header:
 # video:
 #  provider: "internal"
 #  id: "lfctv3"
- image: "https://cdn.statically.io/img/www.catetan.pw/assets/images/4942.jpg"
+ image: "https://cdn.statically.io/img/www.catetan.pw/assets/images/4942.jpgfilter=grayscale"
  og_image: "https://cdn.statically.io/img/www.catetan.pw/assets/images/5472.jpg"
- teaser: "https://i0.wp.com/www.catetan.pw/assets/images/5472.jpg?resize=400,250"
+ teaser: "https://cdn.statically.io/img/www.catetan.pw/assets/images/5472.jpg?w=160&h=320&quality=80&filter=grayscale"
 last_modified_at: 2019-12-22 00:00:01
 ---
 The European Champions advance to Saturday’s final against Flamengo, who rallied to defeat Saudi side Al-Hilal earlier in first semi-final."
@@ -43,11 +43,11 @@ Liverpool look set to welcome Virgil van Dijk back as they bid to become world c
 
 ## Match
 
-{% include figure image_path="https://cdn.statically.io/img/www.catetan.pw/assets/images/2114.jpg" caption="Firmino puts Liverpool ahead in extra time. (Mike Hewitt - FIFA/FIFA via Getty Images)" %}
+{% include figure image_path="https://cdn.statically.io/img/www.catetan.pw/assets/images/3000.jpg" caption="Firmino puts Liverpool ahead in extra time. (Mike Hewitt - FIFA/FIFA via Getty Images)" %}
 
 The breakthrough! Mane is played through, running from left to right, checks back to deliver a pass to the onrushing, unmarked Firmino, and he shifts the ball to his right, leaving Diego Alves helpless, and blasts it in!
 
-{% include figure image_path="https://cdn.statically.io/img/www.catetan.pw/assets/images/3000.jpg" caption="Firmino celebrates after scoring. (Ali Haider/EPA)" %}
+{% include figure image_path="https://cdn.statically.io/img/www.catetan.pw/assets/images/2114.jpg" caption="Firmino celebrates after scoring. (Ali Haider/EPA)" %}
 
 Roberto Firmino’s extra-time goal brought Liverpool glory in the Club World Cup at the end of a dramatic, tense but low-scoring final
 
