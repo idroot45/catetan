@@ -1,17 +1,18 @@
 ---
-title: "🔴 LIVE Final Piala Dunia Antar-klub: Liverpool FC vs CR Flamengo"
-excerpt: "The European Champions advance to Saturday’s final against Flamengo, who rallied to defeat Saudi side Al-Hilal earlier in first semi-final."
+title: "Final Piala Dunia Antar-klub: Liverpool FC vs CR Flamengo"
+excerpt: "Club Wordl Clup Final Liverpool FC vs CR Flamengo at Khalifa International Stadium, Doha, Qatar. Skor akhir: 1-0"
 categories: [liverpool]
 tags: [liverpool fc, cr flamengo, club world cup]
 header:
- video:
-  provider: "internal"
-  id: "lfctv3"
+# video:
+#  provider: "internal"
+#  id: "lfctv3"
+ image: "https://cdn.statically.io/img/www.catetan.pw/assets/images/4942.jpg"
  og_image: "https://cdn.statically.io/img/www.catetan.pw/assets/images/5472.jpg"
  teaser: "https://i0.wp.com/www.catetan.pw/assets/images/5472.jpg?resize=400,250"
 last_modified_at: 2019-12-22 00:00:01
 ---
-{{ page.excerpt }}
+The European Champions advance to Saturday’s final against Flamengo, who rallied to defeat Saudi side Al-Hilal earlier in first semi-final."
 
 Seperti biasa, streaming hanya tersedia dalam kualitas HD dan jika belum bisa diakses 5 menit sebelum kick-off, refresh sampai kejang-kejang!.
 {:.notice .notice--info}
@@ -39,3 +40,16 @@ Liverpool look set to welcome Virgil van Dijk back as they bid to become world c
 **Liverpool:** Alisson, Van Dijk, Robertson, Gomez, Alexander-Arnold, Henderson, Oxlade-Chamberlain, Keita, Salah, Firmino, Mane. Subs: Lonergan, Adrian, van den Berg, Hoever, Williams, Milner, Lallana, Wijnaldum, Jones, Elliott, Shaqiri, Origi.
 
 **Flamengo: Diego Alves, Filipe Luis, Rafinha, Rodrigo Caio, Pablo Mari, Everton Ribeiro, Willian Arao, De Arrascaeta, Gerson, Bruno Henrique, Gabriel Barbosa. Subs: Cesar, Gabriel Batista, Rhodolfo, Rodinei, Rene, Thuler, Diego, Berrio, Vitinho, Piris Da Motta, Reinier, Lincoln.
+
+## Match
+
+{% include figure image_path="https://cdn.statically.io/img/www.catetan.pw/assets/images/6009.jpg" caption="Firmino puts Liverpool ahead in extra time. (Mike Hewitt - FIFA/FIFA via Getty Images)" %}
+
+The breakthrough! Mane is played through, running from left to right, checks back to deliver a pass to the onrushing, unmarked Firmino, and he shifts the ball to his right, leaving Diego Alves helpless, and blasts it in!
+
+{% include figure image_path="https://cdn.statically.io/img/www.catetan.pw/assets/images/2114.jpg" caption="Firmino celebrates after scoring. (Ali Haider/EPA)" %}
+
+Roberto Firmino’s extra-time goal brought Liverpool glory in the Club World Cup at the end of a dramatic, tense but low-scoring final
+
+{% include figure image_path="https://cdn.statically.io/img/www.catetan.pw/assets/images/4942.jpg" caption="Firmino scores for Liverpool in extra time. (David Ramos - FIFA/FIFA via Getty Images)" %}
+
