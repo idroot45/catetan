@@ -5,7 +5,7 @@ header:
  video:
   id: lfctv3
   provider: internal
- og_image: /assets/images/watch_leicester_liverpool_for_free_on_amazon_prime.jpg"
+ og_image: "/assets/images/watch_leicester_liverpool_for_free_on_amazon_prime.jpg"
 categories: [liverpool]
 tags: [liverpool fc, leicester city, liga inggris]
 ---
