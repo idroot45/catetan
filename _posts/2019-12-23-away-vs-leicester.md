@@ -10,6 +10,7 @@ header:
 categories: [liverpool]
 tags: [liverpool fc, leicester city, liga inggris]
 ---
+{{ page.excerpt }}.
 
 ## Heads up
 
@@ -19,4 +20,11 @@ Manchester membenamkan Leicester City dengan skor 3-1. Artinya, klasemen tidak b
 
 Pertemuan terakhir kala [Liverpool menjamu Leicester](/liverpool/home-vs-leicester/) berakhir dengan skor 2-1 untuk kemenangan tuan rumah meski semoat dibuat kerepotan.
 
+### Insight
+
+1. Dalam 5 kali pertemuan terakhir dengan Liverpool, Leicester kalah 4 kali sejak kemenangan terakhir mereka pada Februari 2017.
+2. Liverpool memenangkan 2 laga away terakhir melawan Leicester, namun belum pernah menang 3 kali berturut-turut saat bertandang ke markas Leicester.
+3. Dalam 7 laga antara kedua tim, gawang keduanya selalu kebobolan. Dalam 20 laga sebelumnya, kedua tim hanya mampu menyarangkan gol di 8 laga.
+4. Liverpool dan Leicester juga pernah berhadapan pada Boxing-day kala Leicester menjadi kampiun di musim 2015/16. Dalam laga itu, Liverpool menang 1-0 di Anfield, yang juga merupakan 1 dari 3 kekalahan yang dialami Leicester di musim itu.
+5. Liverpool selalu memenangkan laga Boxing-day dalam 4 pertemuan terakhir dengan agregat skor 11-0. Namun, Liverpool belum pernah memenangkan 5 laga Boxing-day secara berturut-turut.
 
