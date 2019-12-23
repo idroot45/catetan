@@ -53,3 +53,6 @@ Roberto Firmino’s extra-time goal brought Liverpool glory in the Club World Cu
 
 {% include figure image_path="https://cdn.statically.io/img/www.catetan.pw/assets/images/4942.jpg" caption="Firmino scores for Liverpool in extra time. (David Ramos - FIFA/FIFA via Getty Images)" %}
 
+## Aftermatch
+
+{% include video provider="youtube" id="XcIFKaLWOHY" %}
