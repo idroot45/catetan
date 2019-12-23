@@ -53,6 +53,7 @@ layout: compress
 <script>
     var player = new Clappr.Player({
     source: '{{ page.video.source }}',
+    
     plugins: [ChromecastPlugin],
     parentId: '#responsive',
     width: '100%',
@@ -65,5 +66,7 @@ layout: compress
     }
 });
 </script>
+{% include ads.html %}
+{% include addon.html %}
 </body>
 </html>
