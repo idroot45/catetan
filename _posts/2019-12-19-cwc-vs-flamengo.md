@@ -43,11 +43,11 @@ Liverpool look set to welcome Virgil van Dijk back as they bid to become world c
 
 ## Match
 
-{% include figure image_path="https://cdn.statically.io/img/www.catetan.pw/assets/images/6009.jpg" caption="Firmino puts Liverpool ahead in extra time. (Mike Hewitt - FIFA/FIFA via Getty Images)" %}
+{% include figure image_path="https://cdn.statically.io/img/www.catetan.pw/assets/images/2114.jpg" caption="Firmino puts Liverpool ahead in extra time. (Mike Hewitt - FIFA/FIFA via Getty Images)" %}
 
 The breakthrough! Mane is played through, running from left to right, checks back to deliver a pass to the onrushing, unmarked Firmino, and he shifts the ball to his right, leaving Diego Alves helpless, and blasts it in!
 
-{% include figure image_path="https://cdn.statically.io/img/www.catetan.pw/assets/images/2114.jpg" caption="Firmino celebrates after scoring. (Ali Haider/EPA)" %}
+{% include figure image_path="https://cdn.statically.io/img/www.catetan.pw/assets/images/3000.jpg" caption="Firmino celebrates after scoring. (Ali Haider/EPA)" %}
 
 Roberto Firmino’s extra-time goal brought Liverpool glory in the Club World Cup at the end of a dramatic, tense but low-scoring final
 
