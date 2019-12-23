@@ -1,6 +1,6 @@
 ---
 title: "Hiburan [LFCTV]"
-excerpt: "Hiburan dulu..."
+excerpt: "Irishman (2019)"
 permalink: "/lfctv"
 layout: "clappr"
 video:
