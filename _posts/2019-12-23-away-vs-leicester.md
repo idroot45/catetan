@@ -1,6 +1,6 @@
 ---
-title: "EPL Game Week ke-19
-execerpt:
+title: "EPL Game Week ke-19: Leicester City vs Liverpool FC"
+execerpt: "EPL GW-19 Away vs Leicester City Kick-off 03:00 WIB 27 Desember 2019"
 header:
  video:
   id: lfctv
