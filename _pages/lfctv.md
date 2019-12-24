@@ -1,6 +1,6 @@
 ---
 title: "Hiburan [LFCTV]"
-excerpt: "Irishman (2019)"
+excerpt: "Code Geass: Fukkatsu No Lelouch (2019)"
 permalink: "/lfctv3"
 layout: "clappr"
 video:
