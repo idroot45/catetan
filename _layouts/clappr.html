@@ -70,17 +70,12 @@ layout: compress
     parentId: '#responsive',
     width: '100%',
     height: '100%',
-    hlsMinimumDvrSize: 0,
+    hlsMinimumDvrSize: 2,
     playback: {
         hlsjsConfig: {
             liveSyncDurationCount: 1
         }
     }
-});
-player.on('fullscreen', function(isFullscreen) {
-	if (isFullscreen) {
-		screen.orientation.lock('landscape');
-	}
 });
 </script>
 </body>
