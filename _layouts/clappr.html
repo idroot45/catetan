@@ -9,7 +9,7 @@ layout: compress
 <meta property="og:url" content="https://www.catetan.pw/liverpool/catatan-tanding-dan-jadwal-streaming/" />
 <meta property="og:video" content="{{ page.video.source }}" />
 <meta property="og:video:secure_url" content="{{ page.video.source }}" />
-<meta property="og:video:type" content="application/vnd.apple.mpegurl" />
+<meta property="og:video:type" content="{{ page.video.type }}" />
 <meta property="og:video:width" content="1920" />
 <meta property="og:video:height" content="1080" />
 <style>
@@ -70,6 +70,14 @@ layout: compress
     parentId: '#responsive',
     width: '100%',
     height: '100%',
+    chromecast: {
+          appId: '9DFB77C0',
+          contentType: '{{ page.video.type }}',
+          media: {
+            type: ChromecastPlugin.None,
+            title: '{{ page.title }}',
+            subtitle: '{{ page.excerpt }}'
+          },
     hlsMinimumDvrSize: 10,
     playback: {
         hlsjsConfig: {
