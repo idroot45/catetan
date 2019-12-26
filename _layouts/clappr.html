@@ -83,7 +83,11 @@ layout: compress
     hlsMinimumDvrSize: 10,
     playback: {
         hlsjsConfig: {
-            liveSyncDurationCount: 2
+           maxBufferSize: 0,
+           maxBufferLength: 30,
+           liveSyncDuration: 30,
+           liveSyncDurationCount: 2,
+           liveMaxLatencyDuration: Infinity
         }
     }
 });
