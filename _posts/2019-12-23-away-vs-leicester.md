@@ -2,15 +2,14 @@
 title: "EPL Game Week ke-19: Leicester City vs Liverpool FC"
 excerpt: "EPL GW-19 Away vs Leicester City Kick-off 03:00 WIB. Jum'at, 27 Desember 2019. Skor akhir: 0-4"
 header:
- image: "/assets/images/3500.jpg"
- teaser: "/assets/images/3500.jpg"
+ image: "https://cdn.statically.io/img/www.catetan.pw/assets/images/3500.jpg"
+ teaser: "https://cdn.statically.io/img/www.catetan.pw/assets/images/3500.jpg"
  og_image: "https://cdn.statically.io/img/www.catetan.pw/assets/images/watch_leicester_liverpool_for_free_on_amazon_prime.jpg"
- teaser: "https://cdn.statically.io/img/www.catetan.pw/assets/images/watch_leicester_liverpool_for_free_on_amazon_prime.jpg?filter=grayscale&w=320&h=180"
-categories: [liverpool]
+ categories: [liverpool]
 tags: [liverpool fc, leicester city, liga inggris]
 last_modified_at: 2019-12-27 04:50:02
 ---
-{{ page.excerpt }}.
+$**{{ page.excerpt }}**_.
 
 ## Heads up
 
@@ -28,7 +27,7 @@ Pertemuan terakhir kala [Liverpool menjamu Leicester](/liverpool/home-vs-leicest
 4. Liverpool dan Leicester juga pernah berhadapan pada Boxing-day kala Leicester menjadi kampiun di musim 2015/16. Dalam laga itu, Liverpool menang 1-0 di Anfield, yang juga merupakan 1 dari 3 kekalahan yang dialami Leicester di musim itu.
 5. Liverpool selalu memenangkan laga Boxing-day dalam 4 pertemuan terakhir dengan agregat skor 11-0. Namun, Liverpool belum pernah memenangkan 5 laga Boxing-day secara berturut-turut.
 
-### Pre-match
+## Pre-match
 
 Klopp said there were no other injuries from their week in Qatar, but that centre-backs Dejan Lovren (hamstring) and Joel Matip (knee) and midfielder Fabinho (ankle) would not return before 2020.
 
@@ -40,7 +39,7 @@ Klopp said there were no other injuries from their week in Qatar, but that centr
 
 **Predicted XI (4-3-3)**: Alisson, Alexander-Arnold, Gomez, Van Dijk, Robertson, Henderson, Wijnaldum, Keita, Salah, Firmino, Mane.
 
-### Match
+## Match
 
 **Leicester City v Liverpool line-ups**
 
@@ -60,7 +59,7 @@ Referee: Michael Oliver (Northumberland)
 **GOAL! Leicester City 0-1 Liverpool (Firmino 31)**
 Roberto Firmino heads Liverpool into the lead, leaping highest at the far post to convert a wonderful cross from assist-merchant Trent Alexander-Arnold. His downward header sneaks in at the bottom corner.
 
-{% include figure caption="Roberto Firmino of Liverpool heads the ball goalwards ... (Michael Regan/Getty Images)" image_path="///3020.jpg" %}
+{% include figure caption="Roberto Firmino of Liverpool heads the ball goalwards ... (Michael Regan/Getty Images)" image_path="https://cdn.statically.io/img/www.catetan.pw/assets/images/3020.jpg" %}
 
 **Half-time: Leicester 0-1 Liverpool**
 Peep! The teams go in for the break with Liverpool leading courtesy of Roberto Firmino’s downward header after he leapt to get on the end of Trent Alexander-Arnold’s long diagonal cross. Liverpool have spurned several easier chances, with Sadio Mane and Mo Salah both guilty of uncharacteristically sloppy efforts to finish.
@@ -68,22 +67,22 @@ Peep! The teams go in for the break with Liverpool leading courtesy of Roberto F
 **GOAL! Leicester 0-2 Liverpool (Milner 71pen)**
 Liverpool double their lead, with James Milner scoring with his first kick of the ball. Schemiechel dived to his left, but Milner slotted the ball low and down the middle.
 
-{% include figure caption="James Milner slots the ball home from the penalty spot for Liverpool’s second goal of the game. (Oli Scarff/AFP via Getty Images)" image_path="///3000.jpg" %}
+{% include figure caption="James Milner slots the ball home from the penalty spot for Liverpool’s second goal of the game. (Oli Scarff/AFP via Getty Images)" image_path="https://cdn.statically.io/img/www.catetan.pw/assets/images/3000.jpg" %}
 
 **GOAL! Leicester 0-3 Liverpool (Roberto Firmino 75)**
 Yet another assist from Alexander-Arnold, who has been outstanding tonight. He drills a low cross into the penalty area and it’s converted by Roberto Firmino, who fires into the top corner.
 
-{% include figure image_path="///2000.jpg" caption="Firmino celebrates with manager Jürgen Klopp. (Carl Recine/Action Images via Reuters)" %}
+{% include figure image_path="https://cdn.statically.io/img/www.catetan.pw/assets/images/2000.jpg" caption="Firmino celebrates with manager Jürgen Klopp. (Carl Recine/Action Images via Reuters)" %}
 
 **GOAL! Leicester 0-4 Liverpool (Alexander-Arnold 78)**
 Now Alexander-Arnold gets on the scoresheet, firing into the bottom left-hand corner from distance, with a fine first-time shot after being teed up by Sadio Mane. He let the ball roll across his body onto his left foot and could scarcely have struck a sweeter shot.
 
-{% include figure caption="Trent Alexander-Arnold of Liverpool scores his team’s fourth goal. (Michael Regan/Getty Images)" image_path="/assets/images/3626.jpg" %}
+{% include figure caption="Trent Alexander-Arnold of Liverpool scores his team’s fourth goal. (Michael Regan/Getty Images)" image_path="https://cdn.statically.io/img/www.catetan.pw/assets/images/3626.jpg" %}
 
 **Full time: Leicester City 0-4 Liverpool**
 Peep! Peep! Peeeeeep! It’s all over at the King Power Stadium, where Liverpool have cruised to victory with an imperious performance. Trent Alexander-Arnold was the stand-out performer, providing two assists, winning his side a penalty and getting amongst the goals as his side romped to victory. Liverpool are 13 points clear of second placed Leicester in the race for the title and have a game in hand on their closest rivals.
 
-### After-match
+## After-match
 
 **Man of the Match: Trent Alexander-Arnold speaks.**
 
