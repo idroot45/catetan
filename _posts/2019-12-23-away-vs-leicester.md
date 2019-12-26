@@ -37,6 +37,7 @@ Klopp said there were no other injuries from their week in Qatar, but that centr
 
 "Matip, Lovren, and Fabinho (are) in a good way but not ready for these games."
 
-{% include figure caption="Stratin XI againts Leicester City" image_path="https://static.standard.co.uk/s3fs-public/thumbnails/image/2019/12/24/16/liverpool2412abcde.png" %}
+{% include figure caption="Liverpool's Starting XI againts Leicester City" image_path="https://static.standard.co.uk/s3fs-public/thumbnails/image/2019/12/24/16/liverpool2412abcde.png" %}
 
 **Predicted XI (4-3-3)**: Alisson, Alexander-Arnold, Gomez, Van Dijk, Robertson, Henderson, Wijnaldum, Keita, Salah, Firmino, Mane.
+
