@@ -62,10 +62,8 @@ layout: compress
 
     var player = new Clappr.Player({
     source: '{{ page.video.source }}',
-    preload: 'none',
-    crossOrigin: 'use-credentials',
     recycleVideo: Clappr.Browser.isMobile,
-    triggerFatalErrorOnResourceDenied: false,
+    triggerFatalErrorOnResourceDenied: true,
     gaAccount: 'UA-116300012-1',
     gaTrackerName: 'video_played',
     mediacontrol: {
@@ -73,8 +71,8 @@ layout: compress
       buttons: "#FF0000"
     },
     poster: '{{ page.video.poster }}',
-    /*watermark: "{{ page.video.logo }}",*/
-    /*watermarkLink: "{{ page.video.link }}",*/
+    watermark: "{{ page.video.logo }}",
+    watermarkLink: "{{ page.video.link }}",
     plugins: [ChromecastPlugin],
     parentId: '#responsive',
     width: '100%',
