@@ -2,8 +2,8 @@
 title: "EPL Game Week ke-19: Leicester City vs Liverpool FC"
 excerpt: "EPL GW-19 Away vs Leicester City Kick-off 03:00 WIB. Jum'at, 27 Desember 2019. Skor akhir: 0-4"
 header:
- image:
- teaser: 
+ image: "/assets/images/3500.jpg"
+ teaser: "/assets/images/3500.jpg"
  og_image: "https://cdn.statically.io/img/www.catetan.pw/assets/images/watch_leicester_liverpool_for_free_on_amazon_prime.jpg"
  teaser: "https://cdn.statically.io/img/www.catetan.pw/assets/images/watch_leicester_liverpool_for_free_on_amazon_prime.jpg?filter=grayscale&w=320&h=180"
 categories: [liverpool]
@@ -60,22 +60,25 @@ Referee: Michael Oliver (Northumberland)
 **GOAL! Leicester City 0-1 Liverpool (Firmino 31)**
 Roberto Firmino heads Liverpool into the lead, leaping highest at the far post to convert a wonderful cross from assist-merchant Trent Alexander-Arnold. His downward header sneaks in at the bottom corner.
 
-{% include figure %}
+{% include figure caption="Roberto Firmino of Liverpool heads the ball goalwards ... (Michael Regan/Getty Images)" image_path="///3020.jpg" %}
+
+**Half-time: Leicester 0-1 Liverpool**
+Peep! The teams go in for the break with Liverpool leading courtesy of Roberto Firmino’s downward header after he leapt to get on the end of Trent Alexander-Arnold’s long diagonal cross. Liverpool have spurned several easier chances, with Sadio Mane and Mo Salah both guilty of uncharacteristically sloppy efforts to finish.
 
 **GOAL! Leicester 0-2 Liverpool (Milner 71pen)**
 Liverpool double their lead, with James Milner scoring with his first kick of the ball. Schemiechel dived to his left, but Milner slotted the ball low and down the middle.
 
-{% include figure %}
+{% include figure caption="James Milner slots the ball home from the penalty spot for Liverpool’s second goal of the game. (Oli Scarff/AFP via Getty Images)" image_path="///3000.jpg" %}
 
 **GOAL! Leicester 0-3 Liverpool (Roberto Firmino 75)**
 Yet another assist from Alexander-Arnold, who has been outstanding tonight. He drills a low cross into the penalty area and it’s converted by Roberto Firmino, who fires into the top corner.
 
-{% include figure image_path="https://i.guim.co.uk/img/media/3da163d7481e3a3e570e4340c0c88a00e7add959/0_0_2000_1416/master/2000.jpg?width=465&quality=45&auto=format&fit=max&dpr=2&s=81c3fb51190cb85b2493a24e2becc82a" caption="Firmino celebrates with manager Jürgen Klopp. (Carl Recine/Action Images via Reuters)" %}
+{% include figure image_path="///2000.jpg" caption="Firmino celebrates with manager Jürgen Klopp. (Carl Recine/Action Images via Reuters)" %}
 
 **GOAL! Leicester 0-4 Liverpool (Alexander-Arnold 78)**
 Now Alexander-Arnold gets on the scoresheet, firing into the bottom left-hand corner from distance, with a fine first-time shot after being teed up by Sadio Mane. He let the ball roll across his body onto his left foot and could scarcely have struck a sweeter shot.
 
-{% include figure %}
+{% include figure caption="Trent Alexander-Arnold of Liverpool scores his team’s fourth goal. (Michael Regan/Getty Images)" image_path="/assets/images/3626.jpg" %}
 
 **Full time: Leicester City 0-4 Liverpool**
 Peep! Peep! Peeeeeep! It’s all over at the King Power Stadium, where Liverpool have cruised to victory with an imperious performance. Trent Alexander-Arnold was the stand-out performer, providing two assists, winning his side a penalty and getting amongst the goals as his side romped to victory. Liverpool are 13 points clear of second placed Leicester in the race for the title and have a game in hand on their closest rivals.
@@ -89,3 +92,4 @@ Peep! Peep! Peeeeeep! It’s all over at the King Power Stadium, where Liverpool
 On his goal: “I don’t get on the scoresheet too often and I thought, yeah, just hit it first time,” he says. “You don’t really think you’re going to be in this position but we’re not going to take anything for granted and just keep going,” he says, when asked about Liverpool’s 13-point lead at the top of the table. 
 
 Alongside him, James Milner concurs, saying it’s only halfway through the season and “anything can happen”.
+
