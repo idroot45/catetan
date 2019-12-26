@@ -9,7 +9,7 @@ header:
 tags: [liverpool fc, leicester city, liga inggris]
 last_modified_at: 2019-12-27 04:50:02
 ---
-$**{{ page.excerpt }}**_.
+_**{{ page.excerpt }}**_.
 
 ## Heads up
 
