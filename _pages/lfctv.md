@@ -1,12 +1,12 @@
 ---
-title: "Leicester City vs Liverpool FC #LEILIV"
-excerpt: "EPL GW 19 - King Power Stadium, KO 03:00 WIB, Jum'at 27 Desember 2019"
+title: "Nonton Joker 2019"
+excerpt: "Jum'at 27 Desember 2019"
 permalink: "/lfctven"
 layout: "clappr"
 video:
  source: "https://stream09.cdncv.net/hls/mfqjztnuupo6sr7qw7iezpi6w7metchabmd2ffivm,kgoqp73lu7hcjvj325q,b5oqp73lu7cp7bsybja,.urlset/master.m3u8"
 # source: "https://cdn10.dailysport.pw/live/2/2.m3u8"
- poster: "https://cdn.statically.io/img/www.catetan.pw/assets/images/watch_leicester_liverpool_for_free_on_amazon_prime.jpg"
+ poster: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/poster-joker-2-1567010576.jpg"
  logo: "https://cdn.statically.io/img/repo.catetan.pw/icon/favicon-32x32.png"
  link: "https://www.catetan.pw/liverpool"
 # type: "application/vnd.apple.mpegurl"
