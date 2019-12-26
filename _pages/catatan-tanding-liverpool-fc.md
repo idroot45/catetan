@@ -11,7 +11,7 @@ redirect_from:
  - /liverpool
  - /streaming/catatan-tanding-liverpool-fc-dan-streaming/
  - /liverpool/catetan-tanding-liverpool-fc-dan-streaming/
-last_modified_at: 2019-12-23 13:21:00
+last_modified_at: 2019-12-27 04:59:00
 ---
 Postingan ini niatnya hanya untuk menyimpan link streaming pertandingan-pertandingan **[Liverpool FC](/liverpool?utm_source=document)** saja. Utamanya *Premier League*, tetapi mungkin ada juga pertandingan di kompetisi lain seperti _Carabao Cup_ dan _Champions League_ juga _Piala Dunia Antar-Klub_.
 
@@ -19,7 +19,6 @@ Postingan ini niatnya hanya untuk menyimpan link streaming pertandingan-pertandi
 
 |Fixtures|Date - Kick Off|Match|
 |---|---|---|---|
-| EPL GW 19 | **27/12/2019 - 03:00 WIB** | [Away vs Leicester](/liverpool/away-vs-leicester/) |
 | EPL GW 20 | 29/12/2019 - 23:30 WIB | [Home vs Wolves](/liverpool) |
 
 {% include tengah.html %}
