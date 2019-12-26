@@ -1,15 +1,14 @@
 ---
 title: "EPL Game Week ke-19: Leicester City vs Liverpool FC"
-excerpt: "EPL GW-19 Away vs Leicester City Kick-off 03:00 WIB 27 Desember 2019"
+excerpt: "EPL GW-19 Away vs Leicester City Kick-off 03:00 WIB. Jum'at, 27 Desember 2019. Skor akhir: 0-4"
 header:
- video:
-  id: lfctven
-  provider: internal
+ image:
+ teaser: 
  og_image: "https://cdn.statically.io/img/www.catetan.pw/assets/images/watch_leicester_liverpool_for_free_on_amazon_prime.jpg"
  teaser: "https://cdn.statically.io/img/www.catetan.pw/assets/images/watch_leicester_liverpool_for_free_on_amazon_prime.jpg?filter=grayscale&w=320&h=180"
 categories: [liverpool]
 tags: [liverpool fc, leicester city, liga inggris]
-last_modified_at: 2019-12-26 22:25:02
+last_modified_at: 2019-12-27 04:50:02
 ---
 {{ page.excerpt }}.
 
@@ -41,3 +40,24 @@ Klopp said there were no other injuries from their week in Qatar, but that centr
 
 **Predicted XI (4-3-3)**: Alisson, Alexander-Arnold, Gomez, Van Dijk, Robertson, Henderson, Wijnaldum, Keita, Salah, Firmino, Mane.
 
+### Match
+
+GOAL! Leicester City 0-1 Liverpool (Firmino 31)
+Roberto Firmino heads Liverpool into the lead, leaping highest at the far post to convert a wonderful cross from assist-merchant Trent Alexander-Arnold. His downward header sneaks in at the bottom corner.
+
+{% include figure %}
+
+GOAL! Leicester 0-2 Liverpool (Milner 71pen)
+Liverpool double their lead, with James Milner scoring with his first kick of the ball. Schemiechel dived to his left, but Milner slotted the ball low and down the middle.
+
+{% include figure %}
+
+GOAL! Leicester 0-3 Liverpool (Roberto Firmino 75)
+Yet another assist from Alexander-Arnold, who has been outstanding tonight. He drills a low cross into the penalty area and it’s converted by Roberto Firmino, who fires into the top corner.
+
+{% include figure image_path="https://i.guim.co.uk/img/media/3da163d7481e3a3e570e4340c0c88a00e7add959/0_0_2000_1416/master/2000.jpg?width=465&quality=45&auto=format&fit=max&dpr=2&s=81c3fb51190cb85b2493a24e2becc82a" caption="Firmino celebrates with manager Jürgen Klopp. (Carl Recine/Action Images via Reuters)" %}
+
+GOAL! Leicester 0-4 Liverpool (Alexander-Arnold 78)
+Now Alexander-Arnold gets on the scoresheet, firing into the bottom left-hand corner from distance, with a fine first-time shot after being teed up by Sadio Mane. He let the ball roll across his body onto his left foot and could scarcely have struck a sweeter shot.
+
+{% include figure %}
