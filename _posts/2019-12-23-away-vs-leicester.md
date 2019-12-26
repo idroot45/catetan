@@ -2,7 +2,8 @@
 title: "EPL Game Week ke-19: Leicester City vs Liverpool FC"
 excerpt: "EPL GW-19 Away vs Leicester City Kick-off 03:00 WIB. Jum'at, 27 Desember 2019. Skor akhir: 0-4"
 header:
- image: "https://cdn.statically.io/img/www.catetan.pw/assets/images/3500.jpg"
+ caption: "Trent Alexander-Arnold celebrates his goal with Jordan Henderson and Andrew Robertson. (Andrew Yates/Reuters)"
+ image: "https://cdn.statically.io/img/www.catetan.pw/assets/images/3729.jpg"
  teaser: "https://cdn.statically.io/img/www.catetan.pw/assets/images/3500.jpg"
  og_image: "https://cdn.statically.io/img/www.catetan.pw/assets/images/watch_leicester_liverpool_for_free_on_amazon_prime.jpg"
  categories: [liverpool]
