@@ -93,3 +93,7 @@ On his goal: “I don’t get on the scoresheet too often and I thought, yeah, j
 
 Alongside him, James Milner concurs, saying it’s only halfway through the season and “anything can happen”.
 
+### Next fixtures
+
+Leicester: 28 Dec v West Ham (A)
+[Liverpool: 29 Dec v Wolves (H)](/liverpool/home-vs-wolves/))
