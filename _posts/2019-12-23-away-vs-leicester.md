@@ -3,7 +3,7 @@ title: "EPL Game Week ke-19: Leicester City vs Liverpool FC"
 excerpt: "EPL GW-19 Away vs Leicester City Kick-off 03:00 WIB 27 Desember 2019"
 header:
  video:
-  id: lfctv3
+  id: lfctven
   provider: internal
  og_image: "https://cdn.statically.io/img/www.catetan.pw/assets/images/watch_leicester_liverpool_for_free_on_amazon_prime.jpg"
  teaser: "https://cdn.statically.io/img/www.catetan.pw/assets/images/watch_leicester_liverpool_for_free_on_amazon_prime.jpg?filter=grayscale&w=320&h=180"
