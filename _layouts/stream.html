@@ -14,15 +14,15 @@
 <body>
 <!-- {{ content }} -->
 <amp-video width="480" height="270"
-             poster="{{ page.poster }}"
+             poster="{{ page.video.poster }}"
              layout="responsive"
              controls
              autoplay
              rotate-to-fullscreen>
     <div fallback>
-      <p>Your browser doesn't support HTML5 video.</p>
+      <p>Your browser doesn't support HTML5 video. Click here to play <a href="https://www.catetan.pw/lfctves" target="_self">with web player</a></p>
     </div>
-    <source type="application/vnd.apple.mpegurl" src="https://{{ page.video_id }}.m3u8" />
+    <source type="application/vnd.apple.mpegurl" src="{{ page.video.source }" />
 </amp-video>
 <amp-ad width="100vw" height="320"
      type="adsense"
