@@ -8,5 +8,5 @@ video:
  poster: "https://cdn.statically.io/img/www.catetan.pw/assets/images/watch_leicester_liverpool_for_free_on_amazon_prime.jpg"
  logo: "https://cdn.statically.io/img/repo.catetan.pw/icon/favicon-32x32.png"
  link: "https://www.catetan.pw/liverpool"
-sitemap: false
+ type: "application/vnd.apple.mpegurl"
 ---
