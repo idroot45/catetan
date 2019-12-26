@@ -29,3 +29,14 @@ Pertemuan terakhir kala [Liverpool menjamu Leicester](/liverpool/home-vs-leicest
 4. Liverpool dan Leicester juga pernah berhadapan pada Boxing-day kala Leicester menjadi kampiun di musim 2015/16. Dalam laga itu, Liverpool menang 1-0 di Anfield, yang juga merupakan 1 dari 3 kekalahan yang dialami Leicester di musim itu.
 5. Liverpool selalu memenangkan laga Boxing-day dalam 4 pertemuan terakhir dengan agregat skor 11-0. Namun, Liverpool belum pernah memenangkan 5 laga Boxing-day secara berturut-turut.
 
+### Pre-match
+
+Klopp said there were no other injuries from their week in Qatar, but that centre-backs Dejan Lovren (hamstring) and Joel Matip (knee) and midfielder Fabinho (ankle) would not return before 2020.
+
+"No news on anyone else, which is good news," he added.
+
+"Matip, Lovren, and Fabinho (are) in a good way but not ready for these games."
+
+{% include figure caption="Stratin XI againts Leicester City" image_path="https://static.standard.co.uk/s3fs-public/thumbnails/image/2019/12/24/16/liverpool2412abcde.png" %}
+
+**Predicted XI (4-3-3)**: Alisson, Alexander-Arnold, Gomez, Van Dijk, Robertson, Henderson, Wijnaldum, Keita, Salah, Firmino, Mane.
