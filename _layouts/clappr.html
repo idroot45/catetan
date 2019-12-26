@@ -2,10 +2,17 @@
 layout: compress
 ---
 <!doctype html>
-<html>
+<html prefix="og: http://ogp.me/ns#">
 <head>
 <title>{{ page.title }}</title>
 <meta name="robots" content="noindex, nofollow" />
+<meta property="og:type" content="video.other" />
+<meta property="og:url" content="https://www.catetan.pw/liverpool/catatan-tanding-dan-jadwal-streaming/" />
+<meta property="og:video" content="{{ page.video.source }}" />
+<meta property="og:video:secure_url" content="{{ page.video.source }}" />
+<meta property="og:video:type" content="application/vnd.apple.mpegurl" />
+<meta property="og:video:width" content="1920" />
+<meta property="og:video:height" content="1080" />
 <style>
 #responsive {
         height: 55%;
@@ -54,10 +61,12 @@ layout: compress
 </div>
 <script>
     var player = new Clappr.Player({
-    source: '{{ page.video.source }}',
-    poster: '{{ page.video.poster }}',
-    watermark: '{{ page.video.logo }}',
-    watermarkLink: '{{ page.video.link }}',
+    source: "{{ page.video.source }}",
+    gaAccount: 'UA-116300012-1',
+    gaTrackerName: 'video_played',
+    poster: "{{ page.video.poster }}",
+    watermark: "{{ page.video.logo }}", position: 'top-right',
+    watermarkLink: "{{ page.video.link }}",
     plugins: [ChromecastPlugin, ClapprPIPPlugin],
     parentId: '#responsive',
     width: '100%',
