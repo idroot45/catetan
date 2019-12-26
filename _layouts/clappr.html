@@ -2,16 +2,16 @@
 layout: compress
 ---
 <!doctype html>
-<html prefix="og: http://ogp.me/ns#">
+<html>
 <head>
 <title>{{ page.title }}</title>
-<meta property="og:type" content="video.other" />
+<!--meta property="og:type" content="video.other" />
 <meta property="og:url" content="https://www.catetan.pw/liverpool/catatan-tanding-dan-jadwal-streaming/" />
 <meta property="og:video" content="{{ page.video.source }}" />
 <meta property="og:video:secure_url" content="{{ page.video.source }}" />
 <meta property="og:video:type" content="{{ page.video.type }}" />
 <meta property="og:video:width" content="1920" />
-<meta property="og:video:height" content="1080" />
+<meta property="og:video:height" content="1080" /-->
 <style>
 #responsive {
         height: 55%;
@@ -49,8 +49,8 @@ layout: compress
 <script src="https://cdn.jsdelivr.net/npm/p2p-media-loader-core@latest/build/p2p-media-loader-core.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/p2p-media-loader-hlsjs@latest/build/p2p-media-loader-hlsjs.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/clappr@latest"></script>
-<!--script src="https://cdn.jsdelivr.net/clappr.chromecast-plugin/latest/clappr-chromecast-plugin.js"></script-->
-<script src="https://cdn.jsdelivr.net/npm/clappr-pip-plugin@latest/dist/clappr-pip-plugin.js"></script>
+<script src="https://cdn.jsdelivr.net/clappr.chromecast-plugin/latest/clappr-chromecast-plugin.js"></script>
+<!--script src="https://cdn.jsdelivr.net/npm/clappr-pip-plugin@latest/dist/clappr-pip-plugin.js"></script-->
 </head>
 <body>
 <div class="container">
@@ -58,7 +58,8 @@ layout: compress
 <div id="responsive" class="reponsive-video-container"></div>
 </div>
 </div>
-<script>
+<script type='text/javascript'>
+
     var player = new Clappr.Player({
     source: '{{ page.video.source }}',
     gaAccount: 'UA-116300012-1',
@@ -66,7 +67,7 @@ layout: compress
     poster: '{{ page.video.poster }}',
     watermark: "{{ page.video.logo }}", position: 'top-right',
     watermarkLink: "{{ page.video.link }}",
-    plugins: [ClapprPIPPlugin],
+    plugins: [ChromecastPlugin],
     parentId: '#responsive',
     width: '100%',
     height: '100%',
