@@ -96,4 +96,4 @@ Alongside him, James Milner concurs, saying it’s only halfway through the seas
 ### Next fixtures
 
 Leicester: 28 Dec v West Ham (A)
-[Liverpool: 29 Dec v Wolves (H)](/liverpool/home-vs-wolves/))
+[Liverpool: **29 Dec** v Wolves (H)](/liverpool/home-vs-wolves/))
