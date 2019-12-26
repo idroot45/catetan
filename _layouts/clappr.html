@@ -62,6 +62,10 @@ layout: compress
 
     var player = new Clappr.Player({
     source: '{{ page.video.source }}',
+    preload: 'none',
+    crossOrigin: 'use-credentials',
+    recycleVideo: Clappr.Browser.isMobile,
+    triggerFatalErrorOnResourceDenied: false,
     gaAccount: 'UA-116300012-1',
     gaTrackerName: 'video_played',
     poster: '{{ page.video.poster }}',
