@@ -42,22 +42,50 @@ Klopp said there were no other injuries from their week in Qatar, but that centr
 
 ### Match
 
-GOAL! Leicester City 0-1 Liverpool (Firmino 31)
+**Leicester City v Liverpool line-ups**
+
+Leicester (4-1-4-1): Schmeichel, Ricardo Pereira, Evans, Soyuncu, Chilwell, Ndidi, Barnes, Praet, Tielemans, Maddison, Vardy.
+
+Subs: Justin, Morgan, Gray, Albrighton, Ward, Perez, Choudhury.
+
+Liverpool (4-3-3): Alisson, Alexander-Arnold, Gomez, van Dijk, Robertson, Keita, Henderson, Wijnaldum, Salah, Firmino, Mane.
+
+Subs: Milner, Adrian, Lallana, Shaqiri, Origi, Jones, Williams.
+
+Referee: Michael Oliver (Northumberland)
+
+**Leicester City v Liverpool is go ...**
+1 min: Liverpool get the ball rolling, their players wearing red shirts, shorts and socks. The players of Leicester wear their customary home strip of blue shirts, white shorts and blue socks.
+
+**GOAL! Leicester City 0-1 Liverpool (Firmino 31)**
 Roberto Firmino heads Liverpool into the lead, leaping highest at the far post to convert a wonderful cross from assist-merchant Trent Alexander-Arnold. His downward header sneaks in at the bottom corner.
 
 {% include figure %}
 
-GOAL! Leicester 0-2 Liverpool (Milner 71pen)
+**GOAL! Leicester 0-2 Liverpool (Milner 71pen)**
 Liverpool double their lead, with James Milner scoring with his first kick of the ball. Schemiechel dived to his left, but Milner slotted the ball low and down the middle.
 
 {% include figure %}
 
-GOAL! Leicester 0-3 Liverpool (Roberto Firmino 75)
+**GOAL! Leicester 0-3 Liverpool (Roberto Firmino 75)**
 Yet another assist from Alexander-Arnold, who has been outstanding tonight. He drills a low cross into the penalty area and it’s converted by Roberto Firmino, who fires into the top corner.
 
 {% include figure image_path="https://i.guim.co.uk/img/media/3da163d7481e3a3e570e4340c0c88a00e7add959/0_0_2000_1416/master/2000.jpg?width=465&quality=45&auto=format&fit=max&dpr=2&s=81c3fb51190cb85b2493a24e2becc82a" caption="Firmino celebrates with manager Jürgen Klopp. (Carl Recine/Action Images via Reuters)" %}
 
-GOAL! Leicester 0-4 Liverpool (Alexander-Arnold 78)
+**GOAL! Leicester 0-4 Liverpool (Alexander-Arnold 78)**
 Now Alexander-Arnold gets on the scoresheet, firing into the bottom left-hand corner from distance, with a fine first-time shot after being teed up by Sadio Mane. He let the ball roll across his body onto his left foot and could scarcely have struck a sweeter shot.
 
 {% include figure %}
+
+**Full time: Leicester City 0-4 Liverpool**
+Peep! Peep! Peeeeeep! It’s all over at the King Power Stadium, where Liverpool have cruised to victory with an imperious performance. Trent Alexander-Arnold was the stand-out performer, providing two assists, winning his side a penalty and getting amongst the goals as his side romped to victory. Liverpool are 13 points clear of second placed Leicester in the race for the title and have a game in hand on their closest rivals.
+
+### After-match
+
+**Man of the Match: Trent Alexander-Arnold speaks.**
+
+“We played really good football, especially after all the travelling we’ve had to do.,” he says. “So I suppose in that context it was one of our best performances of the season. To score four goals in a place like this is never easy.”
+
+On his goal: “I don’t get on the scoresheet too often and I thought, yeah, just hit it first time,” he says. “You don’t really think you’re going to be in this position but we’re not going to take anything for granted and just keep going,” he says, when asked about Liverpool’s 13-point lead at the top of the table. 
+
+Alongside him, James Milner concurs, saying it’s only halfway through the season and “anything can happen”.
