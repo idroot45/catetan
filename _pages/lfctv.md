@@ -1,7 +1,7 @@
 ---
 title: "Leicester City vs Liverpool FC #LEILIV"
 excerpt: "EPL GW 19 - King Power Stadium, KO 03:00 WIB, Jum'at 27 Desember 2019"
-permalink: "/lfctv3"
+permalink: "/lfctven"
 layout: "clappr"
 video:
  source: "https://cdn10.dailysport.pw/live/2/2.m3u8"
