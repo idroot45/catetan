@@ -3,7 +3,7 @@ title: "EPL Game Week ke-19: Leicester City vs Liverpool FC"
 excerpt: "EPL GW-19 Away vs Leicester City Kick-off 03:00 WIB. Jum'at, 27 Desember 2019. Skor akhir: 0-4"
 header:
  caption: "Trent Alexander-Arnold celebrates his goal with Jordan Henderson and Andrew Robertson. (Andrew Yates/Reuters)"
- image: "https://cdn.statically.io/img/www.catetan.pw/assets/images/3792.jpg?filter=grayscale"
+ image: "https://cdn.statically.io/img/www.catetan.pw/assets/images/3167.jpg?filter=grayscale"
  teaser: "https://cdn.statically.io/img/www.catetan.pw/assets/images/3500.jpg?w=360,180"
  og_image: "https://cdn.statically.io/img/www.catetan.pw/assets/images/3626.jpg"
 categories: [liverpool]
@@ -86,6 +86,8 @@ Peep! Peep! Peeeeeep! It’s all over at the King Power Stadium, where Liverpool
 ## After-match
 
 **Man of the Match: Trent Alexander-Arnold speaks.**
+
+{% include figure caption="Trent Alexander-Arnold celebrates his goal with Jordan Henderson and Andrew Robertson. (Andrew Yates/Reuters)" image_path="https://cdn.statically.io/img/www.catetan.pw/assets/images/3792.jpg" %}
 
 “We played really good football, especially after all the travelling we’ve had to do.,” he says. “So I suppose in that context it was one of our best performances of the season. To score four goals in a place like this is never easy.”
 
