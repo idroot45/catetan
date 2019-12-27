@@ -5,7 +5,7 @@ header:
  caption: "Trent Alexander-Arnold celebrates his goal with Jordan Henderson and Andrew Robertson. (Andrew Yates/Reuters)"
  image: "https://cdn.statically.io/img/www.catetan.pw/assets/images/3167.jpg?filter=grayscale"
  teaser: "https://cdn.statically.io/img/www.catetan.pw/assets/images/3500.jpg?w=360,180"
- og_image: "https://cdn.statically.io/img/www.catetan.pw/assets/images/3626.jpg"
+ og_image: "https://cdn.statically.io/img/www.catetan.pw/assets/images/3792.jpg"
 categories: [liverpool]
 tags: [liverpool fc, leicester city, liga inggris]
 last_modified_at: 2019-12-27 04:50:02
@@ -87,7 +87,7 @@ Peep! Peep! Peeeeeep! It’s all over at the King Power Stadium, where Liverpool
 
 **Man of the Match: Trent Alexander-Arnold speaks.**
 
-{% include figure caption="Trent Alexander-Arnold celebrates his goal with Jordan Henderson and Andrew Robertson. (Andrew Yates/Reuters)" image_path="https://cdn.statically.io/img/www.catetan.pw/assets/images/3792.jpg" %}
+{% include figure caption="Trent Alexander-Arnold celebrates his goal with Jordan Henderson and Andrew Robertson. (Andrew Yates/Reuters)" image_path="https://cdn.statically.io/img/www.catetan.pw/assets/images/3167.jpg" %}
 
 “We played really good football, especially after all the travelling we’ve had to do.,” he says. “So I suppose in that context it was one of our best performances of the season. To score four goals in a place like this is never easy.”
 
