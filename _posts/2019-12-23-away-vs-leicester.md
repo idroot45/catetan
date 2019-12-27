@@ -68,7 +68,7 @@ Peep! The teams go in for the break with Liverpool leading courtesy of Roberto F
 **GOAL! Leicester 0-2 Liverpool (Milner 71pen)**
 Liverpool double their lead, with James Milner scoring with his first kick of the ball. Schemiechel dived to his left, but Milner slotted the ball low and down the middle.
 
-{% include figure caption="James Milner slots the ball home from the penalty spot for Liverpool’s second goal of the game. (Oli Scarff/AFP via Getty Images)" image_path="https://cdn.statically.io/img/www.catetan.pw/assets/images/3000.jpg" %}
+{% include figure caption="James Milner slots the ball home from the penalty spot for Liverpool’s second goal of the game. (Oli Scarff/AFP via Getty Images)" image_path="/assets/images/3000.jpg" %}
 
 **GOAL! Leicester 0-3 Liverpool (Roberto Firmino 75)**
 Yet another assist from Alexander-Arnold, who has been outstanding tonight. He drills a low cross into the penalty area and it’s converted by Roberto Firmino, who fires into the top corner.
