@@ -1,7 +1,7 @@
 ---
 title: "EPL Game Week ke-20: Liverpool FC vs Wolves"
 excerpt: "EPL GW 20 Home vs Wolves Kick-off 23:30 Minggu, 29 Desember 2019."
-categorhttps://www.catetan.pw/liverpool/cwc-vs-flamengo/https://www.catetan.pw/liverpool/cwc-vs-flamengo/ies: [liverpool]
+categories: [liverpool]
 tags: [liga inggris, liverpool fc, wolverhampton wanderers]
 header:
  image: "/assets/images/livwol.jpg"
