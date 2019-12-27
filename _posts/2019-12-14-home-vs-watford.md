@@ -1,5 +1,5 @@
 ---
-title: "EPL Game Weeknke-7: Liverpool FC Vs Watford, Pesta Gol Lagi di Anfield?"
+title: "EPL Game Week ke-7: Liverpool FC Vs Watford, Pesta Gol Lagi di Anfield?"
 description: "EPL GW 17 Home vs Watford, Cukup 2 gol saja, semua diborong Mo Salah."
 header:
 # video:
