@@ -18,11 +18,21 @@ Seperti dilansir dari [LiverpoolFC](https://www.liverpoolfc.com/amp/news/first-t
 
 Sebelumnya, Liverpool sukses menjuarai Piala Dunia Antarklub 2019 setelah [mengalahkan wakil CONMEBOL asal Brasil, Flamengo](/liverpoo/cwc-vs-flamengo/), dengan skor 1-0 lewat babak tambahan.
 
-Sementara itu, jagat sosmed ramai oleh selebrasi Trent yang meniru selebrasi Mbappe. Bahkannada yang mengaitkannya dengan transfer Mbappe dengan mengatakan bahwa itu sinyal bahwa Liverpool akan mengontraknya.
+Sementara itu, jagat sosmed ramai oleh selebrasi Trent yang meniru selebrasi Kylian Mbappe. Bahkan Mbappe sendiri juga merespon foto unggahan BR yang menyandingkan foto selebrasi Mbappe dengan selebrasi Trent saat merayakan gol-nya ketika melawan Leicester.
 
-Tetapi (menurutku) bisa jadi itu hal yang sebaliknya. Mungkin saja Trent ingin mengtakan bahwa: "Tidak perlu Mbappe, aku saja sudah cukup untuk menggantikannya."
+Kemudian ada juga yang mengaitkannya dengan transfer Mbappe yang belakangan juga ramai. Salah seorang fans memposting bahwa itu semacam tanda atau pesan bahwa Liverpool FC akan segera mengontraknya.
 
-Lihat saja caption dari foto yang diunggahnya di akun media sosialnya: "Anything Mbappe can do... 😂🔴 #YNWA." Nah lo?!
+Tetapi (menurutku) bisa jadi itu malah jadi yang sebaliknya. Mungkin saja Trent ingin mengtakan bahwa: “Tidak perlu Mbappe, aku saja sudah cukup untuk menggantikannya.”
+
+"Anything Mbappe can do... 😂🔴 #YNWA." Tulis Trent dalam caption foto ketika memposting foto selebrasinya dalam akun twitter.
+
+Masih ingat kan bahwa J. Klopp pernah bilang beberapa hari lalu bahwa itu adalah hal yang tidak mungkin ketika disinggung soal kemungkinan transfer Mbappe.
+
+"We cannot do it, it is as easy as that. OK, from a sporting point of view, there are not a lot of reasons to not sign him, what a player he is.
+
+"But it is about the money of course. No chance. Absolutely no chance, sorry for killing that story!"
+
+_Kemahalan cuy!_
 
 ### Insight
 
