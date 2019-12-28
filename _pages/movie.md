@@ -2,7 +2,7 @@
 title: "Perang Bintang ke-9"
 excerpt: "Tontonan Pribadi"
 permalink: "/movie"
-layout: "clappr"
+layout: "stream"
 video:
  source: "https://stream12.cdncv.net/hls/mfqj7or4udouc57qw7euzpcf4dpkjztbbikzitj75,ot2ositicuf3iewu2mq,gh2ositicudkdui4mja,.urlset/master.m3u8"
  poster: "https://cdn.statically.io/img/id.bookmyshow.com/blog-hiburan/wp-content/uploads/2017/02/sun-plaza-medan-cinemaxx-bioskop-1024x576.jpg?filter=grayscale"
