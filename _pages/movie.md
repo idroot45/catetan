@@ -4,7 +4,7 @@ excerpt: "Tontonan Pribadi"
 permalink: "/movie"
 layout: "stream"
 video:
- source: "https://livevod.tv:8000/live/fe87qGhZyB/gmbQvEswvz/632.ts"
+ source: "https://raw.githubusercontent.com/LIVETVapk/Movistar_fe8/master/Movistar_fe8.m3u"
  poster: "https://cdn.statically.io/img/id.bookmyshow.com/blog-hiburan/wp-content/uploads/2017/02/sun-plaza-medan-cinemaxx-bioskop-1024x576.jpg?filter=grayscale"
  logo: "https://cdn.statically.io/img/repo.catetan.pw/icon/favicon-32x32.png"
  link: "https://www.catetan.pw/liverpool"
