@@ -1,7 +1,7 @@
 ---
 title: "Perang Bintang ke-9"
 excerpt: "Tontonan Pribadi"
-permalink: "/tests"
+permalink: "/movie"
 layout: "clappr"
 video:
  source: "https://www74.uptostream.com/1b6c2cr9670/360/0/video.mp4"
