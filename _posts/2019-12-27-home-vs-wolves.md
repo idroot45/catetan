@@ -42,3 +42,24 @@ _Kemahalan cuy!_
 4. Wolves memenangkan 4 dari 5 laga terakhir sebelum tahun baru dan sekali kalah di kandang melawan Queen Park Rangers tahun 2016.
 5. Liverpool tak pernah kalah dalam 49 laga kandang liga inggris, menang 39 kali dan seri 10 kali. Jika Liverpool tidak kalah dalam laga ini, maka Liverpool akan tercatat sebagai tim urutan ke-3 sebagai tim yang tak bisa dikalahkan secara beruntun dalam 50+ laga. Posisi pertama masih dipegang oleh Chelsea dengan rekor tak terkalahkan dalam 86 laga antara tahun 2004 hingga tahun 2008. Sementara posisi kedua dipegang oleh Liverpool sendiri dengan 63 laga yang dilakoni antara tahun 1978 hingga tahun 1980.
 
+## Pre-match
+
+Alisson will start in goal while Joe Gomez will continue to deputise alongside Virgil van Dijk in central defence and Andrew Robertson should start at left-back.
+
+With Fabinho on the treatment table after ankle ligament damage, Milner is likely to stand in at the base of midfield – particularly if Henderson is not risked from the off.
+
+Alex Oxlade-Chamberlain is ruled out due to a long-term ligament injury sustained against Flamengo so Naby Keita and Georginio Wijnaldum are expected to start once again.
+
+However, Adam Lallana and Xherdan Shaqiri will also hope to feature at some point against Wolves after substitute appearances in recent weeks.
+
+In attack, the usual front three of Mohamed Salah, Sadio Mane and Firmino should shoulder the attacking burden while Divock Origi will add support from the bench.
+
+However, Klopp may take the opportunity to rest one of his star trio – with Salah in particular looking jaded against Leicester – so Origi or Shaqiri could get the nod.
+
+Curtis Jones and Neco Williams were both included in the matchday squad against Leicester and are likely to be called upon once again, so they will also hope to get some minutes under their belts.
+
+Liverpool are unbeaten in the Premier League so far this season but face a tough test against Wolves, having lost twice to the Molineux club in FA Cup fixtures during recent seasons.
+
+{% include figure image_path="https://cdn.images.express.co.uk/img/dynamic/67/590x/secondary/Liverpool-team-news-predicted-line-up-Wolves-2232307.webp" caption="Liverpool predicted line-up vs Wolverhampton Wanderers" %}
+
+**Predicted XI (4-3-3):** Alisson; Alexander-Arnold, Gomez, Van Dijk, Robertson; Milner, Keita, Wijnaldum; Salah, Mane, Firmino
