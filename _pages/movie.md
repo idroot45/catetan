@@ -1,7 +1,7 @@
 ---
 title: "Campeones"
 excerpt: "Tontonan Pribadi"
-permalink: "/movie"
+permalink: "/tests"
 layout: "stream"
 video:
  source: "https://raw.githubusercontent.com/LIVETVapk/Movistar_fe8/master/Movistar_fe8.m3u"
