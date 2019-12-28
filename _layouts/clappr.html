@@ -66,15 +66,17 @@ var player = new Clappr.Player({
     watermarkLink: "{{ page.video.link }}",
     plugins: [ChromecastPlugin],
     parentId: '#responsive',
-    width: '640',
-    height: '480',
+    width: '640px',
+    height: '480px',
     mimeType: {{ page.video.type }},
     hlsMinimumDvrSize: 0,
-    crossorigin: 'anonymous',
     playback: {
+        crossOrigin: 'anonymous',
         hlsjsConfig: {
            liveSyncDurationCount: 3
-        }
+        },
+    gaAccount: 'UA-116300012-1',
+    gaTrackerName: 'pageview'
     }
 });
 </script>
