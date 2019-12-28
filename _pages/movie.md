@@ -1,14 +1,14 @@
 ---
-title: "Burung Marah"
+title: "Perang Bintang ke-9"
 excerpt: "Tontonan Pribadi"
 permalink: "/tests"
-layout: "stream"
+layout: "clappr"
 video:
- source: "http://livevod.tv:8000/movie/fe87qGhZyB/gmbQvEswvz/454.mp4"
+ source: "https://www74.uptostream.com/1b6c2cr9670/360/0/video.mp4"
  poster: "https://cdn.statically.io/img/id.bookmyshow.com/blog-hiburan/wp-content/uploads/2017/02/sun-plaza-medan-cinemaxx-bioskop-1024x576.jpg?filter=grayscale"
  logo: "https://cdn.statically.io/img/repo.catetan.pw/icon/favicon-32x32.png"
  link: "https://www.catetan.pw/liverpool"
- type: "video/x-mpeg"
+ type: "video/mp4"
 sitemap: false
 ---
 #EXTINF:-1,The Witcher S01 E04
