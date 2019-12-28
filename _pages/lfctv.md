@@ -8,7 +8,7 @@ video:
  poster: "https://cdn.statically.io/img/www.catetan.pw/assets/images/livwol.jpg?w=720&filter=grayascale&format=webp&quality=75"
  logo: "https://cdn.statically.io/img/repo.catetan.pw/icon/favicon-32x32.png"
  link: "https://www.catetan.pw/liverpool"
- type: "video/mpeg"
+ type: "application/x-mpegUrl"
 ---
 
 ### Wallpaper
