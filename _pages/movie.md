@@ -1,5 +1,5 @@
 ---
-title: "DAZN 1"
+title: "dailysport 1"
 excerpt: "Tontonan Pribadi"
 permalink: "/movie"
 layout: "clappr"
