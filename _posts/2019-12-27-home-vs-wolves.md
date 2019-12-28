@@ -44,7 +44,7 @@ _Kemahalan cuy!_
 
 ## Pre-match
 
-Alisson will start in goal while Joe Gomez will continue to deputise alongside Virgil van Dijk in central defence and Andrew Robertson should start at left-back.
+Alisson will start in goal while Joe Gomez will continue to deputise alongside Virgil van Dijk in central defence and Andrew Robertson should start at left-back along with Trent-Alexander Arnold will start after his exceptional display againts Leicester.
 
 With Fabinho on the treatment table after ankle ligament damage, Milner is likely to stand in at the base of midfield – particularly if Henderson is not risked from the off.
 
