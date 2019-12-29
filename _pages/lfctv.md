@@ -1,8 +1,8 @@
 ---
 title: "Liverpool FC vs Wolverhampton Wanderers #LIVWOL"
 excerpt: "EPL GW 20 Home vs Wolves. Minggu, 29 Desember 2019. Kick-off 23:30 WIB"
-permalink: "/lfctv"
-layout: "clappr"
+permalink: "/lfctv2"
+layout: "stream"
 video:
  source: "https://cdn10.dailysport.pw/live/2/2.m3u8"
  poster: "https://cdn.statically.io/img/www.catetan.pw/assets/images/livwol.jpg?w=720&filter=grayascale&format=webp&quality=75"
@@ -10,7 +10,6 @@ video:
  link: "https://www.catetan.pw/liverpool"
  type: "application/x-mpegUrl"
 ---
-
 ### Wallpaper
 
 [![Liverpool 1](https://cdn.statically.io/img/wallpaperplay.com/walls/full/9/f/e/324276.jpg?w=720&quality=60&format=webp)](https://cdn.statically.io/img/wallpaperplay.com/walls/full/9/f/e/324276.jpg)
