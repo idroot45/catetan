@@ -3,6 +3,8 @@ title: "6 Smartphone Murah Lancar PUBG 2 Jutaan Terbaik Akhir Tahun 2019"
 excerpt: "PUBG Mobile adalah pembunuh smartphone murah, kecuali 6 ponsel 2 jutaan terbaik Desember 2019 ini."
 date: 2019-12-19 06:15:03
 header:
+ teaser: "https://cdn.statically.io/img/asset.kompas.com/data/photo/2018/07/21/2944934254.jpg?width=460&quality=90"
+ og_image: "https://cdn.statically.io/img/asset.kompas.com/data/photo/2018/07/21/2944934254.jpg?filter=grayscale&quality=90"
  image: "https://cdn.statically.io/img/media.hitekno.com/thumbs/2019/12/18/65128-smartphone-murah-rp-2-jutaan/730x480-img-65128-smartphone-murah-rp-2-jutaan.jpg"
  caption: "Smartphone Murah Rp 2 jutaan, lancar main PUBG" 
  alt: "smartphone 2 jutaan lancar pubg"
