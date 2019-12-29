@@ -1,8 +1,8 @@
 main:
-  - title: "Home"
+  - title: "Arsip"
     icon: "fa fa-home"
-    url: https://knoacc.github.io/catetan/
+    url: "/arsip/?utm_source=navigation"
   - title: "Tentang"
     url: "/about/?utm_source=navigation"
   - title: "Liverpool FC"
-    url: "/liverpool?utm_source=navigation"
+    url: "/https://www.catetan.pw/liverpool/catatan-tanding-dan-jadwal-streaming/?utm_source=navigation"
