@@ -148,8 +148,8 @@ defaults:
       author_profile: false
   # _arsip
   - scope:
-      path: ""
-      type: docs
+      path: "_arsip"
+      type: arsip
     values:
       layout: single
       author_profile: false
@@ -158,9 +158,9 @@ defaults:
         nav: true
 
 collections:
-  docs:
+  arsip:
     output: true
-    permalink: /:collection/:path/
+    permalink: /:collection/:title/
 
 compress_html:
   clippings: all
