@@ -149,14 +149,16 @@ defaults:
   # _arsip
   - scope:
       path: ""
-      type: arsip
+      type: docs
     values:
       layout: single
       author_profile: false
       share: true
-  
+      sidebar:
+        nav: true
+
 collections:
-  arsip:
+  docs:
     output: true
     permalink: /:collection/:path/
 
