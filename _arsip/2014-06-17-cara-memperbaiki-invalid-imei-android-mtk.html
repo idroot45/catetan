@@ -1,0 +1,22 @@
+---
+categories: [arsip]
+title: "Cara Memperbaiki Invalid IMEI pada Android China (MTK)"
+# date: '2014-06-17T01:26:00.000+07:00'
+# author: Phate Holloway
+tags:
+ - Evercoss
+ - Evercoss A26C
+ - Tutorial
+ - Evercoss A7S
+ - Mediatek
+ - Evercoss A7T
+ - Android
+last_modified_at: '2019-02-12T08:13:06.527+07:00'
+header:
+	teaser: https://3.bp.blogspot.com/-y2KaHnwroy8/UsE1wdwYrgI/AAAAAAAAAu0/tCPhwDBLg7o/w480/mediatek-chip-2.jpg
+# blogger_id: tag:blogger.com,1999:blog-8168996750712797250.post-2381184125298315636
+redirect_from:
+  - /2014/06/cara-memperbaiki-invalid-imei-android-mtk.html
+---
+
+Banyak resiko yang menanti anda ketika anda memasang <a href="/search/label/CustomROM" rel="category">custom ROM</a> yang dibuat dengan tergessa-gesa oleh developer. Selain Bug-bug yang belum fix, ada juga resiko <b>hilangnya IMEI</b> atau biasa dikenal oleh user android dengan sebutan <strong>INVALID IMEI</strong> sebagaimana peringatan yang muncul pada saat IMEI di hanheld android anda hilang/tak terbaca. Terutama pada chipset Mediatek meskipun kasus ini (<a href="2014/06/cara-memperbaiki-invalid-imei-android-mtk.html">Invalid IMEI</a>) bisa juga di temukan di Chipset lain.<br /><br /><noscript><img src="https://3.bp.blogspot.com/-y2KaHnwroy8/UsE1wdwYrgI/AAAAAAAAAu0/tCPhwDBLg7o/s1600/mediatek-chip-2.jpg"></img></noscript><br />Untuk mengatasi resiko hilangnya IMEI, anda bisa menggunakan Mobile Uncle Tool untuk <b>memback-up dan merestore IMEI</b> dari dan ke microSD.<br />Tapi, jika anda sudah terlanjur <b>mengalami Invalid IMEI</b>, anda masih bisa melakukan perbaikan dengan menggunakan <em>mode enginering</em>. <b>Cara restore IMEI</b> lewat mode enginering bisa dilakukan dengan menggunakan kode khusus melalui <b>dial-pad di handheld android</b> anda.<br /><br />Jika anda punya PC Desktop/Laptop ada cara Alternatif: <b>Memperbaiki Invalid IMEI dengan MTK Droid Tools</b><br /><br /><blockquote><b>Peringatan:</b> Jangan mengganti nomer IMEI pada HP Android dengan "yang lain", karena dengan <b>mengganti IMEI</b> tidak sesuai aslinya adalah TINDAKAN MELANGGAR HUKUM. Maka, anda HARUS mengisinya sesuai dengan yang tertulis di Handheld anda (biasanya terdapat di balik baterai). Lakukan hal ini HANYA saat <b>terjadi Invalid IMEI</b> saja.</blockquote><br />Baca Juga: <a href="https://www.catetan.pw/2014/03/download-xda-framaroot-semua-versi-terbaru.html" target="_blank">Link Download XDA Framaroot Semua Versi Terbaru</a>.<br /><br />Sebelum mengikuti <b>tutorial inject nomor IMEI</b> ini, anda harus menyetujui <a href="/p/disclaimer.html">disclaimer</a> dan kebijakan <a href="/p/dmca.html">Hak Cipta / DMCA</a> di blog ini. Setelah itu, silahkan ikuti tutorial berikut:<br /><br />1. Syarat <b>melakukan restore imei</b>, tentu saja Android harus sudah root.<br />2. Silahkan masuk Engineering Mode)dengan cara dial <b>*#*#3646633#*#*</b> atau <a href='tel:*#*#3646633#*#*'>tap di sini</a>.<br />3. Setelah masuk pada MTK Engineering (EngineeringMode) pilih "connectivity"<br />4. Dalam MTK Enginering, pilih bilah <b>CDS Information</b><br />5. Selanjutnya pilih <b>Radio Information</b>. Ini adalah menu untuk <strong>inject nomor IMEI</strong>.<br />6. Kemudian pilih <b>SIM 1/ Phone1</b> akan muncul. Isikan <b>AT +EGMR=1,7,"ISI NOMER IMEI DISINI"</b>. Lanjutkan dengan <b>Send AT Command</b>.<br />7. Lakukan hal yang sama pada <b>SIM 2 / Phone2</b> akan muncul <b>AT+EGMR=1,10,"ISI NOMER IMEI DISINI"</b>, lanjutan <b>Send AT Command</b>. <br /><br />Note: Thanks untuk <a href="#c3332215918035140609">agan ini</a> untuk koreksinya.<br /><br />Setelah selesai melakukan langkah di atas dengan benar, silahkan reboot (nyalakan ulang/restart) ponsel android china anda.<br /><br />Jika langkah anda benar, maka pada saat anda melakukan cek IMEI (dial *#06#) <strong>IMEI Android</strong> anda sudah kembali seperti aslinya.<br /><br />Catatan: <br /> - Jika pada langkah no.2 anda tidak dapat masuk ke mode enginering, instal dulu <b>MTK Engineering.Apk</b> bisa download <a href="http://go.catetan.pw/3S" rel="external nofollow" target="_blank">disini</a>.<br /> - Perlu diperhatikan, pada langkah <b>no.6</b> dan <b>no. 7</b> tanda petik-dua (") pada tiap handheld bisa berbeda.<br /><br />Alternatif <b>ganti imei</b> bisa menggunakan <a href="http://go.catetan.pw/3T" rel="external nofollow" target="_blank">Camelephon.apk</a>
