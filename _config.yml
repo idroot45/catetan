@@ -152,7 +152,7 @@ defaults:
       type: pages
     values:
       layout: single
-      author:_profile
+      author_profile: false
       permalink: /arsip/:title/
 compress_html:
   clippings: all
