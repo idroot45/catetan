@@ -2,11 +2,11 @@
 title: "Time Travel Journey Experience to Indonesia in 1920-1930"
 excerpt: "The video documentation of old Indonesia in early 19th century (1920-1930). Time travel journey experience"
 header:
- og_image: "https://i.ytimg.com/vi/O4gMM6m1inU/maxresdefault.jpg"
+ og_image: "https://i.ytimg.com/vi/O4gMM6m1inU/hqdefault.jpg"
  video:
   id: O4gMM6m1inU
   provider: youtube
- teaser: "https://cdn.statically.io/img/i.ytimg.com/vi/O4gMM6m1inU/maxresdefault.jpg?filter=grayscale&w=340"
+ teaser: "https://cdn.statically.io/img/i.ytimg.com/vi/O4gMM6m1inU/hqdefault.jpg?filter=grayscale&width=340"
 categories: [video]
 tags: [time travel, ancient indonesia, early 19th century]
 ---
