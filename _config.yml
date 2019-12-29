@@ -148,12 +148,18 @@ defaults:
       author_profile: false
   # _arsip
   - scope:
-      path: "_arsip"
-      type: pages
+      path: ""
+      type: arsip
     values:
       layout: single
       author_profile: false
-      permalink: /arsip/:title/
+      share: true
+  
+# collections:
+  arsip:
+    output: true
+    permalink: /:collection/:path/
+
 compress_html:
   clippings: all
   ignore:
