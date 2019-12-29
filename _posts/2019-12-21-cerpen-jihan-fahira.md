@@ -5,9 +5,10 @@ categories: [cerpen]
 tags: [cerpen]
 author_profile: true
 header:
- image: https://cdn-brilio-net.akamaized.net/news/2017/02/25/121337/591626-jihan-fahiraa.jpg
+ image: "https://cdn-brilio-net.akamaized.net/news/2017/02/25/121337/591626-jihan-fahiraa.jpg"
  caption: "Jihan Fahira, Semi finalis Gadis Sampul 93"
- og_image: https://cdn-brilio-net.akamaized.net/news/2017/02/25/121337/591626-jihan-fahiraa.jpg
+ og_image: "https://cdn.statically.io/img/2.bp.blogspot.com/-QBObk17K5RI/Vrbx2ME43fI/AAAAAAAARKk/nOrbdOAKXX8/s1600/jihan.jpg?filter=grayscale"
+ teaser: "https://cdn.statically.io/img/2.bp.blogspot.com/-QBObk17K5RI/Vrbx2ME43fI/AAAAAAAARKk/nOrbdOAKXX8/s1600/jihan.jpg?width=480&quality=85"
 last_modified_at: 2019-12-21 15:41:01
 ---
 Dihembuskannya perlahan-lahan asap rokok yang sedetik lalu disesapnya. Sorot lampu neon di tengah warung meredup terhalang kabut putih kecoklatan. Mukidi terdiam.
