@@ -73,7 +73,7 @@ timezone: Asia/Jakarta
 
 include:
   - _pages
-  - _arsip
+  - arsip
 exclude:
   - Gemfile
   - Gemfile.lock
@@ -141,14 +141,14 @@ defaults:
       related: true
   # _pages
   - scope:
-      path: "_pages"
+      path: ""
       type: pages
     values:
       layout: single
       author_profile: false
   # _arsip
   - scope:
-      path: "_arsip"
+      path: "arsip"
       type: arsip
     values:
       layout: single
@@ -160,7 +160,7 @@ defaults:
 collections:
   arsip:
     output: true
-    permalink: /:collection/:title/
+    permalink: /:collection/title
 
 compress_html:
   clippings: all
