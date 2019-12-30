@@ -1,0 +1,18 @@
+---
+categories: [arsip]
+title: "Cara Mengatasi Bootloop Setelah Melakukan Rooting"
+date: "2015-11-16T14:03:00.000+07:00"
+# author: Phate Holloway
+tags:
+ - Android
+ - Rooting
+ - Tips
+last_modified_at: "2019-02-15T00:33:15.558+07:00"
+header:
+	teaser: https://4.bp.blogspot.com/-EeyvAJA5jnc/VkmCV2grC-I/AAAAAAAAI9s/Qkcjg57iRns/w480/images.png
+# blogger_id: tag:blogger.com,1999:blog-8168996750712797250.post-7541841694363238997
+redirect_from:
+ - /2015/11/mengatasi-bootloop-setelah-melakukan-root.html
+---
+
+<p>Kali ini bukan tutorial rooting yang saya tuliskan. Tetapi penjelasan mengenai beberapa kasus bootloop yang saya jumpai pada saat <a href="/search/label/Rooting" rel="cattegory">melakukan root</a> pada beberapa device terutama Kitkat dan Lollipop. Dan dalam artikel ini yang saya pakai sebagi contoh kasus adalah Andromax C3 (AD6B1H) dan OPPO Find7 (find7s, X9067).</p><noscript><img border="0" src="https://4.bp.blogspot.com/-EeyvAJA5jnc/VkmCV2grC-I/AAAAAAAAI9s/Qkcjg57iRns/s1600/images.png" alt="bootlop after root?"/></noscript><p>Pada awalnya, saya tidak punya bayangan apapun saat akan melakukan root Andromax C3 menggunakan Kingroot. Seperti biasa, setelah mengaktifkan USB debugging, langsung hajar dengan aplikasi Kingroot dan butuh waktu sekitar 5 menit (atau lebih, pokoknya lumayan lama) dan berhasil. Tetapi beberapa detik kemudian ponsel reboot sendiri dan tampilan layar menjadi agak "mblerek" (apa ya Bahasa Indonesia-nya) memutih dan layar seperti main mata dengan saya (kedip-kedip gitu) kemudian mati.</p><div class="center" >Saya coba nyalakan berkali-kali tetap seperti itu.</div><p>Tinggalkan dulu Andromax-nya. Sebelumnya, saya juga punya kasus boot stuck dan selalu masuk mode fastboot sendiri, tetapi kali ini adalah OPPO find7 (yang X9067) atau lebih tepatnya find7s. Kasus ini terjadi setelah memasang Custom ROM CM 12.1 Nightly oleh pemiliknya dan diserahkan pada saya, dengan harapan bisa mengembalikan ke ROM bawaan.</p><p>Mudah saja saya pikir. Dalam keadaan <a href="/search?q=fastboot">fastboot</a> saya flash stock recovery, eh gagal. Pesannya ada kata-kata "not complete or unsigned". Saya coba flash ke partisi boot juga sama. Setelah beberapa saat, saya ingat dengan device merek Sony (xPeria) yang mengharuskan <a href="/search?q=unlock%20bootloader" rel="search">unlock bootloader</a> terlebih dulu. </p><p>Tanpa banyak cingcong, langsung ketik <br />"fastboot oem unlock" dan recovery bisa di flash dengan anggun. Proses pengembalian stock rom OPPO find7 pun berlanjut seperti biasa. </p><p>Kembali ke ponsel murah sejuta umat Andromax. Berdasarkan pengalaman sebelumnya, saya berasumsi bahwa mungki ponsel-ponsel terbaru ini juga mesti "digituin" juga baru bebas mau diapakan. </p><p>Langsung eksekusi unlock bootloader. Dan ponsel Andromax yang mbandel saat di root pun luluh dan bisa boot dengan normal. Tanpa harus flash ulang.</p><p>Dari sini, mungkin cara ini bisa di ponsel-ponsel Andromax tipe lain yang bandel saat akan di root. Semisal Andromax R atau beberapa device baru lainnya dengan chipset quallcomm. </p><p>Happy rooting buat pengguna setengah master, semoga ponsel anda sehat dan tidak sering-sering bootloop. </p><p>Semoga bermanfaat dan meng-inpirasi para pembuat tutorial rooting yang berkunjung ke <a href="http://www.catetan.pw/">KnoAcc Blog</a>.</p>
