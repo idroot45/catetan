@@ -3,6 +3,7 @@ title: "Kisah di balik kecintaan warga Jepang terhadap kamera analog, kaset, dan
 excerpt: "Ditulis Yuko Komura, diterjemahkan oleh Johanna Airth."
 header:
  image: "https://cdn.statically.io/img/ichef.bbci.co.uk/news/720/cpsprodpb/5DBE/production/_110289932_gettyimages-167104414.jpg?filter=grayscale"
+ teaser: "https://cdn.statically.io/img/ichef.bbci.co.uk/news/720/cpsprodpb/5DBE/production/_110289932_gettyimages-167104414.jpg?filter=grayscale"
  caption: "Di balik kecintaan sebagian masyarakat Jepang terhadap barang lawas seperti kamera analog dan vinil, terdapat realitas kondisi perekonomian negara tersebut."
 categories: [budaya]
 tags: [vinyl, kaset, barang retro, budaya retro, budaya jepang, kamera analog]
