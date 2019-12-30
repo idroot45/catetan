@@ -6,7 +6,6 @@ header:
  caption: "Di balik kecintaan sebagian masyarakat Jepang terhadap barang lawas seperti kamera analog dan vinil, terdapat realitas kondisi perekonomian negara tersebut."
 categories: [budaya]
 tags: [vinyl, kaset, barang retro, budaya retro, budaya jepang, kamera analog]
-class: wide
 ---
 Walau dianggap sebagai yang terdepan dalam teknologi mutakhir, Jepang diam-diam mempertahankan hubungan dengan berbagai barang lawas.
 
@@ -100,7 +99,7 @@ Tsunoda merancang interior tokonya agar terlihat seperti galeri seni modern. Unt
 
 Kaset bekas pun dijual dalam pembungkus unik dan dalam kondisi bersih. Tidak ada satu kaset pun yang keluar dari tempatnya. "Perhatian ada pada detailnya. Mungkin itu sangat Jepang bagiku," kata Tsunoda sambil tertawa.
 
-{% include caption="Taro Tsunoda yakin salah satu cara menikmati musik adalah dengan menyentuh produk rilisannya." image_path="https://cdn.statically.io/img/ichef.bbci.co.uk/news/375/cpsprodpb/0F9E/production/_110289930_8e740ea2-6f13-45b7-864f-fd5c3592320b.jpg" %}
+{% include figure caption="Taro Tsunoda yakin salah satu cara menikmati musik adalah dengan menyentuh produk rilisannya." image_path="https://cdn.statically.io/img/ichef.bbci.co.uk/news/375/cpsprodpb/0F9E/production/_110289930_8e740ea2-6f13-45b7-864f-fd5c3592320b.jpg" %}
 
 Lebih dari setengah pelanggan yang mengunjungi Waltz datang dari luar negeri. Banyak pekerja industri musik yang kerap berkunjung ke toko itu, termasuk para profesional di bidang fashion dan desain.
 
