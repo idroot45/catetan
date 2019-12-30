@@ -31,7 +31,7 @@ Model sepeda dengan **harga termahal dari Specialized** adalah S-Work Roubaix de
 
 ## 2. Ridley
 
-https://cdn.statically.io/img/cyclingfactory.be/wp-content/uploads/2018/08/Ridley-Final.png?w=480&format=webp" caption="Logo sepede impor merek Ridley" %}
+{% include figure image_path="https://cdn.statically.io/img/cyclingfactory.be/wp-content/uploads/2018/08/Ridley-Final.png?w=480&format=webp" caption="Logo sepede impor merek Ridley" %}
 
 Pabrikan sepeda Belgia ini telah berdiri sejak tahun 1997, juga populer di Indonesia dengan sebutan Ridley Noah. Noah sebenarnya adalah salah satu nama model sepeda termahal buatan Ridley.
 
