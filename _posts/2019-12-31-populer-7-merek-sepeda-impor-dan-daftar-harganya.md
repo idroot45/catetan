@@ -2,8 +2,10 @@
 title: "7 Merek Sepeda Impor Populer di Indonesia, Segini Lho Harganya"
 excerpt: "Bersepeda kini tengah menjadi tren dan diminati banyak orang. Selain menyehatkan, bersepeda juga dijadikan untuk memperluas jaringan pertemananan."
 header:
- image: "https://asset.kompas.com/data/photo/2019/12/30/5e09a89d2bb83.jpg"
- caption: "Ilustrasi sepeda impor (shutterstock)"
+ image: "https://cdn.statically.io/img/www.brompton.com/~/media/2018/bikes/house-red-550x338.png?filter=grayscale"
+ teaser: "https://cdn.statically.io/img/www.brompton.com/~/media/2018/bikes/electric_lifestyle_550x338.png"
+ og_image: "https://cdn.statically.io/img/www.brompton.com/~/media/2018/bikes/house-red-550x338.png"
+ caption: "Sepeda impor populer (gambar: brompton.com)"
 categories: [olahraga]
 tags: [sepeda brompton, harga sepeda impor, merek selain brompton]
 ---
