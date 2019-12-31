@@ -1,12 +1,12 @@
 ---
-title: "Perang Bintang ke-9"
+title: "Pilem Enak"
 excerpt: "Tontonan Pribadi"
 permalink: "/istimiwir"
 layout: "clappr"
 video:
- source: "https://stream12.cdncv.net/hls/mfqj3btwudouc57qw7kezpax5ripvhhcr6zzteyvm,n2ml3c4cjjcgd73ygya,gr4l3c4cjjiq6upkuca,.urlset/master.m3u8"
- poster: "https://cdn.statically.io/img/wallpaperplay.com/walls/full/3/5/a/324285.jpg?w=720&quality=80&format=webp"
- logo: "https://cdn.statically.io/img/repo.catetan.pw/icon/favicon-32x32.png"
+ source: "https://stream09.cdncv.net/hls/mfqjtib4udouc57qw7euzjil4r2cwxktzelrpu3no,syn7ntmrbwqizrutc5a,zmn7ntmrbwsn2spryiq,.urlset/master.m3u8"
+ poster: "https://cdn.statically.io/img/wallpaperplay.com/walls/full/3/5/a/324285.jpg?w=480&quality=80&format=webp"
+ logo: "https://repo.catetan.pw/icon/android-chrome-512x512.png?w=64"
  link: "https://www.catetan.pw/liverpool"
  type: "application/x-mpegUrl"
 sitemap: false
