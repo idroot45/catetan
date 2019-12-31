@@ -14,7 +14,7 @@ _**{{ page.excerpt }}**_
  
 Pemimpin klasemen Liverpool akan menjamu tim promosi dan peringkat 8 Sheffield United pada pekan ke-21 Premier League 2019/20, Jumat (03/01/2020). 
 
-Ramai tagar #liVarpool di sosial media usai [kemenangan tipis 1-0 lawan Wolverhampton](/liverpool/home-vs-wolves/) di Anfield. 🤣 Yang kemudian digoreng media lokal, padahal media Inggris malah lebih menyoroti performa apik Liverpool. _Whatever_
+Ramai tagar [#liVarpool](https://www.google.com/search?q=#livarpool) di sosial media usai [menang 1-0 lawan Wolverhampton](/liverpool/home-vs-wolves/) di Anfield. 🤣 Yang kemudian digoreng media lokal, padahal media Inggris malah lebih menyoroti performa apik Liverpool. _Whatever_
 
 > Liverpool baru saja menang tipis 1-0 saat meladeni Wolverhampton di Anfield, Minggu (29/12/2019). Gol tunggal Sadio Mane, yang **'terbantu' VAR**, membuat The Reds sekarang memiliki keunggulan 13 poin bersih di puncak klasemen sementara Premier League. [via bola.net](/kategori./#sepakbola)
 
@@ -30,7 +30,7 @@ Sheffield berpotensi merepotkan. Namun, di Anfield, Liverpool sangat pantas difa
 
 ### Insight
 
-1. Liverpool memenngkan laga sebelumnya di kandang Sheffield di musim ini dengan skor tipis 1-0 dan mencari kemenangan ganda sejak musim 1990/1991.
+1. Liverpool memenangkan [laga sebelumnya](/liverpool/away-vs-sheffield-utd/) di kandang Sheffield di musim ini dengan skor tipis 1-0 dan mencari kemenangan ganda sejak musim 1990/1991.
 2. Sheffield hanya memenangkan 1 laga dalam 17 lawatan ke Anfield di semua kompetisi dengan komposisi seri 1 kali sisanya menelan kekalahan. Liverpool kalah di kandang dengan skor 2-1 di bulan Februari 1994.
 3. Selama dilatih J. Klopp, Liverpool selalu menang di kandang dalam 11 laga terakhir mereka melawan tim promosi. Skor agregat kedua tim adalah 33-4. The Reds tak pernah kalah dalam 26 laga di Anfield sejak kekalahan terakhir 1-2 melawan Blackpool pada Oktober 2010 ketika dilatih Roy Hodgson.
 4. Liverpool hanya memenangkan 1 dari 5 laga pembuka tahun baru terakhir, dengan catatan 2 imbang dan 2 kali kalah. Slah satunua melawan Manchester City di musim 2018/2019 yang menjadi satu-satunya kekalahan pada musim tersebut.
