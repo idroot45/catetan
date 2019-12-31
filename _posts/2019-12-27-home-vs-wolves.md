@@ -4,13 +4,10 @@ excerpt: "EPL GW 20 Home vs Wolves Kick-off 23:30 Minggu, 29 Desember 2019."
 categories: [liverpool]
 tags: [liga inggris, liverpool fc, wolverhampton wanderers]
 header:
- video:
-  id: lfctv2
-  provider: internal
  og_image: "https://cdn.statically.io/img/www.catetan.pw/assets/images/livwol.jpg?quality=90"
- #image: "https://cdn.statically.io/img/www.catetan.pw/assets/images/livwol.jpg?filter=grayscale"
+ image: "https://cdn.statically.io/img/www.catetan.pw/assets/images/livwol.jpg?filter=grayscale"
  teaser: "https://cdn.statically.io/img/www.catetan.pw/assets/images/livwol.jpg?width=380&quality=90"
- #caption: "Liverpool vs Wolverhampton Wanderers (header)"
+ caption: "Liverpool vs Wolverhampton Wanderers (header)"
 last_modified_at: 2019-12-29 03:18:00
 ---
 {{ page.excerpt }}
