@@ -4,6 +4,9 @@ excerpt: "EPL GW 21 Home vs Sheffield United Kick-off 03:30 Jum'at, 03 Januari 2
 categories: [liverpool]
 tags: [liga inggris, liverpool fc, sheffield united]
 header:
+ #video:
+ # id: lfctv2
+ # provider: internal
  images: "https://cdn.statically.io/img/www.travel4football.com/wp-content/uploads/sites/2/2019/09/Skjermbilde-2019-09-06-kl.-10.59.08.png?w=720&format=webp"
  teaser: "https://cdn.statically.io/img/www.travel4football.com/wp-content/uploads/sites/2/2019/09/Skjermbilde-2019-09-06-kl.-10.59.08.png?w=480&format=webp"
  og_images: "https://cdn.statically.io/img/www.travel4football.com/wp-content/uploads/sites/2/2019/09/Skjermbilde-2019-09-06-kl.-10.59.08.png?format=webp"
