@@ -1,6 +1,6 @@
 ---
-title: "Pilem Enak"
-excerpt: "Tontonan Pribadi"
+title: "Tahun Baru 2020 Lapoan Gaes?"
+excerpt: "Nonton pilem ae penak"
 permalink: "/istimiwir"
 layout: "clappr"
 video:
