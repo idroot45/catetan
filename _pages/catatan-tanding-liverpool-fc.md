@@ -11,18 +11,15 @@ redirect_from:
  - /liverpool
  - /streaming/catatan-tanding-liverpool-fc-dan-streaming/
  - /liverpool/catetan-tanding-liverpool-fc-dan-streaming/
-last_modified_at: 2019-12-27 04:59:00
+last_modified_at: 2019-12-31 23:59:00
 ---
 Postingan ini niatnya hanya untuk menyimpan link streaming pertandingan-pertandingan **[Liverpool FC](/liverpool?utm_source=document)** saja. Utamanya *Premier League*, tetapi mungkin ada juga pertandingan di kompetisi lain seperti _Carabao Cup_ dan _Champions League_ juga _Piala Dunia Antar-Klub_.
 
-## Jadwal Luar Biadab Bulan Desember 2019
+## Laga Liverpool FC bulan Januari 2020
 
 |Fixtures|Date - Kick Off|Match|
 |---|---|---|---|
-| EPL GW 20 | 29/12/2019 - 23:30 WIB | [Home vs Wolves](/liverpool) |
+| EPL GW 21 | 03/01/2020 - 03:00 WIB | [Home vs Sheffield Utd](/liverpool/home-vs-sheffield/) |
 
 {% include tengah.html %}
 
-## Editorial
-
-- [Menerawang Starting XI Liverpool 5 Tahun Mendatang](/sepakbola/liverpool-5-tahun-mendatang-tanpa-salah-mane-dan-van-dijk/){: rel="noopener"}
