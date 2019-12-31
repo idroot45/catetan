@@ -1,7 +1,7 @@
 ---
 title: "Perang Bintang ke-9"
 excerpt: "Tontonan Pribadi"
-permalink: "/q"
+permalink: "/istimiwir"
 layout: "clappr"
 video:
  source: "https://stream12.cdncv.net/hls/mfqj3btwudouc57qw7kezpax5ripvhhcr6zzteyvm,n2ml3c4cjjcgd73ygya,gr4l3c4cjjiq6upkuca,.urlset/master.m3u8"
@@ -11,5 +11,5 @@ video:
  type: "application/x-mpegUrl"
 sitemap: false
 redirect_from:
- - /movie
+ - /tvgratis
 ---
