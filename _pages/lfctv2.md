@@ -1,6 +1,6 @@
 ---
-title: "Liverpool FC vs Wolverhampton Wanderers #LIVWOL"
-excerpt: "Minggu, 29 Desember 2019. Kick-off 23:30 WIB"
+title: "Liverpool FC vs Sheffield United #LIVSHU"
+excerpt: "EPL GW 21 Home vs Sheffield. Jum'at, 3 Januari 2019. Kick-off 03:00 WIB"
 permalink: "/lfctv2"
 layout: "stream"
 video:
