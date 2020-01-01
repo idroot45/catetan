@@ -4,7 +4,7 @@ layout: compress
 <!doctype html>
 <html>
 <head>
-<title>{{ page.title }}</title>
+<title>{{ page.match.liga }} {{ page.match.round }}: {{ page.match.home }} vs {{ page.match.away }} #{{ page.match.hashtag }}</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 <link rel="stylesheet" href="/assets/css/main.css"/>
 <style>
@@ -45,14 +45,10 @@ layout: compress
 <script src="https://cdn.jsdelivr.net/npm/p2p-media-loader-hlsjs@latest/build/p2p-media-loader-hlsjs.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/clappr@latest"></script>
 <script src="https://cdn.jsdelivr.net/clappr.chromecast-plugin/latest/clappr-chromecast-plugin.js"></script>
-<!--script src="https://cdn.jsdelivr.net/npm/clappr-pip-plugin@latest/dist/clappr-pip-plugin.js"></script-->
+<script src="https://cdn.jsdelivr.net/npm/clappr-pip-plugin@latest/dist/clappr-pip-plugin.js"></script-->
 </head>
 <body>
-<div class="container">
-<div class="row justify-content-md-center">
 <div id="responsive" class="reponsive-video-container"></div>
-</div>
-</div>
 <script type='text/javascript'>
 var player = new Clappr.Player({
     source: '{{ page.video.source }}',
@@ -61,9 +57,9 @@ var player = new Clappr.Player({
       buttons: "#FF0000"
     },
     poster: "{{ page.video.poster }}",
-    watermark: "{{ page.video.logo }}",
+    watermark: "https://cdn.statically.io/img/repo.catetan.pw/icon/favicon-512x512.png",
     watermarkLink: "{{ page.video.link }}",
-    plugins: [ChromecastPlugin],
+    plugins: [ChromecastPlugin, ClapprPip.PipButton, ClapprPip.PipPlugin],
     parentId: '#responsive',
     width: '100%',
     height: '100%',
