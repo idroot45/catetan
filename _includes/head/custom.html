@@ -27,7 +27,7 @@
 <meta property="og:image:alt" content="{{ page.header.image | replace absolute  }}">
 {% endif %}
 {% if page.header.video %}
-{% capture video_provider %}{{ include.provider }}{% endcapture %}
+{% capture video_provider %}{{ include.page.header.video.provider }}{% endcapture %}
 {% if video_provider == "youtube" %}
 {% if page.header.video.title %}
 <meta itemprop="name" content="{{ page.header.video.title }}" />
