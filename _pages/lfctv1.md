@@ -2,10 +2,10 @@
 permalink: "/lfctv1"
 layout: "stream"
 match:
- home: Liverpool FC
- away: Sheffield United
- hashtag: LIVSHU
- ko: "03:00 WIB. Jum'at, 3 Januari 2020"
+ home: Manchester City
+ away: Everton
+ hashtag: MCIEVE
+ ko: "00:30 WIB. Kamis, 2 Januari 2020"
 video:
  source: "https://cdn10.dailysport.pw/1/1.m3u8"
  poster: "https://cdn.statically.io/img/www.travel4football.com/wp-content/uploads/sites/2/2019/09/Skjermbilde-2019-09-06-kl.-10.59.08.png?w=720&format=webp"
