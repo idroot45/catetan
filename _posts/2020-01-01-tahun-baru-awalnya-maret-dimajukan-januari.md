@@ -15,18 +15,19 @@ Pada awalnya, perayaan tahun baru tertua di muka bumi, diyakini berada di Mesopo
 
 Di abad kuno, tepatnya di Mesopotamia perayaan tahun baru dilakukan untuk menyambut perubahan musim, yakni datangnya musim semi. Bangsa Mesir dan Persia merayakan datangnya musim gugur. Yunani juga merayakan datangnya musim dingin. Bangsa Romawi yang membawa perayaan tahun baru karena alasan penanggalan kalender.
 
+{% include figure image_path="https://asset.kompas.com/data/photo/2018/12/06/2896765204.jpg" caption="Kembang api sebagai latar belakang Tugu Jogja dalam perayaan tahun baru" %}
 
 Bangsa Romawi awalnya merayakan tahun baru setiap 1 Maret, karena kalender Romawi hanya ada 10 bulan dan dimulai pada Maret. Kalender pertama Romawi hanya ada 10 bulan yang dibuat oleh raja pertama Roma, Romulus pada 753 SM.
 
 Lalu, pada 700 SM Roma penerus Romulus, yakni Numa Pontilius mengubah kalender yang dibuat oleh Romulus. Alasannya kalender buatan Romulus, jumlah harinya terlalu sedikit, dan tidak cocok dengan muslim yang ada. Ia menambahkan 2 bulan tambahan, yakni Januari (lanuarius) dan Februari (Februarius).
 
-Barulah pada 153 SM perayaan tahun baru digeser dari Maret ke 1 Januari. Pada 46 Sebelum Masehi, Julius Caesar mengenalkan kalender baru, didasarkan pada pergerakan matahari. Kalender ini diklaim lebih sempurna dari kalender sebelumnya. Perayaan Tahun baru ditegaskan kembali oleh Julian Caesar setiap 1 Januari.
+Barulah pada 153 SM **perayaan tahun baru digeser dari Maret ke 1 Januari**. Pada 46 Sebelum Masehi, Julius Caesar mengenalkan kalender baru, didasarkan pada pergerakan matahari. Kalender ini diklaim lebih sempurna dari kalender sebelumnya. Perayaan Tahun baru ditegaskan kembali oleh Julian Caesar setiap 1 Januari.
 
-Mengapa bangsa Romawi merayakan pergantian tahun?
+## Mengapa bangsa Romawi merayakan pergantian tahun?
 
 Dalam sistem pemerintahan Romawi, ada 2 perdana menteri yang memimpin administrasi pemerintahan yang disebut consul. Masa tugas consul hanya berjalan selama 12 bulan, diyakini setiap 1 Januari ada consul yang baru bertugas, maka rakyat merayakannya.
 
-Kalender Georgian 
+# Kalender Georgian 
 
 Pada 1582, kalender buatan Julius Caesar disempurnakan, dan menjadi kalender yang dipakai sampai saat ini. Namanya kalender Georgian, yang diambil dari nama pemimpin umat katolik Paus Gregory XIII yang meresmikan penggunaan kalender ini pada Oktober 1582.
 
