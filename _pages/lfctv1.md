@@ -1,8 +1,11 @@
 ---
-title: "Liverpool FC vs Sheffield United #LIVSHU"
-excerpt: "EPL GW 21 Home vs Sheffield. Jum'at, 3 Januari 2019. Kick-off 03:00 WIB"
 permalink: "/lfctv1"
 layout: "stream"
+match:
+ home: Liverpool FC
+ away: Sheffield United
+ hashtag: LIVSHU
+ ko: "03:00 WIB. Jum'at, 3 Januari 2020"
 video:
  source: "https://cdn10.dailysport.pw/live/1/1.m3u8"
  poster: "https://cdn.statically.io/img/www.travel4football.com/wp-content/uploads/sites/2/2019/09/Skjermbilde-2019-09-06-kl.-10.59.08.png?w=720&format=webp"
