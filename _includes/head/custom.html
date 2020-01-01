@@ -24,7 +24,17 @@
 <link href='//fontawesome.com' rel='dns-prefetch'/>
 <link href='//i0.wp.com' rel='dns-prefetch'/>
 {% if page.header.image.caption %}
-  <meta property="og:image:alt" content="{{ page.header.image | replace absolute  }}">
+<meta property="og:image:alt" content="{{ page.header.image | replace absolute  }}">
+{% endif %}
+{% if page.header.video %}
+<meta itemprop="name" content="{{ page.match.home }} {{ page.match.away }} #{{ page.match.hastag }}" />
+<meta itemprop="description" content="{{ page.match.home }} {{ page.match.away }} #{{ page.match.hashtag }} {{ page.match.ko }}" />
+{% if page.header.video.duration %} 
+<meta itemprop="duration" content="{{ page.match.duration }}" />
+{% endif %}
+<meta itemprop="uploadDate" content="{{ page.date }}" />
+<meta itemprop="thumbnailURL" content="{{ page.video.poster }}" />
+<meta itemprop="contentUrl" content="{{ page.video.source }}" />
 {% endif %}
 <!-- see if it "/_includes/head/custom.html" works -->
 <meta name="webcrawlers" content="all" />
