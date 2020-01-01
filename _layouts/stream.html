@@ -15,8 +15,12 @@
 <amp-video itemprop="video" itemscope itemtype="http://schema.org/VideoObject" width="480" height="270" poster="{{ page.video.poster }}" layout="responsive" controls autoplay rotate-to-fullscreen>
 <meta itemprop="name" content="{{ page.match.home }} {{ page.match.away }} #{{ page.match.hastag }}" />
 <meta itemprop="description" content="{{ page.match.home }} {{ page.match.away }} #{{ page.match.hashtag }} {{ page.match.ko }}" />
-<meta itemprop="duration" content="" />
-<meta itemprop="uploadDate" content="{{ page.date }}" />
+{% if page.match.duration %}
+<meta itemprop="duration" content="{{ page.match.duration }}" />
+{% endif %}
+{% if page.match.date %}
+<meta itemprop="uploadDate" content="{{ page.match.date }}" />
+{% endif %}
 <meta itemprop="thumbnailURL" content="{{ page.video.poster }}" />
 <meta itemprop="contentUrl" content="{{ page.video.source }}" />
 <div fallback>
