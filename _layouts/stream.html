@@ -3,34 +3,30 @@
 <head>
 <!-- Video streaming _auto-play_, untuk munculkan suara klik/tap pada video. Jika streaming lewat smartphone, cukup putar layar ponsel untuk tampilan layar penuh. -->
   <meta charset="utf-8">
-  <title>{{ page.title }}</title>
+  <title>{{ page.match.home }} vs {{ page.match.away }} #{{ page.match.hashtag }}</title>
   <script async custom-element="amp-video" src="https://cdn.ampproject.org/v0/amp-video-0.1.js"></script>
-  <script async src="https://cdn.ampproject.org/v0.js"></script>
   <script async custom-element="amp-ad" src="https://cdn.ampproject.org/v0/amp-ad-0.1.js"></script>
-  <link rel="canonical" href="https://www.catetan.pw/liverpool/catatan-tanding-dan-jadwal-streaming/">
+  <script async src="https://cdn.ampproject.org/v0.js"></script>
+  <link rel="canonical" href="{{ page.match.source }}">
   <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
   <style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
 </head>
 <body>
-<!-- {{ content }} -->
-<amp-video width="480" height="270"
-             poster="{{ page.video.poster }}"
-             layout="responsive"
-             controls
-             autoplay
-             rotate-to-fullscreen>
-    <div fallback>
-      <p>Your browser doesn't support HTML5 video. Click here to play <a href="https://www.catetan.pw/lfctves" target="_self">with web player</a></p>
-    </div>
-    <source type="{{ page.video.type }}" src="{{ page.video.source }}" />
+<amp-video itemprop="video" itemscope itemtype="http://schema.org/VideoObject" width="480" height="270" poster="{{ page.video.poster }}" layout="responsive" controls autoplay rotate-to-fullscreen>
+<meta itemprop="name" content="{{ page.match.home }} {{ page.match.away }} #{{ page.match.hastag }}" />
+<meta itemprop="description" content="{{ page.match.home }} {{ page.match.away }} #{{ page.match.hashtag }} {{ page.match.ko }}" />
+<meta itemprop="duration" content="" />
+<meta itemprop="uploadDate" content="{{ page.date }}" />
+<meta itemprop="thumbnailURL" content="{{ page.video.poster }}" />
+<meta itemprop="contentUrl" content="{{ page.video.source }}" />
+<div fallback>
+<p>Your browser doesn't support HTML5 video. Click here to play <a href="https://www.catetan.pw/lfctves" target="_self">with web player</a></p>
+</div>
+<source type="{{ page.video.type }}" src="{{ page.video.source }}" />
 </amp-video>
-<amp-ad width="100vw" height="320"
-     type="adsense"
-     data-ad-client="ca-pub-8526606076277673"
-     data-ad-slot="7860608730"
-     data-auto-format="rspv"
-     data-full-width="">
-  <div overflow=""></div>
+<amp-ad width="100vw" height="320" type="adsense" data-ad-client="ca-pub-8526606076277673" data-ad-slot="7860608730" data-auto-format="rspv" data-full-width="">
+<div overflow=""></div>
 </amp-ad>
+<!-- {{ content }} -->
 </body>
 </html>
