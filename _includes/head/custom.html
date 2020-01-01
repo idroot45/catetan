@@ -27,14 +27,18 @@
 <meta property="og:image:alt" content="{{ page.header.image | replace absolute  }}">
 {% endif %}
 {% if page.header.video %}
-<meta itemprop="name" content="{{ page.match.home }} {{ page.match.away }} #{{ page.match.hastag }}" />
-<meta itemprop="description" content="{{ page.match.home }} {{ page.match.away }} #{{ page.match.hashtag }} {{ page.match.ko }}" />
+{% capture video_provider %}{{ include.provider }}{% endcapture %}
+{% if video_provider == "youtube" %}
+{% if page.header.video.title %}
+<meta itemprop="name" content="{{ page.header.video.title }}" />
+{% endif %}
+<meta itemprop="description" content="{{ page.title }} watch {{ page.header.video.title }}" />
 {% if page.header.video.duration %} 
-<meta itemprop="duration" content="{{ page.match.duration }}" />
+<meta itemprop="duration" content="{{ page.header.video.duration }}" />
 {% endif %}
 <meta itemprop="uploadDate" content="{{ page.date }}" />
-<meta itemprop="thumbnailURL" content="{{ page.video.poster }}" />
-<meta itemprop="contentUrl" content="{{ page.video.source }}" />
+<meta itemprop="thumbnailURL" content="{{ page.header.teaser }}" />
+<meta itemprop="contentUrl" content="https://www.youtube-nocookie.com/embed/{{ page.header.video.id }}" />
 {% endif %}
 <!-- see if it "/_includes/head/custom.html" works -->
 <meta name="webcrawlers" content="all" />
