@@ -45,10 +45,10 @@ layout: compress
 <script src="https://cdn.jsdelivr.net/npm/p2p-media-loader-hlsjs@latest/build/p2p-media-loader-hlsjs.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/clappr@latest"></script>
 <script src="https://cdn.jsdelivr.net/clappr.chromecast-plugin/latest/clappr-chromecast-plugin.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/clappr-pip-plugin@latest/dist/clappr-pip-plugin.js"></script>
+<!--script src="https://cdn.jsdelivr.net/npm/clappr-pip-plugin@latest/dist/clappr-pip-plugin.js"></script-->
 </head>
 <body>
-<div class="container reponsive-video-container"><div id="responsive"></div></div>
+<div class="reponsive-video-container"><div class="container"><div id="responsive"></div></div></div>
 <script type='text/javascript'>
 var player = new Clappr.Player({
     source: '{{ page.video.source }}',
@@ -57,9 +57,9 @@ var player = new Clappr.Player({
       buttons: "#FF0000"
     },
     poster: "{{ page.video.poster }}",
-    watermark: "https://cdn.statically.io/img/repo.catetan.pw/icon/favicon-512x512.png",
+    watermark: "https://cdn.statically.io/img/repo.catetan.pw/icon/favicon-32x32.png",
     watermarkLink: "{{ page.video.link }}",
-    plugins: [ChromecastPlugin, ClapprPip.PipButton, ClapprPip.PipPlugin],
+    plugins: [ChromecastPlugin],
     parentId: '#responsive',
     width: '100%',
     height: '100%',
