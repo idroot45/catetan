@@ -20,5 +20,6 @@ redirect_from:
 Valid streaming sampai jam 00:30 WIB
 {:.notice .notice--info}
 
-Bintang film: Al Pacino, Joe Pesci, Martin Scorsese, Robert De Niro
-Genre: Documentary, Short
+**Bintang film:** Al Pacino, Joe Pesci, Martin Scorsese, Robert De Niro
+
+**Genre:** Dokumenter, Film pendek.
