@@ -1,6 +1,6 @@
 ---
-tittle: "Sejarah Tahun Baru, Awalnya Maret Lalu Digeser Januari"
-excerpt: ""
+tittle: "Sejarah Tahun Baru, Awalnya Dirayakan Maret Lalu Digeser Januari"
+excerpt: "Perayaan tahun baru ternyata pada awalnya tidak dirakan pada bulan Januari, tetapi bulan Maret."
 header:
  image: "https://www.google.com/logos/doodles/2020/new-years-day-2020-6753651837108248-l.png"
  caption: "Doodle Tahun Baru Google"
@@ -26,7 +26,7 @@ Barulah pada 153 SM **perayaan tahun baru digeser dari Maret ke 1 Januari**. Pad
 
 Dalam sistem pemerintahan Romawi, ada 2 perdana menteri yang memimpin administrasi pemerintahan yang disebut consul. Masa tugas consul hanya berjalan selama 12 bulan, diyakini setiap 1 Januari ada consul yang baru bertugas, maka rakyat merayakannya.
 
-**Kalender Georgian**
+#### Kalender Georgian
 
 Pada 1582, kalender buatan Julius Caesar disempurnakan, dan menjadi kalender yang dipakai sampai saat ini. Namanya kalender Georgian, yang diambil dari nama pemimpin umat katolik Paus Gregory XIII yang meresmikan penggunaan kalender ini pada Oktober 1582.
 
