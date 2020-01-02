@@ -4,18 +4,21 @@ excerpt: "EPL GW 21 Home vs Sheffield United Kick-off 03:30 Jum'at, 03 Januari 2
 categories: [liverpool]
 tags: [liga inggris, liverpool fc, sheffield united]
 header:
- #video:
- # id: lfctv2
- # provider: internal
- images: "https://cdn.statically.io/img/www.travel4football.com/wp-content/uploads/sites/2/2019/09/Skjermbilde-2019-09-06-kl.-10.59.08.png?w=720&format=webp"
+ video:
+  id: lfctv2
+  provider: internal
+ # images: "https://cdn.statically.io/img/www.travel4football.com/wp-content/uploads/sites/2/2019/09/Skjermbilde-2019-09-06-kl.-10.59.08.png?w=720&format=webp"
  teaser: "https://cdn.statically.io/img/www.travel4football.com/wp-content/uploads/sites/2/2019/09/Skjermbilde-2019-09-06-kl.-10.59.08.png?w=480&format=webp"
  og_images: "https://cdn.statically.io/img/www.travel4football.com/wp-content/uploads/sites/2/2019/09/Skjermbilde-2019-09-06-kl.-10.59.08.png?format=webp"
  caption: "Liverpool FC vs Sheffield United"
-last_modified: 2019-12-31 23:50:00
+last_modified: 2020-01-03 00:25:00
 ---
 _**{{ page.excerpt }}**_
- 
+
 Pemimpin klasemen Liverpool akan menjamu tim promosi dan peringkat 8 Sheffield United pada pekan ke-21 Premier League 2019/20, Jumat (03/01/2020). 
+
+Ulasan the guardian tentang VAR ini layak baca: [From World Cup _guinea pigs_ to Premier League fury](https://www.theguardian.com/football/2020/jan/01/year-in-var-world-cup-premier-league-paul-macinnes)
+{:.notice notice--danger}
 
 Ramai tagar [#liVarpool](https://www.google.com/search?q=#livarpool) di sosial media usai [menang 1-0 lawan Wolverhampton](/liverpool/home-vs-wolves/) di Anfield. 🤣 Yang kemudian digoreng media lokal, padahal media Inggris malah lebih menyoroti performa apik Liverpool. _Whatever_
 
@@ -44,21 +47,15 @@ Sheffield berpotensi merepotkan. Namun, di Anfield, Liverpool sangat pantas difa
 Liverpool masih terbelit badai cedera. 🤪 Dan [Minamino masih belum bisa main](/) karena aturan EPL demikian adanya, dan Kopitea juga sudah tahu [fakta ini](/liverpool/transfer-takumi-minamino-dari-rb-salzburg-ke-liverpool-fc-8-fakta/) sejak awal. 
 
 > Liverpool will be without new signing Takumi Minamino for the visit of Sheffield United this week as the midfielder will not be eligible to play.
->
-> Klopp is already missing Fabinho and Alex Oxlade-Chamberlain through injury. Xherdan Shaqiri missed the visit of Wolves with a calf strain and his availability is unknown for Thursday. Now his hopes of having Minamino have been dashed, he will have to use the first team players again despite the busy schedule.
-> 
-> James Milner, Naby Keita and Divock Origi all came off the bench against Wolves and will likely be given starts against The Blades. The rest of the bench consisted of three youngsters: Harvey Elliott, Neco Williams and Curtis Jones. That trio will likely feature in the Merseyside derby. via [rushthekop.com](https://rushthekop.com/2019/12/30/liverpool-sheffield-united-takumi-minamino/amp/)
+> Klopp is already missing Fabinho and Alex Oxlade-Chamberlain through injury. Xherdan Shaqiri missed the visit of Wolves with a calf strain and his availability is unknown for Thursday. Now his hopes of having Minamino have been dashed, he will have to use the first team players again despite the busy schedule. 
+> James Milner, Naby Keita and Divock Origi all came off the bench against Wolves and will likely be given starts against The Blades. The rest of the bench consisted of three youngsters: Harvey Elliott, Neco Williams and Curtis Jones. That trio will likely feature in the Merseyside derby.
+> via [rushthekop.com](https://rushthekop.com/2019/12/30/liverpool-sheffield-united-takumi-minamino/amp/)
 
 ### Perkiraan Susunan Pemain
 
-**Liverpool (4-3-3):** Alisson; Alexander-Arnold, Gomez, van Dijk, Robertson; Milner, Keita, Wijnaldum; Salah, Firmino, Mane.
+> **Liverpool XI:** Alisson; Alexander-Arnold, Gomez, Van Dijk, Robertson; Henderson, Wijnaldum, Keita; Salah, Mane, Firmino.
+> **Sheffield United XI:** Henderson; Basham, Egan, O'Carroll; Baldock, Lundstram, Norwood, Fleck, Stevens; McGoldrick, McBurnie
+> _Liverpool provisional squad:_ Alisson, Van Dijk, Alexander-Arnold, Robertson, Gomez, Firmino, Lallana, Henderson, Mane, Wijnaldum, Salah, Milner, Keita, Origi, Adrian, Elliott, Williams, Jones.
+> _Sheffield United provisional squad:_ Henderson, Egan, Basham, O'Connell, Fleck, Stevens , Besic Baldock, Norwood, Lundstram, Robinson, Mousset, Sharp, McBurnie, McGoldrick, Freeman, Jagielka, Verrips
+> via [eveningstandard](https://www.standard.co.uk/sport/football/liverpool-vs-sheffield-united-predicted-lineups-team-news-injury-list-premier-league-match-today-a4325051.html)
 
-Manajer: Jurgen Klopp.
-
-_Info skuad:_ Shaqiri (cedera), Chamberlain (cedera), Brewster (cedera), Lovren (cedera), Fabinho (cedera), Matip (cedera).
-
-**Sheffield (3-5-2):** Henderson; Basham, Egan, O'Connell; Baldock, Besic, Norwood, Fleck, Stevens; McGoldrick, Mousset.
-
-Manajer: Chris Wilder.
-
-_Info skuad:_ Lundstram (cedera).
