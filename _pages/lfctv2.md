@@ -2,10 +2,10 @@
 permalink: "/lfctv2"
 layout: "stream"
 match:
- home: Manchester City
- away: Everton
- hashtag: MCIEVE
- ko: "00:30 WIB. Kamis, 2 Januari 2020"
+ home: Liverpool FC
+ away: Sheffield United
+ hashtag: LIVSHU
+ ko: "03:00 WIB. Jum'at, 3 Januari 2020"
  liga: EPL
  round: GW 21
 video:
