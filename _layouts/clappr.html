@@ -50,7 +50,6 @@ layout: compress
 <body>
 <div class="reponsive-video-container"><div class="container"><div id="responsive"></div></div></div>
 <script type='text/javascript'>
-
 var player = new Clappr.Player({
     source: '{{ page.video.source }}',
     mediacontrol: {
@@ -76,5 +75,6 @@ var player = new Clappr.Player({
     }
 });
 </script>
+<div id="main" class="main">{{ content }}</div>
 </body>
 </html>
