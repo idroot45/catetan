@@ -18,7 +18,7 @@ _**{{ page.excerpt }}**_
 Pemimpin klasemen Liverpool akan menjamu tim promosi dan peringkat 8 Sheffield United pada pekan ke-21 Premier League 2019/20, Jumat (03/01/2020). 
 
 Ulasan the guardian tentang VAR ini layak baca: [From World Cup _guinea pigs_ to Premier League fury](https://www.theguardian.com/football/2020/jan/01/year-in-var-world-cup-premier-league-paul-macinnes)
-{:.notice notice--danger}
+{:.notice .notice--danger}
 
 Ramai tagar [#liVarpool](https://www.google.com/search?q=#livarpool) di sosial media usai [menang 1-0 lawan Wolverhampton](/liverpool/home-vs-wolves/) di Anfield. 🤣 Yang kemudian digoreng media lokal, padahal media Inggris malah lebih menyoroti performa apik Liverpool. _Whatever_
 
