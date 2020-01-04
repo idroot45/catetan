@@ -7,7 +7,7 @@ header:
  #video:
  # id: lfctv1
  # provider: internal
- images: "https://cdn.statically.io/img/www.travel4football.com/wp-content/uploads/sites/2/2019/09/Skjermbilde-2019-09-06-kl.-10.59.08.png?w=720&format=webp"
+ overlay_image: "https://cdn.statically.io/img/www.travel4football.com/wp-content/uploads/sites/2/2019/09/Skjermbilde-2019-09-06-kl.-10.59.08.png?w=720&format=webp"
  teaser: "https://cdn.statically.io/img/www.travel4football.com/wp-content/uploads/sites/2/2019/09/Skjermbilde-2019-09-06-kl.-10.59.08.png?w=480&format=webp"
  og_images: "https://cdn.statically.io/img/www.travel4football.com/wp-content/uploads/sites/2/2019/09/Skjermbilde-2019-09-06-kl.-10.59.08.png?format=webp"
  caption: "Liverpool FC vs Sheffield United"
