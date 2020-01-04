@@ -26,6 +26,8 @@ Ramai tagar [#liVarpool](https://www.google.com/search?q=#livarpool) di sosial m
 
 Media juga butuh makan, 😏 fans dari kubu rival juga butuh penghiburan. Liverpool sangat kuat di kandang. Kali ini pun sepertinya takkan terhadang. Optimis 3 poin.
 
+## Heads-up
+
 Liverpool belum terkalahkan di Premier League musim ini. Liverpool juga tak terkalahkan dalam 50 laga kandang terakhirnya di kompetisi ini.
 
 Sementara itu, Sheffield sedang mengalami penurunan performa. Sheffield sempat membukukan tiga kemenangan beruntun atas Norwich, Aston Villa, serta Brighton, tapi kemudian **imbang 1-1 menjamu Watford**, dan dipukul tuan rumah Manchester City dua gol tanpa balas.
@@ -58,5 +60,16 @@ Liverpool masih terbelit badai cedera. 🤪 Dan [Minamino masih belum bisa main]
 > _Liverpool provisional squad:_ Alisson, Van Dijk, Alexander-Arnold, Robertson, Gomez, Firmino, Lallana, Henderson, Mane, Wijnaldum, Salah, Milner, Keita, Origi, Adrian, Elliott, Williams, Jones.
 > _Sheffield United provisional squad:_ Henderson, Egan, Basham, O'Connell, Fleck, Stevens , Besic Baldock, Norwood, Lundstram, Robinson, Mousset, Sharp, McBurnie, McGoldrick, Freeman, Jagielka, Verrips
 > via [eveningstandard](https://www.standard.co.uk/sport/football/liverpool-vs-sheffield-united-predicted-lineups-team-news-injury-list-premier-league-match-today-a4325051.html)
+
+## Match
+
+{% include figure caption="Liverpool's Mohamed Salah after scoring his side's first goal" image_path="https://cdn.statically.io/img/i2-prod.liverpoolecho.co.uk/incoming/article17505125.ece/ALTERNATES/s810/0_JS202361473.jpg" %}
+
+{% include figure caption="Liverpool beat Chris Wilder’s Sheffield United 2-0 on Thursday as Sadio Mane and Mohamed Salah proved to be excellent mythbusters." image_path="https://cdn.statically.io/img/rushthekop.com/wp-content/uploads/getty-images/2017/07/1197177947.jpeg?w=810" url="https://cdn.statically.io/img/rushthekop.com/wp-content/uploads/getty-images/2017/07/1197177947.jpeg" %}
+
+## After-match
+
+{% include video provider="youtube" id="0W-9MYO7zDQ" %}
+
 
 Next Match: **FA Cup 3rd Round:** [Liverpool FC vs Everton FC](/home-fa-cup-vs-everton/) Minggu, 5 Januari 2020 KO 18:30 WIB
