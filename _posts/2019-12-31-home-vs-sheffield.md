@@ -4,10 +4,10 @@ excerpt: "EPL GW 21 Home vs Sheffield United Kick-off 03:30 Jum'at, 03 Januari 2
 categories: [liverpool]
 tags: [liga inggris, liverpool fc, sheffield united]
 header:
- video:
-  id: lfctv1
-  provider: internal
- # images: "https://cdn.statically.io/img/www.travel4football.com/wp-content/uploads/sites/2/2019/09/Skjermbilde-2019-09-06-kl.-10.59.08.png?w=720&format=webp"
+ #video:
+ # id: lfctv1
+ # provider: internal
+ images: "https://cdn.statically.io/img/www.travel4football.com/wp-content/uploads/sites/2/2019/09/Skjermbilde-2019-09-06-kl.-10.59.08.png?w=720&format=webp"
  teaser: "https://cdn.statically.io/img/www.travel4football.com/wp-content/uploads/sites/2/2019/09/Skjermbilde-2019-09-06-kl.-10.59.08.png?w=480&format=webp"
  og_images: "https://cdn.statically.io/img/www.travel4football.com/wp-content/uploads/sites/2/2019/09/Skjermbilde-2019-09-06-kl.-10.59.08.png?format=webp"
  caption: "Liverpool FC vs Sheffield United"
@@ -59,3 +59,4 @@ Liverpool masih terbelit badai cedera. 🤪 Dan [Minamino masih belum bisa main]
 > _Sheffield United provisional squad:_ Henderson, Egan, Basham, O'Connell, Fleck, Stevens , Besic Baldock, Norwood, Lundstram, Robinson, Mousset, Sharp, McBurnie, McGoldrick, Freeman, Jagielka, Verrips
 > via [eveningstandard](https://www.standard.co.uk/sport/football/liverpool-vs-sheffield-united-predicted-lineups-team-news-injury-list-premier-league-match-today-a4325051.html)
 
+Next Match: **FA Cup 3rd Round:** [Liverpool FC vs Everton FC](/home-fa-cup-vs-everton/) Minggu, 5 Januari 2020 KO 18:30 WIB
