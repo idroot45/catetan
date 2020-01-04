@@ -28,8 +28,6 @@ Everton akan tandang ke Anfield pada Minggu (5/1) sore waktu setempat untuk lako
 > “He had kind of time off when Salzburg went into the winter break, he had time off and we were not allowed to bring him here to train with us in that time. He was back in Japan, which was nice as well. He came here in a good shape. So, let’s see.”
 > Jurgen Klop via [liverpoolfc.com](https://www.liverpoolfc.com/news/first-team/381164-klopp-discusses-potential-reds-debut-for-takumi-minamino)
 
-## Pre-match
-
 Beberapa pemain utama masih dibelit cidera atau dalam fase pemulihan. Antara lain: Chamberlain (ligamen ankle), Keita (selangkangan), Shaqiri (hamstring), Fabinho (ankle), Matip (lutut), Lovren (otot).
 
 ### Prediksi line-up kontra Everton
@@ -40,3 +38,8 @@ Beberapa pemain utama masih dibelit cidera atau dalam fase pemulihan. Antara lai
 
 Firminho, VVD, Robertson dan TAA istirahat, Salah dan Mane ada di bangku cadangan.
 
+## Pre-match
+
+## Match
+
+## After-match
