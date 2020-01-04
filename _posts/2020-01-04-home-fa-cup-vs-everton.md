@@ -7,10 +7,21 @@ header:
 categories: [liverpool]
 tags: [fa cup, everton fc, derby merseyside, liverpool fc]
 ---
-
 ## Heads-up
 
-Jurgen Klopp siagakan Rhian Brewster saat Liverpool menjamu Everton di Piala FA, Minggu (5/1) malam, selain akan turunkan bintang baru asal Jepang, Takumi Minamino.
+Takumi Minamino mendapat poster selamat datang dari kopites di laga lawan Sheffield. Selain itu ada ekspektasi berlebih dari fans di sosial media untuk memainkan Takumi Minamino kala menjamu Everton. Takumi sendiri terlihat ikut menonton di tribun penonton.
+
+### Insight
+
+1. Liverpool dan Everton sudah 24 kali berjumpa di FA Cup. Membuat _derby_ ini sebagai laga paling banyak dimainkan dalam sejarah kompetisi ini.
+2. Everton pernah melakukan laga tandang 5 kali ke Anfield dan 4 diantaranya berakhir imbang hingga harus dilakukan _replays_ dan di laga tandang terakhirnya pada Januari 2018 dimenangkan Liverpool dengan skor 2-1.
+3. Liverpool gugur dalam 2 laga terakhir FA Cup, masing-masing melawan Westbrom (Januari 2018) dan Wolverhampton (Januari 2019). Liverpool tak pernah kalah 3 kali beruntun sejak kompetisi digulirkan pada Januari 1954.
+4. Everton sudah pernah gugur di putaran ke-3 dalam 5 musim terakhir dan hanya 3 kali gugur dalam 16 musim sebelum (5 musim) itu.
+5. Lord Origoal selalu mencetak goal ke gawang Everton dalam 5 laga kandang terakhir di semua kompetisi. Salah satunya adalah _brace_ kala menjamu Everton dalam kompetisi Liga Inggris (skor 5-2) pada Desember 2019.
+
+### Prediksi line-up kontra Everton
+
+Jurgen Klopp sudah siagakan Rhian Brewster. Kemungkinan besar juga akan turunkan Takumi Minamino, bintang baru asal Jepang.
 
 Brewster sebelumnya absen sejak akhir November lalu akibat cedera pergelangan kaki. Namun setelah pulih, dia langsung kembali berlatih bersama tim utama.
 
@@ -29,8 +40,6 @@ Everton akan tandang ke Anfield pada Minggu (5/1) sore waktu setempat untuk lako
 > Jurgen Klop via [liverpoolfc.com](https://www.liverpoolfc.com/news/first-team/381164-klopp-discusses-potential-reds-debut-for-takumi-minamino)
 
 Beberapa pemain utama masih dibelit cidera atau dalam fase pemulihan. Antara lain: Chamberlain (ligamen ankle), Keita (selangkangan), Shaqiri (hamstring), Fabinho (ankle), Matip (lutut), Lovren (otot).
-
-### Prediksi line-up kontra Everton
 
 **Starting XI:** Adrian, Nat Philips, Gomez, Neco Williams, Milner, Lallana, **Minamino**, Curtis Jones, Origi, Elliot, **Brewster**.
 
