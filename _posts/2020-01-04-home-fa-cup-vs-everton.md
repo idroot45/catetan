@@ -11,6 +11,7 @@ Jurgen Klopp siagakan Rhian Brewster saat Liverpool menjamu Everton di Piala FA,
 
 Brewster sebelumnya absen sejak akhir November lalu akibat cedera pergelangan kaki. Namun setelah pulih, dia langsung kembali berlatih bersama tim utama.
 
+{% include figure caption="Takumi Minamino was among the spectators at Anfield for Liverpool's clash with Sheffield United. (image via mirror.co.uk)" image_path="https://i2-prod.mirror.co.uk/incoming/article21203518.ece/ALTERNATES/s810/0_FBL-ENG-PR-LIVERPOOL-SHEFFIELDU.jpg" %}
 Pemain berusia 19 tahun itu diperkirakan akan tinggalkan Anfield dengan status pinjaman pada akhir bulan ini. Swansea City diperkirakan menjadi klub tujuan yang paling mungkin baginya, meskipun sebelum berangkat ia akan bermain sejenak untuk the Reds di Piala FA akhir pekan ini.
 
 Everton akan tandang ke Anfield pada Minggu (5/1) sore waktu setempat untuk lakoni laga babak ketiga. “Jika tidak terjadi apa-apa, Rhian akan berada di dalam skuad. Dia sudah berlatih empat, lima atau enam hari, tidak lama, itu hanya latihan ringan, tapi itu cukup memperlihatkan bahwa dia belum tersedia. Sekarang dia kembali berlatih, dan dia akan terlibat dalam pasukan kami nanti,” tandas Klopp, seperti dilansir [thisisAnfield.com](https://www.thisisanfield.com/2020/01/klopp-confirms-rhian-brewster-involved-vs-everton-and-hints-takumi-minamino-will-start/amp/).
