@@ -6,6 +6,7 @@ header:
  captions: "Liverpool supporters with a banner for new signing Japan international Takumi Minamino during the FA Premier League match between [Liverpool FC and Sheffield United FC at Anfield](/home-vs-sheffield/). (Pict: David Rawcliffe/Propaganda)"
 categories: [liverpool]
 tags: [fa cup, everton fc, derby merseyside, liverpool fc]
+last_modified_at: 2020-01-05 22:40:00
 ---
 **FA Cup 3rd Round: _Liverpool FC vs Everton_.** 👉 [KO 23:01 WIB, Minggu, 5 Januari 2020](#match)
 
