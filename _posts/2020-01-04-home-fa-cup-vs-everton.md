@@ -7,6 +7,8 @@ header:
 categories: [liverpool]
 tags: [fa cup, everton fc, derby merseyside, liverpool fc]
 ---
+**FA Cup 3rd Round: Liverpool FC vs Everton. 👉 [KO 23:31 WIB, Minggu, 5 Januari 2020](#match)
+
 ## Heads-up
 
 Takumi Minamino mendapat poster selamat datang dari kopites di laga lawan Sheffield. Selain itu ada ekspektasi berlebih dari fans di sosial media untuk memainkan Takumi Minamino kala menjamu Everton. Takumi sendiri terlihat ikut menonton di tribun penonton.
@@ -49,7 +51,7 @@ Firminho, VVD, Robertson dan TAA istirahat, Salah dan Mane ada di bangku cadanga
 
 ## Pre-match
 
-### Starting XI
+### Confirmed Starting XI
 
 Liverpool FC (4-2-3-1): Adrian; Neco Williams, Joe Gomez, Nat Philips, Milner; Lallana, P. Chirivella; H. Elliot, M. Takumi, C. Jones; D. Origi.
 
@@ -58,5 +60,7 @@ Subs: Kelleher, Hoever, Larouci, Henderson, Mane, Oxlade-Chamberlain, Brewster
 Everton (4-4-2): Pickford; Digne, Mina, Holgate, Coleman; Schneiderlin, Sigurdsson, Sidibe, Walcott; Richarlison, Calvert-Lewin.
 
 ## Match
+
+{% include video id="lfctv3" provider="internal" %}
 
 ## After-match
