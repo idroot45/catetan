@@ -2,10 +2,10 @@
 permalink: "/lfctv1"
 layout: "stream"
 match:
- home: Wolferhampton Wanderers
- away: Manchester United
- hashtag: WOLMUN
- ko: "00:30 WIB. Minggu, 5 Januari 2020"
+ home: Liverpool FC
+ away: Everton
+ hashtag: LIVEVE
+ ko: "23:30 WIB. Minggu, 5 Januari 2020"
  liga: FA Cup
  round: 3rd Round
 video:
