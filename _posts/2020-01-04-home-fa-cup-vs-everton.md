@@ -7,7 +7,7 @@ header:
 categories: [liverpool]
 tags: [fa cup, everton fc, derby merseyside, liverpool fc]
 ---
-**FA Cup 3rd Round: _Liverpool FC vs Everton_.** 👉 [KO 23:31 WIB, Minggu, 5 Januari 2020](#match)
+**FA Cup 3rd Round: _Liverpool FC vs Everton_.** 👉 [KO 23:01 WIB, Minggu, 5 Januari 2020](#match)
 
 ## Heads-up
 
@@ -65,7 +65,7 @@ As for Everton, Carlo Ancelotti has picked a much stronger lineup, with that str
 
 ## Match
 
-Kick-Off 23:31 WIB
+Kick-Off 23:01 WIB
 
 {% include video id="lfctv3" provider="internal" %}
 
