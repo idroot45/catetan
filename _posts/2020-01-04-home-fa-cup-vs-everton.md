@@ -49,6 +49,14 @@ Firminho, VVD, Robertson dan TAA istirahat, Salah dan Mane ada di bangku cadanga
 
 ## Pre-match
 
+### Starting XI
+
+Liverpool FC (4-2-3-1): Adrian; Neco Williams, Joe Gomez, Nat Philips, Milner; Lallana, P. Chirivella; H. Elliot, M. Takumi, C. Jones; D. Origi.
+
+Subs: Kelleher, Hoever, Larouci, Henderson, Mane, Oxlade-Chamberlain, Brewster
+
+Everton (4-4-2): Pickford; Digne, Mina, Holgate, Coleman; Schneiderlin, Sigurdsson, Sidibe, Walcott; Richarlison, Calvert-Lewin.
+
 ## Match
 
 ## After-match
