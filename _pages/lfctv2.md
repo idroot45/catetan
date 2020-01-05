@@ -2,9 +2,9 @@
 permalink: "/lfctv2"
 layout: "stream"
 match:
- home: Manchester City
- away: Port Vale
- hashtag: MNCPVA
+ home: Chelsea
+ away: Nottingham
+ hashtag: CHEFOR
  ko: "00:30 WIB. Minggu, 5 Januari 2020"
  liga: EPL
  round: 3rd Round
