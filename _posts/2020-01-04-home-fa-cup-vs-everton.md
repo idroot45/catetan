@@ -7,7 +7,7 @@ header:
 categories: [liverpool]
 tags: [fa cup, everton fc, derby merseyside, liverpool fc]
 ---
-**FA Cup 3rd Round: Liverpool FC vs Everton. 👉 [KO 23:31 WIB, Minggu, 5 Januari 2020](#match)
+**FA Cup 3rd Round: _Liverpool FC vs Everton_.** 👉 [KO 23:31 WIB, Minggu, 5 Januari 2020](#match)
 
 ## Heads-up
 
