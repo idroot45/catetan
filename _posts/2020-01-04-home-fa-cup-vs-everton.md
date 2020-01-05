@@ -51,15 +51,21 @@ Firminho, VVD, Robertson dan TAA istirahat, Salah dan Mane ada di bangku cadanga
 
 ## Pre-match
 
-### Confirmed Starting XI
+### Team news!
 
-Liverpool FC (4-2-3-1): Adrian; Neco Williams, Joe Gomez, Nat Philips, Milner; Lallana, P. Chirivella; H. Elliot, M. Takumi, C. Jones; D. Origi.
+Liverpool (4-2-3-1): Adrian; Milner, Gomez, Phillips, Williams; Lallana, Chirivella, Jones, Elliott; Minamino, Origi.
+Subs: Kelleher, Mane, Henderson, Oxlade-Chamberlain, Brewster, Hoever, Larouci.
 
-Subs: Kelleher, Hoever, Larouci, Henderson, Mane, Oxlade-Chamberlain, Brewster
+Well then. A bit of a pick-and-mix selection from Jurgen Klopp, who has entrusted senior players like James Milner and Adam Lallana to help coach the likes of Neco Williams and Curtis Jones (both 18) through the game. The pick of Liverpool’s youngsters, though, is winger Harvey Barnes – though all eyes will be on debutant Takumi Minamino, who’ll be looking to replicate his lively recent Champions League performances against, er, Liverpool.
 
-Everton (4-4-2): Pickford; Digne, Mina, Holgate, Coleman; Schneiderlin, Sigurdsson, Sidibe, Walcott; Richarlison, Calvert-Lewin.
+Everton (4-4-2): Pickford; Mina, Holgate, Coleman, Digne; Sigurdsson, Schneiderlin, Sidibe, Walcott; Richarlison, Calvert-Lewin.
+Subs: Stekelenberg, Baines, Keane, Delph, Bernard, Davies, Kean.
+
+As for Everton, Carlo Ancelotti has picked a much stronger lineup, with that striking partnership of Richarlison and Dominic Calvert-Lewin will be hoping to get some joy against a Liverpool backline continuing two youngsters. Gylfi Sigursson, too, will surely be looking to sneak into space behind a Liverpool midfield that features no holding player of any real pedigree.
 
 ## Match
+
+Kick-Off 23:31 WIB
 
 {% include video id="lfctv3" provider="internal" %}
 
