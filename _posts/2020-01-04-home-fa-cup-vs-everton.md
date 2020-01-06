@@ -1,6 +1,6 @@
 ---
 title: "FA CUP 3rd Round: Liverpool FC vs Everton FC"
-excerpt: "Jurgen Klopp siagakan Rhian Brewster dan akan turunkan bintang baru asal Jepang, Takumi Minamino"
+excerpt: "**FA Cup 3rd Round: _Liverpool FC vs Everton_.** 👉 KO 23:01 WIB, Minggu, 5 Januari 2020. Skor akhir 1-0"
 header:
  overlay_image: "https://cdn.statically.io/img/www.thisisanfield.com/wp-content/uploads/P2020-01-02-Liverpool_Sheff_Utd-43.jpg"
  captions: "Liverpool supporters with a banner for new signing Japan international Takumi Minamino during the FA Premier League match between [Liverpool FC and Sheffield United FC at Anfield](/home-vs-sheffield/). (Pict: David Rawcliffe/Propaganda)"
