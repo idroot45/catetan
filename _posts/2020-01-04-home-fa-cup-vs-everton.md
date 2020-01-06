@@ -68,6 +68,8 @@ As for Everton, Carlo Ancelotti has picked a much stronger lineup, with that str
 
 Kick-Off 23:01 WIB
 
-{% include video id="lfctv3" provider="internal" %}
+{% include video id="nSRBhNk7IHY" provider="youtube" %}
 
 ## After-match
+
+{% include video provider="youtube" id="4UxF-sEfjQg" %}
