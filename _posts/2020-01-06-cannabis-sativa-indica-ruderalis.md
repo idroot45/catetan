@@ -13,6 +13,8 @@ Rami gulma sejenis ganja, tetapi karakteristiknya berbeda. Rami gulma (Cannabis 
 
 Rami gulma pertama kali dijelaskan pada tahun 1924 oleh Dmitry Yanishevsky sebagai **spesies independen** [referensi](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5531363/). Tanaman ini ruderal, rendah (hingga 60 cm), jarang bercabang, dengan daun tipis kecil dan batang tengah tipis. Dalam kondisi yang menguntungkan, tanaman dapat mencapai ketinggian hingga 3 meter. Tanaman ini tumbuh di stepa Siberia selatan dan Kazakhstan selatan, sejak 1960-an mulai menyebar ke Eropa bagian Rusia dan Ukraina. Penyebarannya sering bersifat fokus. Tanaman ini lebih menyukai tanah subur bersama tanaman yang tumbuh secara luas di sepanjang tepi jalan, tanggul, jalur eksklusi, tanah kosong, parit, selokan, dan di tempat lain.
 
+> Cannabis ruderalis is essentially a wild subspecies of cannabis, and besides mixing its genetics with sativa and indica strains, it doesn’t really have any other commercial use — at least not yet.
+
 ### THC dan CBD
 
 Kandungan THC pada Cannabis ruderalis sangat kecil sehingga para pemadat tidak tertarik membicarakannya. THC atau tetrahydrocannabinol adalah bahan kimia yang bertanggung jawab atas sebagian besar efek psikologis ganja. THC merangsang sel-sel di otak untuk melepaskan dopamin dan menciptakan euforia. THC dapat menyebabkan halusinasi, mengubah pemikiran dan menyebabkan delusi.
