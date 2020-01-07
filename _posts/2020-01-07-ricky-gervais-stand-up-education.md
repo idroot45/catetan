@@ -7,6 +7,8 @@ header:
  video:
   id: x4toqfm
   provider: dailymotion
+ og_images: "https://cdn.statically.io/img/compote.slate.com/images/d1344dd3-30ba-4a6f-8ab7-64b6b87943a8.jpeg"
+ teaser: "https://cdn.statically.io/img/compote.slate.com/images/d1344dd3-30ba-4a6f-8ab7-64b6b87943a8.jpeg?w=480&filter=grayscale"
 ---
 Ah... Video diatas adalah Ricky Gervais ketika tampil dalam stand up bertajuk "Education" 3 tahun lalu.
 
