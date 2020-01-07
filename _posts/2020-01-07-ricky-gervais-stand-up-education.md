@@ -8,16 +8,15 @@ header:
   id: x4toqfm
   provider: dailymotion
 ---
-Ah... video diatas adalah Ricky Gervais ketika tampil dalam Stand Up commedy bertajuk Education. Yang sudah terlalu kuno...
+Ah... Video diatas adalah Ricky Gervais ketika tampil dalam stand up bertajuk "Education" 3 tahun lalu.
 
-Yang terbaru tentu saja Opening Monologue nya di malam Golden Globe 2020. Dark Humour nya... 🤣🤣🤣🤣
+Yang terbaru tentu saja Opening Monologue nya di malam Golden Globe 2020. _Roasting_ nya mangstap 🤣🤣🤣🤣
 
 Simak videonya dibawah:
 
-
 {% include video id="x7q4wxq" provider="dailymotion" %}
 
-Susah mengikuti kata-katanya? berikut transkrip lengkapnya:
+Susah mengikuti kata-katanya? Berikut transkrip lengkap roasting ala Ricky Gervais:
 
 > "Hello and welcome to the 77th annual Golden Globe Awards, live from the Beverly Hilton Hotel here in Los Angeles. I’m Ricky Gervais, thank you.
 > 
@@ -87,4 +86,6 @@ Susah mengikuti kata-katanya? berikut transkrip lengkapnya:
 > 
 > "Right, let’s do the first award."
 
-Well...
+{% include video id="7lsdJDiJ0QE" provider="youtube" %}
+
+Well... Mission Passed! respect +.
