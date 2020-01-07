@@ -7,8 +7,8 @@ header:
  video:
   id: x4toqfm
   provider: dailymotion
- og_images: "https://cdn.statically.io/img/compote.slate.com/images/d1344dd3-30ba-4a6f-8ab7-64b6b87943a8.jpeg"
- teaser: "https://cdn.statically.io/img/compote.slate.com/images/d1344dd3-30ba-4a6f-8ab7-64b6b87943a8.jpeg?w=480&filter=grayscale"
+ og_images: "https://cdn.statically.io/img/amgreatness.com/wp-content/uploads/2020/01/GettyImages-1191950886.jpg"
+ teaser: "https://cdn.statically.io/img/amgreatness.com/wp-content/uploads/2020/01/GettyImages-1191950886.jpg?w=480&filter=grayscale"
 ---
 Ah... Video diatas adalah Ricky Gervais ketika tampil dalam stand up bertajuk "Education" 3 tahun lalu.
 
@@ -56,7 +56,7 @@ Susah mengikuti kata-katanya? Berikut transkrip lengkap roasting ala Ricky Gerva
 > 
 > "Spoiler alert, season two is on the way so in the end he obviously didn’t kill himself. Just like Jeffrey Epstein. Shut up. I know he’s your friend but I don’t care.
 > 
-> "Seriously, most films are awful. Lazy. Remakes, sequels. I’ve heard a rumour there might be a sequel to Sophie’s Choice.
+> "Seriously, most films are awful. **Lazy. Remakes, sequels**. I’ve heard a rumour there might be a sequel to Sophie’s Choice.
 > 
 > "I mean, that would just be Meryl just going, 'Well, it’s gotta be this one then.' All the best actors have jumped to Netflix, HBO.
 > 
@@ -68,7 +68,7 @@ Susah mengikuti kata-katanya? Berikut transkrip lengkap roasting ala Ricky Gerva
 > 
 > "I agree. Although I don’t know what he’s doing hanging around theme parks. He’s not big enough to go on the rides. He’s tiny.
 > 
-> "The Irishman was amazing. It was amazing. It was great. Long, but amazing. It wasn’t the only epic movie. Once Upon a Time in Hollywood, nearly three hours long.
+> "The Irishman was amazing. It was amazing. It was great. Long, but amazing. It wasn’t the only epic movie. [Once Upon a Time in Hollywood](), nearly three hours long.
 > 
 > "Leonardo DiCaprio attended the premiere and by the end his date was too old for him. Even Prince Andrew was like, 'Come on, Leo, mate.You’re nearly 50-something.'
 > 
