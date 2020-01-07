@@ -3,13 +3,13 @@ title: "Cannabis: Sativa, Indica dan Ruderalis"
 excerpt: "Ganja macam apa yang punya manfaat? 😏"
 header:
  image: "https://cdn.statically.io/img/greencamp.com/wp-content/uploads/2019/07/what-is-cannabis-ruderalis.jpg"
- teaser: "
+ teaser: "https://cdn.statically.io/img/greencamp.com/wp-content/uploads/2019/07/ruderalis-leaves.jpg"
 categories: [obat]
 tags: [medika, psikotropika, ganja]
 ---
 Rami gulma sejenis ganja, tetapi karakteristiknya berbeda. Rami gulma (Cannabis Ruderalis) adalah tanaman liar yang tidak dibudidayakan. Gulma adalah tumbuhan yang kehadirannya tidak diinginkan karena sifatnya mengganggu tanaman di sekitarnya.
 
-{% include figure image_path="https://greencamp.com/wp-content/uploads/2019/07/ruderalis-leaves.jpg" caption="perbedaan bentuk daun diantara 3 species ganja" %}
+{% include figure image_path="https://cdn.statically.io/img/greencamp.com/wp-content/uploads/2019/07/ruderalis-leaves.jpg" caption="perbedaan bentuk daun diantara 3 species ganja" %}
 
 Rami gulma pertama kali dijelaskan pada tahun 1924 oleh Dmitry Yanishevsky sebagai **spesies independen** [referensi](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5531363/). Tanaman ini ruderal, rendah (hingga 60 cm), jarang bercabang, dengan daun tipis kecil dan batang tengah tipis. Dalam kondisi yang menguntungkan, tanaman dapat mencapai ketinggian hingga 3 meter. Tanaman ini tumbuh di stepa Siberia selatan dan Kazakhstan selatan, sejak 1960-an mulai menyebar ke Eropa bagian Rusia dan Ukraina. Penyebarannya sering bersifat fokus. Tanaman ini lebih menyukai tanah subur bersama tanaman yang tumbuh secara luas di sepanjang tepi jalan, tanggul, jalur eksklusi, tanah kosong, parit, selokan, dan di tempat lain.
 
@@ -23,4 +23,4 @@ Padahal, ruderalis adalah jenis ganja yang paling cocok bagi pasien yang membutu
 
 ### BTW
 
-{% include figure caption="Ini buku apa sih? Di lapak-lapak surga buku kawe di Kampung Ilmu juga kulihat banyak juga buku ini 🤔" image_path="https://id-test-11.slatic.net/p/819fb370981bd4eb0be9e43faefcca40.jpg_720x720q90.jpg" %}
+{% include figure caption="Ini buku apa sih? Di lapak-lapak surga buku kawe di Kampung Ilmu juga kulihat banyak juga buku ini 🤔" image_path="https://cdn.statically.io/img/id-test-11.slatic.net/p/819fb370981bd4eb0be9e43faefcca40.jpg_720x720q90.jpg" %}
