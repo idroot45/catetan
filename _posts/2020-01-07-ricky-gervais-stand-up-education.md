@@ -1,6 +1,6 @@
 ---
-title: ""
-ecxerpt: ""
+title: "Video Ricky Gervais Hosts Golden Globe 2020 + Transkrip Lengkap"
+ecxerpt: "Video Roasting Ricky Gervais Opening Monologue Golden Globe 2020"
 categories: [video]
 tags: [ricky gervais, stand up commedy]
 header:
