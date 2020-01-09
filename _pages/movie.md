@@ -15,7 +15,7 @@ video:
  type: "application/x-mpegUrl"
 sitemap: false
 redirect_from:
- - /tvgratis
+ - /tv
 ---
 Valid streaming sampai jam 14:30 WIB
 {:.notice .notice--info}
