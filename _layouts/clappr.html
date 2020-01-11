@@ -4,7 +4,7 @@ layout: compress
 <!doctype html>
 <html lang="id">
 <head>
-<title>{{ page.movie.title }} ({{ page.movie.year }}) {{ page.movie.source }}</title>
+<title>{{ page.match.home }} {{ page.match.away }} {{ page.match.hashtag }} {{ page.match.liga }} {{ page.match.round }}</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 <style>
 #responsive {
@@ -129,31 +129,6 @@ var player = new Clappr.Player({
     }
         });
     }
-</script>
-var player = new Clappr.Player({
-    source: '{{ page.video.source }}',
-    mediacontrol: {
-      seekbar: "#FF0000",
-      buttons: "#FF0000"
-    },
-    poster: "{{ page.video.poster }}",
-    watermark: "https://cdn.statically.io/img/repo.catetan.pw/icon/favicon-32x32.png",
-    watermarkLink: "{{ page.video.link }}",
-    plugins: [ChromecastPlugin],
-    parentId: '#responsive',
-    width: '100%',
-    height: '100%',
-    mimeType: '{{ page.video.type }}',
-    hlsMinimumDvrSize: 0,
-    playback: {
-        crossOrigin: 'anonymous',
-        hlsjsConfig: {
-           liveSyncDurationCount: 3
-        },
-    gaAccount: 'UA-116300012-1',
-    gaTrackerName: 'pageview'
-    }
-});
 </script>
 <div id="main" class="main">{{ content }}</div>
 </body>
