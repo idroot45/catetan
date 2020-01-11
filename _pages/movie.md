@@ -2,11 +2,11 @@
 excerpt: "Tahun Baru 2020 Lapoan Gaes?"
 permalink: "/istimiwir"
 layout: "clappr"
-movie:
- title: "One Piece: Stampede"
- year: "2019"
- rate: "8.2"
- source: "HDrip"
+match:
+ home: "One Piece: Stampede"
+ away: "2019"
+ liga: "8.2"
+ round: "HDrip"
 video:
  source: "https://e27.cdncv.net/hls/mfqjrculudouc57qw7hezkix4mhtfgjmnnbqyqi4j,locsh45isscsorbtyaq,btcsh45issgrjovyapa,3ocqh45issiczz6vmlq,.urlset/master.m3u8"
  poster: "https://cdn.statically.io/img/wallpaperplay.com/walls/full/3/5/a/324285.jpg?w=480&quality=80&format=webp"
