@@ -4,7 +4,7 @@ layout: compress
 <!doctype html>
 <html lang="id">
 <head>
-<title>{{ page.match.home }} {{ page.match.away }} {{ page.match.hashtag }} {{ page.match.liga }} {{ page.match.round }}</title>
+<title>{{ page.match.liga }} {{ page.match.round }} {{ page.match.home }} {{ page.match.away }} {{ page.match.hashtag }}</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 <style>
 #responsive {
@@ -130,6 +130,11 @@ var player = new Clappr.Player({
         });
     }
 </script>
-<div id="main" class="main">{{ content }}</div>
+<div id="main" class="main">
+<div class="notice">
+{{ page.match.liga }} {{ page.match.round }} {{ page.match.home }} {{ page.match.away }} {{ page.match.hashtag }} {{ page.match.ko }}
+</div>
+{{ content }}
+</div>
 </body>
 </html>
