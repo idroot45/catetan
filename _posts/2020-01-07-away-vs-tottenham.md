@@ -40,6 +40,12 @@ Meski sebelumnya sempat berselisih, LFC tetap tak lupa untuk mengucapkan terima 
 
 ### Insight
 
+1. Tottenham hanya mampu menang sekali dari 14 laga (seri 4 kali, kalah 9 kali) terakhir mereka lawan Liverpool. Kemenangan terakhir diraih di Stadion Wembley pada Oktober 2017 dengan skor mencolok 4-1.
+2. Setelah 5 kekalahan beruntun dalam laga tandang selama (2008-2012), Liverpool baru kalah sekali dari 6 kali laga (menang 3 kali, imbang 2 kali) kala melawat ke Tottenham Hotspurs Stadium.
+3. Tottenham memenangkan 6 laga dari 10 laga kandang melawan pimpinan klasemen (imbang 1 kali, kalah 3 kali), meski dalam 2 laga terakhir mereka menderita kekalahan (masing-masing melawan Manchester City pada April 2018 dan Liverpool FC pada September 2018).
+4. Liverpool belum terkalahkan dalam 8 laga tandang ke kota London, memenangkan 3 laga terakhir berturut-turur. Tetapi, Liverpool belum pernah menang 4 kali berturut-turut sejak Oktober 1989.
+5. Hanya Norwich City yang sama-sama mencatat rekor nirbobol paling sedikit milik Tottenham musim ini. Sementara itu, Liverpool selalu mencetak gol dalam 29 laga terakhirnya. Hanya Manchester United yang punya torehan rekor lebih baik dengan 36 laga beruntun hingga berakhir pada November 2008
+
 ## Pre-match
 
 Sebelum laga **Tottenham Hotspurs vs Liverpool FC** dini hari, ada laga _Crystal Palace vs Arsenal FC_ [(19:30 WIB)](#match) dan _Manchester Utd. vs Norwich City_ [(22:00 WIB)](#match)
