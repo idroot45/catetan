@@ -50,70 +50,16 @@ layout: compress
 <body>
 <div class="reponsive-video-container"><div class="container"><div id="responsive"></div></div></div>
 <script type='text/javascript'>
-const url = {
-  1: 1,
-  2: 2,
-  3: 3,
-  4: 4,
-  5: 5,
-  6: 6,
-  7: 7,
-  8: 8,
-  9: 9
-}
-const random = Math.floor(Math.random() * 9) + 1;
-
-const config = {
-  loader: {
-    trackerAnnounce: [
-      "wss://tracker.openwebtorrent.com"
-    ],
-    rtcConfig: {
-      iceServers: [
-        { urls: "stun:stun.l.google.com:19302" },
-        { urls: "stun:stun2.l.google.com:19305" },
-      ]
-    }
-  }
-};
-
-if (false) {
-var engine = new p2pml.hlsjs.Engine(config);
-var player = new Clappr.Player({
-        parentId: '#responsive',
+    var player = new Clappr.Player({
         source: '{{ page.video.source }}',
-        width: '100%',
-        height: '100%',
-        hlsMinimumDvrSize: 0,
         mediacontrol: {
-      seekbar: "#FF0000",
-      buttons: "#FF0000"
-    },
-    poster: "{{ page.video.poster }}",
-    watermark: "https://cdn.statically.io/img/repo.catetan.pw/icon/favicon-32x32.png",
-    watermarkLink: "{{ page.video.link }}",
-    playback: {
-                hlsjsConfig: {
-                    liveSyncDurationCount: 2,
-                    loader: engine.createLoaderClass()
-                }
-            },
-    gaAccount: 'UA-116300012-1',
-    gaTrackerName: 'pageview'
-    }
-        });
- p2pml.hlsjs.initClapprPlayer(player);
-    } else {
-        var player = new Clappr.Player({
-          source: '{{ page.video.source }}',
-        mediacontrol: {
-      seekbar: "#FF0000",
-      buttons: "#FF0000"
-    },
-    poster: "{{ page.video.poster }}",
-    watermark: "https://cdn.statically.io/img/repo.catetan.pw/icon/favicon-32x32.png",
-    watermarkLink: "{{ page.video.link }}",
-    plugins: [ChromecastPlugin],
+          seekbar: "#FF0000",
+          buttons: "#FF0000"
+        },
+        poster: "{{ page.video.poster }}",
+        watermark: "{{ page.video.logo }}",
+        watermarkLink: "{{ page.video.link }}",
+        plugins: [ChromecastPlugin],
         parentId: '#responsive',
         width: '100%',
         height: '100%',
@@ -123,11 +69,10 @@ var player = new Clappr.Player({
                 liveSyncDurationCount: 2
             }
         },
-    gaAccount: 'UA-116300012-1',
-    gaTrackerName: 'pageview'
-    }
+        gaAccount: 'UA-116300012-1',
+        gaTrackerName: 'pageview'
+        }
         });
-    }
 </script>
 <div id="main" class="main">
 <div class="notice">
