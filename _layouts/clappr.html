@@ -7,7 +7,7 @@ layout: compress
 <title>{{ page.match.liga }} {{ page.match.round }} {{ page.match.home }} {{ page.match.away }}</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 <style>
-#responsive {
+#player {
         height: 55%;
         min-width: 100%;
         margin: 5px auto;
@@ -48,7 +48,7 @@ layout: compress
 <!--script src="https://cdn.jsdelivr.net/npm/clappr-pip-plugin@latest/dist/clappr-pip-plugin.js"></script-->
 </head>
 <body>
-<div class="container"><div class="reponsive-video-container"><div id="responsive"></div></div></div>
+<div class="container"><div class="reponsive-video-container"><div id="player"></div></div></div>
 <script type='text/javascript'>
     var player = new Clappr.Player({
         source: '{{ page.video.source }}',
