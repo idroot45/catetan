@@ -9,11 +9,11 @@ header:
 ---
 _**{{ page.excerpt}}**_
 
+[🔴 **LIVE**](#match){:.btn .btn--large .btn--danger}
+
 ## Headsup
 
 Lolos dari ujian awal tahun kala [menjamu Shffield United](/liverpool/home-vs-sheffield/) dengan skor meyakinkan (2-0), Liverpool juga pede [memasang pemain muda](/liverpool/fa-cup-home-vs-everton/) saat jamu Everton dalam laga puutaran ke-3 Piala FA.
-
-#KotaroMinami
 
 Dalam laga Piala FA melawan Everton, debut pemain asal Jepang itu memang “seolah-olah tenggelam” oleh performa apik pemain binaan akademi Liverpool, Curtis Jones yang baru berumur 18 tahun. Lah emangnya laga yang berjalan 70 menit sebelumnya itu apa Jon? Apakah cuma main petak-umpet?
 
@@ -42,7 +42,11 @@ Meski sebelumnya sempat berselisih, LFC tetap tak lupa untuk mengucapkan terima 
 
 ## Pre-match
 
+Sebelum laga **Tottenham Hotspurs vs Liverpool FC** dini hari, ada laga _Crystal Palace vs Arsenal FC_ [(19:30 WIB)](#match) dan _Manchester Utd. vs Norwich City_ [(22:00 WIB)](#match)
+
 ## Match
+
+{% include video id="lfctv2" provider="internal" %}
 
 ## After-match
 
