@@ -1,6 +1,6 @@
 ---
 permalink: "/lfctv4"
-layout: "clappr"
+layout: "stream"
 match:
  home: Leichester City
  away: Southampton
