@@ -9,8 +9,6 @@ header:
 ---
 _**{{ page.excerpt}}**_
 
-[🔴 **LIVE**](#match){:.btn .btn--large .btn--danger}
-
 ## Headsup
 
 Lolos dari ujian awal tahun kala [menjamu Shffield United](/liverpool/home-vs-sheffield/) dengan skor meyakinkan (2-0), Liverpool juga pede [memasang pemain muda](/liverpool/fa-cup-home-vs-everton/) saat jamu Everton dalam laga puutaran ke-3 Piala FA.
@@ -52,7 +50,6 @@ Sebelum laga **Tottenham Hotspurs vs Liverpool FC** dini hari, ada laga _Crystal
 
 ## Match
 
-{% include video id="lfctv2" provider="internal" %}
 
 ## After-match
 
