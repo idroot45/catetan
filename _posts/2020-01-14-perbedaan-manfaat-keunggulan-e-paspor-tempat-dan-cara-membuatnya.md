@@ -53,7 +53,7 @@ Sementara untuk paspor elektronik, Anda hanya bisa pergi ke beberapa kantor imig
 
 Dari segi kelengkapan data, e-paspor terbilang lebih lengkap dan akurat. E-paspor memiliki data biometrik yang mencakup sidik jari, juga bentuk wajah pemegang paspor yang tersimpan dalam chip dan bisa dikenali lewat pemindaian.
 
-{% include figure caption="Perbedaan E-Paspo dan Paspor biasa" }figure="https://blog.pergi.com/wp-content/uploads/2019/02/Cara-Membuat-dan-Keuntungan-Memiliki-E-paspor-Indonesia-Sumber-Instagram-ditjen_imigrasi.jpg" %}
+{% include figure caption="Perbedaan E-Paspo dan Paspor biasa" }figure="https://cdn.statically.io/img/blog.pergi.com/wp-content/uploads/2019/02/Cara-Membuat-dan-Keuntungan-Memiliki-E-paspor-Indonesia-Sumber-Instagram-ditjen_imigrasi.jpg" %}
 
 Data biometrik dalam e-paspor sesuai dengan standar yang dikeluarkan oleh International Civil Aviation Organization (ICAO) dan telah digunakan di dalam paspor berbagai negara lainnya seperti Australia, Amerika Serikat, Malaysia, Inggris, Jepang, Selandia Baru, Swedia, dan negara-negara lainnya.
 
