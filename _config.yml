@@ -75,7 +75,7 @@ include:
   - _pages
 
 exclude:
-  - arsip/
+  - arsip
   - Gemfile
   - Gemfile.lock
   - _draft

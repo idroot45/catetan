@@ -1,8 +1,8 @@
 ---
-title: "Kangen Avenged Sevenfold? Dengarkan Lagu Barunya, 'Set Me Free' Di Sini!"
+title: "Kangen Avenged Sevenfold? Dengarkan Lagu Barunya, “Set Me Free” Di Sini!"
 excerpt: "Dengarkan lagu terbaru A7X 2020: **Set Me Free** disertai lirik"
 header:
- image: "https://cdn.statically.io/img/matamatamusik.com/wp-content/uploads/2020/01/A7X-1024x576.jpg"
+ overlay_image: "https://cdn.statically.io/img/matamatamusik.com/wp-content/uploads/2020/01/A7X-1024x576.jpg"
  caption: "AVENGED SEVENFOLD (Foto: Travis Shinn)"
 categories: [audio]
 tags: [avenged sevenfold, lagu terbaru a7x, lagu 2020 a7x, a7x set me free]
@@ -22,7 +22,7 @@ Your browser does not support the audio element.
 </audio>
 </div>
 
-### Lirik lagu ‘Set Me Free’:
+### Lirik lagu “Set Me Free”:
 
 There’s a calmness to the air outside
 Watch the sun color the site of a morning sky
