@@ -78,6 +78,7 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - _draft
+  - _arsip
   - vendor/bundle/
   - vendor/cache/
   - vendor/gems/
