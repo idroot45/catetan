@@ -64,7 +64,7 @@ analytics:
 
 # Build settings
 markdown: kramdown
-remote_theme: "mmistakes/minimal-mistakes@4.17.2"
+remote_theme: "mmistakes/minimal-mistakes@4.17.1"
 # Outputting
 permalink: /:categories/:title/
 paginate: 10 # amount of posts to show
@@ -73,7 +73,6 @@ timezone: Asia/Jakarta
 
 include:
   - _pages
-  - arsip
 exclude:
   - Gemfile
   - Gemfile.lock
@@ -82,7 +81,6 @@ exclude:
   - vendor/cache/
   - vendor/gems/
   - vendor/ruby/
-
 # Plugins (previously gems:)
 plugins:
   - jekyll-paginate
