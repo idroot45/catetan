@@ -73,17 +73,14 @@ timezone: Asia/Jakarta
 
 include:
   - _pages
-
 exclude:
   - Gemfile
   - Gemfile.lock
   - _draft
-  - _arsip
   - vendor/bundle/
   - vendor/cache/
   - vendor/gems/
   - vendor/ruby/
-
 # Plugins (previously gems:)
 plugins:
   - jekyll-paginate
