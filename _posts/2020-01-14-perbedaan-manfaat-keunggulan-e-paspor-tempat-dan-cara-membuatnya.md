@@ -1,10 +1,7 @@
 ---
 title: "Seluk-Beluk E-Paspor: Manfaat, Keunggulan dan Bedanya dengan Paspor Biasa."
 excerpt: "Informasi seputar E-Paspor, baik manfaat, keunggulan dan perbedaanya dengan Paspor biasa. Selain itu, semiga dengan disertakannnya cara membuat E-Paspor juga bisa membantu memepermudah dalam mengurus atau mengajukan E-Paspor di lokasi yang juga akan di jelaskan."
-header:
- overlay_image: https://cdn.statically.io/img/blog.pergi.com/wp-content/uploads/2019/02/Cara-Membuat-dan-Keuntungan-Memiliki-E-paspor-Indonesia-Sumber-Instagram-alkamil_mks_surabaya.jpg
- caption: "Contoh E-Paspor"
-categories: [dokumen]
+categories: [jalan-jalan]
 tags: [e-paspor, ditjen imigrasi, kantor imigrasi, tempat membuat e-paspor, cara membuat e-paspor, perbadaan e-paspor, kelebihan e-paspor]
 ---
 E-paspor mempunyai beberapa keunggulan dibanding paspor biasa. Misalnya: pemegang e-paspor bisa mendapatkan fasilitas bebas visa untuk negara tertentu. [Selengkapnya](#apa-keuntungan-e-paspor)
@@ -52,8 +49,6 @@ Jika Anda memilih paspor biasa, pengurusannya bisa dilakukan di semua kantor imi
 Sementara untuk paspor elektronik, Anda hanya bisa pergi ke beberapa kantor imigrasi. Untuk saat ini, pembuatan e-paspor hanya dilayani di Kantor Imigrasi Kelas I di Indonesia yakni DKI Jakarta, Batam dan Surabaya..
 
 Dari segi kelengkapan data, e-paspor terbilang lebih lengkap dan akurat. E-paspor memiliki data biometrik yang mencakup sidik jari, juga bentuk wajah pemegang paspor yang tersimpan dalam chip dan bisa dikenali lewat pemindaian.
-
-{% include figure caption="Perbedaan E-Paspo dan Paspor biasa" }figure="https://cdn.statically.io/img/blog.pergi.com/wp-content/uploads/2019/02/Cara-Membuat-dan-Keuntungan-Memiliki-E-paspor-Indonesia-Sumber-Instagram-ditjen_imigrasi.jpg" %}
 
 Data biometrik dalam e-paspor sesuai dengan standar yang dikeluarkan oleh International Civil Aviation Organization (ICAO) dan telah digunakan di dalam paspor berbagai negara lainnya seperti Australia, Amerika Serikat, Malaysia, Inggris, Jepang, Selandia Baru, Swedia, dan negara-negara lainnya.
 
@@ -141,4 +136,4 @@ Berikut **daftar 27 kanim penerbit e-paspor**:
 
 Penambahan jumlah kanim penerbit e-paspor juga merupakan satu di antara beberapa target kinerja Ditjen Imigrasi di Tahun 2019.
 
-Itu dia informasi seputar E-Paspor, baik manfaat, keunggulan dan perbedaanya dengan Paspor biasa. Selain itu, semiga dengan disertakannnya cara membuat E-Paspor juga bisa membantu memepermudah dalam mengurus atau mengajukan E-Paspor di lokasi yang juga sudah di jelaskan diatas..
+Itu dia informasi seputar E-Paspor, baik manfaat, keunggulan dan perbedaanya dengan Paspor biasa. Selain itu, semiga dengan disertakannnya cara membuat E-Paspor juga bisa membantu memepermudah dalam mengurus atau mengajukan E-Paspor di lokasi yang juga sudah di jelaskan diatas.
