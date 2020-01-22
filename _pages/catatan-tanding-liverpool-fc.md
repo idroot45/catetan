@@ -21,7 +21,9 @@ Postingan ini niatnya hanya untuk menyimpan link streaming pertandingan-pertandi
 |---|---|---|---|
 | EPL GW 24 | 24/01/2020 - 03:00 WIB | [Away vs Wolves](/liverpool/away-vs-wolves/) |
 | FA Cup 4th Round | 27/01/2020 - 00:00 WIB | [Away vs Shrewsbury](/liverpool/fa-cup-away-vs-shrewsbury/) |
-| EPL GW 25 | 30/01/2020 - 02:45 WIB | [Away vs Westham Untd](/liverpool/away-vs-westham/) |
+| EPL GW 18 (*) | 30/01/2020 - 02:45 WIB | [Away vs Westham Untd](/liverpool/away-vs-westham/) |
+
+(*) Laga Tunda
 
 {% include tengah.html %}
 
