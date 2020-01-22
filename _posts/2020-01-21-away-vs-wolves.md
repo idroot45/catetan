@@ -6,4 +6,6 @@ header:
 categories: [liverpool]
 ---
 
+**Kick-Off Jum'at 03:00 WIB (dini hari) 24 Januari 2020**
+
 {% include video id="iDAvYZxkvGQ" provider="youtube" %}
