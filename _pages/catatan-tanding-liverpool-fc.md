@@ -19,7 +19,9 @@ Postingan ini niatnya hanya untuk menyimpan link streaming pertandingan-pertandi
 
 |Fixtures|Date - Kick Off|Match|
 |---|---|---|---|
-| EPL GW 21 | 03/01/2020 - 03:00 WIB | [Home vs Sheffield Utd](/liverpool/home-vs-sheffield/) |
+| EPL GW 24 | 24/01/2020 - 03:00 WIB | [Away vs Wolves](/liverpool/away-vs-wolves/) |
+| FA Cup 4th Round | 27/01/2020 - 00:00 WIB | [Away vs Shrewsbury](/liverpool/fa-cup-away-vs-shrewsbury/) |
+| EPL GW 25 | 29/01/2020 - 02:45 WIB | [Away vs Westham Untd](/liverpool/away-vs-westham/) |
 
 {% include tengah.html %}
 
