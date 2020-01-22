@@ -21,7 +21,7 @@ Situs Federasi Sepak Bola Inggris (FA) menunjukkan bahwa Liverpool hanya mendapa
 
 Meski kemungkinan besar menjadi juara Liga Inggris pada musim ini, Liverpool diprediksi tidak akan mengakhiri kompetisi tanpa kalah. Analis sepak bola senior Sportskeeda, Scott Newman, menyebut ada tiga faktor yang menjadi penghalang Liverpool menyamai gelar Arsenal yang pernah menjadi juara dengan status 'tak terkalahkan'.
 
-Menurut Scott, penyebab utama Liverpool akan kesulitan untuk tidak terkalahkan adalah karena mereka masih memiliki banyak pertandingan menghadapi tim-tim sulit. Pekan depan, skuat asuhan Juergen Klopp akan bertandan ke kandang Wolverhampton. Di laga berikutnya, mereka bakal melakoni laga derbi Merseyside kontra Everton.
+Menurut Scott, penyebab utama Liverpool akan kesulitan untuk tidak terkalahkan adalah karena mereka masih memiliki banyak pertandingan menghadapi tim-tim sulit. Pekan ini, skuat asuhan Juergen Klopp akan bertandan ke [kandang Wolverhampton](/liverpool/away-vs-wolves). Di laga berikutnya, mereka bakal melakoni laga derbi Merseyside kontra Everton.
 
 Kemudian, Liverpool masih harus menghadapi **Manchester City di Etihad**, kemudian melawan dua tim raksasa London, **Arsenal** dan **Chelsea** di bulan April.  Kemudian, Scott menyebut Liga Champions sebagai kompetisi yang dapat memengaruhi kondisi seluruh pemain. Status juara bertahan yang tersemat di dada penggawa Liverpool dianggap akan berhadapan dengan lawan berat, yakni **Atletico Madrid** pada babak 16 besar.
 
