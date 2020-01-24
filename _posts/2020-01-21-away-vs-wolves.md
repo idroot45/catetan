@@ -23,6 +23,6 @@ Ah sudahlah. Tiga poin lagi, dan kembali menegaskan bahwa Liga Inggris tahun ini
 
 Obat buat yang tidak punya kesempatan nonton livestream dengan nyaman: 
 
-{% include video provider="facebook" user="124360632411350" id="106477184199695" %}
+{% include video provider="facebook" user="106477184199695" id="179058623185034" %}
 
 Pingin sih upload ke Youtube, tetapi sepertinya bakal kena pelanggaran copyright. Jadi males, buang-buang kuota. Coba upload ke Facebook, barangkali lebi mulus.
