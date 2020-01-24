@@ -2,12 +2,12 @@
 title: "EPL Game Week ke-23: Liverpool FC vs Mamchester Utd"
 excerpt: "Live TVRI. Skor akhir 2-0 sebab semua sayang Ole"
 header:
- og_image: ""
+ og_image: "https://i.ytimg.com/vi/LDJbcWJI2UA/maxresdefault.jpg"
 categories: [liverpool]
 tags: [liga inggrris, liverpool fc, manchester united]
 ---
 
-{% includenvideo id="LDJbcWJI2UA" provider="youtube" %}
+{% include video id="LDJbcWJI2UA" provider="youtube" %}
 
 > S E M U A S A Y A N G O L E S E M U A S A Y A N G O L E S E M U A S A Y A N G O L E S E M U A S A Y A N G O L E S E M U A S A Y A N G O L E
 
