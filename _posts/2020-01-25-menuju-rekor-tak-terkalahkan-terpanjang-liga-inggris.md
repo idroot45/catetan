@@ -27,7 +27,7 @@ Poin tinggi Liverpool berasal dari 22 kemenangan dan satu imbang.
 
 Saat ini kubu Anfield juga menjadi satu-satunya tim yang tak terkalahkan di Premier League musim ini.
 
-{% include figure="https://cdn.statically.io/img/i2-prod.liverpoolecho.co.uk/incoming/article17608367.ece/ALTERNATES/s810/0_GettyImages-1194758045.jpg" caption="Only the apocalypse can now stop Liverpool (Image: Matthew Ashton - AMA/Getty Images)" %}
+{% include figure image_path="https://cdn.statically.io/img/i2-prod.liverpoolecho.co.uk/incoming/article17608367.ece/ALTERNATES/s810/0_GettyImages-1194758045.jpg" caption="Only the apocalypse can now stop Liverpool (Image: Matthew Ashton - AMA/Getty Images)" %}
 
 Bahkan, jika ditotal dengan musim 2018-2019, Liverpool sudah tak terkalahkan dalam 40 pertandingan Liga Inggris beruntun!
 
