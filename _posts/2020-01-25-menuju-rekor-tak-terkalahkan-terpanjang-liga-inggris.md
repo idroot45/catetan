@@ -13,7 +13,7 @@ header:
 
 Liverpool sukses membawa pulang tiga poin dari kandang Wolverhampton Wanderers.
 
-The Reds menang 2-1 berkat gol dari Jordan Henderson (menit ke-8) dan Roberto Firmino (84').
+[The Reds menang 2-1](/liverpool/away-vs-wolves/) berkat gol dari Jordan Henderson (menit ke-8) dan Roberto Firmino (84').
 
 {% include figure image_path="https://cdn.statically.io/img/i2-prod.liverpool.com/incoming/article17622659.ece/ALTERNATES/s810/0_GettyImages-1201531594.jpg" caption="Roberto Firmino's 84th minute winner ensured Liverpool extended their lead at the top back up to 16 points with a game still in hand. (Image: Photo by Catherine Ivill/Getty Image)" %}
 
@@ -43,4 +43,6 @@ Sementara itu, Arsenal masih menjadi pemegang rekor terpanjang dengan 49 kali be
 
 The Gunners menggoreskan tinta emas tersebut pada musim 2003-2004.
 
-> Artikel ini cuplikan dari **bolasport.com**. Efek males nulis [catetan di laga terakhir](/liverpool/away-vs-wolves/). Dan seperti biasa, foto-foto diambil dari media luar beserta captionnya 😉
+> Artikel di atas cuplikan dari **bolasport.com**. Efek males nulis [catetan di laga terakhir](/liverpool/away-vs-wolves/). Dan seperti biasa, foto-foto diambil dari media luar beserta captionnya 😉
+
+Pertandingan selanjutnya Liverpool FC akan melawat ke [kandang West Ham](/liverpool/away-vs-westham/) yang sebelumnya ditunda.
