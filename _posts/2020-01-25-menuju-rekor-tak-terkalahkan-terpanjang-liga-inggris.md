@@ -6,7 +6,7 @@ tags: [rekor liverpool, tak terkalahkan, liga inggris]
 header:
  image: "https://cdn.statically.io/img/i2-prod.liverpool.com/incoming/article17625054.ece/ALTERNATES/s810/0_GettyImages-1195535896.jpg"
  caption: "Trent Alexander-Arnold delivered his 10th Premier League assist of the season against Wolves. (Image: Photo by Andrew Kearns - CameraSport via Getty Images)"
- 
+last_modified_at: 2020-01-25 07:05:00
 ---
 
 **{{ page.excerpt }}**
