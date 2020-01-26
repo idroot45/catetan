@@ -1,12 +1,12 @@
 ---
-title: "FA CUP 4th Round: Shrewsburry vs Liverpool FC"
+title: "FA CUP 4th Round: Shrewsburry Town vs Liverpool FC"
 excerpt: "Livestream Shrewsburry vs Liverpool FC. Senin, 27 Januari 2020 Pukul 00:00 WIB"
 header:
  overlay_image: "/assets/images/stfc.jpg"
  teaser: "/assets/images/stfc.jpg"
  caption: "Liverpool FC akan merotasi skuad sekali lagi untuk kunjungan ke New Meadow, markas Shrewsburry."
 categories: [liverpool]
-tags: [fa cup, liverpool fc, shrewsburry]
+tags: [fa cup, liverpool fc, shrewsburry town]
 last_modified_at: 2020-01-26 22:07:51
 ---
 
@@ -68,6 +68,6 @@ Pemain terakhir kali bermain (Piala FA) masing masing tim:
 
 1. Manchester City vs Fulham - Ended (4-0)
 2. Tranmere Rovers vs Manchester United - 21:00 WIB
-3. Shrewsbury Town vs Liverpool - 00:00 WIB
+3. **Shrewsbury Town vs Liverpool** - 00:00 WIB
 
 {% include video provider="internal" id="lfctv1" %}
