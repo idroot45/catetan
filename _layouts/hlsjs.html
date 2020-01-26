@@ -3,28 +3,91 @@
 <head>
 <title>{{ page.title }}</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<style>
+.playlist {
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+.thumbs {
+  justify-content: space-between;
+  margin-top: .5em;
+  display: flex;
+}
+
+.thumbs span {
+  filter: grayscale(1);
+  cursor: pointer;
+  width: 24%;
+}
+
+.thumbs span:hover {
+  filter: none;
+}
+
+.thumbs img {
+  margin: 0 0 -6px;
+  max-width: 100%;
+}
+
+.thumbs .selected {
+  border: 5px solid #009fff;
+  border-radius: 2px;
+  margin-top: -3px;
+  filter: none
+}
+</style>
 <link rel="stylesheet" href="/assets/css/main.css"/>
-<script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
 </head>
 <body>
-{{ content }}
-<div class="responsive-video-container"
-<video id="video"></video>
-  <script>
-    if (Hls.isSupported()) {
-      var video = document.getElementById('video');
-      var hls = new Hls();
-      // bind them together
-      hls.attachMedia(video);
-      hls.on(Hls.Events.MEDIA_ATTACHED, function () {
-        console.log("video and hls.js are now bound together !");
-        hls.loadSource("{{ page.video.source }}");
-        hls.on(Hls.Events.MANIFEST_PARSED, function (event, data) {
-          console.log("manifest loaded, found " + data.levels.length + " quality level");
-        });
-      });
+<section class="playlist">
+
+  <div id="player" class="use-play-1 flowplayer" data-player-id="56058953-2cbd-4858-a915-1253bf7ef7b2">
+    <script src="//cdn.flowplayer.com/players/8dfd6c14-ba3a-445e-8ef5-191d9358ed0a/native/flowplayer.async.js">
+    { "src": "00dc2cd3-3813-4869-8ab8-00ece266b958", "poster": "https://flowplayer.com/demos/images/agency/2.jpeg" }
+    </script>
+  </div>
+
+  <div class="thumbs">
+    <span data-video="{{ page.video.source}}" class="selected">
+      <img src="{{ page.video.poster }}"></span>
+{% if page.video.source-2 %}
+    <span data-video="{{ page.video.source-2}}">
+      <img src="{{ page.video.poster-2 }}"></span>
+{% endif %}
+{% if page.video.source-3 %}
+    <span data-video="{{ page.video.source}}">
+      <img src="{{ page.video.poster }}"></span>
+{% endif %}
+{% if page.video.source-4 %}
+    <span data-video="{{ page.video.source-4}}">
+      <img src="{{ page.video.poster-4 }}"></span>
+{% endif %}
+  </div>
+
+</section>
+
+<script>
+flowplayer.cloud.then(function () {
+  var api = flowplayer("#player")
+  var thumbs = document.querySelectorAll('[data-video]')
+
+  function select(index) {
+    for (var i = 0; i < thumbs.length; ++i) {
+      thumbs[i].classList.toggle('selected', i == index)
     }
+  }
+
+  ;[].forEach.call(thumbs, function(thumb, i) {
+    thumb.onclick = function() {
+      api.setSrc(thumb.dataset.video)
+      api.play()
+      select(i)
+    }
+  })
+
+  select(0)
+})
 </script>
-</div>
 </body>
 </html>
