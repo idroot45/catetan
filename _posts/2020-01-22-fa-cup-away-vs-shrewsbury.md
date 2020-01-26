@@ -6,6 +6,7 @@ header:
  caption: "Liverpool FC akan merotasi skuad sekali lagi untuk kunjungan ke New Meadow, markas Shrewsburry."
 categories: [liverpool]
 tags: [fa cup, liverpool fc, shrewsburry]
+last_modified_at: 2020-01-26 12:25:51
 ---
 
 **Jürgen Klopp mengkonfirmasi Liverpool akan membawa Pemain yang bugar untuk pertandingan putaran keempat Piala FA Minggu [melawan Shrewsbury](#livestream).**
