@@ -1,5 +1,11 @@
+<html>
+<head>
+<title>{{ page.title }}</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<link rel="stylesheet" href="/assets/css/main.css"/>
 <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
-
+</head>
+<body>
   <video id="video"></video>
   <script>
     if (Hls.isSupported()) {
@@ -15,4 +21,6 @@
         });
       });
     }
-  </script>
+</script>
+</body>
+</html>
