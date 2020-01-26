@@ -2,92 +2,21 @@
 <html>
 <head>
 <title>{{ page.title }}</title>
-<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-<style>
-.playlist {
-  max-width: 900px;
-  margin: 0 auto;
-}
-
-.thumbs {
-  justify-content: space-between;
-  margin-top: .5em;
-  display: flex;
-}
-
-.thumbs span {
-  filter: grayscale(1);
-  cursor: pointer;
-  width: 24%;
-}
-
-.thumbs span:hover {
-  filter: none;
-}
-
-.thumbs img {
-  margin: 0 0 -6px;
-  max-width: 100%;
-}
-
-.thumbs .selected {
-  border: 5px solid #009fff;
-  border-radius: 2px;
-  margin-top: -3px;
-  filter: none
-}
-</style>
-<link rel="stylesheet" href="/assets/css/main.css"/>
+  <link href="https://vjs.zencdn.net/7.6.6/video-js.css" rel="stylesheet" />
+  <!-- If you'd like to support IE8 (for Video.js versions prior to v7) -->
+  <script src="https://vjs.zencdn.net/ie8/1.1.2/videojs-ie8.min.js"></script>
 </head>
 <body>
-<section class="playlist">
-
-  <div id="player" class="use-play-1 flowplayer" data-player-id="56058953-2cbd-4858-a915-1253bf7ef7b2">
-    <script src="https://cdn.flowplayer.com/players/8dfd6c14-ba3a-445e-8ef5-191d9358ed0a/native/flowplayer.async.js">
-    { "src": "{{ page.video.source }}", "poster": "{{ page.video.poster }}" }
-    </script>
-  </div>
-
-  <div class="thumbs">
-    <span data-video="{{ page.video.source}}" class="selected">
-      <img src="{{ page.video.poster }}"></span>
-{% if page.video.source-2 %}
-    <span data-video="{{ page.video.source-2}}">
-      <img src="{{ page.video.poster-2 }}"></span>
-{% endif %}
-{% if page.video.source-3 %}
-    <span data-video="{{ page.video.source}}">
-      <img src="{{ page.video.poster }}"></span>
-{% endif %}
-{% if page.video.source-4 %}
-    <span data-video="{{ page.video.source-4}}">
-      <img src="{{ page.video.poster-4 }}"></span>
-{% endif %}
-  </div>
-
-</section>
-
+<video-js id=example-video width=960 height=540 class="vjs-default-skin" controls>
+  <source
+     src="{{ page.video.source }}"
+     type="application/x-mpegURL">
+</video-js>
+<script src="https://unpkg.com/video.js/dist/video.js"></script>
+    <script src="https://unpkg.com/@videojs/http-streaming/dist/videojs-http-streaming.js"></script>
 <script>
-flowplayer.cloud.then(function () {
-  var api = flowplayer("#player")
-  var thumbs = document.querySelectorAll('[data-video]')
-
-  function select(index) {
-    for (var i = 0; i < thumbs.length; ++i) {
-      thumbs[i].classList.toggle('selected', i == index)
-    }
-  }
-
-  ;[].forEach.call(thumbs, function(thumb, i) {
-    thumb.onclick = function() {
-      api.setSrc(thumb.dataset.video)
-      api.play()
-      select(i)
-    }
-  })
-
-  select(0)
-})
+var player = videojs('example-video');
+player.play();
 </script>
 </body>
 </html>
