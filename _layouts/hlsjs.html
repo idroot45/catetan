@@ -1,3 +1,4 @@
+<!doctype html>
 <html>
 <head>
 <title>{{ page.title }}</title>
@@ -6,7 +7,9 @@
 <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
 </head>
 <body>
-  <video id="video"></video>
+{{ content }}
+<div class="reponsive-video-container"
+<video id="video"></video>
   <script>
     if (Hls.isSupported()) {
       var video = document.getElementById('video');
@@ -22,5 +25,6 @@
       });
     }
 </script>
+</div>
 </body>
 </html>
