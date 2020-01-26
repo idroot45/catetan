@@ -7,7 +7,7 @@ header:
  caption: "Liverpool FC akan merotasi skuad sekali lagi untuk kunjungan ke New Meadow, markas Shrewsburry."
 categories: [liverpool]
 tags: [fa cup, liverpool fc, shrewsburry town]
-last_modified_at: 2020-01-26 22:07:51
+last_modified_at: 2020-01-26 02:01:51
 ---
 
 **Jürgen Klopp mengkonfirmasi Liverpool akan membawa Pemain yang bugar untuk pertandingan putaran keempat Piala FA Minggu [melawan Shrewsbury](#livestream).**
@@ -68,4 +68,6 @@ Pemain terakhir kali bermain (Piala FA) masing masing tim:
 
 Pemain akademi main, Curtis Jones bikin gol lagi.
 
-Selanjutnya... Ah sudahlah. 
+Selanjutnya... Ah sudahlah.
+
+Balik, fokus lagi ke laga tunda [EPL di kandang West Ham](/liverpool/away-vs-westham/).
