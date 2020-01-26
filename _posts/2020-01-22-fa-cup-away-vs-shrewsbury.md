@@ -1,6 +1,6 @@
 ---
 title: "FA CUP 4th Round: Shrewsburry Town vs Liverpool FC"
-excerpt: "Livestream Shrewsburry vs Liverpool FC. Senin, 27 Januari 2020 Pukul 00:00 WIB"
+excerpt: "Livestream Shrewsburry vs Liverpool FC. Senin, 27 Januari 2020 Pukul 00:00 WIB. Skor akhir: 2-2"
 header:
  overlay_image: "/assets/images/stfc.jpg"
  teaser: "/assets/images/stfc.jpg"
@@ -64,10 +64,8 @@ Pemain terakhir kali bermain (Piala FA) masing masing tim:
 
 **Shrewsbury 1-0 Bristol City** (14 Januari): Murphy, Pierre, Golbourne, Williams, Norburn, Giles, Love, Goss, Udoh, Ebanks-Landell, Laurent.
 
-### Livestream
+### Jalannya pertandingan
 
-1. Manchester City vs Fulham - Ended (4-0)
-2. Tranmere Rovers vs Manchester United - 21:00 WIB
-3. **Shrewsbury Town vs Liverpool** - 00:00 WIB
+Pemain akademi main, Curtis Jones bikin gol lagi.
 
-{% include video provider="internal" id="lfctv1" %}
+Selanjutnya... Ah sudahlah. 
