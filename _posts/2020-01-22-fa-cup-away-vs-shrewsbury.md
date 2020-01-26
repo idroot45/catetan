@@ -40,7 +40,7 @@ Takumi Minamino melakukan debut Liga Premiernya akibat cedera itu, dengan Klopp 
 
 Mengenai pilihannya, bos mengatakan: “Kami akan memiliki tim dengan pemain yang segar. Kami memiliki pemain yang kembali dari cedera, jadi masuk akal untuk memainkannya karena mereka cukup bagus dan kami ingin mereka beradaptasi kembali.
 
-{% include figure image_path="https://cdn.statically.io/img/i2-prod.liverpool.com/incoming/article17524806.ece/ALTERNATES/s615b/4_GettyImages-1197677237.jpg" caption="Elliott has made a promising number of appearances already for Liverpool. (Image: Photo by Andrew Powell/Liverpool FC via Getty Images)" %}
+{% include figure image_path="https://cdn.statically.io/img/i2-prod.liverpool.com/incoming/article17524806.ece/ALTERNATES/s810/4_GettyImages-1197677237.jpg" caption="Elliott has made a promising number of appearances already for Liverpool. (Image: Photo by Andrew Powell/Liverpool FC via Getty Images)" %}
 
 "Sekarang kami tahu ini adalah tempat yang sulit untuk dilalui, seperti biasa dalam kompetisi FA Cup."
 
