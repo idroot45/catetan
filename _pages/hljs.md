@@ -1,12 +1,7 @@
 ---
-excerpt: "Tahun Baru 2020 Lapoan Gaes?"
+title: "LFCTV Video Player"
 permalink: "/istimiwir"
-layout: "clappr"
-match:
- home: "One Piece: Stampede"
- away: "2019"
- liga: "8.2"
- round: "HDrip"
+layout: "hljs"
 video:
  source: "https://e27.cdncv.net/hls/mfqjrculudouc57qw7hezkix4mhtfgjmnnbqyqi4j,locsh45isscsorbtyaq,btcsh45issgrjovyapa,3ocqh45issiczz6vmlq,.urlset/master.m3u8"
  poster: "https://cdn.statically.io/img/wallpaperplay.com/walls/full/3/5/a/324285.jpg?w=480&quality=80&format=webp"
@@ -14,11 +9,7 @@ video:
  link: "https://www.catetan.pw/liverpool"
  type: "application/x-mpegUrl"
 sitemap: false
-redirect_from:
- - /tv
 ---
-Valid streaming sampai jam 14:30 WIB
-{:.notice .notice--info}
-
-**Synopsis
-One Piece: Stampede is a movie starring Felecia Angelle, Major Attaway, and Greg Ayres. Pirates from around the world gather at the Pirates Expo to join the hunt for Gol D. Roger's lost treasure.
+1. Manchester City vs Fulham - Ended (4-0)
+2. Tranmere Rovers vs Manchester United - 22:00 WIB
+3. Shrewsbury Town vs Liverpool - 00:00 WIB
