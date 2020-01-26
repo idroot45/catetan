@@ -1,8 +1,9 @@
 ---
 title: "FA CUP 3rd Round: Shrewsburry vs Liverpool FC"
-excerpt: "Livestream Shrewsburry vs Liverpool FC, 27 Januari 2020 00:00 WIB"
+excerpt: "Livestream Shrewsburry vs Liverpool FC. Senin, 27 Januari 2020 Pukul 00:00 WIB"
 header:
  overlay_image: "/assets/images/stfc.jpg"
+ teaser: "/assets/images/stfc.jpg"
  caption: "Liverpool FC akan merotasi skuad sekali lagi untuk kunjungan ke New Meadow, markas Shrewsburry."
 categories: [liverpool]
 tags: [fa cup, liverpool fc, shrewsburry]
@@ -11,7 +12,7 @@ last_modified_at: 2020-01-26 12:25:51
 
 **Jürgen Klopp mengkonfirmasi Liverpool akan membawa Pemain yang bugar untuk pertandingan putaran keempat Piala FA Minggu [melawan Shrewsbury](#livestream).**
 
-The Reds membuat sembilan perubahan untuk pertandingan dengan Everton pada tahap turnamen sebelumnya awal bulan ini dan akan merotasi skuad mereka sekali lagi untuk kunjungan ke New Meadow.
+The Reds membuat sembilan perubahan untuk [pertandingan melawan Everton](/liverpool/home-fa-cup-vs-everton/) pada tahap turnamen sebelumnya awal bulan ini dan akan merotasi skuad mereka sekali lagi untuk kunjungan ke New Meadow.
 
 Klopp juga menjelaskan mengapa pertandingan dengan klub League One juga merupakan kesempatan untuk memberi para pemain yang baru saja kembali dari cedera beberapa waktu pertandingan yang berharga.
 
