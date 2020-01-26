@@ -7,7 +7,7 @@ header:
  caption: "Liverpool FC akan merotasi skuad sekali lagi untuk kunjungan ke New Meadow, markas Shrewsburry."
 categories: [liverpool]
 tags: [fa cup, liverpool fc, shrewsburry]
-last_modified_at: 2020-01-26 12:25:51
+last_modified_at: 2020-01-26 22:00:51
 ---
 
 **Jürgen Klopp mengkonfirmasi Liverpool akan membawa Pemain yang bugar untuk pertandingan putaran keempat Piala FA Minggu [melawan Shrewsbury](#livestream).**
@@ -66,4 +66,8 @@ Pemain terakhir kali bermain (Piala FA) masing masing tim:
 
 ### Livestream
 
-Tersedia paling lambat 10-5 menit sebelum Kick-Off (00:00 WIB)
+1. Manchester City vs Fulham - Ended (4-0)
+2. Tranmere Rovers vs Manchester United - 21:00 WIB
+3. Shrewsbury Town vs Liverpool - 00:00 WIB
+
+{% include video provider="internal" id="lfctv1" %}
