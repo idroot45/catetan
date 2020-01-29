@@ -19,9 +19,9 @@ tags: [liga inggris, liverpool fc, westham united]
 ‪|⏰|02.45 WIB (Dini hari)‬|
 |🔗|[LIVE](#match)|
 
-‪Kesempurnaan the Reds di liga kembali diuji ✊🏽‬ Ini adalah laga away pada game week 18 yang tertunda. Sebab kala itu LFC diundang untuk ikut serta dalam turnamen Club World Cup di Qatar. Demi piala ini pula Liverpool merelakan piala Carabao dengan memberikan kesempatan pemain akademinya beserta pelatihnya meladeni tim Liga Primer reguler. Meskipun akhirnya kalah dari Aston Villa dengan skor telak 5-0.
+‪Kesempurnaan the Reds di liga kembali diuji ✊🏽‬ Ini adalah laga away pada game week 18 yang tertunda. Sebab kala itu LFC diundang untuk ikut serta dalam turnamen Club World Cup di Qatar. Demi [piala kejuaraan CWC](https://www.catetan.pw/liverpool/cwc-vs-flamengo/) ini pula Liverpool merelakan piala Carabao dengan memberikan kesempatan pemain akademinya beserta pelatihnya meladeni tim Liga Primer reguler. Meskipun akhirnya [kalah dari Aston Villa dengan skor telak 5-0](https://www.catetan.pw/liverpool/carabao-vs-aston-villa/).
 
-Tak kapok, baru-baru ini bos _palbat_ Liverpool kukuh pada pendiriannnya untuk mengulangi momen tersebut. Ditahan imbang dengan skor 2-2 ketika di kandang Shrewsburry, mau tak mau Liverpool harus menjalani laga _replay_ di Anfield. Berhubung sudah kadung janji untuk memberi libur penuh pada para pemain utama. Akhirnya, pada laga ulangan kejuaraan Piala FA tersebut J. Klopp memberikan kepercayaan penuh pada skuad U-23 sekaligus manajernya untuk mengambil alih perrandingan tersebut.
+Tak kapok, baru-baru ini bos _palbat_ Liverpool kukuh pada pendiriannnya untuk mengulangi momen tersebut. Ditahan [imbang dengan skor 2-2](https://www.catetan.pw/liverpool/fa-cup-away-vs-shrewsbury/) ketika di kandang Shrewsburry, mau tak mau Liverpool harus menjalani laga _replay_ di Anfield. Berhubung sudah kadung janji untuk memberi libur penuh pada para pemain utama. Akhirnya, pada laga ulangan kejuaraan Piala FA tersebut J. Klopp memberikan kepercayaan penuh pada skuad U-23 sekaligus manajernya untuk mengambil alih perrandingan tersebut.
 
 {% include figure image_path="https://i2-prod.liverpool.com/incoming/article17642752.ece/ALTERNATES/s810/0_GettyImages-1093839376.jpg" caption="Liverpool suffered due to a rare sloppy mistake last season. (Photo by Rob Newell - CameraSport via Getty Images)" %}
 
