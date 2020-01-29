@@ -34,7 +34,7 @@ Speaking in his pre-match press conference, the boss was inundated with question
 
 Klopp could opt for the return of the 4-2-3-1 shape or even a 4-4-2 with Mohamed Salah and Roberto Firmino leading the line. Any of the two could open the door for someone like Naby Keita in one of the more advanced positions between the lines behind Mark Noble and Declan Rice.
 
-{% include figure="https://cdn.statically.io/img/i2-prod.liverpool.com/incoming/article17649139.ece/ALTERNATES/s810/0_GettyImages-1202338459.jpg" caption="Fabinho might continue in Liverpool's midfield. (Photo by John Powell/Liverpool FC via Getty Images)" %}
+{% include figure image_path="https://cdn.statically.io/img/i2-prod.liverpool.com/incoming/article17649139.ece/ALTERNATES/s810/0_GettyImages-1202338459.jpg" caption="Fabinho might continue in Liverpool's midfield. (Photo by John Powell/Liverpool FC via Getty Images)" %}
 
 Personally, I think the manager will opt for the same shape as before and allow Fabinho to play another hour with Divock Origi or Alex Ox-Chamberlain pushed into a front-three spot. That allows the least amount of possible disruption while giving him the chance to change things in the second half if all isn't going to plan. That's including Takumi or Lallana to opt-in as subtitutes.
 
