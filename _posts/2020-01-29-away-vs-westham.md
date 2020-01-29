@@ -10,7 +10,7 @@ tags: [liga inggris, liverpool fc, westham united]
 last_modified_date: 2020-01-29 19:47:00
 ---
 
-‪Siap begadang Reds? ‬#ThisMeansMore  
+‪Siap begadang Reds? #ThisMeansMore
 ‪
 **L I V E R P O O L D A Y** <br/> Laga lawan West Ham United‬ di ajang Premier League away ke London Stadium mulai‬ kick-off pukul 02.45 WIB (dini hari) bisa ditonton [LIVE](#match){:.btn .btn--danger}
 {:.notice .notice--success}
