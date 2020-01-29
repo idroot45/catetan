@@ -1,6 +1,6 @@
 ---
-title: "Laga Tunda EPL Game Week ke-18: Westham United vs Liverpool FC"
-excerpt: "Laga Tunda EPL GW 18  ‪Siap begadang Reds?‬"
+title: "EPL Game Week ke-18: Westham United vs Liverpool FC (Laga Tunda)"
+excerpt: "Livestream Laga Tunda EPL GW 18. ‪Siap begadang Reds?‬"
 header:
  image: "https://cdn.statically.io/img/i2-prod.liverpool.com/incoming/article17649139.ece/ALTERNATES/s810/0_GettyImages-1202338459.jpg"
  caption: "Fabinho might continue in Liverpool's midfield. (Image: (Photo by John Powell/Liverpool FC via Getty Images)"
