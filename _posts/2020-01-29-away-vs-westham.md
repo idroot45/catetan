@@ -11,7 +11,7 @@ tags: [liga inggris, liverpool fc, westham united]
 ‪Kesempurnaan the Reds di liga kembali diuji ✊🏽‬ Ini laga away pada game week 18 yang tertunda sebab kala itu LFC diundang untuk ikut serta dalam turnamen Club World Cup di Qatar. Demi piala ini, Liverpool juga merelakan piala Carabao dengan memberikan kesempatan pemain akademinya beserta pelatihnya meladeni tim Liga Primer reguler yang akhirnya kalah dari Aston Villa dengan skor telak 5-0.
 ‪
 | 🔴 | M A T C H D A Y |
-| ---|---|
+|---|:---:|
 ‪| 🆚 | West Ham United‬ |
 ‪| 🏆 | Premier League |
 ‪| 🏟 | London Stadium‬ |
