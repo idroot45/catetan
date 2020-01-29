@@ -41,3 +41,11 @@ Personally, I think the manager will opt for the same shape as before and allow 
 ### Match
 
 {% include video id="lfctv5" provider="internal" %}
+
+Line-Up confirmed, watch from live stream placed abohe.
+
+**West Ham:** Fabianski; Masuaku, Diop, Ogbonna, Cresswell; Rice, Noble; Ngakia, Snodgrass, Lanzini; Haller
+Substitutes: Randolph, Cardosa, Balbuena, Zabaleta, Sanchez, Fornals, Ajeti
+
+**Liverpool:** Alisson; Alexander-Arnold, Gomez, Van Dijk, Robertson; Henderson, Oxlade-Chamberlain, Wijnaldum; Salah, Origi, Firmino
+Substitutes: Adrian, Matip, Lovren, Fabinho, Keita, Jones, Minamino
