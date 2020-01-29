@@ -28,6 +28,15 @@ Tak kapok, baru-baru ini bos _palbat_ Liverpool kukuh pada pendiriannnya untuk m
 
 ### Change of formation
 
+{% include video provider="youtube" id="5jJN4vhn2g8" %}
+
+Speaking in his pre-match press conference, the boss was inundated with questions pertaining to the FA Cup but in no way did he want to overlook the “big fight” against the Hammers:
+
+> “West Ham fight for the league and that is what it looks like. A big fight.
+> “Four or five at the back, different possibilities but we have to be ready. They have no time to waste.
+> “It will be just a tough one. We can do what we have to do. Fight, set the intensity level.
+> “Antonio and Lanzini could play and it will be tough but that is what the Premier League is all about.”
+
 Klopp could opt for the return of the 4-2-3-1 shape or even a 4-4-2 with Mohamed Salah and Roberto Firmino leading the line. Any of the two could open the door for someone like Naby Keita in one of the more advanced positions between the lines behind Mark Noble and Declan Rice.
 
 Personally, I think the manager will opt for the same shape as before and allow Fabinho to play another hour with Chamberlain pushed into a front-three spot. That allows the least amount of possible disruption while giving him the chance to change things in the second half if all isn't going to plan.
