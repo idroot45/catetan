@@ -12,9 +12,7 @@ last_modified_date: 2020-01-29 19:47:00
 
 ‪Siap begadang Reds? ‬#ThisMeansMore  
 ‪
-**L I V E R P O O L D A Y**
-
-‪> Laga lawan West Ham United‬ di ajang Premier League away ke London Stadium mulai‬ kick-off pukul 02.45 WIB (dini hari) bisa ditonton [LIVE](#match){:.btn .btn--success}
+> **L I V E R P O O L D A Y** Laga lawan West Ham United‬ di ajang Premier League away ke London Stadium mulai‬ kick-off pukul 02.45 WIB (dini hari) bisa ditonton [LIVE](#match){:.btn .btn--success}
 
 ‪[Kesempurnaan the Reds](https://www.catetan.pw/liverpool/menuju-rekor-tak-terkalahkan-terpanjang-liga-inggris/) di liga kembali diuji ✊🏽‬ Ini adalah laga away pada game week 18 yang tertunda. Sebab kala itu LFC diundang untuk ikut serta dalam turnamen Club World Cup di Qatar. Demi [piala kejuaraan CWC](https://www.catetan.pw/liverpool/cwc-vs-flamengo/) ini pula Liverpool merelakan piala Carabao dengan memberikan kesempatan pemain akademinya beserta pelatihnya meladeni tim Liga Primer reguler. Meskipun akhirnya [kalah dari Aston Villa dengan skor telak 5-0](https://www.catetan.pw/liverpool/carabao-vs-aston-villa/).
 
