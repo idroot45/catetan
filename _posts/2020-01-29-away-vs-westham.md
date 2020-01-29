@@ -40,5 +40,4 @@ Personally, I think the manager will opt for the same shape as before and allow 
 
 ### Match
 
-Live stream available 5 minutes before kick-off.
-{:.notice .notice--info}
+{% include video id="lfctv5" provider="internal" %}
