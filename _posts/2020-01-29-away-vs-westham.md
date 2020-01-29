@@ -1,6 +1,6 @@
 ---
 title: "Laga Tunda EPL Game Week ke-18: Westham United vs Liverpool FC"
-excerpt: "Laga EPL GW 18 yang tertunda karena LFC ajang Club World Cup. ‪Siap begadang Reds?‬"
+excerpt: "Laga Tunda EPL GW 18  ‪Siap begadang Reds?‬"
 header:
  image: "https://cdn.statically.io/img/i2-prod.liverpool.com/incoming/article17649139.ece/ALTERNATES/s810/0_GettyImages-1202338459.jpg"
  caption: "Fabinho might continue in Liverpool's midfield. (Image: (Photo by John Powell/Liverpool FC via Getty Images)"
@@ -8,16 +8,20 @@ header:
 categories: [liverpool]
 tags: [liga inggris, liverpool fc, westham united]
 ---
-‪Kesempurnaan the Reds di liga kembali diuji ✊🏽‬ Ini laga away pada game week 18 yang tertunda sebab kala itu LFC diundang untuk ikut serta dalam turnamen Club World Cup di Qatar. Demi piala ini, Liverpool juga merelakan piala Carabao dengan memberikan kesempatan pemain akademinya beserta pelatihnya meladeni tim Liga Primer reguler yang akhirnya kalah dari Aston Villa dengan skor telak 5-0.
-‪
-| 🔴 | [M A T C H D A Y](#match) |
-|---|:---:|
-‪| 🆚 | West Ham United‬ |
-‪| 🏆 | Premier League |
-‪| 🏟 | London Stadium‬ |
-‪| ⏰ | 02.45 WIB (Dini hari)‬ |
 
 ‪Siap begadang Reds? ‬#ThisMeansMore  
+‪
+|LIVERPOOL|D A Y|
+|---|:---:|
+‪|🆚|West Ham United‬|
+‪|🏆|Premier League|
+‪|🏟|London Stadium‬|
+‪|⏰|02.45 WIB (Dini hari)‬|
+|🔗|[LIVE](#match)|
+
+‪Kesempurnaan the Reds di liga kembali diuji ✊🏽‬ Ini adalah laga away pada game week 18 yang tertunda. Sebab kala itu LFC diundang untuk ikut serta dalam turnamen Club World Cup di Qatar. Demi piala ini pula Liverpool merelakan piala Carabao dengan memberikan kesempatan pemain akademinya beserta pelatihnya meladeni tim Liga Primer reguler. Meskipun akhirnya kalah dari Aston Villa dengan skor telak 5-0.
+
+Tak kapok, baru-baru ini bos _palbat_ Liverpool kukuh pada pendiriannnya untuk mengulangi momen tersebut. Ditahan imbang dengan skor 2-2 ketika di kandang Shrewsburry, mau tak mau Liverpool harus menjalani laga _replay_ di Anfield. Berhubung sudah kadung janji untuk memberi libur penuh pada para pemain utama. Akhirnya, pada laga ulangan kejuaraan Piala FA tersebut J. Klopp memberikan kepercayaan penuh pada skuad U-23 sekaligus manajernya untuk mengambil alih perrandingan tersebut.
 
 {% include figure image_path="https://i2-prod.liverpool.com/incoming/article17642752.ece/ALTERNATES/s810/0_GettyImages-1093839376.jpg" caption="Liverpool suffered due to a rare sloppy mistake last season. (Photo by Rob Newell - CameraSport via Getty Images)" %}
 
@@ -29,4 +33,5 @@ Personally, I think the manager will opt for the same shape as before and allow 
 
 ### Match
 
-Livestream available 5 minutes before kick-off.
+Live stream available 5 minutes before kick-off.
+{:.notice .notice--info}
