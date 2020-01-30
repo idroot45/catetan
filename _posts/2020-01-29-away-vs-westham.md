@@ -1,6 +1,6 @@
 ---
 title: "EPL Game Week ke-18: Westham United vs Liverpool FC (Laga Tunda)"
-excerpt: "Livestream Laga Tunda EPL GW 18. ‪Siap begadang Reds?‬"
+excerpt: "Livestream Laga Tunda EPL GW 18. ‪Skor akhir 0-2, pencetak gol: Mo Salah (pen), Alex Ox-Chamberlain‬"
 header:
  og_image: "https://cdn.statically.io/img/i2-prod.liverpool.com/incoming/article17649139.ece/ALTERNATES/s810/0_GettyImages-1202338459.jpg"
  teaser: "https://cdn.statically.io/img/i2-prod.liverpool.com/incoming/article17649139.ece/ALTERNATES/s810/0_GettyImages-1202338459.jpg"
@@ -40,8 +40,6 @@ Personally, I think the manager will opt for the same shape as before and allow 
 
 ### Match
 
-{% include video id="lfctv5" provider="internal" %}
-
 Line-Up confirmed, watch from live stream placed abohe.
 
 **West Ham:** Fabianski; Masuaku, Diop, Ogbonna, Cresswell; Rice, Noble; Ngakia, Snodgrass, Lanzini; Haller
@@ -49,3 +47,7 @@ Substitutes: Randolph, Cardosa, Balbuena, Zabaleta, Sanchez, Fornals, Ajeti
 
 **Liverpool:** Alisson; Alexander-Arnold, Gomez, Van Dijk, Robertson; Henderson, Oxlade-Chamberlain, Wijnaldum; Salah, Origi, Firmino
 Substitutes: Adrian, Matip, Lovren, Fabinho, Keita, Jones, Minamino
+
+{% include video id="pDK-YYpDG8Q" provider="youtube" %}
+
+Wuts? 19 points clear form the second place? Bored.
