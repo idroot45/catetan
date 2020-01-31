@@ -15,7 +15,7 @@ Sekarang, aplikasi berbagi video pendek kembali ramai digunakan. Mulai dari apli
 
 Tak ingin ketinggalan, Google juga merilis sebuah platform berbagi video pendek bernama **Tangi**.
 
-Namun, berbeda dengan Byte dan [TikTok](/aplikasi/tiktok-raja-dari-deretan-aplikasi-goblok/) (yang sempat di ejek sebagai aplikasi _alay_ tahun 2018 lalu), Tangi memiliki tujuan untuk menginspirasi para penggunanya.
+Namun, berbeda dengan Byte dan [TikTok](/aplikasi/tiktok-rajai-deretan-aplikasi-goblok-di-pencarian-google/) (yang sempat di ejek sebagai aplikasi _alay_ tahun 2018 lalu), Tangi memiliki tujuan untuk menginspirasi para penggunanya.
 
 {% include figure image_path="https://cdn.statically.io/img/asset-a.grid.id/photo/2020/01/30/3525995981.jpg" caption="Tangi, aplikasi baru Google untuk berbagi video pendek" %}
 
