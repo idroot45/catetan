@@ -29,4 +29,7 @@ Secara sederhana, Tangi lebih mirip Pinterest tetapi dengan konten berbentuk vid
 
 Di dalam aplikasi ini, pengunggah dengan penonton video dapat saling berinteraksi dan bertukar gagasan satu sama lain. Video di Tangi rata-rata memiliki durasi 60 detik dan tampil dalam berbagai orientasi. Google juga menyebut ada berbagai topik yang dapat dicari pada Tangi, mulai dari dekorasi, masakan, hingga ide untuk perjalanan. Pengguna juga bisa berbagi video rekaman hasil percobaan setelah melihat video dari kreator konten untuk mendapatkan komentar dari komunitas.
 
-Sayangnya, meski dibuat oleh Google, Tangi baru tersedia di App Store (iOS) dan melalui website resminya saja. 
+Sayangnya, meski dibuat oleh Google, Tangi baru tersedia di App Store (iOS) dan melalui [website resmi](https://tangi.co/) saja. 
+
+Google also has a reputation for launching apps and services and then killing them a short while later, so who knows if it’ll still be around a year from now. But that’s probably why this is an experimental app rather than a full-blown release, allowing Google to gauge reactions and user behavior before deciding on the next step.
+{:.notice .notice--warning}
