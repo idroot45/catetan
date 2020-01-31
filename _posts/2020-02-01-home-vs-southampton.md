@@ -15,7 +15,7 @@ Laga kandang lawan Shouthampton di ajang Premier League di Anfield Stadium bisa 
 
 Southampton striker Danny Ings ahead of the forward returning to Anfield on Saturday. As he was on loan from the Reds last season, Ings was ineligible for face Klopp's side, but now the move has become permanent, he will line up against his former club for the first time on Merseyside.
 
-{% include figure image_path="https://cdn.statically.io/img/www.thisisanfield.com/wp-content/uploads/171217-155-Bournemouth_Liverpool.jpg" caption="Having Ings as a squad option would have been a huge benefit for the Reds, but the reality is that he made the right choice, as he is first choice at Southampton and now on the cusp of returning to the England squad. (Images: via thisisanfield.com)
+{% include figure image_path="https://cdn.statically.io/img/www.thisisanfield.com/wp-content/uploads/171217-155-Bournemouth_Liverpool.jpg" caption="Having Ings as a squad option would have been a huge benefit for the Reds, but the reality is that he made the right choice, as he is first choice at Southampton and now on the cusp of returning to the England squad. (Images: via thisisanfield.com)" %}
 
 Ings, who scored against the Reds earlier in the campaign, was linked with Manchester United in some quarters earlier today after an incredible campaign with Saints, for whom he has netted 14 times in 24 matches in the Premier League.
 
