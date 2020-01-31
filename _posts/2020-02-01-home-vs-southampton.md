@@ -25,6 +25,8 @@ Liverpool take on League One minnows Shrewsbury Town in a [FA Cup fourth-round r
 
 ## Line Up
 
+{% include video provider="youtube" id="1TwaxMtWfcs" %}
+
 Klopp revealed that **Adam Lallana** and **Divock Origi** should be available for the game with Southampton, though **Xherdan Shaqiri** and **James Milner** will miss out.
 
 Divock Origi is fit for Liverpool’s Premier League clash with Southampton this weekend, Jurgen Klopp [has confirmed](https://www.liverpoolfc.com/news/first-team/385053-liverpool-southampton-team-news). Origi did well on the left-hand side [against West Ham](https://www.catetan.pw/liverpool/away-vs-westham/), winning the penalty that Mohamed Salah converted.
