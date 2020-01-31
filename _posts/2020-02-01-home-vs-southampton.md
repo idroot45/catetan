@@ -1,8 +1,9 @@
 ---
 title: "EPL Game Week ke-25: Liverpool FC vs Southampton"
-excerpt: "Home di Anfield Stadium, Kick-Off 22:00 WIB. Waspadai sang mantan.
+excerpt: "Home di Anfield Stadium, Kick-Off 22:00 WIB. Waspadai sang mantan."
 categories: [liverpool]
 tags: [liga inggris, liverpool fc, southampton fc]
+last_modified_at: 2020-02-01 00:05
 ---
 L I V E R P O O L D A Y
 Laga kandang lawan Shouthampton di ajang Premier League di Anfield Stadium bisa ditonton [LIVE](#match){:.btn .btn--danger} mulai pukul 22:00 WIB hari Sabtu, 1 Januari 2020
@@ -33,4 +34,3 @@ Livestream will be available 5 minutes before the kick-off.
 <!-- {% include video id="lfctv1" provider="internal" %} -->
 
 The Reds could go 22 points clear of Manchester City with a victory, before Pep Guardiola's men take on Tottenham on Sunday.
-
