@@ -1,16 +1,16 @@
 ---
 title: "EPL Game Week ke-25: Liverpool FC vs Southampton"
-excerpt: "Home di Anfield Stadium, Kick-Off 22:00 WIB. Waspadai sang mantan."
+excerpt: "Home di Anfield Stadium, Kick-Off 22:00 WIB. Skor akhir 4-0, semua gol di babak kedua. Goals: Oxlade-Chamberlain 47′, Henderson 60′, Salah 71′, 89′"
 categories: [liverpool]
 tags: [liga inggris, liverpool fc, southampton fc]
-last_modified_at: 2020-02-01 00:05
+last_modified_at: 2020-02-02 00:05:33
 header:
  overlay_image: "https://cdn.statically.io/img/www.thisisanfield.com/wp-content/uploads/2020-01-23-158-Wolves_Liverpool.jpg"
  caption: "After a tough start for Minamino, this could be the opportunity he requires to make his mark"
  teaser: "https://cdn.statically.io/img/www.thisisanfield.com/wp-content/uploads/2020-01-23-158-Wolves_Liverpool.jpg?w=480"
 ---
 **L I V E R P O O L D A Y**<br/>
-Laga kandang lawan Shouthampton di ajang Premier League di Anfield Stadium bisa ditonton [LIVE](#match){:.btn .btn--danger} mulai pukul 22:00 WIB hari Sabtu, 1 Januari 2020
+Laga kandang lawan Shouthampton di ajang Premier League di Anfield Stadium [LIVE](#match){:.btn .btn--danger} mulai pukul 22:00 WIB hari Sabtu, 1 Januari 2020. Skor akhir 4-0.
 {:.notice .notice--warning}
 
 Southampton striker Danny Ings ahead of the forward returning to Anfield on Saturday. As he was on loan from the Reds last season, Ings was ineligible for face Klopp's side, but now [the move has become permanent](https://www.catetan.pw/liverpool/dijilati-kuntilanak-diludahi-pocong/), he will line up against his former club for the first time on Merseyside.
@@ -53,9 +53,11 @@ There is the prospect of **Oxlade-Chamberlain** then moving into attack, as he d
 
 ## Match
 
-The Reds could go 22 points clear of Manchester City with a victory, before Pep Guardiola's men take on Tottenham on Sunday.
+Firmino the assist King & Ox in the box
+
+Liverpool’s final Premier League game before the ‘winter break’ ended in a thumping 4-0 win over Southampton, though the victory wasn’t earned without struggles.
+
+Goals: Oxlade-Chamberlain 47′, Henderson 60′, Salah 71′, 89′
+
+* 22 points clear of Manchester City with a victory, before Pep Guardiola's men take on Tottenham on Sunday.
 {:.notice .notice--info}
-
-{% include video id="lfctv1" provider="internal" %}
-
-[Alternative](/lfctv2){:.btn .btn--success}
