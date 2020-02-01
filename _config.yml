@@ -148,15 +148,14 @@ defaults:
       author_profile: false
   # arsip
   - scope:
-      path: "arsip"
-      type: posts
+      path: "arsip/*/*/"
+      type: pages
     values:
       layout: single
       author_profile: false
       read_time: true
       comments: true
       share: true
-      related: true
 
 compress_html:
   clippings: all
