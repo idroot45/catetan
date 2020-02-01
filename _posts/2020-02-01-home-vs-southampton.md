@@ -56,6 +56,6 @@ There is the prospect of **Oxlade-Chamberlain** then moving into attack, as he d
 The Reds could go 22 points clear of Manchester City with a victory, before Pep Guardiola's men take on Tottenham on Sunday.
 {:.notice .notice--info}
 
-{% include video id="lfctv1" provider="internal" %} -->
+{% include video id="lfctv1" provider="internal" %}
 
 [Alternative](/lfctv2){:.btn .btn--success}
