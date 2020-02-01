@@ -9,9 +9,9 @@ header:
  caption: "After a tough start for Minamino, this could be the opportunity he requires to make his mark"
  teaser: "https://cdn.statically.io/img/www.thisisanfield.com/wp-content/uploads/2020-01-23-158-Wolves_Liverpool.jpg?w=480"
 ---
-L I V E R P O O L D A Y
+**L I V E R P O O L D A Y**<br/>
 Laga kandang lawan Shouthampton di ajang Premier League di Anfield Stadium bisa ditonton [LIVE](#match){:.btn .btn--danger} mulai pukul 22:00 WIB hari Sabtu, 1 Januari 2020
-{:.notice .notice--success}
+{:.notice .notice--warning}
 
 Southampton striker Danny Ings ahead of the forward returning to Anfield on Saturday. As he was on loan from the Reds last season, Ings was ineligible for face Klopp's side, but now [the move has become permanent](https://www.catetan.pw/liverpool/dijilati-kuntilanak-diludahi-pocong/), he will line up against his former club for the first time on Merseyside.
 
@@ -41,12 +41,19 @@ There is the prospect of **Oxlade-Chamberlain** then moving into attack, as he d
 
 ## Match
 
-<!-- Livestream will be available 5 minutes before the kick-off.
-{:.notice .notice--danger}
--->
+The Reds could go 22 points clear of Manchester City with a victory, before Pep Guardiola's men take on Tottenham on Sunday.
+{:.notice .notice--info}
+
+### Confirmed line-up
+
+**Liverpool:** Alisson; Trent, Gomez, Van Dijk, Robertson; Fabinho, Henderson, Wijnaldum; Salah, Firmino, Oxlade-Chamberlain
+
+**Substitutes:** Adrian, Matip, Lovren, Keita, Lallana, Jones, Origi
+
+**Southampton:** McCarthy, Ward-Prowse, Stephens, Bednarek, Bertrand, Djenepo, Romeu, Hojbjerg, Redmond, Long, Ings
+
+**Substitutes:** Gunn, Danso, Vestegaard, Smallbone, Boufal, Obafemi, Adams
 
 {% include video id="lfctv1" provider="internal" %} -->
 
 [Alternative](/lfctv2){:.btn .btn--success}
-
-The Reds could go 22 points clear of Manchester City with a victory, before Pep Guardiola's men take on Tottenham on Sunday.
