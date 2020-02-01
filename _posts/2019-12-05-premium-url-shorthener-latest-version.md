@@ -1,5 +1,8 @@
+---
 title: "Premium URL Shortener v6.5.6"
 excerpt: "A good and powerful script that can allow you to run your own personal short URL system"
+categories: [cms]
+tags: [php script, url shorthener, simple cms, monetize link, nulled script]
 header:
  image: "https://cdn.statically.io/img/s3.envato.com/files/105790899/4_Preview4.jpeg"
  caption: "Premium URL Shortener"
