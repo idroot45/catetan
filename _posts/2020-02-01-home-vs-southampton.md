@@ -39,12 +39,9 @@ There is the prospect of **Oxlade-Chamberlain** then moving into attack, as he d
 
 [Takumi Minamino](https://www.catetan.pw/liverpool/takumi-minamino-has-signing-a-four-and-half-year-contract/) is a more gifted player, but as the [narrow win at Wolves](https://www.catetan.pw/liverpool/away-vs-wolves/) showed, he lacks the speed to stretch opposition defences and spring counter-attacks in wide areas.
 
-## Match
-
-The Reds could go 22 points clear of Manchester City with a victory, before Pep Guardiola's men take on Tottenham on Sunday.
-{:.notice .notice--info}
-
 ### Confirmed line-up
+
+{% include figure image_path="https://cdn.statically.io/img/www.thisisanfield.com/wp-content/uploads/squad-5-10.jpg" caption="Confirmed Line-up via ThisIsAnfield" %}
 
 **Liverpool:** Alisson; Trent, Gomez, Van Dijk, Robertson; Fabinho, Henderson, Wijnaldum; Salah, Firmino, Oxlade-Chamberlain
 
@@ -53,6 +50,11 @@ The Reds could go 22 points clear of Manchester City with a victory, before Pep 
 **Southampton:** McCarthy, Ward-Prowse, Stephens, Bednarek, Bertrand, Djenepo, Romeu, Hojbjerg, Redmond, Long, Ings
 
 **Substitutes:** Gunn, Danso, Vestegaard, Smallbone, Boufal, Obafemi, Adams
+
+## Match
+
+The Reds could go 22 points clear of Manchester City with a victory, before Pep Guardiola's men take on Tottenham on Sunday.
+{:.notice .notice--info}
 
 {% include video id="lfctv1" provider="internal" %} -->
 
