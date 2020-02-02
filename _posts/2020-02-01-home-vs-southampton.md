@@ -58,11 +58,15 @@ There is the prospect of **Oxlade-Chamberlain** then moving into attack, as he d
 
 Liverpool’s final Premier League game before the ‘winter break’ ended in a thumping 4-0 win over Southampton, though the victory wasn’t earned without struggles.
 
-{% include figure image_path="https://cdn.statically.io/img/www.thisisanfield.com/wp-content/uploads/P2020-02-02-Liverpool_Southampton-114.jpg.jpg" caption="The Bobby and Mo Show: Our two forward members on the day, Mohamed Salah and Roberto Firmino, absolutely ruled the game in the second half, with the latter providing three of the four assists." %}
+{% include figure image_path="https://cdn.statically.io/img/www.thisisanfield.com/wp-content/uploads/P2020-02-02-Liverpool_Southampton-88.jpg.jpg" caption="It’s seven goals for the season now for Ox—in 17 starts, a quite formidable strike rate considering he has played precisely one entire 90-minute match." %}
 
-{% include figure image_path="https://www.thisisanfield.com/wp-content/uploads/P2020-02-02-Liverpool_Southampton-16.jpg" caption="Alisson’s Better: The No. 1 was as perfectly in position on every occasion as the duo ahead of him usually are in defence, smothering a few through passes, taking high balls and making a couple of saves, too." %}
+{% include figure image_path="https://cdn.statically.io/img/www.thisisanfield.com/wp-content/uploads/P2020-02-02-Liverpool_Southampton-114.jpg.jpg" caption="**The Bobby and Mo Show** Our two forward members on the day, Mohamed Salah and Roberto Firmino, absolutely ruled the game in the second half, with the latter providing three of the four assists." %}
+
+{% include figure image_path="https://cdn.statically.io/img/www.thisisanfield.com/wp-content/uploads/P2020-02-02-Liverpool_Southampton-16.jpg" caption="**Alisson’s Better** The No. 1 was as perfectly in position on every occasion as the duo ahead of him usually are in defence, smothering a few through passes, taking high balls and making a couple of saves, too." %}
 
 **Goals:** Oxlade-Chamberlain 47′, Henderson 60′, Salah 71′, 89′
 
-* 22 points clear of Manchester City with a victory, before Pep Guardiola's men take on Tottenham on Sunday.
+22 points clear of Manchester City with a victory, before Pep Guardiola's men take on Tottenham on Sunday.
 {:.notice .notice--info}
+
+Next game is FA Cup 5th Round replay at Anfield [againts Shrewsburry](/liverpool/fa-cup-home-vs-shrewsburry/). Klopp insist to trust the young lads and their manager, Neil Critchley.
