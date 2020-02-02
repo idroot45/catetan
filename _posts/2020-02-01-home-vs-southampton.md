@@ -5,8 +5,8 @@ categories: [liverpool]
 tags: [liga inggris, liverpool fc, southampton fc]
 last_modified_at: 2020-02-02 00:05:33
 header:
- overlay_image: "https://cdn.statically.io/img/www.thisisanfield.com/wp-content/uploads/2020-01-23-158-Wolves_Liverpool.jpg"
- caption: "After a tough start for Minamino, this could be the opportunity he requires to make his mark"
+ overlay_image: ""
+ caption: ""
  teaser: "https://cdn.statically.io/img/www.thisisanfield.com/wp-content/uploads/2020-01-23-158-Wolves_Liverpool.jpg?w=480"
 ---
 **L I V E R P O O L D A Y**<br/>
@@ -37,6 +37,8 @@ With **Oxlade-Chamberlain** retained alongside **Henderson** and **Wijnaldum**, 
 
 There is the prospect of **Oxlade-Chamberlain** then moving into attack, as he did late on against the Hammers, but instead Klopp could hand **Takumi Minamino** his first league start on the left is also an option.
 
+{% include figure image_path="https://cdn.statically.io/img/www.thisisanfield.com/wp-content/uploads/2020-01-23-158-Wolves_Liverpool.jpg" caption="After a tough start for Minamino, this could be the opportunity he requires to make his mark"
+
 [Takumi Minamino](https://www.catetan.pw/liverpool/takumi-minamino-has-signing-a-four-and-half-year-contract/) is a more gifted player, but as the [narrow win at Wolves](https://www.catetan.pw/liverpool/away-vs-wolves/) showed, he lacks the speed to stretch opposition defences and spring counter-attacks in wide areas.
 
 ### Confirmed line-up
@@ -51,13 +53,15 @@ There is the prospect of **Oxlade-Chamberlain** then moving into attack, as he d
 
 **Substitutes:** Gunn, Danso, Vestegaard, Smallbone, Boufal, Obafemi, Adams
 
-## Match
-
-Firmino the assist King & Ox in the box
+## Match: Firmino the assist King & Ox in the box
 
 Liverpool’s final Premier League game before the ‘winter break’ ended in a thumping 4-0 win over Southampton, though the victory wasn’t earned without struggles.
 
-Goals: Oxlade-Chamberlain 47′, Henderson 60′, Salah 71′, 89′
+{% include figure image_path="https://cdn.statically.io/img/www.thisisanfield.com/wp-content/uploads/P2020-02-02-Liverpool_Southampton-114.jpg.jpg" caption="The Bobby and Mo Show: Our two forward members on the day, Mohamed Salah and Roberto Firmino, absolutely ruled the game in the second half, with the latter providing three of the four assists." %}
+
+{% include figure image_path="https://www.thisisanfield.com/wp-content/uploads/P2020-02-02-Liverpool_Southampton-16.jpg" caption="Alisson’s Better: The No. 1 was as perfectly in position on every occasion as the duo ahead of him usually are in defence, smothering a few through passes, taking high balls and making a couple of saves, too." %}
+
+**Goals:** Oxlade-Chamberlain 47′, Henderson 60′, Salah 71′, 89′
 
 * 22 points clear of Manchester City with a victory, before Pep Guardiola's men take on Tottenham on Sunday.
 {:.notice .notice--info}
