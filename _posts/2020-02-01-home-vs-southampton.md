@@ -5,9 +5,10 @@ categories: [liverpool]
 tags: [liga inggris, liverpool fc, southampton fc]
 last_modified_at: 2020-02-02 00:05:33
 header:
- overlay_image: ""
- caption: ""
- teaser: "https://cdn.statically.io/img/www.thisisanfield.com/wp-content/uploads/2020-01-23-158-Wolves_Liverpool.jpg?w=480"
+ video:
+  provider: youtube
+  id: 36E1iFRgfSg
+ og_image: "https://cdn.statically.io/img/www.thisisanfield.com/wp-content/uploads/2020-01-23-158-Wolves_Liverpool.jpg"
 ---
 **L I V E R P O O L D A Y**<br/>
 Laga kandang lawan Shouthampton di ajang Premier League di Anfield Stadium [LIVE](#match){:.btn .btn--danger} mulai pukul 22:00 WIB hari Sabtu, 1 Januari 2020. Skor akhir 4-0.
