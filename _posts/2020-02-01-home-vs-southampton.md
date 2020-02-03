@@ -12,5 +12,5 @@ last_modified_at: 2020-02-02 01:05:33
 
 {% include video provider="youtube" id="36E1iFRgfSg" %}
 
-**Liverpool’s FA Cup** replay against Shrewsbury to take place days after Southampton clash**<br/>Liverpool take on League One minnows Shrewsbury Town in a [FA Cup fourth-round replay](/liverpool/fa-cup-home-vs-shrewsburry/) on Tuesday, February 4. The Reds [threw away a two-goal lead against the Shrews](https://www.catetan.pw/liverpool/fa-cup-away-vs-shrewsbury/) at Montgomery Waters Meadow in the first leg to set up a replay at Anfield. Jurgen Klopp is expected to snub managing the Reds for the match. _Reports via [Mirror](https://www.mirror.co.uk/sport/football/news/liverpools-fa-cup-replay-against-21386539)_
+**Liverpool’s FA Cup** replay against Shrewsbury to take place days after Southampton class. Liverpool take on League One minnows Shrewsbury Town in a [FA Cup fourth-round replay](/liverpool/fa-cup-home-vs-shrewsburry/) on Tuesday, February 4. The Reds [threw away a two-goal lead against the Shrews](https://www.catetan.pw/liverpool/fa-cup-away-vs-shrewsbury/) at Montgomery Waters Meadow in the first leg to set up a replay at Anfield. Jurgen Klopp is expected to snub managing the Reds for the match. _Reports via [Mirror](https://www.mirror.co.uk/sport/football/news/liverpools-fa-cup-replay-against-21386539)_
 {:.notice .notice--info}
