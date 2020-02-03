@@ -50,9 +50,9 @@ Tak hanya itu karena keterlibatannya yang lebih banyak pada fase menyerang juga 
 
 Perbedaan cara bermain Henderson mulai bisa dilihat dengan jelas pada leg kedua semifinal Liga Champions 2018/2019 versus Barcelona. Ia turut andil menjadi pemain yang menentukan gol pembuka Liverpool ke gawang Los Cules. Bola yang ia tembakkan kea rah gawang sebetulnya dapat ditepis Marc-Andre ter Stegen, tapi Divock Origi sukses memanfaatkan bola muntah guna mencetak gol.
 
-Presensi Henderson yang semakin terlihat esensinya bisa kita saksikan tatkala Liverpool menggulung Southampton malam kemarin (1/2) dengan skor telak 4-0. Pada laga tersebut, sang kapten mengepak 1 gol dan 1 asis.
+Presensi Henderson yang semakin terlihat esensinya bisa kita saksikan tatkala Liverpool [menggulung Southampton](https://www.catetan.pw/liverpool/home-vs-southampton/) malam kemarin (1/2) dengan skor telak 4-0. Pada laga tersebut, sang kapten mengepak 1 gol dan 1 asis.
 
-Penetrasi Firmino di kotak penalti lawan diikuti Henderson yang mencari ruang koson karena fokus bek lawan kadung mengarah kepada pergerakan sang striker. Sodoran enak Firmino pun sukses dikonversi secara manis oleh sang gelandang.
+Penetrasi Firmino di kotak penalti lawan diikuti Henderson yang mencari ruang kosong karena fokus bek lawan kadung mengarah kepada pergerakan sang striker. Sodoran enak Firmino pun sukses dikonversi secara manis oleh sang gelandang.
 
 Sementara asis cantik Henderson bermula dari pergerakannya di sisi kanan sampai akhirnya melepas umpan terukur yang membebaskan Salah dari kawalan bek musuh guna berhadapan satu lawan satu dengan kiper Southampton dan mencetak gol.
 
@@ -62,7 +62,7 @@ Awal tahun 2020, Henderson dinobatkan sebagai BT England Players of the Year tah
 
 Walau perlahan, usaha tak kenal lelah Henderson mulai membuahkan hasilnya. Namanya boleh saja tak seseksi Alexander-Arnold, Alisson Becker, Firmino, Mane, Salah atau bahkan Virgil van Dijk untuk dibicarakan, tapi Henderson memiliki esensi yang luar biasa. Ia adalah sosok agung di lini tengah, bahkan seisi skuad Liverpool saat ini.
 
-Saya pun teringat adagium yang tersemat dalam lirik lagu You’ll Never Walk Alone yang bunyinya, “at the end of the storm, there’s a golden sky”, yang kurang lebih bermakna di pengujung badai, pasti ada langit yang keemasan yang cerah. Hal itu sesuai dengan perjuangan Henderson sebagai penggawa The Reds. Awalnya sempat dicaci, tapi akhirnya dipuji.
+Saya pun teringat adagium yang tersemat dalam lirik lagu [You’ll Never Walk Alone](https://www.catetan.pw/arsip/2017/10/ynwa-youll-never-walk-alone-liverpool-fc-anthem/) yang bunyinya, “at the end of the storm, there’s a golden sky”, yang kurang lebih bermakna di pengujung badai, pasti ada langit yang keemasan yang cerah. Hal itu sesuai dengan perjuangan Henderson sebagai penggawa The Reds. Awalnya sempat dicaci, tapi akhirnya dipuji.
 
 Membuat The Reds berdiri kokoh di puncak klasemen Liga Primer Inggris musim ini. Selisih angka yang memisahkan mereka dengan Manchester City di posisi kedua pun sangat jauh. Maknanya sederhana, peluang Liverpool untuk memboyong titel Liga Primer Inggris perdananya sepanjang sejarah begitu tinggi.
 
