@@ -55,11 +55,11 @@ Liverpool’s final Premier League game before the ‘winter break’ ended in a
 
 {% include figure image_path="https://cdn.statically.io/img/www.thisisanfield.com/wp-content/uploads/P2020-02-02-Liverpool_Southampton-88.jpg.jpg" caption="**Ox in the box**" %}
 
-It's seven goals for the season now for Ox—in 17 starts, a quite formidable strike rate considering he has played precisely one entire 90-minute match.
+It's seven goals for the season now for Oxlade in 17 starts, a quite formidable strike rate considering he has played precisely one entire 90-minute match.
 
 {% include figure image_path="https://cdn.statically.io/img/www.thisisanfield.com/wp-content/uploads/P2020-02-02-Liverpool_Southampton-114.jpg.jpg" caption="**The Bobby and Mo Show**" %}
 
-Our two forward members on the day, Mohamed Salah and Roberto Firmino, absolutely ruled the game in the second half, with the latter providing three of the four assists." %}
+Our two forward members on the day, Mohamed Salah and Roberto Firmino, absolutely ruled the game in the second half, with the latter providing three of the four assists.
 
 {% include figure image_path="https://cdn.statically.io/img/www.thisisanfield.com/wp-content/uploads/P2020-02-02-Liverpool_Southampton-16.jpg" caption="**Alisson’s Better**" %}
 
@@ -69,6 +69,8 @@ The No. 1 was as perfectly in position on every occasion as the duo ahead of him
 
 22 points clear of Manchester City with a victory, before Pep Guardiola’s men take on Tottenham on Sunday.
 {:.notice .notice--info}
+
+{% include video provider="youtube" id="36E1iFRgfSg" %}
 
 **Liverpool’s FA Cup** replay against Shrewsbury to take place days after Southampton clash**<br/>Liverpool take on League One minnows Shrewsbury Town in a [FA Cup fourth-round replay](/liverpool/fa-cup-home-vs-shrewsburry/) on Tuesday, February 4. The Reds [threw away a two-goal lead against the Shrews](https://www.catetan.pw/liverpool/fa-cup-away-vs-shrewsbury/) at Montgomery Waters Meadow in the first leg to set up a replay at Anfield. Jurgen Klopp is expected to snub managing the Reds for the match. _Reports via [Mirror](https://www.mirror.co.uk/sport/football/news/liverpools-fa-cup-replay-against-21386539)_
 {:.notice .notice--info}
