@@ -68,4 +68,6 @@ Membuat The Reds berdiri kokoh di puncak klasemen Liga Primer Inggris musim ini.
 
 Akankah Henderson jadi pemain pertama yang mengangkatnya?
 
-(via Fandom)
+---
+
+Artikel di atas dikutip via Fandom. Jika ada dari kalian yang memuja SG dan masih membandingkannya dengan JH, kemudian meremehkan artikel lokal di atas, ada kok artikel senada dari situs berbahasa Inggris yang senada. Baca [artikel ini](https://www.thisisanfield.com/2020/02/heres-to-you-jordan-henderson-liverpools-captain-is-now-anfields-beating-heart/). Tak usah malu mengakui peran kapten panutan ketje yang makin moncer. Setiap yang berjuang (minimal "berusaha") patut dihargai Kops, apalaginada hasil yang terlihat dari perjuangan itu..
