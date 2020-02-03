@@ -5,9 +5,6 @@ categories: [liverpool]
 tags: [liga inggris, liverpool fc, southampton fc]
 header:
  teaser: "https://cdn.statically.io/img/www.thisisanfield.com/wp-content/uploads/2020-01-23-158-Wolves_Liverpool.jpg?w=480"
- video:
-  provider: "youtube"
-  id: "36E1iFRgfSg"
 last_modified_at: 2020-02-02 01:05:33
 ---
 
