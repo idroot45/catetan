@@ -5,6 +5,7 @@ categories: [liverpool]
 tags: [jordan henderson, kapten liverpool, kapten panutan]
 header:
  image: "https://cdn.statically.io/img/fandom.id/wp-content/uploads/2020/02/IMG-20200201-WA0005.jpg"
+ teaser: "https://cdn.statically.io/img/fandom.id/wp-content/uploads/2020/02/IMG-20200201-WA0005.jpg?w=480"
  caption: "Jordan Henderson #14"
 ---
 Bagi yang mengikuti sepak terjang Jordan Henderson semenjak bergabung dengan kubu Merseyside merah, pasti menyebut tahun 2019 adalah periode yang takkan pernah ia lupakan. Pemain berambut pirang tersebut jadi orang pertama di skuat Liverpool setelah Robbie Fowler pada 2001 silam (Piala FA, Piala Liga, dan Piala UEFA/Liga Europa) yang mengangkat tiga trofi sekaligus di tahun yang sama yaitu gelar Liga Champions, Piala Super Eropa, dan Piala Dunia Antarklub.
@@ -15,7 +16,7 @@ Andai di pengujung musim 2019/2020 kali ini Henderson sanggup membawa Liverpool 
 
 Meniti karier bareng klub asal kota kelahirannya, Sunderland, baru pada tahun 2008 ia beroleh kesempatan naik ke tim senior. Walau dibekali bakat apik dan kemampuan prima sebagai pesepakbola, Henderson dinilai tak setara dengan legenda The Black Cats, Kevin Phillips, yang begitu mudah dicintai.
 
-{% include figure image_path="https://cdn.statically.io/img/secure.i.telegraph.co.uk/multimedia/archive/01915/henderson2_1915746c.jpg" caption="Huge gamble: Sunderland look likely to be the biggest winners following the £20 million sale of Jordan Henderson (Foto: AP, via Telegraph, Juni 2011" %}
+{% include figure image_path="https://secure.i.telegraph.co.uk/multimedia/archive/01915/henderson2_1915746c.jpg" caption="Huge gamble: Sunderland look likely to be the biggest winners following the £20 million sale of Jordan Henderson (Foto: AP, via Telegraph, Juni 2011" %}
 
 Dalam kurun 2008 sampai 2011, Henderson cuma beraksi di 71 pertandingan dan mengoleksi 4 gol pada seluruh kompetisi. Di tengah-tengah periode tersebut, ia pun sempat dipinjamkan sebentar ke Coventry City.
 
