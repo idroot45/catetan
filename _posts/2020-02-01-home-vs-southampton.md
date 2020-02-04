@@ -31,7 +31,7 @@ With Oxlade-Chamberlain retained alongside Henderson and Wijnaldum, Minamino cou
 
 There is the prospect of Oxlade-Chamberlain then moving into attack, as he did late on against the Hammers, but instead Klopp could hand Takumi Minamino his first league start on the left is also an option.
 
-{% include figure image_path="https://cdn.statically.io/img/www.thisisanfield.com/wp-content/uploads/2020-01-23-158-Wolves_Liverpool.jpg" caption="After a tough start for Minamino, this could be the opportunity he requires to make his mark"
+{% include figure image_path="https://cdn.statically.io/img/www.thisisanfield.com/wp-content/uploads/2020-01-23-158-Wolves_Liverpool.jpg" caption="After a tough start for Minamino, this could be the opportunity he requires to make his mark" %}
 
 Takumi Minamino is a more gifted player, but as the narrow win at Wolves showed, he lacks the speed to stretch opposition defences and spring counter-attacks in wide areas.
 
