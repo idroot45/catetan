@@ -47,5 +47,4 @@ January signing **Joe Hardy** is expected to start up front, while **Liam Millar
 
 ## Match
 
-Livestream tersedia 5 menit sebelum Kick-Off pada 5 Februari 2020 pukul 02:45 WIB Rabu dini hari.
-{:.notice .notice--danger}
+{% include video provider="internal" id="lfctv1" %}
