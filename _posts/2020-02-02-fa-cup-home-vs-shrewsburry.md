@@ -1,6 +1,6 @@
 ---
 title: "FA CUP 4th Round (replay match): Liverpool FC vs Shrewsburry Town"
-excerpt: "Liverpool’s FA Cup replay against Shrewsbury to take place days after Southampton clash"
+excerpt: "Liverpool take on League One minnows Shrewsbury Town in a FA Cup fourth-round replay on Tuesday, February 4 at 19:45 (5 Januari 2020 02:45 dini hari WIB)."
 categories: [liverpool]
 tags: [fa cup, shrewsburry, liverpool fc]
 header:
@@ -24,6 +24,8 @@ Unlike in December, when their involvement at the Club World Cup required Liverp
 But the manager has taken the decision to skip this replay and instead “respect” the winter break, perhaps rightly so given its intention.
 
 This leaves Critchley will a difficult task against a League One side that drew 2-2 with the Reds at New Meadow last time out, though less difficult than the trip to Villa Park.
+
+{% include video provider="youtube" caption="UZ4uSerlUt8" %}
 
 ### New Faces
 
