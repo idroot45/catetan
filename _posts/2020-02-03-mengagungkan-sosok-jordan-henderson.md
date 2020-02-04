@@ -1,8 +1,11 @@
 ---
 title: "Mengagungkan Sosok Jordan Henderson"
-excerprt: "Walau perlahan, usaha tak kenal lelah Henderson mulai membuahkan hasilnya"
+excerpt: "Walau perlahan, usaha tak kenal lelah Henderson mulai membuahkan hasilnya"
 categories: [liverpool]
 tags: [jordan henderson, kapten liverpool, kapten panutan]
+header:
+ image: "https://cdn.statically.io/img/fandom.id/wp-content/uploads/2020/02/IMG-20200201-WA0005.jpg"
+ caption: "Jordan Henderson #14"
 ---
 Bagi yang mengikuti sepak terjang Jordan Henderson semenjak bergabung dengan kubu Merseyside merah, pasti menyebut tahun 2019 adalah periode yang takkan pernah ia lupakan. Pemain berambut pirang tersebut jadi orang pertama di skuat Liverpool setelah Robbie Fowler pada 2001 silam (Piala FA, Piala Liga, dan Piala UEFA/Liga Europa) yang mengangkat tiga trofi sekaligus di tahun yang sama yaitu gelar Liga Champions, Piala Super Eropa, dan Piala Dunia Antarklub.
 
@@ -52,6 +55,8 @@ Perbedaan cara bermain Henderson mulai bisa dilihat dengan jelas pada leg kedua 
 
 Presensi Henderson yang semakin terlihat esensinya bisa kita saksikan tatkala Liverpool [menggulung Southampton](https://www.catetan.pw/liverpool/home-vs-southampton/) malam kemarin (1/2) dengan skor telak 4-0. Pada laga tersebut, sang kapten mengepak 1 gol dan 1 asis.
 
+{% include video provider="youtube" id="36E1iFRgfSg" %}
+
 Penetrasi Firmino di kotak penalti lawan diikuti Henderson yang mencari ruang kosong karena fokus bek lawan kadung mengarah kepada pergerakan sang striker. Sodoran enak Firmino pun sukses dikonversi secara manis oleh sang gelandang.
 
 Sementara asis cantik Henderson bermula dari pergerakannya di sisi kanan sampai akhirnya melepas umpan terukur yang membebaskan Salah dari kawalan bek musuh guna berhadapan satu lawan satu dengan kiper Southampton dan mencetak gol.
@@ -70,4 +75,4 @@ Akankah Henderson jadi pemain pertama yang mengangkatnya?
 
 ---
 
-Artikel di atas dikutip via Fandom. Jika ada dari kalian yang memuja SG dan masih membandingkannya dengan JH, kemudian meremehkan artikel lokal di atas, ada kok artikel senada dari situs berbahasa Inggris yang senada. Baca [artikel ini](https://www.thisisanfield.com/2020/02/heres-to-you-jordan-henderson-liverpools-captain-is-now-anfields-beating-heart/). Tak usah malu mengakui peran kapten panutan ketje yang makin moncer. Setiap yang berjuang (minimal "berusaha") patut dihargai Kops, apalaginada hasil yang terlihat dari perjuangan itu..
+Artikel di atas dikutip dari [fandom.id](https://fandom.id/artikel/feature/profil/mengagungkan-sosok-jordan-henderson/). Jika ada dari kalian yang memuja SG dan masih membandingkannya dengan JH, kemudian meremehkan artikel lokal di atas, ada kok artikel senada dari situs berbahasa Inggris yang senada. Baca [artikel ini](https://www.thisisanfield.com/2020/02/heres-to-you-jordan-henderson-liverpools-captain-is-now-anfields-beating-heart/). Tak usah malu mengakui peran kapten panutan ketje yang makin moncer. Setiap yang berjuang (minimal "berusaha") patut dihargai Kops, apalaginada hasil yang terlihat dari perjuangan itu..
