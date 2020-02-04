@@ -11,7 +11,7 @@ header:
 
 {% include figure image_path="https://cdn.statically.io/img/www.thisisanfield.com/wp-content/uploads/P2020-01-05-061-Liverpool_Everton.jpg" caption="Give the main squad witer break. Trust the Young Lads!" %}
 
-[LIVE STREAMING](#match)
+[LIVE STREAMING](#match){:.btn .btn--large .btn--danger}
 
 ## Line-up
 
