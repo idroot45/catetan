@@ -47,4 +47,8 @@ January signing **Joe Hardy** is expected to start up front, while **Liam Millar
 
 ## Match
 
+Liverpool FC vs Shrewsburry Town #LIVSHR KO 02:40 WIB. Rabu, 05 Februari 2020 FA Cup (replay) 4th Round. Livestream will available 5 minutes before kick-off from DAZN Germany.
+
+<--
 {% include video provider="internal" id="lfctv1" %}
+-->
