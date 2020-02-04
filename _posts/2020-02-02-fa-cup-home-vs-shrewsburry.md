@@ -25,7 +25,7 @@ But the manager has taken the decision to skip this replay and instead “respec
 
 This leaves Critchley will a difficult task against a League One side that drew 2-2 with the Reds at New Meadow last time out, though less difficult than the trip to Villa Park.
 
-{% include video provider="youtube" caption="UZ4uSerlUt8" %}
+{% include video provider="youtube" id="UZ4uSerlUt8" %}
 
 ### New Faces
 
