@@ -37,6 +37,8 @@ Belum lagi, di musim pertamanya bergabung ke Liverpool, ia sempat menjadi bahan 
 
 Untungnya, Henderson bukan orang yang mudah menyerah. Sebagai seorang skipper, ia sudah terbiasa memikul tanggung jawab besar dan pandai menempatkan diri saat kondisi moral kesebelasan yang ia bela berfluktuasi.
 
+> Liverpool Echo: Brendan Rodgers hails Henderson's performance after partner gave birth to second child overnight and led midfielder to leave team hotel to attend labour. Read the story [here](https://www.liverpoolecho.co.uk/sport/football/liverpool-captain-jordan-henderson-dashes-9007241)
+
 Memamerkan umpan-umpan presisi, mencetak gol indah, melepaskan tekel-tekel brilian hingga melakukan gocekan maut bukanlah atribut utama yang senantiasa Henderson tunjukkan. Namun di atas semua itu, ia memiliki keteguhan hati, dedikasi, dan kemauan untuk terus berjuang bersama Liverpool. Bahkan dalam situasi paling sulit sekalipun.
 
 Setelah Rodgers pergi dan posisinya ditempati Jürgen Klopp, status Henderson tak berubah karena ban kapten tetap melingkar di lengannya. Sebuah kepercayaan yang kemudian coba dijawab Henderson dengan cara terbaik.
@@ -51,7 +53,7 @@ Dalam formasi dasar 4-3-3 kesukaan Klopp, pelan-pelan Henderson digeser ke sisi 
 
 Salah satu kemampuan Henderson yang sering menjadi bahan perbincangan adalah gaya mainnya yang kini lebih ofensif. Ia bisa mengirim umpan secara tidak terduga ke lini serang The Reds saat pemain lawan fokus terhadap pergerakan para penyerang sayap.
 
-Seperti yang ditulis Dex Glenniza di panditfootball, Henderson adalah pemain yang rajin melepaskan umpan-umpan panjang yang membelah lini pertahanan lawan. Hal ini tentu sesuai dengan instruksi Klopp sebab menambah warna permainan Liverpool sekaligus menyulitkan lawan untuk mengantisipasi.
+Seperti yang ditulis Dex Glenniza di [panditfootball](https://www.panditfootball.com/analisa-pertandingan/212820/DGA/190514/kenapa-henderson-selalu-diandalkan-klopp), Henderson adalah pemain yang rajin melepaskan umpan-umpan panjang yang membelah lini pertahanan lawan. Hal ini tentu sesuai dengan instruksi Klopp sebab menambah warna permainan Liverpool sekaligus menyulitkan lawan untuk mengantisipasi.
 
 Tak hanya itu karena keterlibatannya yang lebih banyak pada fase menyerang juga membuat catatan statistik xG (expected goal) Henderson meningkat drastis. Artinya, Henderson bisa jadi opsi ancaman bagi sektor belakang musuh selain trio Roberto Firmino, Sadio Mane, dan Salah.
 
@@ -67,7 +69,7 @@ Sementara asis cantik Henderson bermula dari pergerakannya di sisi kanan sampai 
 
 Lawan Liverpool di final Piala Dunia Antarklub bahkan tak ragu untuk memuji Henderson. Pelatih asal Portugal itu menyanjung Henderson sebagai pemain yang pantas memegang status gelandang terbaik di dunia saat ini.
 
-Awal tahun 2020, Henderson dinobatkan sebagai BT England Players of the Year tahun 2019. Ia ada di urutan pertama di atas nama-nama eksepsional lain seperti Raheem Sterling (Manchester City) dan Harry Kane (Tottenham Hotspur). Penghargaan ini diberikan asosiasi sepakbola Inggris, FA, kepada pemain asli Inggris yang memiliki andil dalam kemajuan sepakbola Inggris, baik di level klub maupun timnas.
+Awal tahun 2020, Henderson dinobatkan sebagai **BT England Players of the Year** tahun 2019. Ia ada di urutan pertama di atas nama-nama eksepsional lain seperti Raheem Sterling (Manchester City) dan Harry Kane (Tottenham Hotspur). Penghargaan ini diberikan asosiasi sepakbola Inggris, FA, kepada pemain asli Inggris yang memiliki andil dalam kemajuan sepakbola Inggris, baik di level klub maupun timnas.
 
 Walau perlahan, usaha tak kenal lelah Henderson mulai membuahkan hasilnya. Namanya boleh saja tak seseksi Alexander-Arnold, Alisson Becker, Firmino, Mane, Salah atau bahkan Virgil van Dijk untuk dibicarakan, tapi Henderson memiliki esensi yang luar biasa. Ia adalah sosok agung di lini tengah, bahkan seisi skuad Liverpool saat ini.
 
