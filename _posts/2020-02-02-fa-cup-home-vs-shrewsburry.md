@@ -50,10 +50,10 @@ January signing **Joe Hardy** is expected to start up front, while **Liam Millar
 
 Liverpool FC vs Shrewsburry Town #LIVSHR KO 02:40 WIB. Rabu, 05 Februari 2020 FA Cup (replay) 4th Round. Livestream will available from DAZN Germany.
 {:.notice .notice--info}
+
 Kick off in Liverpool's FA Cup replay against Shrewsbury Town has been delayed until 8pm.
 
 The match was due to kick off at 7.45pm but has been put back a quarter of an hour because some supporters have been delayed due to a crash on the M62.
 {:.notice .notice--danger}
 
-
-{% include video provider="internal" id="lfctv1" %}
+Reportase: Pemain Shrewsburry sakit hati karena goal semata wayangnya dianulir wasit karena offside. Akibatnya mereka gantung diri pada menit 75. Pemain era millenial memang begitu; "Gak perlu main tangan, bully saja teroos, nanti juga kalo gak kuat bakalan bunuh diri."
