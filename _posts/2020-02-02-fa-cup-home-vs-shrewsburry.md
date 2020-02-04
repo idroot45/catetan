@@ -1,6 +1,6 @@
 ---
 title: "FA CUP 4th Round (replay match): Liverpool FC vs Shrewsburry Town"
-excerpt: "Liverpool take on League One minnows Shrewsbury Town in a FA Cup fourth-round replay on Tuesday, February 4 at 19:45 (5 Januari 2020 02:45 dini hari WIB)."
+excerpt: "Liverpool take on League One minnows Shrewsbury Town in a FA Cup fourth-round replay on Tuesday, February 4 at 19:45 (5 Januari 2020 02:45 dini hari WIB). Skor akhir: 1-0"
 categories: [liverpool]
 tags: [fa cup, shrewsburry, liverpool fc]
 header:
