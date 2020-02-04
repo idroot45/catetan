@@ -58,6 +58,9 @@ The match was due to kick off at 7.45pm but has been put back a quarter of an ho
 
 Reportase: Pemain Shrewsburry sakit hati karena goal semata wayangnya dianulir wasit karena offside. Akibatnya mereka gantung diri pada menit 75. Pemain era millenial memang begitu; "Gak perlu main tangan, bully saja teroos, nanti juga kalo gak kuat bakalan bunuh diri."
 
+Fakta uniknya, Anfield malah full-house, semua tiket terbeli. Selain diskon harga tiket, bisa jadi penuhnya stadion Anfield dini hari tadi karena ulah FA Cup sendiri, yang akhirnya pemain muda Liverpool malah mendapatkan dukungan yang luar biasa di Anfield. Alih-alih memberikan sanksi, justru ketika FA memblokir tayangan siaran langsung di TV, malah menguntungkan Liverpool di sisi finansial dan moral. 🤣
+
+
 {% include video provider="youtube" id="nbcVE77ZFHM" %}
 
 Pertandingan berikutnya: Tandang ke markas Chelsea. [Laga putaran ke-5](/liverpool/fa-cup-away-vs-chelsea/) akan dimainkan pada 5 Maret 2020 pukul 19:45 WIB.
