@@ -6,6 +6,7 @@ tags: [fa cup, shrewsburry, liverpool fc]
 header:
  overlay_image: "https://cdn.statically.io/img/www.anfieldwatch.co.uk/wp-content/uploads/2014/08/P170401-014-Liverpool_Everton-e1497712768935.jpg"
  caption: "Anfield Stadium"
+last_modified_at: 2020-02-05 01:50:00
 ---
 **Liverpool’s FA Cup replay against Shrewsbury to take place days after Southampton clash.** Liverpool take on League One minnows Shrewsbury Town in a FA Cup fourth-round replay on Tuesday, February 4 at 19:45 (_5 Januari 2020 02:45 dini hari_ WIB). The Reds threw away a two-goal lead against the Shrews at Montgomery Waters Meadow in the first leg to set up a replay at Anfield. Jurgen Klopp is expected to snub managing the Reds for the match. 
 
@@ -48,6 +49,7 @@ January signing **Joe Hardy** is expected to start up front, while **Liam Millar
 ## Match
 
 Liverpool FC vs Shrewsburry Town #LIVSHR KO 02:40 WIB. Rabu, 05 Februari 2020 FA Cup (replay) 4th Round. Livestream will available 5 minutes before kick-off from DAZN Germany.
+{:.notice .notice--danger}
 
 <--
 {% include video provider="internal" id="lfctv1" %}
