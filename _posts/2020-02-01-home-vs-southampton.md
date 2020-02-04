@@ -70,3 +70,5 @@ Goals: Oxlade-Chamberlain 47’, Henderson 60’, Salah 71’, 89’
 ### Highlights
 
 {% include video provider="youtube" id="36E1iFRgfSg" %}
+
+{% include video provider="youtube" id="6GWHmPGaHFA" %}
