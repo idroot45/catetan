@@ -4,7 +4,7 @@ layout: "stream"
 match:
  home: Liverpool FC
  away: Shrewsburry Town
- hashtag: #LIVSHR
+ hashtag: LIVSHR
  ko: "02:40 WIB. Rabu, 05 Februari 2020"
  liga: FA Cup (replay)
  round: 4th Round
