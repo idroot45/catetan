@@ -47,7 +47,9 @@ Southampton: McCarthy, Ward-Prowse, Stephens, Bednarek, Bertrand, Djenepo, Romeu
 
 Substitutes: Gunn, Danso, Vestegaard, Smallbone, Boufal, Obafemi, Adams
 
-## Match: Firmino the assist King and Ox in the box
+## Match:
+
+> Firmino the assist King and Ox in the box
 
 Liverpool’s final Premier League game before the ‘winter break’ ended in a thumping 4-0 win over Southampton, though the victory wasn’t earned without struggles.
 
@@ -64,3 +66,7 @@ Our two forward members on the day, Mohamed Salah and Roberto Firmino, absolutel
 The No. 1 was as perfectly in position on every occasion as the duo ahead of him usually are in defence, smothering a few through passes, taking high balls and making a couple of saves, too.
 
 Goals: Oxlade-Chamberlain 47’, Henderson 60’, Salah 71’, 89’
+
+### Highlights
+
+{% include video provider="youtube" id="36E1iFRgfSg" %}
