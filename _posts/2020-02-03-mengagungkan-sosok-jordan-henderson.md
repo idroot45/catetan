@@ -33,7 +33,7 @@ Mulai dari kontroversi penunjukan dirinya sebagai kapten walau kualitasnya tergo
 
 Belum lagi, di musim pertamanya bergabung ke Liverpool, ia sempat menjadi bahan tertawaan karena The Reds dianggap menghambur-hamburkan uang transfer senilai 50 juta paun dengan merekrut pemain-pemain semenjana. Pada musim itu, selain Henderson, Liverpool juga menggamit Charlie Adam, Sebastian Coates, Jose Enrique dan Stewart Downing.
 
-{% include figure image_path="https://i2-prod.liverpoolecho.co.uk/incoming/article9007105.ece/ALTERNATES/s810/JS60836863.jpg" caption="Liverpool's Jordan Henderson celebrates with manager Brendan Rodgers at the end of the match (Foto: Carl Recine/Reuters via LiverpoolEcho, April 2015)" %}
+{% include figure image_path="https://cdn.statically.io/img/i2-prod.liverpoolecho.co.uk/incoming/article9007105.ece/ALTERNATES/s810/JS60836863.jpg" caption="Liverpool's Jordan Henderson celebrates with manager Brendan Rodgers at the end of the match (Foto: Carl Recine/Reuters via LiverpoolEcho, April 2015)" %}
 
 Untungnya, Henderson bukan orang yang mudah menyerah. Sebagai seorang skipper, ia sudah terbiasa memikul tanggung jawab besar dan pandai menempatkan diri saat kondisi moral kesebelasan yang ia bela berfluktuasi.
 
