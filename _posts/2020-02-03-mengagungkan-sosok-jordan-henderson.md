@@ -15,6 +15,8 @@ Andai di pengujung musim 2019/2020 kali ini Henderson sanggup membawa Liverpool 
 
 Meniti karier bareng klub asal kota kelahirannya, Sunderland, baru pada tahun 2008 ia beroleh kesempatan naik ke tim senior. Walau dibekali bakat apik dan kemampuan prima sebagai pesepakbola, Henderson dinilai tak setara dengan legenda The Black Cats, Kevin Phillips, yang begitu mudah dicintai.
 
+{% include figure image_path="https://cdn.statically.io/img/secure.i.telegraph.co.uk/multimedia/archive/01915/henderson2_1915746c.jpg" caption="Huge gamble: Sunderland look likely to be the biggest winners following the £20 million sale of Jordan Henderson (Foto: AP, via Telegraph, Juni 2011" %}
+
 Dalam kurun 2008 sampai 2011, Henderson cuma beraksi di 71 pertandingan dan mengoleksi 4 gol pada seluruh kompetisi. Di tengah-tengah periode tersebut, ia pun sempat dipinjamkan sebentar ke Coventry City.
 
 Pelatih Liverpool di musim 2011/2012, Kenny Dalglish, adalah sosok yang menginginkan jasa Henderson. Alhasil, manajemen The Reds rela menguras kocek sekitar 16 juta paun buat mendatangkannya ke Stadion Anfield. Tak main-main, Dalglish langsung memainkan Henderson sebagai salah satu pilar di sektor tengah.
@@ -30,6 +32,8 @@ Menyandang status kapten tak membuat hidup Henderson jadi lebih mudah. Ia sering
 Mulai dari kontroversi penunjukan dirinya sebagai kapten walau kualitasnya tergolong medioker dan tanpa prestasi, gaya bermainnya yang seringkali membosankan sebab kerap melakukan back-pass, sampai latar belakang dirinya yang bukan seorang Scouser alias orang asli Liverpool.
 
 Belum lagi, di musim pertamanya bergabung ke Liverpool, ia sempat menjadi bahan tertawaan karena The Reds dianggap menghambur-hamburkan uang transfer senilai 50 juta paun dengan merekrut pemain-pemain semenjana. Pada musim itu, selain Henderson, Liverpool juga menggamit Charlie Adam, Sebastian Coates, Jose Enrique dan Stewart Downing.
+
+{% include figure image_path="https://i2-prod.liverpoolecho.co.uk/incoming/article9007105.ece/ALTERNATES/s810/JS60836863.jpg" caption="Liverpool's Jordan Henderson celebrates with manager Brendan Rodgers at the end of the match (Foto: Carl Recine/Reuters via LiverpoolEcho, April 2015)" %}
 
 Untungnya, Henderson bukan orang yang mudah menyerah. Sebagai seorang skipper, ia sudah terbiasa memikul tanggung jawab besar dan pandai menempatkan diri saat kondisi moral kesebelasan yang ia bela berfluktuasi.
 
