@@ -82,4 +82,8 @@ Akankah Henderson jadi pemain pertama yang mengangkatnya?
 
 ---
 
-Artikel di atas dikutip dari [fandom.id](https://fandom.id/artikel/feature/profil/mengagungkan-sosok-jordan-henderson/). Jika ada dari kalian yang memuja SG dan masih membandingkannya dengan JH, kemudian meremehkan artikel lokal di atas, ada kok artikel senada dari situs berbahasa Inggris yang senada. Baca [artikel ini](https://www.thisisanfield.com/2020/02/heres-to-you-jordan-henderson-liverpools-captain-is-now-anfields-beating-heart/). Tak usah malu mengakui peran kapten panutan ketje yang makin moncer. Setiap yang berjuang (minimal "berusaha") patut dihargai Kops, apalaginada hasil yang terlihat dari perjuangan itu..
+Artikel di atas dikutip dari [fandom.id](https://fandom.id/artikel/feature/profil/mengagungkan-sosok-jordan-henderson/). Jika ada dari kalian yang memuja SG dan masih membandingkannya dengan JH, kemudian mencela artikel lokal di atas, ada kok artikel senada dari situs berbahasa Inggris yang senada. Baca [artikel ini](https://www.thisisanfield.com/2020/02/heres-to-you-jordan-henderson-liverpools-captain-is-now-anfields-beating-heart/). Tak usah malu mengakui peran kapten panutan ketje yang makin moncer.
+
+Baca juga [artikel sanjungan](https://www.liverpool.com/schedule/jordan-henderson-liverpool-southampton-goal-17674239) buat kapten ketje: **Jordan Henderson version 3.0 has arrived, and he's better than ever before.** The captain produced a goal and assist against Southampton in another outstanding performance which enhances his PFA Player of the Year credentials.
+
+Setiap yang berjuang sudah sepatutnya dihargai Kops, apalagi ada hasil yang terlihat dari perjuangan itu.
