@@ -4,7 +4,10 @@ excerpt: ""
 categories: [liverpool]
 tags: [liga inggris, norwich city, liverpool fc]
 ---
-## Prematch
+Laga lawatan ke Carrow Road, kandang Norwich City dalam pertandingan meinggu ke-26 Premier League [LIVE](#match){:.btn .btn--danger} mulai pukul 00:00 WIB dini hari Minggu, 16 Februari 2020.
+{:.notice .notice--info}
+
+## Analisa pra-pertandingan
 
 Norwich City vs Liverpool pada pekan ke-26 Liga Inggris di Stadion Carrow Road, Minggu (16/2) dinihari. Tuan rumah diprediksi sulit menghindar sambaran lokomotif The Reds yang sedang kencang-kencangnya.
 
@@ -40,3 +43,10 @@ Liverpool telah menang 28 kali, 10 kali kalah dan 13 kali imbang pada 51 pertand
 - Liverpool telah mencetak 3 gol atau lebih dalam 7 dari 8 pertandingan terbarunya lawan Norwich di semua kompetisi.
 - Liverpool memenangkan 16 tandang terbarunya di Liga Inggris.
 - Mohamed Salah mencetak 8 gol dalam 10 pertandingan terakhirnya untuk Liverpool di Liga Inggris.
+
+## Match
+
+Live streaming di halaman ini tersedia minimal 5 menit sebelum laga dimulai dan akan hilang setelah laga berakhir.
+{:.notice .notice--warning}
+
+Laga juga bisa disaksikan secara resmi di saluran televisi nasional TVRI dan aplikasi MolaTV di Indonesi.
