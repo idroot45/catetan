@@ -4,7 +4,7 @@ layout: "stream"
 match:
  away: Liverpool FC
  home: Norwich City
- hashtag: #NORLIV
+ hashtag: NORLIV
  ko: "00:30 WIB. Minggu, 16 Februari 2020"
  liga: EPL
  round: GW 26
