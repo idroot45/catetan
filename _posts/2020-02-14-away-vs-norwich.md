@@ -1,6 +1,10 @@
 ---
 title: "EPL Game Week Ke-26: Norwich City vs Liverpool FC"
 excerpt: ""
+header:
+ image: "https://cdn.statically.io/img/www.thisisanfield.com/wp-content/uploads/P20190809-053-Liverpool_Norwich.jpg"
+ caption: "Roberto Firmino, belum bikin gol di Anfield tapi spesialis bikin gol di kandang lawan."
+ alt: "roberto firmini vs norwich"
 categories: [liverpool]
 tags: [liga inggris, norwich city, liverpool fc]
 ---
@@ -15,13 +19,19 @@ Liverpool akan menjadi lawan yang sangat berat untuk Norwich City dalam pertandi
 
 Norwich bermain imbang 0-0 melawan Newcastle United di pertandingan Liga Inggris sebelumnya. Mereka menyia-nyiakan peluang di depan gawang lawan, gagal memanfaatkan penguasaan bola mereka atau mengubah empat upaya tepat sasaran menjadi gol.
 
+{% include figure image_path="https://cdn.statically.io/img/www.thisisanfield.com/wp-content/uploads/PA-44347862.jpg" caption="Daniel Flarke, baru mempersembahkan 1 kemenangan dalam 12 laga terakhir." %}
+
 Hasil imbang ini membuat The Canaries menempati dasar klasemen terpaut tujuh poin dari zona aman degradasi, tidak mampu membangun momentum apa pun untuk menjauh dari zona degradasi. Skuad asuhan Daniel Farke hanya mengklaim satu kemenangan saja dari 12 pertandingan Liga Inggris terakhir mereka.
 
 Liverpool sedang dalam performa terbaik di pertandingan Premier League terakhir mereka saat mengklaim kemenangan 4-0 atas Southampton. Gol oleh Alex Oxlade-Chamberlain dan Jordan Henderson membuat The Reds memegang kendali sebelum Mohamed Salah memastikan kemenangan dengan dua gol terakhir.
 
+{% include figure image_path="https://www.thisisanfield.com/wp-content/uploads/P20190809-098-Liverpool_Norwich.jpg" caption="Jordan Henderson, kapten tim Liverpool ini belakangan penampilannya makin ciamik." %}
+
 Tim besutan Jurgen Klopp tidak terkalahkan di Liga Inggris dan tetap berada di jalur yang tepat untuk kemenangan gelar juara yang akan memecahkan rekor. Mereka duduk 22 poin jauhnya di puncak klasemen.
 
 Liverpool telah mengklaim 24 kemenangan dari 25 pertandingan musim ini, memenangkan 16 laga tndang terbarunya. Mohamed Salah tampaknya akan kembali ke performa terbaiknya dengan delapan gol dari 10 pertandingan Liga Inggris terkininya.
+
+{% include figure image_path="https://cdn.statically.io/img/www.thisisanfield.com/wp-content/uploads/PA-45256096.jpg" caption="Temu Pukki, pemain yang bisa memberi kejutan jika penain Liverpool meremehkan lawan dalam lawatan ke kandang Norwich City" %}
 
 Masalah utama Norwich musim ini adalah lini belakang mereka, The Canaries memiliki rekor pertahanan terburuk di liga. Mereka telah kebobolan dua gol atau lebih dalam sembilan dari 11 laga kandang teranyarnya dan akan kesulitan melawan lini serang superior Liverpool. Kecuali anak-anak Juergen Klopp menganggap remeh lawan, yang bisa jadi titik lemah The Reds, Liverpool akan memenangkan laga hari Minggu nanti.
 
@@ -30,6 +40,8 @@ Masalah utama Norwich musim ini adalah lini belakang mereka, The Canaries memili
 Timm Klose tetap satu-satunya pemain yang absen untuk Norwich City karena cedera. Bek tengah Ben Godfrey kembali bermain setelah menjalani skorsing.
 
 ### Berita Tim Liverpool
+
+{% include figure image_path="https://cdn.statically.io/img/www.thisisanfield.com/wp-content/uploads/P2020-01-23_Wolves_Liverpool-23.jpg" caption="Sadio Mane, sudah fit dan siap kembali mengobrak-abrik lini bertahan Norwich pada Minggu (16/02/2020) dini hari" %}
 
 Pemain depan Sadio Mane diharapkan kembali ke Starting XI Liverpool. James Milner, Nathaniel Clyne dan Xherdan Shaqiri tetap absen karena cedera.
 
@@ -49,4 +61,4 @@ Liverpool telah menang 28 kali, 10 kali kalah dan 13 kali imbang pada 51 pertand
 Live streaming di halaman ini tersedia minimal 5 menit sebelum laga dimulai dan akan hilang setelah laga berakhir.
 {:.notice .notice--warning}
 
-Laga juga bisa disaksikan secara resmi di saluran televisi nasional TVRI dan aplikasi MolaTV di Indonesi.
+Laga juga bisa disaksikan secara resmi di saluran televisi nasional **TVRI** dan **MolaTV** di Indonesia.
