@@ -73,4 +73,4 @@ Live streaming di halaman ini tersedia minimal 5 menit (bisa lebih cepat sih) se
 
 {% include video provider="internal" id="lfctv5" %}
 
-Laga juga bisa disaksikan secara resmi di saluran televisi nasional <strike>TVRI</strike> dan **MolaTV** di Indonesia.
+Laga juga bisa disaksikan secara resmi di saluran <strike>televisi nasional TVRI</strike> dan **MolaTV** di Indonesia.
