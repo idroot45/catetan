@@ -81,4 +81,4 @@ Laga juga bisa disaksikan secara resmi di saluran <strike>televisi nasional TVRI
 
 ### Babak 2
 
-<blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">He does not miss...<br><br>Sadio Mane fires Liverpool ahead - with a VAR check confirming no push in the build-up <br><br>📺 Watch on Sky Sports Premier League<br>📱 Follow <a href="https://twitter.com/hashtag/NORLIV?src=hash&amp;ref_src=twsrc%5Etfw">#NORLIV</a></p>&mdash; Sky Sports Premier League (@SkySportsPL) <a href="https://twitter.com/SkySportsPL/status/1228757813654163457?ref_src=twsrc%5Etfw">February 15, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">He does not miss...<br><br>Sadio Mane fires Liverpool ahead - with a VAR check confirming no push in the build-up </p>&mdash; Sky Sports Premier League (@SkySportsPL) <a href="https://twitter.com/SkySportsPL/status/1228757813654163457?ref_src=twsrc%5Etfw">February 15, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
