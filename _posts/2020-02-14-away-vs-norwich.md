@@ -10,7 +10,7 @@ categories: [liverpool]
 tags: [liga inggris, norwich city, liverpool fc]
 last_modified_at: 2020-02-15 20:43:00
 ---
-Laga lawatan ke Carrow Road, kandang Norwich City dalam pertandingan minggu ke-26 Premier League [LIVE](#live){:.btn .btn--danger} mulai pukul 00:30 WIB dini hari Minggu, 16 Februari 2020.
+Laga lawatan ke Carrow Road, kandang Norwich City dalam pertandingan minggu ke-26 Premier League [LIVE EN](#live){:.btn .btn--danger} dan [LIVE ES](/lfctv2){:.btn .btn--success rel="nofollow"} mulai pukul 00:30 WIB dini hari Minggu, 16 Februari 2020.
 {:.notice .notice--info}
 
 ## Analisa pra-pertandingan
@@ -68,7 +68,7 @@ Liverpool telah menang 28 kali, 10 kali kalah dan 13 kali imbang pada 51 pertand
 
 {% include figure url="https://cdn.statically.io/img/www.thisisanfield.com/wp-content/uploads/LineupNorwich2.jpg" image_path="https://cdn.statically.io/img/www.thisisanfield.com/wp-content/uploads/LineupNorwich2.jpg?w=480px" caption="Alisson; Trent, Gomez, Van Dijk, Robertson; Fabinho, Henderson, Wijnaldum; Salah, Oxlade, Firmino (image: via ThisIsAnfield" %}
 
-Live streaming di halaman ini tersedia minimal 5 menit (bisa lebih cepat sih) sebelum laga dimulai dan akan hilang setelah laga berakhir.
+Live streaming di halaman ini tersedia minimal 5 menit (bisa lebih cepat sih) sebelum laga dimulai dan akan hilang setelah laga berakhir. 
 {:.notice .notice--warning #live}
 
 {% include video provider="internal" id="lfctv5" %}
