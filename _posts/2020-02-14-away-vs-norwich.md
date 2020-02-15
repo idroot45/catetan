@@ -3,6 +3,7 @@ title: "EPL Game Week Ke-26: Norwich City vs Liverpool FC"
 excerpt: "Di buka dengan Southampton vs Burnley dulu, di lanjut Norwich City vs Liverpool (K.O. 00.30 UTC+7) gaes"
 header:
  image: "https://cdn.statically.io/img/www.thisisanfield.com/wp-content/uploads/P20190809-053-Liverpool_Norwich.jpg"
+ teaser: "https://cdn.statically.io/img/www.thisisanfield.com/wp-content/uploads/P20190809-053-Liverpool_Norwich.jpg?w=480"
  caption: "Roberto Firmino, belum bikin gol di Anfield tapi spesialis bikin gol di kandang lawan."
  alt: "roberto firmini vs norwich"
 categories: [liverpool]
