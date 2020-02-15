@@ -74,3 +74,7 @@ Live streaming di halaman ini tersedia minimal 5 menit (bisa lebih cepat sih) se
 {% include video provider="internal" id="lfctv5" %}
 
 Laga juga bisa disaksikan secara resmi di saluran <strike>televisi nasional TVRI</strike> dan **MolaTV** di Indonesia.
+
+### Babak 1
+
+{% include figure image_path="https://1.bp.blogspot.com/-vf8TbhsWIs0/Xkg4qY71_HI/AAAAAAAAUcU/quGiPFwbSv4JWN-6ueu4AfahJ0YzY3nWACLcBGAsYHQ/s480/Screenshot_20200216-010716_VLC.png" url="https://1.bp.blogspot.com/-vf8TbhsWIs0/Xkg4qY71_HI/AAAAAAAAUcU/quGiPFwbSv4JWN-6ueu4AfahJ0YzY3nWACLcBGAsYHQ/s1600/Screenshot_20200216-010716_VLC.png" caption="Allison Becker, brilliant save!" %}
