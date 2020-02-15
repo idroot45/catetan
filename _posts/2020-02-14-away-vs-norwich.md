@@ -69,7 +69,7 @@ Liverpool telah menang 28 kali, 10 kali kalah dan 13 kali imbang pada 51 pertand
 {% include figure url="https://cdn.statically.io/img/www.thisisanfield.com/wp-content/uploads/LineupNorwich2.jpg" image_path="https://cdn.statically.io/img/www.thisisanfield.com/wp-content/uploads/LineupNorwich2.jpg?w=480px" caption="Alisson; Trent, Gomez, Van Dijk, Robertson; Fabinho, Henderson, Wijnaldum; Salah, Oxlade, Firmino (image: via ThisIsAnfield" %}
 
 Live streaming di halaman ini tersedia minimal 5 menit (bisa lebih cepat sih) sebelum laga dimulai dan akan hilang setelah laga berakhir.
-{:.notice .notice--warning}
+{:.notice .notice--warning #live}
 
 {% include video provider="internal" id="lfctv2" %}
 
