@@ -1,6 +1,6 @@
 ---
 title: "EPL Game Week Ke-26: Norwich City vs Liverpool FC"
-excerpt: "Di buka dengan Southampton vs Burnley dulu, di lanjut Norwich City vs Liverpool (K.O. 00.30 UTC+7) gaes"
+excerpt: "Norwich City vs Liverpool (K.O. 00.30 UTC+7). Skor akhir: NOR 0-1 LIV"
 header:
  image: "https://cdn.statically.io/img/www.thisisanfield.com/wp-content/uploads/P20190809-053-Liverpool_Norwich.jpg"
  teaser: "https://cdn.statically.io/img/www.thisisanfield.com/wp-content/uploads/P20190809-053-Liverpool_Norwich.jpg?w=480"
