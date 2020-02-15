@@ -2,10 +2,10 @@
 title: "EPL Game Week Ke-26: Norwich City vs Liverpool FC"
 excerpt: "Norwich City vs Liverpool (K.O. 00.30 UTC+7). Skor akhir: NOR 0-1 LIV"
 header:
- image: "https://cdn.statically.io/img/www.thisisanfield.com/wp-content/uploads/P20190809-053-Liverpool_Norwich.jpg"
+ image: "https://cdn.statically.io/img/www.thisisanfield.com/wp-content/uploads/P2020-02-15_Norwich_Liverpool-86.jpg"
  teaser: "https://cdn.statically.io/img/www.thisisanfield.com/wp-content/uploads/P20190809-053-Liverpool_Norwich.jpg?w=480"
- caption: "Roberto Firmino, belum bikin gol di Anfield tapi spesialis bikin gol di kandang lawan."
- alt: "roberto firmini vs norwich"
+ caption: "Sadio Mane dan Jordan Henderson rayakan gol penentu kemenangan yang luar biasa di kandang Norwich City."
+ alt: "sadio mane jordan henderson vs norwich"
 categories: [liverpool]
 tags: [liga inggris, norwich city, liverpool fc]
 last_modified_at: 2020-02-15 03:00:00
@@ -16,6 +16,8 @@ Laga lawatan ke Carrow Road, kandang Norwich City dalam pertandingan minggu ke-2
 ## Analisa pra-pertandingan
 
 Norwich City vs Liverpool pada pekan ke-26 Liga Inggris di Stadion Carrow Road, Minggu (16/2) dinihari. Tuan rumah diprediksi sulit menghindar sambaran lokomotif The Reds yang sedang kencang-kencangnya.
+
+{% include figure url="https://cdn.statically.io/img/www.thisisanfield.com/wp-content/uploads/P20190809-053-Liverpool_Norwich.jpg" image_path="https://cdn.statically.io/img/www.thisisanfield.com/wp-content/uploads/P20190809-053-Liverpool_Norwich.jpg?w=480" caption: "Roberto Firmino, belum bikin gol di Anfield tapi spesialis bikin gol di kandang lawan." %}
 
 Liverpool akan menjadi lawan yang sangat berat untuk Norwich City dalam pertandingan Liga Inggris di Carrow Road. Kualitas superior The Reds diperkirakan membuat mereka meraih kemenangan mudah atas penghuni dasar klasemen, The Canaries.
 
