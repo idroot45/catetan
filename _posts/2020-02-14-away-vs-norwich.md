@@ -8,7 +8,7 @@ header:
 categories: [liverpool]
 tags: [liga inggris, norwich city, liverpool fc]
 ---
-Laga lawatan ke Carrow Road, kandang Norwich City dalam pertandingan meinggu ke-26 Premier League [LIVE](#match){:.btn .btn--danger} mulai pukul 00:00 WIB dini hari Minggu, 16 Februari 2020.
+Laga lawatan ke Carrow Road, kandang Norwich City dalam pertandingan minggu ke-26 Premier League [LIVE](#live){:.btn .btn--danger} mulai pukul 00:00 WIB dini hari Minggu, 16 Februari 2020.
 {:.notice .notice--info}
 
 ## Analisa pra-pertandingan
@@ -60,9 +60,9 @@ Liverpool telah menang 28 kali, 10 kali kalah dan 13 kali imbang pada 51 pertand
 
 **Possible Line-up:**
 
-{% include figure image_path="https://www.thisisanfield.com/wp-content/uploads/LineupNorwich1.jpg" caption="Alisson; Trent, Gomez, Van Dijk, Robertson; Fabinho, Henderson, Wijnaldum; Salah, Mane, Firmino" %}
+{% include figure image_path="https://cdn.statically.io/img/www.thisisanfield.com/wp-content/uploads/LineupNorwich1.jpg?w=480px" caption="Alisson; Trent, Gomez, Van Dijk, Robertson; Fabinho, Henderson, Wijnaldum; Salah, Mane, Firmino (image: via ThisIsAnfield" %}
 
-{% include figure image_path="https://www.thisisanfield.com/wp-content/uploads/LineupNorwich2.jpg" caption="Alisson; Trent, Gomez, Van Dijk, Robertson; Fabinho, Henderson, Wijnaldum; Salah, Oxlade, Firmino" %}
+{% include figure image_path="https://cdn.statically.io/img/www.thisisanfield.com/wp-content/uploads/LineupNorwich2.jpg?w=480px" caption="Alisson; Trent, Gomez, Van Dijk, Robertson; Fabinho, Henderson, Wijnaldum; Salah, Oxlade, Firmino (image: via ThisIsAnfield" %}
 
 Live streaming di halaman ini tersedia minimal 5 menit (bisa lebih cepat sih) sebelum laga dimulai dan akan hilang setelah laga berakhir.
 {:.notice .notice--warning}
