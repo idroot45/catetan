@@ -10,7 +10,7 @@ categories: [liverpool]
 tags: [liga inggris, norwich city, liverpool fc]
 last_modified_at: 2020-02-15 20:43:00
 ---
-Laga lawatan ke Carrow Road, kandang Norwich City dalam pertandingan minggu ke-26 Premier League [LIVE [CNBCSN] EN](#live){:.btn .btn--danger} dan [LIVE [DAZN] ES](/lfctv2){:.btn .btn--success rel="nofollow"} mulai pukul 00:30 WIB dini hari Minggu, 16 Februari 2020.
+Laga lawatan ke Carrow Road, kandang Norwich City dalam pertandingan minggu ke-26 Premier League [LIVE](#match){:.btn .btn--danger} mulai pukul 00:30 WIB dini hari Minggu, 16 Februari 2020.
 {:.notice .notice--info}
 
 ## Analisa pra-pertandingan
@@ -68,7 +68,7 @@ Liverpool telah menang 28 kali, 10 kali kalah dan 13 kali imbang pada 51 pertand
 
 {% include figure url="https://cdn.statically.io/img/www.thisisanfield.com/wp-content/uploads/LineupNorwich2.jpg" image_path="https://cdn.statically.io/img/www.thisisanfield.com/wp-content/uploads/LineupNorwich2.jpg?w=480px" caption="Alisson; Trent, Gomez, Van Dijk, Robertson; Fabinho, Henderson, Wijnaldum; Salah, Oxlade, Firmino (image: via ThisIsAnfield" %}
 
-Live streaming di halaman ini tersedia minimal 5 menit (bisa lebih cepat sih) sebelum laga dimulai dan akan hilang setelah laga berakhir. 
+Live streaming di halaman ini tersedia minimal 5 menit (bisa lebih cepat sih) sebelum laga dimulai dan akan hilang setelah laga berakhir.
 {:.notice .notice--warning #live}
 
 {% include video provider="internal" id="lfctv5" %}
@@ -78,3 +78,7 @@ Laga juga bisa disaksikan secara resmi di saluran <strike>televisi nasional TVRI
 ### Babak 1
 
 {% include figure image_path="https://1.bp.blogspot.com/-vf8TbhsWIs0/Xkg4qY71_HI/AAAAAAAAUcU/quGiPFwbSv4JWN-6ueu4AfahJ0YzY3nWACLcBGAsYHQ/s480/Screenshot_20200216-010716_VLC.png" url="https://1.bp.blogspot.com/-vf8TbhsWIs0/Xkg4qY71_HI/AAAAAAAAUcU/quGiPFwbSv4JWN-6ueu4AfahJ0YzY3nWACLcBGAsYHQ/s1600/Screenshot_20200216-010716_VLC.png" caption="Allison Becker, brilliant save!" %}
+
+### Babak 2
+
+<blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">He does not miss...<br><br>Sadio Mane fires Liverpool ahead - with a VAR check confirming no push in the build-up <br><br>📺 Watch on Sky Sports Premier League<br>📱 Follow <a href="https://twitter.com/hashtag/NORLIV?src=hash&amp;ref_src=twsrc%5Etfw">#NORLIV</a></p>&mdash; Sky Sports Premier League (@SkySportsPL) <a href="https://twitter.com/SkySportsPL/status/1228757813654163457?ref_src=twsrc%5Etfw">February 15, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
