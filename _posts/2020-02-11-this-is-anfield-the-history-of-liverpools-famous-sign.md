@@ -5,6 +5,7 @@ last_modified_at: 2020-02-12 01:02:30
 date: 2020-02-11 09:01:20
 header:
  image: "https://cdn.statically.io/img/www.thisisanfield.com/wp-content/uploads/PA-41273904-copy.jpg"
+ teaser: "https://cdn.statically.io/img/www.thisisanfield.com/wp-content/uploads/PA-41273904-copy.jpg?w=480"
  caption: "Three different versions throughout Liverpool’s history have adorned the Anfield walls, but all held the same message: This Is Anfield."
  alt: "This Is Anfield sign"
 categories: [liverpool]
