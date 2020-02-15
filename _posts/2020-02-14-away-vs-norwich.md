@@ -71,6 +71,6 @@ Liverpool telah menang 28 kali, 10 kali kalah dan 13 kali imbang pada 51 pertand
 Live streaming di halaman ini tersedia minimal 5 menit (bisa lebih cepat sih) sebelum laga dimulai dan akan hilang setelah laga berakhir.
 {:.notice .notice--warning #live}
 
-{% include video provider="internal" id="lfctv2" %}
+{% include video provider="internal" id="lfctv5" %}
 
 Laga juga bisa disaksikan secara resmi di saluran televisi nasional **TVRI** dan **MolaTV** di Indonesia.
