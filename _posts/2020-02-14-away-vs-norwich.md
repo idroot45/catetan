@@ -1,6 +1,6 @@
 ---
 title: "EPL Game Week Ke-26: Norwich City vs Liverpool FC"
-excerpt: ""
+excerpt: "Di buka dengan Southampton vs Burnley dulu, di lanjut Norwich City vs Liverpool (K.O. 00.30 UTC+7) gaes"
 header:
  image: "https://cdn.statically.io/img/www.thisisanfield.com/wp-content/uploads/P20190809-053-Liverpool_Norwich.jpg"
  caption: "Roberto Firmino, belum bikin gol di Anfield tapi spesialis bikin gol di kandang lawan."
@@ -58,7 +58,16 @@ Liverpool telah menang 28 kali, 10 kali kalah dan 13 kali imbang pada 51 pertand
 
 ## Match
 
-Live streaming di halaman ini tersedia minimal 5 menit sebelum laga dimulai dan akan hilang setelah laga berakhir.
+**Possible Line-up:**
+
+{% include figure image_path="https://www.thisisanfield.com/wp-content/uploads/LineupNorwich1.jpg" caption="Alisson; Trent, Gomez, Van Dijk, Robertson; Fabinho, Henderson, Wijnaldum; Salah, Mane, Firmino" %}
+
+{% include figure image_path="https://www.thisisanfield.com/wp-content/uploads/LineupNorwich2.jpg" caption="Alisson; Trent, Gomez, Van Dijk, Robertson; Fabinho, Henderson, Wijnaldum; Salah, Oxlade, Firmino" %}
+
+Live streaming di halaman ini tersedia minimal 5 menit (bisa lebih cepat sih) sebelum laga dimulai dan akan hilang setelah laga berakhir.
 {:.notice .notice--warning}
 
+{% include video provider="internal" id="lfctv2" %}
+
 Laga juga bisa disaksikan secara resmi di saluran televisi nasional **TVRI** dan **MolaTV** di Indonesia.
+
