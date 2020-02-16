@@ -71,8 +71,8 @@ Liverpool telah menang 28 kali, 10 kali kalah dan 13 kali imbang pada 51 pertand
 {% include figure url="https://cdn.statically.io/img/www.thisisanfield.com/wp-content/uploads/LineupNorwich2.jpg" image_path="https://cdn.statically.io/img/www.thisisanfield.com/wp-content/uploads/LineupNorwich2.jpg?w=480px" caption="Alisson; Trent, Gomez, Van Dijk, Robertson; Fabinho, Henderson, Wijnaldum; Salah, Oxlade, Firmino (image: via ThisIsAnfield" %}
 
 <!--
-Live streaming di halaman ini tersedia minimal 5 menit (bisa lebih cepat sih) sebelum laga dimulai dan akan hilang setelah laga berakhir.
-{:.notice .notice--warning #live}
+Live streaming di halaman ini tersedia minimal 5 menit (bisa lebih cepat sih) sebelum laga dimulai dan akan diganti video higlights setelah laga berakhir.
+{:.notice .notice--info #live}
 
 {% include video provider="internal" id="lfctv5" %}
 -->
@@ -87,3 +87,7 @@ Laga juga bisa disaksikan secara resmi di saluran <strike>televisi nasional TVRI
 <blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">He does not miss...<br><br>Sadio Mane fires Liverpool ahead - with a VAR check confirming no push in the build-up </p>&mdash; Sky Sports Premier League (@SkySportsPL) <a href="https://twitter.com/SkySportsPL/status/1228757813654163457?ref_src=twsrc%5Etfw">February 15, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 > Mane’s goal was in fact his 100th for Liverpool – a truly incredible tally for one of the best players we’ve had in the Premier League era! — via EmpirOfTheKop
+
+### Highlights
+
+{% include video provider="youtube" id="bU5vHGK17CY" %}
