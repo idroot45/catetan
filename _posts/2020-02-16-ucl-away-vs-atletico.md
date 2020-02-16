@@ -18,3 +18,7 @@ Laga lawatan ke stadion Wanda Metropolitano, kandang Atletico Madrid dalam perta
 Pertemuan terakhir dengan Atletico Madrid di ajang Audi Cup 2017 berakhir dengan kekalahan 1(5)-1(4) lewat adu penalti setelah skor imbang 1-1 bertahan hingga 2 x 15 menit babak tambahan berakhir.
 
 {% include video provider="dailymotion" id="x5w1k3b" %}
+
+Pertemuan keduanya di ajang UEFA Champions League juga berakhir imbang 1-1 meskipun bermain di kandang sendiri. Namun itu terjadi tahun 2008 ketika S. Gerrard masih bermain dan menjadi kapten klub.
+
+{% include video provider="youtube" id="f1jAdFzJ_8Q" %}
