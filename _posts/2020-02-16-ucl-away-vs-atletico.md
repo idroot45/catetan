@@ -4,7 +4,7 @@ description: "Liga Champions away lawan Atletico Madrid mulai pukul 03:00 WIB (U
 categories: [liverpool]
 tags: [liga champions, liverpool fc, atletico madrid]
 header:
- overlay_image: ""
+ overlay_image: "https://i.ytimg.com/vi/f1jAdFzJ_8Q/maxresfefault.jpg"
  teaser: "https://cdn.statically.io/img/www.thisisanfield.com/wp-content/uploads/2019-01-03-224-Man_City_Liverpool-e1549030516601.jpg?w=480px"
  caption: "Jurgen Klopp has sympathy for Man City players, but UEFA ban is _obviously serious_"
 ---
