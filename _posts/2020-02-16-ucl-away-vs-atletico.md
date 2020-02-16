@@ -22,3 +22,5 @@ Pertemuan terakhir dengan Atletico Madrid di ajang Audi Cup 2017 berakhir dengan
 Pertemuan keduanya di ajang UEFA Champions League juga berakhir imbang 1-1 meskipun bermain di kandang sendiri. Namun itu terjadi tahun 2008 ketika S. Gerrard masih bermain dan menjadi kapten klub.
 
 {% include video provider="youtube" id="f1jAdFzJ_8Q" %}
+
+Liverpool, dalam laga lawatan ke Spanyol tak pernah menang. Dalam 5 pertandingan terakhir, Liverpool kalah dalam empat laga dan hanya mampu menahan imbang sekali.
