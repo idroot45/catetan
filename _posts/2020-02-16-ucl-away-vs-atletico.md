@@ -21,7 +21,7 @@ Pertemuan keduanya di ajang UEFA Champions League juga berakhir imbang 1-1 meski
 
 Liverpool, dalam laga lawatan ke Spanyol tak pernah menang. Dalam 5 pertandingan terakhir, Liverpool kalah dalam empat laga dan hanya mampu menahan imbang sekali.
 
-## Starting X
+## Liverpool’s XI vs. Atletico
 
 Mohamed Salah and Roberto Firmino would reunite with their fellow forward, ensuring Alex Oxlade-Chamberlain would miss out and Divock Origi would again start from the bench
 
@@ -30,6 +30,8 @@ The back five of Alisson, Trent Alexander-Arnold, Joe Gomez, Virgil van Dijk and
 After UEFA changed the rules last year, Takumi Minamino will be eligible for the remainder of the Champions League campaign despite playing the group stages with Salzburg.
 
 It is the midfield once again where Klopp will have the most reasons to pause for thought, with James Milner back in contention alongside the likes of Minamino, Naby Keita, Adam Lallana and Ox.
+
+{% include figure caption="Fabinho celebrates after the Premier League match between Norwich City FC and Liverpool FC at Carrow Road. Liverpool won 1-0. (Pic by David Rawcliffe/Propaganda)" url="https://cdn.statically.io/img/www.thisisanfield.com/wp-content/uploads/P2020-02-15_Norwich_Liverpool-99.jpg" image_path="https://cdn.statically.io/img/www.thisisanfield.com/wp-content/uploads/P2020-02-15_Norwich_Liverpool-99.jpg?w=480" title="NORWICH, ENGLAND - Saturday, February 15, 2020: Liverpool's Fabio Henrique Tavares 'Fabinho' celebrates after the FA Premier League match between Norwich City FC and Liverpool FC at Carrow Road. Liverpool won 1-0. (Pic by David Rawcliffe/Propaganda)" %}
 
 **Possible Line-up**
 
