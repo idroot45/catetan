@@ -22,8 +22,8 @@ Jadwal bal-balan 16 besar leg pertama:
 
 |No.|Home|Away|Live|Kick-off|Date|
 |---|---|---|:---:|---|---|
-|1|Atletico Madrid|Liverpool FC|CH1/CH2|03.00 WIB (UTC+7)|Rabu, 19/02/2020|
-|2|Borussia Dortmund|Paris Saint Germain|CH3/CH4|03.00 WIB (UTC+7)|Rabu, 19/02/2020|
+|1|Atletico Madrid|Liverpool FC|[CH1](https://www.catetan.pw/liverpool/ucl-away-vs-atletico/) [CH2](https://www.knoacc.org/2020/02/atletico-madrid-vs-liverpool-fc.html)|03.00 WIB (UTC+7)|Rabu, 19/02/2020|
+|2|Borussia Dortmund|Paris Saint Germain|[CH3](https://www.catetan.pw/lfctv3)/[CH4](https://www.knoacc.org/2020/02/borussia-dortmund-vs-paris-saint-germain.html)|03.00 WIB (UTC+7)|Rabu, 19/02/2020|
 |3|Atalanta BC|Valencia CF|CH1/CH2|03.00 WIB (UTC+7)|Kamis, 20/02/2020|
 |4|Tottenham Hotspurs|RB Leipzig|CH3/CH4|03.00 WIB (UTC+7)|Kamis, 20/02/2020|
 
