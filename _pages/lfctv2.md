@@ -10,7 +10,7 @@ match:
  round: 16 Round 1st Leg
 video:
  source: "https://g.dailysport.pw/x2/x2.m3u8"
- poster: "https://cdn.statically.io/img/wallpaperplay.com/walls/full/7/1/1/324254.jpg?w=720&quality=60&format=webp"
+ poster: "https://2.bp.blogspot.com/-c6E9TwvUHtk/Xkv12zS-OqI/AAAAAAAAUd4/yAAYGHmnByksBP-JsddTdEn2dmHSaCEIgCLcBGAsYHQ/s1600/Atletico_Madrid_vs_Liverpool-01.jpeg"
  logo: "https://cdn.statically.io/img/repo.catetan.pw/icon/favicon-32x32.png"
  link: "https://www.catetan.pw/liverpool"
  type: "application/x-mpegUrl"
