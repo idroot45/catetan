@@ -1,6 +1,6 @@
 ---
 permalink: "/lfctv3"
-layout: "stream"
+layout: "clappr"
 match:
  away: Paris Saint Germain
  home: Borussia Dortmund
