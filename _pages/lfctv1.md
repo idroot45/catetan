@@ -1,6 +1,6 @@
 ---
 permalink: "/lfctv1"
-layout: "stream"
+layout: "clappr"
 match:
  away: Liverpool FC
  home: Atletico Madrid
@@ -15,10 +15,11 @@ video:
  link: "https://www.catetan.pw/liverpool"
  type: "application/x-mpegUrl"
 ---
-### Wallpaper
+<!--
 
 [![Liverpool 1](https://cdn.statically.io/img/wallpaperplay.com/walls/full/9/f/e/324276.jpg?w=720&quality=60&format=webp)](https://cdn.statically.io/img/wallpaperplay.com/walls/full/9/f/e/324276.jpg)
 
 [![Liverpool 2](https://cdn.statically.io/img/wallpaperplay.com/walls/full/c/d/6/324234.jpg?w=720&quality=60&format=webp)](https://cdn.statically.io/img/wallpaperplay.com/walls/full/c/d/6/324234.jpg)
 
 [![Liverpool 3](https://cdn.statically.io/img/wallpaperplay.com/walls/full/7/1/1/324254.jpg?w=720&quality=60&format=webp)](https://cdn.statically.io/img/wallpaperplay.com/walls/full/7/1/1/324254.jpg)
+-->
