@@ -4,7 +4,7 @@ layout: compress
 <!doctype html>
 <html lang="id">
 <head>
-<title>{{ page.match.liga }} {{ page.match.round }} {{ page.match.home }} {{ page.match.away }}</title>
+<title>{{ page.match.liga }} {{ page.match.round }} {{ page.match.home }} vs {{ page.match.away }}</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 <style>
 #player {
@@ -63,17 +63,12 @@ layout: compress
         parentId: '#player',
         width: '100%',
         height: '100%',
-        //hlsMinimumDvrSize: 0,
-        //playback: {
-        //    hlsjsConfig: {
-        //        liveSyncDurationCount: 2
-        //    }
         chromecast: {
               appId: '9DFB77C0',
               media: {
                 type: ChromecastPlugin.None,
-                title: 'Dailysport.pw',
-                subtitle: 'Dailysport.pw'
+                title: '{{ page.match.home }} vs {{ page.match.away }} #{{ page.match.hashtag }}',
+                subtitle: '{{ page.match.liga }} {{ page.match.round }}'
               }
         },
         gaAccount: 'UA-116300012-1',
