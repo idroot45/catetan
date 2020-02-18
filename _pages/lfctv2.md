@@ -14,4 +14,5 @@ video:
  logo: "https://cdn.statically.io/img/repo.catetan.pw/icon/favicon-32x32.png"
  link: "https://www.catetan.pw/liverpool"
  type: "application/x-mpegUrl"
+twitter: "885634330868850689"
 ---
