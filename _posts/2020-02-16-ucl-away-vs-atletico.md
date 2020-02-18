@@ -45,3 +45,12 @@ But on the big stage, the boss often looks towards those who have his system dow
 Alternatively, it could be a toss-up between Oxlade-Chamberlain or Keita for the third midfield role to add a different creative spark against an often stubborn defensive unit in Atletico.
 
 {% include figure caption="Alisson; Trent, Gomez, Van Dijk, Robertson; Fabinho, Henderson, **Keita**; Salah, Mane, Firmino" image_path="https://cdn.statically.io/img/www.thisisanfield.com/wp-content/uploads/Screenshot-2020-02-17-at-13.35.15.png?w=480px" url="https://cdn.statically.io/img/www.thisisanfield.com/wp-content/uploads/Screenshot-2020-02-17-at-13.35.15.png" %}
+
+## Match
+
+Live streaming di halaman ini tersedia minimal 5 menit (bisa lebih cepat sih) sebelum laga dimulai dan akan diganti video higlights setelah laga berakhir.
+{:.notice .notice--info #live}
+
+<!--
+{% include video provider="internal" id="lfctv5" %}
+-->
