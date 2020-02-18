@@ -2,8 +2,8 @@
 permalink: "/lfctv1"
 layout: "stream"
 match:
- away: Atalanta BC
- home: Valencia CF
+ home: Atalanta BC
+ away: Valencia CF
  hashtag: ATAVAL
  ko: "03:00 WIB (UTC+7). Kamis, 20 Februari 2020"
  liga: UCL
