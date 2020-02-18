@@ -11,10 +11,6 @@ header:
 Laga lawatan ke stadion Wanda Metropolitano, kandang Atletico Madrid dalam pertandingan babak 16 besar Champions League [LIVE](#match){:.btn .btn--danger} mulai pukul 03:00 WIB (UTC+7) dini hari Rabu, 19 Februari 2020.
 {:.notice .notice--info}
 
-> "I really feel for them, to be honest, for Pep and the players, but that will not help." — Jurgen Kloop.
-
-{% include figure image_path="https://cdn.statically.io/img/www.thisisanfield.com/wp-content/uploads/2019-01-03-224-Man_City_Liverpool-e1549030516601.jpg" caption="Jurgen Klopp insists he "feels for" Pep Guardiola and his Man City squad after the club were banned from the Champions League for two seasons." %}
-
 Pertemuan terakhir dengan Atletico Madrid di ajang Audi Cup 2017 berakhir dengan kekalahan 1(5)-1(4) lewat adu penalti setelah skor imbang 1-1 bertahan hingga 2 x 15 menit babak tambahan berakhir.
 
 {% include video provider="dailymotion" id="x5w1k3b" %}
