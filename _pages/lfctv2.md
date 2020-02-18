@@ -1,6 +1,6 @@
 ---
 permalink: "/lfctv2"
-layout: "stream"
+layout: "clappr"
 match:
  away: Liverpool FC
  home: Atletico Madrid
