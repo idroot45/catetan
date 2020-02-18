@@ -1,6 +1,6 @@
 ---
 title: "UCL Round of 16 Leg 1 of 2: Atletico Madrid vs Liverpool FC"
-description: "Liga Champions away lawan Atletico Madrid mulai pukul 03:00 WIB (UTC+7) dini hari Rabu, 19 Februari 2020 di Wanda Metropolitano"
+excerpt: "Liga Champions away lawan Atletico Madrid mulai pukul 03:00 WIB (UTC+7) dini hari Rabu, 19 Februari 2020 di Wanda Metropolitano"
 categories: [liverpool]
 tags: [liga champions, liverpool fc, atletico madrid]
 header:
@@ -8,6 +8,7 @@ header:
  teaser: "https://cdn.statically.io/img/www.thisisanfield.com/wp-content/uploads/2019-01-03-224-Man_City_Liverpool-e1549030516601.jpg?w=480px"
  caption: "Jurgen Klopp has sympathy for Man City players, but UEFA ban is _obviously serious_"
 ---
+
 Laga lawatan ke stadion Wanda Metropolitano, kandang Atletico Madrid dalam pertandingan babak 16 besar Champions League [LIVE](#match){:.btn .btn--danger} mulai pukul 03:00 WIB (UTC+7) dini hari Rabu, 19 Februari 2020.
 {:.notice .notice--info}
 
@@ -22,6 +23,8 @@ Pertemuan keduanya di ajang UEFA Champions League juga berakhir imbang 1-1 meski
 Liverpool, dalam laga lawatan ke Spanyol tak pernah menang. Dalam 5 pertandingan terakhir, Liverpool kalah dalam empat laga dan hanya mampu menahan imbang sekali.
 
 ## Liverpool’s XI vs. Atletico
+
+{% include figure image_path="https://cdn.statically.io/img/i2-prod.liverpool.com/incoming/article17766621.ece/ALTERNATES/s615b/0_Depth-Chart-Atltico-Liverpool.png?w=480" url="https://cdn.statically.io/img/i2-prod.liverpool.com/incoming/article17766621.ece/ALTERNATES/s615b/0_Depth-Chart-Atltico-Liverpool.png" caption="Squad depth chart of Liverpool side." %}
 
 Mohamed Salah and Roberto Firmino would reunite with their fellow forward, ensuring Alex Oxlade-Chamberlain would miss out and Divock Origi would again start from the bench
 
