@@ -2,9 +2,9 @@
 permalink: "/lfctv3"
 layout: "stream"
 match:
- away: Paris Saint Germain
- home: Borussia Dortmund
- hashtag: PSGBVB
+ away: RB Leipzig
+ home: Tottenham Hotspurs
+ hashtag: TOTRBL
  ko: "03:00 WIB (UTC+7). Kamis, 20 Februari 2020"
  liga: UCL
  round: 16 Round 1st Leg
