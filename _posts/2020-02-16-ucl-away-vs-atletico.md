@@ -5,6 +5,7 @@ categories: [liverpool]
 tags: [liga champions, liverpool fc, atletico madrid]
 header:
  overlay_image: "https://cdn.statically.io/img/www.thisisanfield.com/wp-content/uploads/100423-074-Atletico_Madrid_Liverpool.jpg?filter=grayscale"
+ og_image: "https://1.bp.blogspot.com/-jEy8IEi34Lw/Xkv12q2bcaI/AAAAAAAAUd0/wNfwT09p9r4oS7rxB37ZRm62u0PRe9UogCLcBGAsYHQ/s1600/Atletico_Madrid_vs_Liverpool-1-01.jpeg"
  teaser: "https://cdn.statically.io/img/www.thisisanfield.com/wp-content/uploads/2019-01-03-224-Man_City_Liverpool-e1549030516601.jpg?w=480px"
  caption: "Jurgen Klopp has sympathy for Man City players, but UEFA ban is _obviously serious_"
 ---
