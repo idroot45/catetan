@@ -54,5 +54,5 @@ Live streaming di halaman ini tersedia minimal 5 menit (bisa lebih cepat sih) se
 {:.notice .notice--info #live}
 
 <!--
-{% include video provider="internal" id="lfctv5" %}
+{% include video provider="internal" id="lfctv1" %}
 -->
