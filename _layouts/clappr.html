@@ -59,15 +59,22 @@ layout: compress
         poster: "{{ page.video.poster }}",
         watermark: "{{ page.video.logo }}",
         watermarkLink: "{{ page.video.link }}",
-        plugins: [ChromecastPlugin],
+        plugins: [],
         parentId: '#player',
         width: '100%',
         height: '100%',
-        hlsMinimumDvrSize: 0,
-        playback: {
-            hlsjsConfig: {
-                liveSyncDurationCount: 2
-            }
+        //hlsMinimumDvrSize: 0,
+        //playback: {
+        //    hlsjsConfig: {
+        //        liveSyncDurationCount: 2
+        //    }
+        chromecast: {
+              appId: '9DFB77C0',
+              media: {
+                type: ChromecastPlugin.None,
+                title: 'Dailysport.pw',
+                subtitle: 'Dailysport.pw'
+              }
         },
         gaAccount: 'UA-116300012-1',
         gaTrackerName: 'pageview'
