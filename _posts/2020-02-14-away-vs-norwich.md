@@ -17,7 +17,7 @@ Laga lawatan ke Carrow Road, kandang Norwich City dalam pertandingan minggu ke-2
 
 Norwich City vs Liverpool pada pekan ke-26 Liga Inggris di Stadion Carrow Road, Minggu (16/2) dinihari. Tuan rumah diprediksi sulit menghindar sambaran lokomotif The Reds yang sedang kencang-kencangnya.
 
-{% include figure url="https://cdn.statically.io/img/www.thisisanfield.com/wp-content/uploads/P20190809-053-Liverpool_Norwich.jpg" image_path="https://cdn.statically.io/img/www.thisisanfield.com/wp-content/uploads/P20190809-053-Liverpool_Norwich.jpg?w=480" caption: "Roberto Firmino, belum bikin gol di Anfield tapi spesialis bikin gol di kandang lawan." %}
+{% include figure url="https://cdn.statically.io/img/www.thisisanfield.com/wp-content/uploads/P20190809-053-Liverpool_Norwich.jpg" image_path="https://cdn.statically.io/img/www.thisisanfield.com/wp-content/uploads/P20190809-053-Liverpool_Norwich.jpg?w=480" caption="Roberto Firmino, belum bikin gol di Anfield tapi spesialis bikin gol di kandang lawan." %}
 
 Liverpool akan menjadi lawan yang sangat berat untuk Norwich City dalam pertandingan Liga Inggris di Carrow Road. Kualitas superior The Reds diperkirakan membuat mereka meraih kemenangan mudah atas penghuni dasar klasemen, The Canaries.
 
