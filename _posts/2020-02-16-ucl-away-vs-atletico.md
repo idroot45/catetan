@@ -10,7 +10,7 @@ header:
  caption: "Jurgen Klopp has sympathy for Man City players, but UEFA ban is _obviously serious_"
 ---
 
-Laga lawatan ke stadion Wanda Metropolitano, kandang Atletico Madrid dalam pertandingan babak 16 besar Champions League [LIVE CH1](#live){:.btn .btn--danger} dan [LIVE CH2](https://www.knoacc.org/2020/02/atletico-madrid-vs-liverpool-fc.html){:.btn .btn--danger} mulai pukul 03:00 WIB (UTC+7) dini hari Rabu, 19 Februari 2020.
+Laga lawatan ke stadion Wanda Metropolitano, kandang Atletico Madrid dalam pertandingan babak 16 besar Champions League [LIVE ES](#live){:.btn .btn--danger} dan [LIVE EN](https://www.knoacc.org/2020/02/atletico-madrid-vs-liverpool-fc.html){:.btn .btn--danger} mulai pukul 03:00 WIB (UTC+7) dini hari Rabu, 19 Februari 2020.
 {:.notice .notice--info}
 
 Pertemuan terakhir dengan Atletico Madrid di ajang Audi Cup 2017 berakhir dengan kekalahan 1(5)-1(4) lewat adu penalti setelah skor imbang 1-1 bertahan hingga 2 x 15 menit babak tambahan berakhir.
@@ -54,5 +54,5 @@ Alternatively, it could be a toss-up between Oxlade-Chamberlain or Keita for the
 Live streaming di halaman ini tersedia minimal 5 menit (bisa lebih cepat sih) sebelum laga dimulai dan akan diganti video higlights setelah laga berakhir.
 {:.notice .notice--info #live}
 
-{% include video provider="internal" id="lfctv1" %}
+{% include video provider="internal" id="lfctv2" %}
 
