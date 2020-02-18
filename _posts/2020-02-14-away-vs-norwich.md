@@ -92,7 +92,9 @@ Laga juga bisa disaksikan secara resmi di saluran <strike>televisi nasional TVRI
 
 {% include video provider="youtube" id="bU5vHGK17CY" %}
 
-## Jelang UCL
+## After-match
+
+### Jelang UCL
 
 Liverpool akan bertandang ke Wanda Metropolitano, markas Atletico Madrid dalam helatan Piala Champions Eropa [babak 16 besar](/liverpool/ucl-away-vs-atletico).
 
@@ -102,3 +104,6 @@ Sementara itu, Manchester City dikenai hukuman oleh UEFA larangan ikut serta dal
 
 {% include figure image_path="https://cdn.statically.io/img/www.thisisanfield.com/wp-content/uploads/2019-01-03-224-Man_City_Liverpool-e1549030516601.jpg" caption="Jurgen Klopp insists he '_feels for_' Pep Guardiola and his Man City squad after the club were banned from the Champions League for two seasons." %}
 
+### Inside Story
+
+{% include video provider="youtube" id="MSvo9sNAYdI" %}
