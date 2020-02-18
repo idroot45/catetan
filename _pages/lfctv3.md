@@ -10,7 +10,7 @@ match:
  round: 16 Round 1st Leg
 video:
  source: "https://g.dailysport.pw/dailysport-3/x3.m3u8"
- poster: "https://2.bp.blogspot.com/-FExfmu_tbSg/XkwMmgpupEI/AAAAAAAAUeI/FwDf8oTT8EspXSevN15SzhGefGdXxQ_4wCLcBGAsYHQ/s1600/19-feb-2020-03-00-wib-borussia-dortmund-vs-paris-saint-germain-liga-champions-uefa-2019-2020.webp"
+ poster: "https://cdn.statically.io/img/www.wicst.org/wp-content/uploads/2020/02/Tottenham-vs-Leipzig.jpg"
  logo: "https://cdn.statically.io/img/repo.catetan.pw/icon/favicon-32x32.png"
  link: "https://www.catetan.pw/liverpool"
  type: "application/x-mpegUrl"
