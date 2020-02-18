@@ -84,7 +84,7 @@ Laga juga bisa disaksikan secara resmi di saluran <strike>televisi nasional TVRI
 
 ### Babak 2
 
-<blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">He does not miss...<br><br>Sadio Mane fires Liverpool ahead - with a VAR check confirming no push in the build-up </p>&mdash; Sky Sports Premier League (@SkySportsPL) <a href="https://twitter.com/SkySportsPL/status/1228757813654163457?ref_src=twsrc%5Etfw">February 15, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">He does not miss...<br><br>Sadio Mane fires Liverpool ahead - with a VAR check confirming no push in the build-up </p>&mdash; Sky Sports Premier League (@SkySportsPL) <a href="https://twitter.com/SkySportsPL/status/1228757813654163457?ref_src=twsrc%5Etfw">February 15, 2020</a></blockquote>
 
 > Mane’s goal was in fact his 100th for Liverpool – a truly incredible tally for one of the best players we’ve had in the Premier League era! — via EmpirOfTheKop
 
@@ -93,6 +93,8 @@ Laga juga bisa disaksikan secara resmi di saluran <strike>televisi nasional TVRI
 {% include video provider="youtube" id="bU5vHGK17CY" %}
 
 ## After-match
+
+<blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">Jordan Henderson - brilliant midfielder and pretty decent press officer: <a href="https://t.co/ynGmA0Bm1Q">pic.twitter.com/ynGmA0Bm1Q</a></p>&mdash; Sachin Nakrani (@SachinNakrani) <a href="https://twitter.com/SachinNakrani/status/1228764832805113856?ref_src=twsrc%5Etfw">February 15, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### Jelang UCL
 
