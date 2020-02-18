@@ -21,8 +21,22 @@ Pertemuan keduanya di ajang UEFA Champions League juga berakhir imbang 1-1 meski
 
 Liverpool, dalam laga lawatan ke Spanyol tak pernah menang. Dalam 5 pertandingan terakhir, Liverpool kalah dalam empat laga dan hanya mampu menahan imbang sekali.
 
+## Starting X
+
+Mohamed Salah and Roberto Firmino would reunite with their fellow forward, ensuring Alex Oxlade-Chamberlain would miss out and Divock Origi would again start from the bench
+
+The back five of Alisson, Trent Alexander-Arnold, Joe Gomez, Virgil van Dijk and Andy Robertson would remain behind the usual front three.
+
+After UEFA changed the rules last year, Takumi Minamino will be eligible for the remainder of the Champions League campaign despite playing the group stages with Salzburg.
+
+It is the midfield once again where Klopp will have the most reasons to pause for thought, with James Milner back in contention alongside the likes of Minamino, Naby Keita, Adam Lallana and Ox.
+
 **Possible Line-up**
 
+But on the big stage, the boss often looks towards those who have his system down on lock and for that reason Fabinho, Jordan Henderson and Gini Wijnaldum are set to start in what many will consider to be the Reds’ strongest XI
+
 {% include figure caption="Alisson; Trent, Gomez, Van Dijk, Robertson; Fabinho, Henderson, **Wijnaldum**; Salah, Mane, Firmino" image_path="https://cdn.statically.io/img/www.thisisanfield.com/wp-content/uploads/LineupNorwich1.jpg?w=480px" url="https://cdn.statically.io/img/www.thisisanfield.com/wp-content/uploads/LineupNorwich1.jpg" %}
+
+Alternatively, it could be a toss-up between Oxlade-Chamberlain or Keita for the third midfield role to add a different creative spark against an often stubborn defensive unit in Atletico.
 
 {% include figure caption="Alisson; Trent, Gomez, Van Dijk, Robertson; Fabinho, Henderson, **Keita**; Salah, Mane, Firmino" image_path="https://cdn.statically.io/img/www.thisisanfield.com/wp-content/uploads/Screenshot-2020-02-17-at-13.35.15.png?w=480px" url="https://cdn.statically.io/img/www.thisisanfield.com/wp-content/uploads/Screenshot-2020-02-17-at-13.35.15.png" %}
