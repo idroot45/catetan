@@ -30,6 +30,8 @@ Mohamed Salah and Roberto Firmino would reunite with their fellow forward, ensur
 
 The back five of Alisson, Trent Alexander-Arnold, Joe Gomez, Virgil van Dijk and Andy Robertson would remain behind the usual front three.
 
+{% include video provider="youtube" id="cLUHFMkCXNY" %}
+
 After UEFA changed the rules last year, Takumi Minamino will be eligible for the remainder of the Champions League campaign despite playing the group stages with Salzburg.
 
 It is the midfield once again where Klopp will have the most reasons to pause for thought, with James Milner back in contention alongside the likes of Minamino, Naby Keita, Adam Lallana and Ox.
