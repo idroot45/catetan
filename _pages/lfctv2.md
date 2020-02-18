@@ -2,17 +2,16 @@
 permalink: "/lfctv2"
 layout: "stream"
 match:
- away: Liverpool FC
- home: Atletico Madrid
- hashtag: LIVATM
- ko: "03:00 WIB (UTC+7). Rabu, 19 Februari 2020"
+ home: Atalanta BC
+ away: Valencia CF
+ hashtag: ATAVAL
+ ko: "03:00 WIB (UTC+7). Kamis, 20 Februari 2020"
  liga: UCL
  round: 16 Round 1st Leg
 video:
- source: "https://g.dailysport.pw/dailysport-2/x2.m3u8"
- poster: "https://2.bp.blogspot.com/-c6E9TwvUHtk/Xkv12zS-OqI/AAAAAAAAUd4/yAAYGHmnByksBP-JsddTdEn2dmHSaCEIgCLcBGAsYHQ/s1600/Atletico_Madrid_vs_Liverpool-01.jpeg"
+ source: "https://g.dailysport.pw/dailysport-01/x1.m3u8"
+ poster: "https://cdn.statically.io/img/www.wicst.org/wp-content/uploads/2020/02/Atalanta-vs-Valencia.jpg"
  logo: "https://cdn.statically.io/img/repo.catetan.pw/icon/favicon-32x32.png"
  link: "https://www.catetan.pw/liverpool"
  type: "application/x-mpegUrl"
-twitter: "1229489559681060869"
 ---
