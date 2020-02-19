@@ -22,5 +22,5 @@ Lagu-lagu dalam album "Musim Yang Baik":
 9. Musim Yang Baik
 10. Sampai Jumpa
 
-<iframe width="0" height="0" src="https://www.youtube-nocookie.com/embed/videoseries?list=OLAK5uy_mkDrK1whc58PtOy9urIaKd8kI411vOxhI&autoplay=1"
+<iframe width="30" height="10" src="https://www.youtube-nocookie.com/embed/videoseries?list=OLAK5uy_mkDrK1whc58PtOy9urIaKd8kI411vOxhI"
 frameborder="0" allow="autoplay; encrypted-media"></iframe>
