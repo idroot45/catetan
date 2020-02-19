@@ -2,8 +2,9 @@
 title: "Menyematkan Video Youtube Playlists Menjadi Playlists Audio Saja?"
 excerpt: "Model penyematan yang begini jadi ingat ketika jaman-jaman dulu mempersiapkan laman plain html untuk di injek ke situs hasil retasan sebagai laman pengganti."
 header:
- overlay_image: "https://1.bp.blogspot.com/-oPNwVDIM9Tg/XA5fMB9eFdI/AAAAAAAAHnw/EU8UU2-1dvQtmKY6tuujV82uEEJKcsy-QCLcBGAs/w191-h123-p-k-no-nu/Cara%2BTerbaru%2BMemasang%2BVideo%2BYoutube%2BResponsive%2Bdi%2BBlog.png"
+ overlay_image: "https://1.bp.blogspot.com/-oPNwVDIM9Tg/XA5fMB9eFdI/AAAAAAAAHnw/EU8UU2-1dvQtmKY6tuujV82uEEJKcsy-QCLcBGAs/s1600/C"
  caption: "Embed Youtube Playlists"
+ teaser: "https://1.bp.blogspot.com/-oPNwVDIM9Tg/XA5fMB9eFdI/AAAAAAAAHnw/EU8UU2-1dvQtmKY6tuujV82uEEJKcsy-QCLcBGAs/w191-h123-p-k-no-nu/C"
 categories: [audio]
 tags: [multimedia, audio, video, youtube, ah embuh lah]
 ---
