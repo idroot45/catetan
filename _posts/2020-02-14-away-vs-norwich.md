@@ -10,7 +10,7 @@ categories: [liverpool]
 tags: [liga inggris, norwich city, liverpool fc]
 last_modified_at: 2020-02-15 03:00:00
 ---
-Laga lawatan ke Carrow Road, kandang Norwich City dalam pertandingan minggu ke-26 Premier League [LIVE](#match){:.btn .btn--danger} mulai pukul 00:30 WIB dini hari Minggu, 16 Februari 2020.
+Laga lawatan ke Carrow Road, kandang Norwich City dalam pertandingan minggu ke-26 Premier League mulai pukul 00:30 WIB dini hari Minggu, 16 Februari 2020. Skor akhir: 0-1
 {:.notice .notice--info}
 
 ## Analisa pra-pertandingan
