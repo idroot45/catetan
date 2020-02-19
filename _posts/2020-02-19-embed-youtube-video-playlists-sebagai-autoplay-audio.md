@@ -31,7 +31,7 @@ Video playlists di atas begini kode penyematannya:
 Hasilnya kurang lebih begini:
 
 ```html
-<iframe width="0" height="0" src="https://www.youtube-nocookie.com/embed/videoseries?list=OLAK5uy_mkDrK1whc58PtOy9urIaKd8kI411vOxhI"
+<iframe width="1440" height="762" src="https://www.youtube-nocookie.com/embed/videoseries?list=OLAK5uy_mkDrK1whc58PtOy9urIaKd8kI411vOxhI"
 frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 ```
 
@@ -39,16 +39,14 @@ Cuman karena mengikuti arahan dari laman [Youtube Help](https://support.google.c
 
 Tinggal mencari cara agar videonya _nggak_ kelihatan. Eh, gak usah mencari ding 😁 
 
+Model penyematan yang begini (di sembunyikan) jadi ingat ketika jaman-jaman dulu mempersiapkan laman plain html untuk di injek ke situs hasil retasan sebagai laman pengganti. Jaman-jaman ketika sudah bisa melakukan deface sebuah situs itu, berasa jadi hacker beneran. Padahal script dan metode injeksi boleh nyolong alias sxript kiddies ✌️
+
 Untuk menghilangkan tampilan video-nya rasanya bisa dengan (cara jadul nan primitif) memberi nilai `width` dan `height` tag `iframe` dengan "0" (nol) sehingga iframe menjadi tak terlihat karena tak punya dimensi. Tapi pemuatan video masih berjalan 🤣 tapi tak terlihat. Cuma audionya saja yang bisa didengarkan.
 
-Kalau masih belum mau hilang juga, paksa saja dengan menambahkan `style=visibility:hidden;!important`. Oh, iya, mencoba menambahkan `autoplay=1` agar playlist dimainkan otomatis. Kok gitu? Lah kan sudah di sembunyikan? Piye carane muter lagune nek ora ketok tombol **play** ne?
+Kalau masih belum mau hilang juga, paksa saja dengan menambahkan `style=visibility:hidden;important!`. Kelemahannya, kuota data yang terpakai, sama dengan ketika memutar playlist video meskipun cuma mendengarkan audionya saja. Sebab cuman diumpetin.
 
-Kelemahannya, kuota data yang terpakai, sama dengan ketika memutar playlists video meskipun cuma mendengarkan audionya saja.
+Oh, iya, mencoba menambahkan `autoplay=1` agar playlist dimainkan otomatis, karena player sudah di sembunyikan. Piye carane muter lagune nek ora ketok tombol **play** ne? Ya harus di autoplay. Dan ternyata malah gak karuan hasilnya. Jadi baru ngeh kalau `autoplay=1` itu cuman buat single video.
 
-Model penyematan yang begini (di sembunyikan) jadi ingat ketika jaman-jaman dulu mempersiapkan laman plain html untuk di injek ke situs hasil retasan sebagai laman pengganti. Iyap, jaman-jaman ketika sudah bisa melakukan deface sebuah situs itu berasa jadi hacker beneran. Padahal script dan metode injeksi boleh nyolong alias sxript kiddies ✌️
+Hasil dari playlist audio autoplay gagal boleh coba di [halaman ini](/audio/sheila-on-7-musim-yang-baik/)
 
-Dan ternyata malah gak karuan hasile. Jadi `autoplay=1` itu cuman buat single video.
-
-Hasilnya playlist autoplay gagal boleh coba di [halaman ini](/audio/sheila-on-7-musim-yang-baik/)
-
-_Di akkhir tulisan, bingung mau menempatkan di kategori audio atau [video](/kategori/#video). Karena hasil akhirnya audio, meskipun videonya masih ada walaupun tak terlihat ya ditempatkan di kategori postingan audio saja._
+_Di akkhir tulisan, bingung mau menempatkan di kategori audio atau [video](/kategori/#video). Karena hasil akhirnya audio, meskipun videonya masih ada walaupun tak terlihat ya ditempatkan di kategori postingan eksperimen saja. Eksperimen (iseng) yang gagal_
