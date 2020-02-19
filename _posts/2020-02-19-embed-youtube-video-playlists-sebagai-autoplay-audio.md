@@ -22,17 +22,28 @@ Mau tak mau harus memakai model.penyematan dengan tag `iframe` kembali.
 
 Setelah mencari-cari referensi, dan saya rasa cukup untuk dipraktekkan, begini jadinya:
 
-<div class="video-responsive-container"><iframe width="1024" height="320" src="https://www.youtube-nocookie.com/embed/videoseries?list=OLAK5uy_mkDrK1whc58PtOy9urIaKd8kI411vOxhI"
+<div class="video-responsive-container"><iframe width="1440" height="762" src="https://www.youtube-nocookie.com/embed/videoseries?list=OLAK5uy_mkDrK1whc58PtOy9urIaKd8kI411vOxhI"
 frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
 
+Video playlists di atas begini kode penyematannya:
+
+Hasilnya kurang lebih begini:
+
+```html
 <iframe width="0" height="0" src="https://www.youtube-nocookie.com/embed/videoseries?list=OLAK5uy_mkDrK1whc58PtOy9urIaKd8kI411vOxhI"
 frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+```
 
 Cuman karena mengikuti arahan dari laman [Youtube Help](https://support.google.com/youtube/answer/171780?hl=id) jadinya malah playlists video. 😌
 
-Tinggal mencari cara agar videonya _nggak_ kelihatan.
+Tinggal mencari cara agar videonya _nggak_ kelihatan. Eh, gak usah mencari ding 😁 
 
-Untuk menghilangkan tampilan video-nya rasanya bisa dengan (cara primitif) memberi nilai `width` dan `height` tag `iframe` dengan "0" (nol) sehingga iframe menjadi tak terlihat karena tak punya dimensi. Tapi pemuatan video masih berjalan 🤣 tapi tak terlihat. Cuma audionya saja yang bisa didengarkan.
+Untuk menghilangkan tampilan video-nya rasanya bisa dengan (cara jadul nan primitif) memberi nilai `width` dan `height` tag `iframe` dengan "0" (nol) sehingga iframe menjadi tak terlihat karena tak punya dimensi. Tapi pemuatan video masih berjalan 🤣 tapi tak terlihat. Cuma audionya saja yang bisa didengarkan.
+
+Kalau masih belum mau hilang juga, paksa saja dengan menambahkan `style=`visibility:hidden;!important`. Oh, iya, tambahkan `autoplay=1` agar playlist dimainkan otomatis. Kok gitu? Lah kan sudah di sembunyikan? Piye carane muter lagune nek ora ketok tombol **play** ne?
+
+<iframe width="0" height="0" src="https://www.youtube-nocookie.com/embed/videoseries?list=OLAK5uy_mkDrK1whc58PtOy9urIaKd8kI411vOxhI&autoplay=1"
+frameborder="0" allow="autoplay; encrypted-media"></iframe>
 
 Kelemahannya, kuota data yang terpakai, sama dengan ketika memutar playlists video meskipun cuma mendengarkan audionya saja.
 
