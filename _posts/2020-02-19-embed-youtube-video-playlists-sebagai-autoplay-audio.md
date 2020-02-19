@@ -4,8 +4,8 @@ excerpt: "Model penyematan yang begini jadi ingat ketika jaman-jaman dulu memper
 header:
  overlay_image: "https://1.bp.blogspot.com/-oPNwVDIM9Tg/XA5fMB9eFdI/AAAAAAAAHnw/EU8UU2-1dvQtmKY6tuujV82uEEJKcsy-QCLcBGAs/w191-h123-p-k-no-nu/Cara%2BTerbaru%2BMemasang%2BVideo%2BYoutube%2BResponsive%2Bdi%2BBlog.png"
  caption: "Embed Youtube Playlists"
-categories: [youtube]
-tags: [audio, video, multimedia, ah embuh lah]
+categories: [audio]
+tags: [multimedia, audio, video, youtube, ah embuh lah]
 ---
 Ceritanya saya dapet playlists lagu-lagu band kesayangan semasa esempe dulu di Youtube. Dan kepingin menyematkannya sebagai sebuah playlists audio saja tanpa menampilkan video (ini YouTube ya? bukan situs penedia audio) klipnya. 
 
@@ -47,3 +47,5 @@ Hasilnya boleh coba di [halaman ini](/sheila-on-7/musim-yang-baik/)
 Kelemahannya, kuota data yang terpakai, sama dengan ketika memutar playlists video meskipun cuma mendengarkan audionya saja.
 
 Model penyematan yang begini jadi ingat ketika jaman-jaman dulu mempersiapkan laman plain html untuk di injek ke situs hasil retasan sebagai laman pengganti. Iyap, jaman-jaman ketika sudah bisa melakukan deface sebuah situs itu berasa jadi hacker beneran. Padahal script dan metode injeksi boleh nyolong alias sxript kiddies ✌️
+
+_Di akkhir tulisan, bingung mau menempatkan di kategori audio atau [video](/kategori/#video). Karena hasil akhirnya audio, meskipun videonya masih ada walaupun tak terlihat ya ditempatkan di kategori postingan audio saja._
