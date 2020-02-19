@@ -42,8 +42,7 @@ Untuk menghilangkan tampilan video-nya rasanya bisa dengan (cara jadul nan primi
 
 Kalau masih belum mau hilang juga, paksa saja dengan menambahkan `style=`visibility:hidden;!important`. Oh, iya, tambahkan `autoplay=1` agar playlist dimainkan otomatis. Kok gitu? Lah kan sudah di sembunyikan? Piye carane muter lagune nek ora ketok tombol **play** ne?
 
-<iframe width="0" height="0" src="https://www.youtube-nocookie.com/embed/videoseries?list=OLAK5uy_mkDrK1whc58PtOy9urIaKd8kI411vOxhI&autoplay=1"
-frameborder="0" allow="autoplay; encrypted-media"></iframe>
+Hasilnya boleh coba di [halaman ini](/sheila-on-7/musim-yang-baik/)
 
 Kelemahannya, kuota data yang terpakai, sama dengan ketika memutar playlists video meskipun cuma mendengarkan audionya saja.
 
