@@ -41,9 +41,9 @@ Tinggal mencari cara agar videonya _nggak_ kelihatan. Eh, gak usah mencari ding 
 
 Untuk menghilangkan tampilan video-nya rasanya bisa dengan (cara jadul nan primitif) memberi nilai `width` dan `height` tag `iframe` dengan "0" (nol) sehingga iframe menjadi tak terlihat karena tak punya dimensi. Tapi pemuatan video masih berjalan 🤣 tapi tak terlihat. Cuma audionya saja yang bisa didengarkan.
 
-Kalau masih belum mau hilang juga, paksa saja dengan menambahkan `style=`visibility:hidden;!important`. Oh, iya, tambahkan `autoplay=1` agar playlist dimainkan otomatis. Kok gitu? Lah kan sudah di sembunyikan? Piye carane muter lagune nek ora ketok tombol **play** ne?
+Kalau masih belum mau hilang juga, paksa saja dengan menambahkan `style=visibility:hidden;!important`. Oh, iya, tambahkan `autoplay=1` agar playlist dimainkan otomatis. Kok gitu? Lah kan sudah di sembunyikan? Piye carane muter lagune nek ora ketok tombol **play** ne?
 
-Hasilnya boleh coba di [halaman ini](/sheila-on-7/musim-yang-baik/)
+Hasilnya boleh coba di [halaman ini](/audio/sheila-on-7-musim-yang-baik/)
 
 Kelemahannya, kuota data yang terpakai, sama dengan ketika memutar playlists video meskipun cuma mendengarkan audionya saja.
 
