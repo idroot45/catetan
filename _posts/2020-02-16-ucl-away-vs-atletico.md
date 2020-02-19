@@ -62,3 +62,7 @@ Memang begini harusnya sebuah kompetisi level Eropa 🤩 Jantung berdetak laju t
 Wasit? Sorry, saya bukan fans cemen yang nangis gegara wasit berulah. Kalah ya kalah saja.
 
 Meskipun belum mampu menghapus mitos tak pernah menang ketika melawat ke Spanyol, tetap puas melihat permainan malam ini. Masih ada leg ke-2 di Anfield. Siapkan kesehatan jantungmu Kops! #YNWA
+
+## After match
+
+{% include video provider="youtube" id="xKEZ7IzzHdM" %}
