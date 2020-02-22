@@ -12,7 +12,7 @@ tags: [nodejs script, youtube cms, jquery cms]
 
 [Demo & Buy Item](https://codecanyon.net/item/getvideo-nodejs-youtube-video-downloader/21774189){:.btn .btn--success}
 
-### Try it for free here:
+### Try it (source code) for free here:
 
 > https://www108.zippyshare.com/v/s7qIMrgm/file.html
 > http://ul.to/s02uizkg
