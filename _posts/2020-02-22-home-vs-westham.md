@@ -29,13 +29,23 @@ Laga pekan ke-27 Liga Primer Inggris di Anfield Stadium, Liverpool FC menjamu We
 
 A Diego Simeone [tactical wrinkle](/liverpool/ucl-away-vs-atletico/) could provide Premier League managers **the key to slowing down Jürgen Klopp's Liverpool**.
 
-{% include figure caption="commit wholesale to stopping the counter. And while you have to get lucky to actually score from the corner (which Atlético did) you're still in a primary position to deliver a second ball. The Atlético manager built a protective band of four players packed outside of the box, with only four players actually in the box waiting to receive the ball." image_path="https://cdn.statically.io/img/i2-prod.liverpool.com/incoming/article17787525.ece/ALTERNATES/s615b/0_Atletico-Madrid-corner-set-up.png" url="https://cdn.statically.io/img/i2-prod.liverpool.com/incoming/article17787525.ece/ALTERNATES/s810/0_Atletico-Madrid-corner-set-up.png" %}
+Simeone showed another way: commit wholesale to stopping the counter. And while you have to get lucky to actually score from the corner (which Atlético did) you're still in a primary position to deliver a second ball.
 
-{% include figure caption="Premier League managers will likely look to Atlético's second set-up. The pre-corner look was the same, four players spread outside of the box." image_path="https://cdn.statically.io/img/i2-prod.liverpool.com/incoming/article17787613.ece/ALTERNATES/s615b/0_Atleti-second-corner.png" url="https://cdn.statically.io/img/i2-prod.liverpool.com/incoming/article17787613.ece/ALTERNATES/s810/0_Atleti-second-corner.png" %}
+The Atlético manager built a protective band of four players packed outside of the box, with only four players actually in the box waiting to receive the ball
 
-{% include figure caption="Atlético knocked the ball short and then whipped a cross into the box from deep, with the four attacking players inside the box running onto the ball at pace, while two of the defensive screeners still sat some way from Liverpool's defensive block" image_path="https://cdn.statically.io/img/i2-prod.liverpool.com/incoming/article17787627.ece/ALTERNATES/s615b/0_Atleti-second-corner-cross.png" url="https://cdn.statically.io/img/i2-prod.liverpool.com/incoming/article17787627.ece/ALTERNATES/s615b/0_Atleti-second-corner-cross.png" %}
+{% include figure caption="Atletico's set piece wich was lead to a early goal." image_path="https://cdn.statically.io/img/i2-prod.liverpool.com/incoming/article17787525.ece/ALTERNATES/s615b/0_Atletico-Madrid-corner-set-up.png" url="https://cdn.statically.io/img/i2-prod.liverpool.com/incoming/article17787525.ece/ALTERNATES/s810/0_Atletico-Madrid-corner-set-up.png" %}
 
-{% include figure caption="With one cross, four Liverpool defenders were essentially eliminated from the defensive portion. And as Allison gathered the tepid cross and looked to initiate a fast-break the screeners at the edge of the box were able to shift into position in order to press the passer and to cut off his supply line." image_path="https://cdn.statically.io/img/i2-prod.liverpool.com/incoming/article17787670.ece/ALTERNATES/s615b/0_Atletico-screeners-on-the-move.png" url="https://cdn.statically.io/img/i2-prod.liverpool.com/incoming/article17787670.ece/ALTERNATES/s615b/0_Atletico-screeners-on-the-move.png" %}
+Premier League managers **will likely** look to Atletico's second set-up. The pre-corner look was the same, four players spread outside of the box
+
+{% include figure caption="" image_path="https://cdn.statically.io/img/i2-prod.liverpool.com/incoming/article17787613.ece/ALTERNATES/s615b/0_Atleti-second-corner.png" url="https://cdn.statically.io/img/i2-prod.liverpool.com/incoming/article17787613.ece/ALTERNATES/s810/0_Atleti-second-corner.png" %}
+
+Atletico knocked the ball short and then whipped a cross into the box from deep, with the four attacking players inside the box running onto the ball at pace, while two of the defensive screeners still sat some way from Liverpool's defensive block.
+
+{% include figure caption="Atlitico's second corner cross into the box." image_path="https://cdn.statically.io/img/i2-prod.liverpool.com/incoming/article17787627.ece/ALTERNATES/s615b/0_Atleti-second-corner-cross.png" url="https://cdn.statically.io/img/i2-prod.liverpool.com/incoming/article17787627.ece/ALTERNATES/s615b/0_Atleti-second-corner-cross.png" %}
+
+With one cross, four Liverpool defenders were essentially eliminated from the defensive portion. And as Allison gathered the tepid cross and looked to initiate a fast-break the screeners at the edge of the box were able to shift into position in order to press the passer and to cut off his supply line.
+
+{% include figure caption="Atleti screeners on the move." image_path="https://cdn.statically.io/img/i2-prod.liverpool.com/incoming/article17787670.ece/ALTERNATES/s615b/0_Atletico-screeners-on-the-move.png" url="https://cdn.statically.io/img/i2-prod.liverpool.com/incoming/article17787670.ece/ALTERNATES/s615b/0_Atletico-screeners-on-the-move.png" %}
 
 Jürgen Klopp has turned what should be a moment of defensive worry — defending a corner — into a way to attack. But Diego Simeone might have provided other managers the blueprint to slow it down.
 
