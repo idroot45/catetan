@@ -12,7 +12,7 @@ Quickad Ads Php Classified Script is Premium Classified Php Script with fully re
 
 [Demo & Buy](https://codecanyon.net/item/quickad-classified-ads-php-script/19960675){:.btn .btn--success}
 
-## Try it free here:
+### Try it (source code) free here:
 
 > https://www30.zippyshare.com/v/kCMWdbud/file.html
 > http://ul.to/6awwpkqh
