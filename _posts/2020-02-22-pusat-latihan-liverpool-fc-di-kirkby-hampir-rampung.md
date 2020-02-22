@@ -7,7 +7,7 @@ header:
  video:
   id: "646841779383969"
   provider: "facebook"
-  user: "113211368849513"
+user: "113211368849513"
 ---
 The pitches at Liverpool's new world-class training facilities are taking shape.
 {:.notice}
