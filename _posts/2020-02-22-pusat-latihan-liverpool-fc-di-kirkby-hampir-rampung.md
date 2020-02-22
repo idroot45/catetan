@@ -3,11 +3,6 @@ title: "[VIDEO] Hampir Rampung, Progress Pembangunan Training Ground di Kirkby"
 excerpt: "Video and photos: Pitches at Liverpool's new training ground take shape"
 categories: [liverpool]
 tags: [kirkby training ground, liverpool facility]
-header:
- video:
-  id: "646841779383969"
-  provider: "facebook"
-user: "113211368849513"
 ---
 The pitches at Liverpool's new world-class training facilities are taking shape.
 {:.notice}
@@ -17,6 +12,8 @@ The new 9,200m² building in Kirkby will boast three pitches measuring approxima
 The playing surfaces have been made to mirror Anfield’s turf as closely as possible, complete with under-soil heating and floodlighting.
 
 Each pitch is reinforced using Desso Grassmaster artificial fibres. The stitching process has taken 12 weeks using five machines to install more than 192,000km of fibre that has been stitched into layers of sand beneath each pitch.
+
+{% include video id="646841779383969" provider="facebook" user="113211368849513" %}
 
 Approximately 2.5 tonnes of grass seed will be sewn in spring ahead of the opening of the facility later this year. Each pitch will be composed of 97 per cent natural grass and three per cent artificial grass fibres.
 
