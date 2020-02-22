@@ -53,7 +53,7 @@ Jürgen Klopp has turned what should be a moment of defensive worry — defendin
 
 Losing the captain is a blow, but it should help offer Jürgen Klopp some midfield clarity.
 
-{% include figure image_path="https://cdn.statically.io/img/i2-prod.liverpool.com/incoming/article17791625.ece/ALTERNATES/s615b/0_GettyImages-1201884415.jpg" url="https://statically.io/img/i2-prod.liverpool.com/incoming/article17791625.ece/ALTERNATES/s810/0_GettyImages-1201884415.jpg" caption="Henderson is expected to miss up to a month with a hamstring injury." %}
+{% include figure image_path="https://cdn.statically.io/img/i2-prod.liverpool.com/incoming/article17791625.ece/ALTERNATES/s615b/0_GettyImages-1201884415.jpg" url="https://cdn.statically.io/img/i2-prod.liverpool.com/incoming/article17791625.ece/ALTERNATES/s810/0_GettyImages-1201884415.jpg" caption="Henderson is expected to miss up to a month with a hamstring injury." %}
 
 Jordan Henderson's injury solves a problem for Jürgen Klopp, but gives three different choices now. 
 
