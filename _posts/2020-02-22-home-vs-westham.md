@@ -41,11 +41,11 @@ Premier League managers **will likely** look to Atletico's second set-up. The pr
 
 Atletico knocked the ball short and then whipped a cross into the box from deep, with the four attacking players inside the box running onto the ball at pace, while two of the defensive screeners still sat some way from Liverpool's defensive block.
 
-{% include figure caption="Atlitico's second corner cross into the box." image_path="https://cdn.statically.io/img/i2-prod.liverpool.com/incoming/article17787627.ece/ALTERNATES/s615b/0_Atleti-second-corner-cross.png" url="https://cdn.statically.io/img/i2-prod.liverpool.com/incoming/article17787627.ece/ALTERNATES/s615b/0_Atleti-second-corner-cross.png" %}
+{% include figure caption="Atlitico's second corner cross into the box." image_path="https://cdn.statically.io/img/i2-prod.liverpool.com/incoming/article17787627.ece/ALTERNATES/s615b/0_Atleti-second-corner-cross.png" url="https://cdn.statically.io/img/i2-prod.liverpool.com/incoming/article17787627.ece/ALTERNATES/s810/0_Atleti-second-corner-cross.png" %}
 
 With one cross, four Liverpool defenders were essentially eliminated from the defensive portion. And as Allison gathered the tepid cross and looked to initiate a fast-break the screeners at the edge of the box were able to shift into position in order to press the passer and to cut off his supply line.
 
-{% include figure caption="Atleti screeners on the move." image_path="https://cdn.statically.io/img/i2-prod.liverpool.com/incoming/article17787670.ece/ALTERNATES/s615b/0_Atletico-screeners-on-the-move.png" url="https://cdn.statically.io/img/i2-prod.liverpool.com/incoming/article17787670.ece/ALTERNATES/s615b/0_Atletico-screeners-on-the-move.png" %}
+{% include figure caption="Atleti screeners on the move." image_path="https://cdn.statically.io/img/i2-prod.liverpool.com/incoming/article17787670.ece/ALTERNATES/s615b/0_Atletico-screeners-on-the-move.png" url="https://cdn.statically.io/img/i2-prod.liverpool.com/incoming/article17787670.ece/ALTERNATES/s810/0_Atletico-screeners-on-the-move.png" %}
 
 Jürgen Klopp has turned what should be a moment of defensive worry — defending a corner — into a way to attack. But Diego Simeone might have provided other managers the blueprint to slow it down.
 
@@ -53,7 +53,7 @@ Jürgen Klopp has turned what should be a moment of defensive worry — defendin
 
 Losing the captain is a blow, but it should help offer Jürgen Klopp some midfield clarity.
 
-{% include figure image_path="https://cdn.statically.io/img/i2-prod.liverpool.com/incoming/article17791625.ece/ALTERNATES/s810/0_GettyImages-1201884415.jpg?w=480" url="https://statically.io/img/i2-prod.liverpool.com/incoming/article17791625.ece/ALTERNATES/s810/0_GettyImages-1201884415.jpg" caption="Henderson is expected to miss up to a month with a hamstring injury."
+{% include figure image_path="https://cdn.statically.io/img/i2-prod.liverpool.com/incoming/article17791625.ece/ALTERNATES/s615b/0_GettyImages-1201884415.jpg" url="https://statically.io/img/i2-prod.liverpool.com/incoming/article17791625.ece/ALTERNATES/s810/0_GettyImages-1201884415.jpg" caption="Henderson is expected to miss up to a month with a hamstring injury." %}
 
 Jordan Henderson's injury solves a problem for Jürgen Klopp, but gives three different choices now. 
 
