@@ -3,7 +3,7 @@ title: "EPL Game Week Ke-26: Liverpool FC vs West Ham United"
 excerpt: "Livestream EPL GW 27 Liverpool FC vs West Ham United. Senin, 25 Februari 2020 Pukul 03.00 WIB (UTC+7)."
 header:
  image: "https://cdn.staticalyly.io/img/i2-prod.liverpool.com/incoming/article17788820.ece/ALTERNATES/s810/0_GettyImages-1207274193.jpg"
- caption: "The Liverpool manager's belief system is in keeping with the city's, and [his letter](https://cdn.statically.io/img/ichef.bbci.co.uk/news/695/cpsprodpb/17D0C/production/_110984579_kloppletter2-nc.png) to a young Manchester United fan this week only served to reinforce that"
+ caption: "The Liverpool manager's belief system is in keeping with the city's, and [his letter](https://cdn.statically.io/img/ichef.bbci.co.uk/news/695/cpsprodpb/17D0C/production/_110984579_kloppletter2-nc.png) to repyy a young Manchester United fan [letter](https://cdn.statically.io/img/www.foxsportsasia.com/tachyon/2020/02/03-15.jpg) this week only served to reinforce that"
  alt: "jurgen klopp wallpaper"
 categories: [liverpool]
 tags: [liverpool fc, west ham united, liga inggris]
