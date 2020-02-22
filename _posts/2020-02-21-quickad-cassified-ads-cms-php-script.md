@@ -10,7 +10,7 @@ tags: [php script, angulas js]
 
 Quickad Ads Php Classified Script is Premium Classified Php Script with fully responsive Material & Classic design. Built to be beautiful, fast and powerful. One-click setup User can easily set up this theme and easy to use and customized. We used the best angular js admin dashboard templates for amazing user interfaces.
 
-[Demo & Buy](https://codecanyon.net/item/quickad-classified-ads-php-script/19960675){:.btn .btn--green}
+[Demo & Buy](https://codecanyon.net/item/quickad-classified-ads-php-script/19960675){:.btn .btn--success}
 
 ## Try it free here:
 
