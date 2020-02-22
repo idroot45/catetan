@@ -3,6 +3,7 @@ title: "Quickad Classified v8.6 - Classified Ads CMS PHP Script"
 excerpt: "Download Quickad Classified v8.6 (codecanyon script) for free"
 header:
  image: "https://cdn.statically.io/img/www.codelist.cc/uploads/posts/2020-02/1581348672_quickad.jpg"
+ teaser: "https://cdn.statically.io/img/www.codelist.cc/uploads/posts/2020-02/1581348672_quickad.jpg?w=480px"
  caption: "Quickad Ads Php"
 categories: [cms]
 tags: [php script, angulas js]
