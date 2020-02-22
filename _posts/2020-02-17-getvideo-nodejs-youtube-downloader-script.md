@@ -3,6 +3,7 @@ title: "GetVideo v1.0 - NodeJS Youtube Video Downloader"
 excerpt: "Download Get Video v1.0 (codecanyon script) NodeJS Youtube Dowloader CMS free"
 header:
  image: "https://cdn.statically.io/img/www.codelist.cc/uploads/posts/2020-01/1579432913_getvideo.png"
+ teaser: "https://cdn.statically.io/img/www.codelist.cc/uploads/posts/2020-01/1579432913_getvideo.png?w=480"
  caption: "GetVideo v1.0"
 categories: [cms]
 tags: [nodejs script, youtube cms, jquery cms]
