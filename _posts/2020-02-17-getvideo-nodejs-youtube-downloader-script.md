@@ -10,7 +10,7 @@ tags: [nodejs script, youtube cms, jquery cms]
 
 *GetVideo* was created with the latest technologies such as NodeJs, Bootstrap 4, Jquery and others. You can download 1080p ( Video only ), 720p, 360p, 240p videos and Audio. Support MP4, WEBM, M4A and other file formats. The design is fully responsive based on *bootstrap 4*.
 
-[Demo & Buy Item](https://codecanyon.net/item/getvideo-nodejs-youtube-video-downloader/21774189)
+[Demo & Buy Item](https://codecanyon.net/item/getvideo-nodejs-youtube-video-downloader/21774189){:.btn .btn--success}
 
 ### Try it for free here:
 
