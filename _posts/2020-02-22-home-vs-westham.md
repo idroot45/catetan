@@ -25,6 +25,25 @@ Laga pekan ke-27 Liga Primer Inggris di Anfield Stadium, Liverpool FC menjamu We
 
 ## Pre Match
 
+**Last Match Note**
+
+A Diego Simeone tactical wrinkle could provide Premier League managers **the key to slowing down Jürgen Klopp's Liverpool**.
+
+{% include figure image_path="https://i2-prod.liverpool.com/incoming/article17787525.ece/ALTERNATES/s615b/0_Atletico-Madrid-corner-set-up.png" url="https://i2-prod.liverpool.com/incoming/article17787525.ece/ALTERNATES/s810/0_Atletico-Madrid-corner-set-up.png" %}
+{% include figure image_path="https://i2-prod.liverpool.com/incoming/article17787613.ece/ALTERNATES/s615b/0_Atleti-second-corner.png" url="https://i2-prod.liverpool.com/incoming/article17787613.ece/ALTERNATES/s810/0_Atleti-second-corner.png" %}
+{% include figure image_path="https://i2-prod.liverpool.com/incoming/article17787627.ece/ALTERNATES/s615b/0_Atleti-second-corner-cross.png" url="https://i2-prod.liverpool.com/incoming/article17787627.ece/ALTERNATES/s615b/0_Atleti-second-corner-cross.png" %}
+{% include figure image_path="https://i2-prod.liverpool.com/incoming/article17787670.ece/ALTERNATES/s615b/0_Atletico-screeners-on-the-move.png" url="https://i2-prod.liverpool.com/incoming/article17787670.ece/ALTERNATES/s615b/0_Atletico-screeners-on-the-move.png" %}
+
+Jürgen Klopp has turned what should be a moment of defensive worry — defending a corner — into a way to attack. But Diego Simeone might have provided other managers the blueprint to slow it down.
+
+**Game Ahead: West Ham**
+
+Losing the captain is a blow, but it should help offer Jürgen Klopp some midfield clarity.
+
+{% include figure image_path="https://cdn.statically.io/img/i2-prod.liverpool.com/incoming/article17791625.ece/ALTERNATES/s810/0_GettyImages-1201884415.jpg?w=480" url="https://statically.io/img/i2-prod.liverpool.com/incoming/article17791625.ece/ALTERNATES/s810/0_GettyImages-1201884415.jpg" caption="Henderson is expected to miss up to a month with a hamstring injury."
+
+Jordan Henderson's injury solves a problem for Jürgen Klopp, but gives three different choices now. 
+
 To be updated
 {:.notice}
 
@@ -38,7 +57,7 @@ To be updated
 To be updated
 {:.notice}
 
-## After Match
+## Post Match
 
 To be updated
 {:.notice}
