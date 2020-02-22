@@ -37,7 +37,7 @@ The Atlético manager built a protective band of four players packed outside of 
 
 Premier League managers **will likely** look to Atletico's second set-up. The pre-corner look was the same, four players spread outside of the box
 
-{% include figure caption="" image_path="https://cdn.statically.io/img/i2-prod.liverpool.com/incoming/article17787613.ece/ALTERNATES/s615b/0_Atleti-second-corner.png" url="https://cdn.statically.io/img/i2-prod.liverpool.com/incoming/article17787613.ece/ALTERNATES/s810/0_Atleti-second-corner.png" %}
+{% include figure caption="Atleti had the same set up for their second corner." image_path="https://cdn.statically.io/img/i2-prod.liverpool.com/incoming/article17787613.ece/ALTERNATES/s615b/0_Atleti-second-corner.png" url="https://cdn.statically.io/img/i2-prod.liverpool.com/incoming/article17787613.ece/ALTERNATES/s810/0_Atleti-second-corner.png" %}
 
 Atletico knocked the ball short and then whipped a cross into the box from deep, with the four attacking players inside the box running onto the ball at pace, while two of the defensive screeners still sat some way from Liverpool's defensive block.
 
