@@ -47,20 +47,25 @@ Losing the captain is a blow, but it should help offer Jürgen Klopp some midfie
 
 Jordan Henderson's injury solves a problem for Jürgen Klopp, but gives three different choices now. 
 
-To be updated
+To be updated more..
 {:.notice}
 
 ## Line Up
 
-To be updated
+To be updated.
 {:.notice}
 
 ## Match
 
-To be updated
-{:.notice}
+Live streaming di halaman ini tersedia minimal 5 menit (bisa lebih cepat sih) sebelum laga dimulai dan akan diganti video higlights setelah laga berakhir.
+{:.notice .notice--info #live}
+
+<!--
+{% include video provider="internal" id="lfctv5" %}
+-->
+
 
 ## Post Match
 
-To be updated
+To be updated later
 {:.notice}
