@@ -4,6 +4,7 @@ excerpt: "Download Premium URL Shortener v5.6.5 PHP script for free"
 header:
  image: "https://cdn.statically.io/img/www.codelist.cc/uploads/posts/2018-10/1540746693_premium-url-shortener.jpg"
  caption: "Premium URL Shortener v5.6.5"
+ teaser: "https://cdn.statically.io/img/www.codelist.cc/uploads/posts/2018-10/1540746693_premium-url-shortener.jpg?w480"
 categories: [cms]
 tags: [url shortener, private link, php script]
 ---
