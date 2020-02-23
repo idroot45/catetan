@@ -2,7 +2,7 @@
 permalink: "/lfctv6"
 layout: "stream"
 match:
- home Wolverhampton
+ home: Wolverhampton
  away: Norwich City
  hashtag: WOLNOR
  ko: "21.00 (UTC+7) Minggu, 23 Februari 2020"
