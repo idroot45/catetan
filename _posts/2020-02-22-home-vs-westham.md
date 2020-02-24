@@ -10,11 +10,6 @@ tags: [liverpool fc, west ham united, liga inggris]
 last_modified_at: 2020-02-24 20:35:00
 ---
 
-Laga pekan ke-27 Liga Primer Inggris di Anfield Stadium, Liverpool FC menjamu West Ham United di mulai pukul 03:00 WIB (UTC+7) dini hari Selasa, 25 Februari 2020.
-{:.notice .notice--info}
-
-## Pre Match
-
 |PREMIER LEAGUE|GW 27|
 |---|---|
 |Laga|[LIVERPOOL vs WEST HAM](/liverpool/home-vs-westham/)|
@@ -25,6 +20,11 @@ Laga pekan ke-27 Liga Primer Inggris di Anfield Stadium, Liverpool FC menjamu We
 |Live [HD] Alternatif|[MATCH](#match)
 |WASIT|JONATHAN MOSS|
 {:.align-center}
+
+## Pre Match
+
+Laga pekan ke-27 Liga Primer Inggris di Anfield Stadium, Liverpool FC menjamu West Ham United di mulai pukul 03:00 WIB (UTC+7) dini hari Selasa, 25 Februari 2020. [LIVE](#match)
+{:.notice .notice--info}
 
 ### Kit (jersey) rumour
 
