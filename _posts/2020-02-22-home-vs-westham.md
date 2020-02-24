@@ -101,15 +101,16 @@ If Minamino does start, Liverpool could line up like this:
 
 {% include figure image_path="https://cdn.statically.io/img/www.thisisanfield.com/wp-content/uploads/Lineup2WestHam.jpg" caption="Alternative: Alisson; Trent, Gomez, Van Dijk, Robertson; Fabinho, Wijnaldum; Minamino, Firmino, Mane; Salah" %}
 
-this to be confirmed later
-{:.notice}
+### Confirmed
+
+Liverpool: Alisson; Alexander-Arnold, Gomez, Van Dijk, Robertson; Fabinho, Keita, Wijnaldum; Salah, Mane, Firmino
+
+Substitutes: Adrian, Lovren, Oxlade-Chamberlain, Minamino, Lallana, Origi, Matip.
 
 ## Match
 
 Live streaming di halaman ini tersedia minimal 5 menit (bisa lebih cepat sih) sebelum laga dimulai dan akan diganti video higlights setelah laga berakhir.
 {:.notice .notice--info #live}
-
-{% include video provider="internal" id="lfctv5" %}
 
 
 ## Post Match
