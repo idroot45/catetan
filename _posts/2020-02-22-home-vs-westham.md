@@ -83,6 +83,8 @@ The form of Gomez—another standout in Madrid—in particular has come to the d
 
 In midfield, Fabinho is near-guaranteed to start as the No. 6, while Gini Wijnaldum should keep his place in the three-man unit, too.
 
+{% include video provider="youtube" id="Fuu463UXtGQ" %}
+
 ## Starting XI Prediction
 
 With Henderson dropping out, Keita provides the most interesting option to step into the advanced role, fending off competition from Oxlade-Chamberlain, Milner and Lallana, against a meek West Ham side.
