@@ -51,7 +51,9 @@ Alternatively, it could be a toss-up between Oxlade-Chamberlain or Keita for the
 
 ## Match
 
-UCL Round of 16 1st leg of 2: Atletico de Madrid vs Liverpool FC
+UCL Round of 16 1st leg of 2: Atletico de Madrid vs Liverpool FC.
+
+{% include video provider="youtube" id="2neoTa3X5KM" %}
 
 Hasil akhir ATM (1-0) LIV lewat gol cepat Saul di menit 4 babak pertama lewat skema tendangan pojok. Bola liar memantul dari kaki Fabinho ke kiri gawang Allison dan disambar oleh Saul.
 
@@ -66,3 +68,9 @@ Meskipun belum mampu menghapus mitos tak pernah menang ketika melawat ke Spanyol
 ## After match
 
 {% include video provider="youtube" id="xKEZ7IzzHdM" %}
+
+Kandang dan Tandang, para pendukung the Reds selalu penuh passion, kali ini di Madrid 👏🔴
+
+Walaupun bukan hasil yang ideal, lihat footage berbeda pada kunjungan kita ke Estadio Metropolitano 📹
+
+{% include video provider="facebook" user="113211368849513" id="1291336591036979" %}
