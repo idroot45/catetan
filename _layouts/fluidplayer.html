@@ -32,11 +32,12 @@
 {% include tengah.html %}
 </p>
 <script>
-    fluidPlayer(
+fluidPlayer(
    'fluid',
     {
         layoutControls: {
             fillToContainer: true,
+            primaryColor: "#e40501"
             title: '{% if page.match.home && page.match.away %}{{ page.match.home }} vs {{ page.match.away }}{% elseif %}LIVE STREAM{% endif %}',
             logo: {
                 imageUrl: '{{ page.video.logo }}',
@@ -45,8 +46,8 @@
                 opacity:  1
             },
         }
-    }
-/*    {
+    },
+    {
         vastOptions: {
             allowVPAID: true,
             adList: [
@@ -61,7 +62,7 @@
                 }
             ]
         }
-*/
+     }
 );
 </script>
 
