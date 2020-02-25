@@ -24,8 +24,12 @@ Jadwal bal-balan 16 besar leg pertama:
 |---|---|---|:---:|---|---|
 |1|Atletico Madrid|Liverpool FC|FT: 0-1|03.00 WIB (UTC+7)|Rabu, 19/02/2020|
 |2|Borussia Dortmund|Paris Saint Germain|FT: 2-1|03.00 WIB (UTC+7)|Rabu, 19/02/2020|
-|3|Atalanta BC|Valencia CF|CH1 - CH2|03.00 WIB (UTC+7)|Kamis, 20/02/2020|
-|4|Tottenham Hotspurs|RB Leipzig|CH3 - CH4|03.00 WIB (UTC+7)|Kamis, 20/02/2020|
+|3|Atalanta BC|Valencia CF|FT: 4-0|03.00 WIB (UTC+7)|Kamis, 20/02/2020|
+|4|Tottenham Hotspurs|RB Leipzig|0-1|03.00 WIB (UTC+7)|Kamis, 20/02/2020|
+|5|Chelsea FC|Bayern Muenchen|[CH1](#){:.btn .btn--info} [CH2](#){:.btn .btn--info}|03.00 WIB (UTC+7), Rabu, 26/02/2020|
+|6|SC Napoli|Barcelona FC|[CH3](#){:.btn .btn--info} [CH4](#){:.btn .btn--info}|03.00 WIB (UTC+7) Rabu, 26/02/2020|
+|7|Olympic Lyon|Juventus|[CH1](#){:.btn .btn--info} [CH2](#){:.btn .btn--info}|03.00 WIB (UTC+7) Kamis, 27/02/2020|
+|8|Manc. City|Real Madrid|[CH3](#){:.btn .btn--info} [CH4](#){:.btn .btn--info}|03.00 WIB (UTC+7) Kamis, 27/02/2020|
 
 {% include tengah.html %}
 
