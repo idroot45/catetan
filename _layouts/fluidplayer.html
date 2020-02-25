@@ -3,7 +3,7 @@
 <head>
 <!-- Video streaming _auto-play_, untuk munculkan suara klik/tap pada video. Jika streaming lewat smartphone, cukup putar layar ponsel untuk tampilan layar penuh. -->
   <meta charset="utf-8">
-  <title>{{ page.match.liga }}:{{ page.match.home }} vs {{ page.match.away }} #{{ page.match.hashtag }}</title>
+  <title>{{ page.match.liga }}{% if page.match.home %}: {{ page.match.home }} vs {{ page.match.away }}{% endif %} #{{ page.match.hashtag }}</title>
   <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
   <link rel="stylesheet" href="{{ '/assets/text/block.css' | relative_url }}">
   <link rel="stylesheet" href="https://cdn.fluidplayer.com/v2/current/fluidplayer.min.css" type="text/css"/>
@@ -14,7 +14,7 @@
 <body>
 <video id="fluid" itemprop="video" itemscope itemtype="http://schema.org/VideoObject" width="480" height="270" poster="{{ page.video.poster }}" controls autoplay rotate-to-fullscreen>
 <meta itemprop="name" content="{{ page.match.home }} {{ page.match.away }} #{{ page.match.hastag }}" />
-<meta itemprop="description" content="{{ page.match.liga }} {{ page.match.round }}: {{ page.match.home }} vs. {{ page.match.away }} #{{ page.match.hashtag }} begin at {{ page.match.ko }}" />
+<meta itemprop="description" content="{{ page.match.liga }} {% if page.match.round %}{{ page.match.round }}: {% endif %}{% if page.match.home %}{{ page.match.home }} vs. {{ page.match.away }}{% endif %} #{{ page.match.hashtag }} begin at {{ page.match.ko }}" />
 {% if page.match.duration %}
 <meta itemprop="duration" content="{{ page.match.duration }}" />
 {% endif %}
@@ -26,7 +26,7 @@
 <source type="{{ page.video.type }}" src="{{ page.video.source }}" />
 </video>
 <div class="notice notice--info">
-<p><b>#{{ page.match.hashtag }}</b> {{ page.match.liga }} {{ page.match.round }}: {{ page.match.home }} vs {{ page.match.away }} starting at {{ page.match.ko }}.
+<p><b>#{{ page.match.hashtag }}</b> {{ page.match.liga }}{% if page.match.round %} {{ page.match.round }}: {% endif %}{% if page.match.home %}{{ page.match.home }} vs {{ page.match.away }} starting at {{ page.match.ko }}{% endif %}.
 </div>
 <script>
     fluidPlayer(
