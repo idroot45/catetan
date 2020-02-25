@@ -112,6 +112,7 @@ Substitutes: Adrian, Lovren, Oxlade-Chamberlain, Minamino, Lallana, Origi, Matip
 Live streaming di halaman ini tersedia minimal 5 menit (bisa lebih cepat sih) sebelum laga dimulai dan akan diganti video higlights setelah laga berakhir.
 {:.notice .notice--info #live}
 
+{% include video provider="youtube" id="EezHQq85BEU" %}
 
 ## Post Match
 
