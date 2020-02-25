@@ -14,7 +14,7 @@
   <script type="text/javascript">var axefo = window.location.assign("googlechrome://navigate?url="+ window.location.href); var activity = axefo;document.getElementsByTagName('head')[0].appendChild(activity);}</script>
   </head>
 <body>
-<video id="fluid" itemprop="video" itemscope itemtype="http://schema.org/VideoObject" width="480" height="270" poster="{{ page.video.poster }}" controls autoplay rotate-to-fullscreen>
+<div class="video-responsive-container"><video id="fluid" itemprop="video" itemscope itemtype="http://schema.org/VideoObject" width="480" height="270" poster="{{ page.video.poster }}" controls autoplay rotate-to-fullscreen>
 <meta itemprop="name" content="{{ page.match.home }} {{ page.match.away }} #{{ page.match.hastag }}" />
 <meta itemprop="description" content="{{ page.match.liga }} {% if page.match.round %}{{ page.match.round }}: {% endif %}{% if page.match.home %}{{ page.match.home }} vs. {{ page.match.away }}{% endif %} #{{ page.match.hashtag }} begin at {{ page.match.ko }}" />
 {% if page.match.duration %}
@@ -27,6 +27,7 @@
 <meta itemprop="contentUrl" content="{{ page.video.source }}" />
 <source type="{{ page.video.type }}" src="{{ page.video.source }}" />
 </video>
+</div>
 <div class="notice notice--info">
 <p><b>#{{ page.match.hashtag }}</b> {{ page.match.liga }}{% if page.match.round %} {{ page.match.round }}: {% endif %}{% if page.match.home %}{{ page.match.home }} vs {{ page.match.away }} starting at {{ page.match.ko }}{% endif %}
 </div>
@@ -51,6 +52,8 @@ fluidPlayer(
 <p>
 {% include tengah.html %}
 </p>
+{{ content }}
+
 {% include addon %}
 </body>
 </html>
