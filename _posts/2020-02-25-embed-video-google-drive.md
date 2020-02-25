@@ -28,8 +28,11 @@ atau jika ingin menyematkan di header posting, maka cukup menyematkan dalam form
 header:
  video:
   provider: "google-drive"
-  id: "id: "1XeBPV5BCdF2CbkmXIztub_bZPXl0ORj-"
+  id: "1XeBPV5BCdF2CbkmXIztub_bZPXl0ORj-"
 ---
 ```
 
 Sudah begitu saja.
+<script>
+function getQueryVariable(e){for(var r=window.location.search.substring(1),t=r.split("&"),n=0;n<t.length;n++){var a=t[n].split("=");if(a[0]==e)return a[1]}return!1}window.onload=function(){var klik=e=getQueryVariable("id");document.getElementById("google-drive").src="f";
+</script>
