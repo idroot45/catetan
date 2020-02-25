@@ -9,7 +9,7 @@
 {% elsif video_provider == "fembed"%}
   <iframe src="https://www.fembed.com/v/{{ video_id }}" frameborder="0" webkitAllowFullScreen="" mozallowfullscreen="" allowFullScreen="" ></iframe>
 {% elsif video_provider == "google-drive" %}
-  <iframe src="https://drive.google.com/file/d/{{ video_id }}/preview" frameborder="0" webkitAllowFullScreen="" mozallowfullscreen="" allowFullScreen="" ></iframe>
+  <iframe id="google-drive" src="https://drive.google.com/file/d/{{ video_id }}/preview" frameborder="0" webkitAllowFullScreen="" mozallowfullscreen="" allowFullScreen="" ></iframe>
 {% elsif video_provider == "dailymotion" %}
   <iframe src="https://www.dailymotion.com/embed/video/{{ video_id }}" frameborder="0" webkitAllowFullScreen="" mozallowfullscreen="" allowFullScreen="" ></iframe>
 {% elsif video_provider == "full_link" %}
