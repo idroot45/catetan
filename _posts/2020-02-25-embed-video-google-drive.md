@@ -1,5 +1,5 @@
 ---
-title: "Embed Video dari Google Drive"
+title: "Embed Video dari Google Drive ala Seluk Beluk"
 categories: [video]
 tags: [google drive, embed video, video streaming]
 header:
