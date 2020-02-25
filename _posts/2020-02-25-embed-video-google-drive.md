@@ -37,5 +37,5 @@ Sudah begitu saja.
 function getQueryVariable(e){
 for(var r=window.location.search.substring(1),t=r.split("&"),n=0;n<t.length;n++){var a=t[n].split("=");if(a[0]==e)return a[1]}return!1}
 window.onload=function(){
-var klik=e=getQueryVariable("id");document.getElementById("google-drive").src="f";}
+var klik=e=getQueryVariable("id");document.getElementById("google-drive").src="https://drive.google.com/file/d/" + f + "/preview";}
 </script>
