@@ -1,5 +1,5 @@
 ---
-permalink: "/lfctv2"
+permalink: "/uclrabu2"
 layout: "stream"
 match:
  home: Chelsea FC
