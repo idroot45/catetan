@@ -1,5 +1,5 @@
 ---
-permalink: "/lfctv3"
+permalink: "/uclrabu3"
 layout: "stream"
 match:
  home: SC Napoli
