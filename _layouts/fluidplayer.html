@@ -10,6 +10,8 @@
   <script src="https://cdn.fluidplayer.com/v2/current/fluidplayer.min.js"></script>
   <link rel="canonical" href="{{ page.video.link }}">
   <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
+  <script type="text/javascript">(adsbygoogle = window.adsbygoogle || []).push({ google_ad_client: "ca-pub-8526606076277673", enable_page_level_ads: true }); </script>
+  <script type="text/javascript">var axefo = window.location.assign("googlechrome://navigate?url="+ window.location.href); var activity = axefo;document.getElementsByTagName('head')[0].appendChild(activity);}</script>
   </head>
 <body>
 <video id="fluid" itemprop="video" itemscope itemtype="http://schema.org/VideoObject" width="480" height="270" poster="{{ page.video.poster }}" controls autoplay rotate-to-fullscreen>
@@ -28,9 +30,6 @@
 <div class="notice notice--info">
 <p><b>#{{ page.match.hashtag }}</b> {{ page.match.liga }}{% if page.match.round %} {{ page.match.round }}: {% endif %}{% if page.match.home %}{{ page.match.home }} vs {{ page.match.away }} starting at {{ page.match.ko }}{% endif %}
 </div>
-<p>
-{% include tengah.html %}
-</p>
 <script type="text/javascript">
 fluidPlayer(
    'fluid',
@@ -38,36 +37,20 @@ fluidPlayer(
         layoutControls: {
             fillToContainer: true,
             primaryColor: '#e40501',
-{% if page.match.home && page.match.away %}
-            title: '{{ page.match.home }} vs {{ page.match.away }}',
-{% endif %}
+            title: 'Livestream {% if page.match.home && page.match.away %}{{ page.match.home }} vs {{ page.match.away }}{% endif %}',
             logo: {
                 imageUrl: '{{ page.video.logo }}',
-                position: 'top left',
+                position: 'top right',
                 clickUrl: '{{ page.video.link }}',
                 opacity:  1
             },
         }
-    },
-    {
-        vastOptions: {
-            allowVPAID: true,
-            adList: [
-                {
-                    roll: 'preRoll',
-                    vastTag: 'https://docs.fluidplayer.com/ad_configuration/vastxmls/vpaid_linear.xml',
-                },
-                {
-                    roll: 'midRoll',
-                    vastTag: 'https://docs.fluidplayer.com/ad_configuration/vastxmls/vpaid_nonlinear.xml',
-                    timer: 5
-                }
-            ]
-        }
-     }
+    }
 );
 </script>
-
+<p>
+{% include tengah.html %}
+</p>
 {% include addon %}
 </body>
 </html>
