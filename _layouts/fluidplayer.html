@@ -28,6 +28,9 @@
 <div class="notice notice--info">
 <p><b>#{{ page.match.hashtag }}</b> {{ page.match.liga }}{% if page.match.round %} {{ page.match.round }}: {% endif %}{% if page.match.home %}{{ page.match.home }} vs {{ page.match.away }} starting at {{ page.match.ko }}{% endif %}
 </div>
+<p>
+{% include tengah.html %}
+</p>
 <script>
     fluidPlayer(
    'fluid',
@@ -54,5 +57,7 @@
     }
 );
 </script>
+
+{% include addon %}
 </body>
 </html>
