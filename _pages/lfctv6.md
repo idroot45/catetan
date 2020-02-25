@@ -2,12 +2,11 @@
 permalink: "/lfctv6"
 layout: "fluidplayer"
 match:
- away: Westham United
- home: Liverpool FC
- hashtag: LIVWHU
- ko: "03:00 WIB. Selasa, 25 Februari 2020"
- liga: EPL
- round: GW 27
+ hashtag: "WalkingDead"
+ ko: "03:00 WIB."
+ date: "Selasa, 25 Februari 2020"
+ liga: "The Walking Dead"
+ round: "-"
 video:
  source: "https://g.dailysport.pw/aa4/x4.m3u8"
  poster: "https://cdn.statically.io/img/wallpaperplay.com/walls/full/7/1/1/324254.jpg?w=720&quality=60&format=webp"
