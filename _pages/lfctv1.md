@@ -1,6 +1,6 @@
 ---
 permalink: "/uclrabu1"
-layout: "stream"
+layout: "fluidplayer"
 match:
  home: Chelsea FC
  away: Bayern Muenchen
