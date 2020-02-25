@@ -8,7 +8,7 @@
   <link rel="stylesheet" href="{{ '/assets/text/block.css' | relative_url }}">
   <link rel="stylesheet" href="https://cdn.fluidplayer.com/v2/current/fluidplayer.min.css" type="text/css"/>
   <script src="https://cdn.fluidplayer.com/v2/current/fluidplayer.min.js"></script>
-  <link rel="canonical" href="{{ page.match.source }}">
+  <link rel="canonical" href="{{ page.video.link }}">
   <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
   </head>
 <body>
@@ -26,7 +26,7 @@
 <source type="{{ page.video.type }}" src="{{ page.video.source }}" />
 </video>
 <div class="notice notice--info">
-<p><b>#{{ page.match.hashtag }}</b> {{ page.match.liga }}{% if page.match.round %} {{ page.match.round }}: {% endif %}{% if page.match.home %}{{ page.match.home }} vs {{ page.match.away }} starting at {{ page.match.ko }}{% endif %}.
+<p><b>#{{ page.match.hashtag }}</b> {{ page.match.liga }}{% if page.match.round %} {{ page.match.round }}: {% endif %}{% if page.match.home %}{{ page.match.home }} vs {{ page.match.away }} starting at {{ page.match.ko }}{% endif %}
 </div>
 <script>
     fluidPlayer(
