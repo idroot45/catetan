@@ -1,6 +1,6 @@
 ---
 permalink: "/uclrabu3"
-layout: "fluidplayer"
+layout: "stream"
 match:
  home: SC Napoli
  away: FC Barcelona
