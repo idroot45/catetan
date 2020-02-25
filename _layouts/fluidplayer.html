@@ -36,10 +36,17 @@
    'fluid',
     {
         layoutControls: {
-            fillToContainer: true
+            fillToContainer: true,
+            title: '{% if page.match.home && page.match.away %}{{ page.match.home }} vs {{ page.match.away }}{{ elseif }}LIVE STREAM{% endif %}',
+            logo: {
+                imageUrl: '{{ page.video.logo }}',
+                position: 'top left',
+                clickUrl: '{{ page.video.link }}',
+                opacity:  1
+            },
         }
-    },
-    {
+    }
+<!--    {
         vastOptions: {
             allowVPAID: true,
             adList: [
@@ -54,6 +61,7 @@
                 }
             ]
         }
+-->
     }
 );
 </script>
