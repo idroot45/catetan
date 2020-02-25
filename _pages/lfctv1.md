@@ -1,5 +1,5 @@
 ---
-permalink: "/lfctv1/"
+permalink: "/uclrabu1"
 layout: "stream"
 match:
  home: Chelsea FC
@@ -14,8 +14,6 @@ video:
  logo: "https://cdn.statically.io/img/repo.catetan.pw/icon/favicon-32x32.png"
  link: "https://www.catetan.pw/liverpool"
  type: "application/x-mpegUrl"
-redirect_from:
- - /uclrabu1
 ---
 
 [![Liverpool 1](https://cdn.statically.io/img/wallpaperplay.com/walls/full/9/f/e/324276.jpg?w=720&quality=60&format=webp)](https://cdn.statically.io/img/wallpaperplay.com/walls/full/9/f/e/324276.jpg)
