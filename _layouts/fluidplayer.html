@@ -38,11 +38,16 @@
     },
     {
         vastOptions: {
+            allowVPAID: true,
             adList: [
                 {
                     roll: 'preRoll',
-                    vastTag: 'vastPreRoll_1.xml',
-                    adText: 'Advertising supports us directly'
+                    vastTag: 'https://docs.fluidplayer.com/ad_configuration/vastxmls/vpaid_linear.xml',
+                },
+                {
+                    roll: 'midRoll',
+                    vastTag: './vastxmls/vpaid_nonlinear.xml',
+                    timer: 5
                 }
             ]
         }
