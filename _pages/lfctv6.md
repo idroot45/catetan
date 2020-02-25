@@ -2,10 +2,10 @@
 permalink: "/lfctv6"
 layout: "fluidplayer"
 match:
- hashtag: "WalkingDead"
+ hashtag: "KobeBryant"
  ko: "03:00 WIB."
  date: "Selasa, 25 Februari 2020"
- liga: "The Walking Dead"
+ liga: "Kobe Bryant Memorial"
  round: "-"
 video:
  source: "https://g.dailysport.pw/aa4/x4.m3u8"
