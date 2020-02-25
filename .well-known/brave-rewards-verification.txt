@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: catetan.pw
+Token: 36bff9e2fb195bd47ad555f47a5d92e0c4bf0e0f04b77a0492acf67ee3c60555
