@@ -18,16 +18,16 @@ last_modified_at: 2020-02-27 01:12:08
 
 Jadwal dan Hasil bal-balan **16 Besar** leg pertama UEFA Champions League 2019/2020
 
-|No.|Home|Away|Live/Result|Kick-off|Date|
+|No.|Home|Away|Live|Result|Kick-off|Date|
 |---|---|---|:---:|---|---|
-|1|Atlético Madrid|Liverpool FC|[FT: 0-1](/liverpool/ucl-away-vs-atletico/)|03.00 WIB (UTC+7)|Rabu, 19/02/2020|
-|2|Borussia Dortmund|Paris Saint Germain|FT: 2-1|03.00 WIB (UTC+7)|Rabu, 19/02/2020|
-|3|Atalanta BC|Valencia CF|FT: 4-0|03.00 WIB (UTC+7)|Kamis, 20/02/2020|
-|4|Tottenham Hotspurs|RB Leipzig|FT: 0-1|03.00 WIB (UTC+7)|Kamis, 20/02/2020|
-|5|Chelsea FC|Bayern Muenchen|FT: 0-3|03.00 WIB (UTC+7)|Rabu, 26/02/2020|
-|6|SC Napoli|FC Barcelona|FT: 1-1|03.00 WIB (UTC+7)|Rabu, 26/02/2020|
-|7|Olympic Lyon|Juventus FC|[UCL 1](/uclkamis1){:.btn .btn--info} [UCL 2](/uclkamis2){:.btn .btn--info}|03.00 WIB (UTC+7)|Kamis, 27/02/2020|
-|8|Manc. City|Real Madrid|[UCL 3](/uclkamis3){:.btn .btn--info} [UCL 4](/uclkamis4){:.btn .btn--info}|03.00 WIB (UTC+7)|Kamis, 27/02/2020|
+|1|Atlético Madrid|Liverpool FC||[FT: 0-1](/liverpool/ucl-away-vs-atletico/)|03.00 WIB (UTC+7)|Rabu, 19/02/2020|
+|2|Borussia Dortmund|Paris Saint Germain||FT: 2-1|03.00 WIB (UTC+7)|Rabu, 19/02/2020|
+|3|Atalanta BC|Valencia CF||FT: 4-0|03.00 WIB (UTC+7)|Kamis, 20/02/2020|
+|4|Tottenham Hotspurs|RB Leipzig||FT: 0-1|03.00 WIB (UTC+7)|Kamis, 20/02/2020|
+|5|Chelsea FC|Bayern Muenchen||FT: 0-3|03.00 WIB (UTC+7)|Rabu, 26/02/2020|
+|6|SC Napoli|FC Barcelona||FT: 1-1|03.00 WIB (UTC+7)|Rabu, 26/02/2020|
+|7|Olympic Lyon|Juventus FC|[UCL 1](/uclkamis1){:.btn .btn--info} [UCL 2](/uclkamis2){:.btn .btn--info}|2nd: 1-0|03.00 WIB (UTC+7)|Kamis, 27/02/2020|
+|8|Manc. City|Real Madrid|[UCL 3](/uclkamis3){:.btn .btn--info} [UCL 4](/uclkamis4){:.btn .btn--info}|2nd: 1-0|03.00 WIB (UTC+7)|Kamis, 27/02/2020|
 
 Jadwal dan Hasil bal-balan **16 Besar** leg kedua UEFA Champions League 2019/2020
 
@@ -38,8 +38,8 @@ Jadwal dan Hasil bal-balan **16 Besar** leg kedua UEFA Champions League 2019/202
 |3|Paris Saint Germain|Borussia Dortmund|Agregate: 1-2|03.00 WIB (UTC+7)|Kamis, 12/03/2020|
 |4|RB Leipzig|Tottenham Hotspurs|Agregate: 1-|03.00 WIB (UTC+7)|Kamis, 12/03/2020|
 |5|Liverpool FC|Atlético Madrid|Agregate: 0-1|03.00 WIB (UTC+7)|Rabu, 18/03/2020|
-|6|Manc. City|Real Madrid|Agregate: -|03.00 WIB (UTC+7)|Rabu, 18/03/2020|
-|7|Juventus FC|Olympic Lyon|Agregate: -|03.00 WIB (UTC+7)|Kamis, 19/03/2020|
+|6|Manc. City|Real Madrid|Agregate: 0-1|03.00 WIB (UTC+7)|Rabu, 18/03/2020|
+|7|Juventus FC|Olympic Lyon|Agregate: 0-1|03.00 WIB (UTC+7)|Kamis, 19/03/2020|
 |8|FC Barcelona|SC Napoli|Agregate: 1-1|03.00 WIB (UTC+7)|Kamis, 19/03/2020|
 
 Undian Babak 8 Besar pada tanggal **20 Maret 2020**. <br/>
