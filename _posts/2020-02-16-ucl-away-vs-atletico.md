@@ -73,4 +73,4 @@ Kandang dan Tandang, para pendukung the Reds selalu penuh passion, kali ini di M
 
 Walaupun bukan hasil yang ideal, lihat footage berbeda pada kunjungan kita ke Estadio Metropolitano 📹
 
-{% include video provider="facebook" user="113211368849513" id="1291336591036979" %}
+{% include video provider="facebook" id="113211368849513" user="1291336591036979" %}
