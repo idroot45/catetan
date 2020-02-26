@@ -1,5 +1,5 @@
 ---
-permalink: "/uclrabu4"
+permalink: "/uclkamis4"
 layout: "fluidplayer"
 match:
  home: Olympic Lyon
