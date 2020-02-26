@@ -20,7 +20,7 @@ Jadwal dan Hasil bal-balan **16 Besar** leg pertama UEFA Champions League 2019/2
 
 |No.|Home|Away|Live/Result|Kick-off|Date|
 |---|---|---|:---:|---|---|
-|1|Atlético Madrid|Liverpool FC|FT: 0-1|03.00 WIB (UTC+7)|Rabu, 19/02/2020|
+|1|Atlético Madrid|Liverpool FC|[FT: 0-1](/liverpool/ucl-away-vs-atletico/)|03.00 WIB (UTC+7)|Rabu, 19/02/2020|
 |2|Borussia Dortmund|Paris Saint Germain|FT: 2-1|03.00 WIB (UTC+7)|Rabu, 19/02/2020|
 |3|Atalanta BC|Valencia CF|FT: 4-0|03.00 WIB (UTC+7)|Kamis, 20/02/2020|
 |4|Tottenham Hotspurs|RB Leipzig|FT: 0-1|03.00 WIB (UTC+7)|Kamis, 20/02/2020|
