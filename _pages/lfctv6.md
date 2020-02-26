@@ -1,5 +1,5 @@
 ---
-permalink: "/lfctv6"
+permalink: "/dailysport"
 layout: "compress"
 ---
 <!doctype html>
