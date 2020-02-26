@@ -1,11 +1,12 @@
 ---
-permalink: "/uclrabu2"
+permalink: "/uclkamis2"
 layout: "fluidplayer"
 match:
  home: Real Madrid
  away: Mancester City
  hashtag: RMAMCI
- ko: "03:00 WIB (UTC+7). Rabu, 26 Februari 2020"
+ ko: "03:00 WIB (UTC+7)"
+ date: "Kamis, 27 Februari 2020"
  liga: UCL
  round: 16 Round 1st Leg
 video:
