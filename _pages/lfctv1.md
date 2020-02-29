@@ -1,5 +1,5 @@
 ---
-permalink: "/lfcarabic"
+permalink: "/lfc-arabic"
 layout: "stream"
 match:
  home: Watford FC
