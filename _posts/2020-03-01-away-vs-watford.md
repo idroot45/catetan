@@ -19,7 +19,7 @@ Pada awalnya, tak ada yang mengakui eksistensinya, terkucilkan. Hanya orang terd
 
 Dalam prosesnya, sebelum dia menjadi Hokage   di desa Konoha pada akhir cerita, tak ada halangan yang dilaluinya dengan mudah. Tak menyerah, terus melangkah. Semua penderitaannya pun berbuah, ia dielukan sebagai pahlawan, mendapatkan pengakuan. Dengan bantuan dan kepercayaan dari sahabat-sahabatnya yang lebih kompeten.
 
-Henderson, Kapten Liverpool, adalah pemain bola yang punya skill biasa-biasa saja. Tak bisa dipuja macam Messi, Ronaldo atau bahkan Gerrard. Tetapi, di masa ke-kapten-annya, Liverpool sudah mengangkat 3 trofi kejuaran. 
+[Henderson, Kapten Liverpool](https://www.catetan.pw/liverpool/mengagungkan-sosok-jordan-henderson/){: title="Mengagungkan Sosok Jordan Henderson"}, adalah pemain bola yang punya skill biasa-biasa saja. Tak bisa dipuja macam Messi, Ronaldo atau bahkan Gerrard. Tetapi, di masa ke-kapten-annya, Liverpool sudah mengangkat 3 trofi kejuaran. 
 
 Dan sebentar lagi gelar pertama sebagai juara liga di era kompetisi Premier League, sekaligus dahaga 30 tahun hampir pasti usai di eranya.
 
