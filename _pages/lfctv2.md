@@ -7,7 +7,7 @@ match:
  hashtag: WATLIV
  ko: "00:30 WIB (UTC+7)"
  date: "Minggu, 01 Maret 2020"
- liga: UCL
+ liga: EPL
  round: GW 28
 video:
  source: "http://34.107.131.44/live/n/chunks.m3u8"
