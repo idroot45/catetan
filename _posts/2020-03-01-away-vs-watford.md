@@ -8,7 +8,7 @@ categories: [liverpool]
 tags: [liga inggris, watford fc, liverpool fc]
 ---
 
-{% include video provider="internal" id="lfc-arabic" %}
+{% include video provider="internal" id="lfc-pc-mobile" %}
 
 Alternatif:
 
