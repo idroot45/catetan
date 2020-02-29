@@ -8,11 +8,26 @@ categories: [liverpool]
 tags: [liga inggris, watford fc, liverpool fc]
 ---
 
-{% include video provider="internal" id="lfc-pc-mobile" %}
+Naruto, ialah sosok yang tak dianggap ada.
 
-Alternatif:
+Pada awalnya, tak ada yang mengakui eksistensinya, terkucilkan. Hanya orang terdekatnya yang bisa memandang secara gamblang pribadi dan kemauan keras yang ada dalam dirinya.
 
-|Normal|Normal|Normal|HD|HD|
-|:---:|:---:|:---:|:---:|:---:|
-|[LIVE 1 PC](/lfc-pc-mobile){:.btn .btn--danger rel="nofollow noindex noreferer" target="_blank"}|[LIVE 2 English](/lfc-english){:.btn .btn--danger rel="nofollow noindex noreferer" target="_blank"}|[LIVE 3 Arabic](/lfc-arabic){:.btn .btn--danger rel="nofollow noindex noreferer" target="_blank"}|[HD LIVE 1 PC/Mobile](https://dailysport.pw/c3.php){:.btn .btn--danger rel="nofollow noindex noreferer" target="_blank"}|[HD LIVE 2 PC/Mobile](https://dailysport.pw/c4.php){:.btn .btn--danger rel="nofollow noindex noreferer" target="_blank"}|
+Dalam prosesnya, sebelum dia menjadi Hokage   di desa Konoha pada akhir cerita, tak ada halangan yang dilaluinya dengan mudah. Tak menyerah, terus melangkah. Semua penderitaannya pun berbuah, ia dielukan sebagai pahlawan, mendapatkan pengakuan. Dengan bantuan dan kepercayaan dari sahabat-sahabatnya yang lebih kompeten.
 
+Henderson, Kapten Liverpool, adalah pemain bola yang punya skill biasa-biasa saja. Tak bisa dipuja macam Messi, Ronaldo atau bahkan Gerrard. Tetapi, di masa ke-kapten-annya, Liverpool sudah mengangkat 3 trofi kejuaran. 
+
+Dan sebentar lagi gelar pertama sebagai juara liga di era kompetisi Premier League, sekaligus dahaga 30 tahun hampir pasti usai di eranya.
+
+Cukup memenangkan 4 laga di depan. Liverpool FC juara, Henderson pun pegal angkat piala.
+
+Tapi apa lacur, Kapten sedang cuti. Permainan Liverpool kali ini hancur lebur tanpa visi bermain yang jelas. Mendominasi di sepanjang pertandingan, tapi… Ah sudahlah.
+
+Tahu kan ketika tanpa Naruto, Konoha hancur lebur.
+
+Konoha gakure boleh punya ninja dengan kemampuan tingkat tinggi. Tapi, ketika Naruto tak hadir di sana, Konoha pun porak poranda.
+
+#WATLIV 3-0 
+
+Keinginan fans cilik MUnyuk pun sudah terkabul. Dan sepertinya, Liga Inggris tak akan membosankan lagi.
+
+Still, #YNWA Lads..
