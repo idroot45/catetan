@@ -1,6 +1,6 @@
 ---
 permalink: "/lfc-english"
-layout: "fluidplayer"
+layout: "stream"
 match:
  home: Watford FC
  away: Liverpool FC
