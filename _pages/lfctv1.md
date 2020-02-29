@@ -7,7 +7,7 @@ match:
  hashtag: WATLIV
  ko: "00:30 WIB (UTC+7)"
  date: "Minggu, 01 Maret 2020"
- liga: UCL
+ liga: EPL
  round: GW 28
 video:
  source: "https://videocdn.mixer.com/hls/162403190-facc33f6b901529d5b22e9a251459902_source/index.m3u8"
