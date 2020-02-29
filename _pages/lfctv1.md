@@ -1,5 +1,5 @@
 ---
-permalink: "/uclkamis1"
+permalink: "/lfcarabic"
 layout: "stream"
 match:
  home: Real Madrid
@@ -10,8 +10,8 @@ match:
  liga: UCL
  round: 16 Round 1st Leg
 video:
- source: "https://g.dailysport.pw/x1/x1.m3u8"
- poster: "https://cdn0--production--images--kly-akamaized-net.cdn.ampproject.org/ii/w1200/s/cdn0-production-images-kly.akamaized.net/mqLoMYi63OAZbOGTyXeEgzX2ZcM=/673x373/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/3059930/original/042338000_1582616172-Liga_Champions_-_Real_Madrid_Vs_Manchester_City.jpg"
+ source: "https://videocdn.mixer.com/hls/162403190-facc33f6b901529d5b22e9a251459902_source/index.m3u8"
+ poster: "https://3.bp.blogspot.com/--eBgLIJgXDk/Xlqns4n5zpI/AAAAAAAAUq0/kLxtSMzCjHEhn-NYCsMAyqKapOFAGUwUACLcBGAsYHQ/s1600/Screenshot_2"
  logo: "https://cdn.statically.io/img/repo.catetan.pw/icon/favicon-32x32.png"
  link: "https://www.catetan.pw/liverpool"
  type: "application/x-mpegUrl"
