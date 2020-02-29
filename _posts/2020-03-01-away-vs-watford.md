@@ -32,20 +32,28 @@ Dan sebentar lagi gelar pertama sebagai juara liga di era kompetisi Premier Leag
 
 Cukup memenangkan 4 laga di depan. Liverpool FC juara, Henderson pun pegal angkat piala.
 
-Tapi apa lacur, ketika butuh kemenangan, sang kapten sedang cuti. 
+Tapi apa lacur, ketika butuh kemenangan, sang kapten sedang cuti.
 
 **#WATLIV 3-0**
 
 {% include figure image_path="https://1.bp.blogspot.com/-xT0NNTD-G4Q/XlrFIKsfgII/AAAAAAAAUrA/MbYCQH70FP0CbY2dl74GP2LpIkirDaU7QCLcBGAsYHQ/s600/hancur.png" url="https://1.bp.blogspot.com/-xT0NNTD-G4Q/XlrFIKsfgII/AAAAAAAAUrA/MbYCQH70FP0CbY2dl74GP2LpIkirDaU7QCLcBGAsYHQ/s1600/hancur.png" caption="Tanpa Lord Henderson, Liverpool FC Hancur Lebur" %}
 
-Permainan Liverpool kali ini hancur lebur, tanpa visi. Bermain dominan dengan penguasaan bola yang luar biasa. Mo Salah dkk tak mampu tembus pertahanan Watford FC yang dikawal Ben Foster. Ternyata Watford lebih digdaya. Tank-tank, artileri, bahkan infanteri, terpakir rapi. Meninggalkan ranjau di garis depan, menunggu kesempatan datang ketika musuh menginjaknya, dan boom.
+Permainan Liverpool kali ini hancur lebur, tanpa visi. Bermain dominan dengan penguasaan bola yang luar biasa. Mo Salah dkk. tak mampu tembus pertahanan Watford FC yang dikawal Ben Foster. Ternyata Watford lebih digdaya. Tank-tank, artileri, bahkan infanteri, terpakir rapi. Meninggalkan ranjau di garis depan, menunggu kesempatan datang ketika musuh menginjaknya, dan boom.
 
-Liverpool, kadang bermain kurang sabar, kadang malah terlalu sabar. Alhasil, gawang Alisson jebol 3 kali di babak kedua. Liverpool terpedaya, Ranjau yang ditebar, mampu menjegal misi mengejar _invincible_ Arsenal.
+Kali ini Liverpool bermain kurang sabar. Ketika mencoba sabar, malah terlalu sabar. Alhasil, gawang Alisson jebol 3 kali di babak kedua. Liverpool terpedaya, Ranjau yang ditebar, mampu menjegal misi mengejar _invincible_ Arsenal.
 
 Menariknya, bukan kali ini saja Liverpool jadi korban _bullying_ Watford. Ketika awal-awal Jurgen Klopp datang, Watford mampu tumbangkan Liverpool di bulan Desember 2015. Dengan skor yang sama: 3-0, tanpa balas.
 
 {% include figure image_path="https://i2-prod.liverpool.com/incoming/article17832946.ece/ALTERNATES/s810/0_GettyImages-502055356.jpg" caption="Liverpool sudah pernah kalah 3-0 ketika bertandang ke Viacarage Road Stadium pada Desember 2015" %}
 
-Dan sepertinya, Liga Inggris tak akan membosankan lagi. Sejak para manajer di kasih bocoran pelatih Atleti.
+### Dejan Lovren, Raja Lawak.
+
+Entah apa yang dipikirkan oleh Klop. Lovren boleh jadi bek tengah yang lumayan, setidaknya pernah menyumbang beberapa goal yang menyelamatkan Liverpool. Tetapi, jika ada pemilihan Raja Lawak, fans pasti sepakat bahwa bek antik yang satu ini adalah yang paling layak mendapatkannya. Meskipun terkesan tak adil, memang kenyataannya demikian. 
+
+Dan Watford seprtinya sadar betul bagaimana meng-eksploitasi bek yang menjadi kelemahan Liverpool malam ini.
+
+> Watford striker Troy Deeney has admitted that the Hornets had identified defender Dejan Lovren as a weak point in the Liverpool defence ahead of the Reds' shock 3-0 defeat. — via LiverpoolEcho
+
+Sepertinya, Liga Inggris tak akan membosankan lagi. Sejak para manajer di kasih bocoran pelatih Atleti.
 
 Still, #YNWA Lads.. Keinginan fans cilik MUnyuk pun sebagian sudah terkabul.
