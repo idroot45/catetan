@@ -2,7 +2,7 @@
 title: "EPL Game Week Ke-28: Watford FC vs Liverpool FC"
 excerpt: "Livestream EPL GW 28 Watford FC vs Liverpool FC. Minggu, 1 Maret 2020 Pukul 00.30 WIB (UTC+7). Skor akhir: 3-0 untuk kemenangan Watford"
 header:
- image: "https://1.bp.blogspot.com/-xT0NNTD-G4Q/XlrFIKsfgII/AAAAAAAAUrA/MbYCQH70FP0CbY2dl74GP2LpIkirDaU7QCLcBGAsYHQ/s1600/Screenshot_20200301-005856_Chrome.png"
+ image: "0200301-005856_Chrome.png"
  teaser: "https://3.bp.blogspot.com/--eBgLIJgXDk/Xlqns4n5zpI/AAAAAAAAUq0/kLxtSMzCjHEhn-NYCsMAyqKapOFAGUwUACLcBGAsYHQ/s400/Screenshot_20200301-005856_Chrome.png"
  caption: "Tanpa Lord Henderson, Liverpool FC Hancur Lebur. #WATLIV 3-0"
 categories: [liverpool]
@@ -36,11 +36,15 @@ Tapi apa lacur, ketika butuh kemenangan, sang kapten sedang cuti.
 
 **#WATLIV 3-0**
 
+{% include figure image_path="https://1.bp.blogspot.com/-xT0NNTD-G4Q/XlrFIKsfgII/AAAAAAAAUrA/MbYCQH70FP0CbY2dl74GP2LpIkirDaU7QCLcBGAsYHQ/s600/hancur.png" url="https://1.bp.blogspot.com/-xT0NNTD-G4Q/XlrFIKsfgII/AAAAAAAAUrA/MbYCQH70FP0CbY2dl74GP2LpIkirDaU7QCLcBGAsYHQ/s1600/hancur.png" caption="Tanpa Lord Henderson, Liverpool FC Hancur Lebur" %}
+
 Permainan Liverpool kali ini hancur lebur, tanpa visi. Bermain dominan dengan penguasaan bola yang luar biasa. Mo Salah dkk tak mampu tembus pertahanan Watford FC yang dikawal Ben Foster. Ternyata Watford lebih digdaya. Tank-tank, artileri, bahkan infanteri, terpakir rapi. Meninggalkan ranjau di garis depan, menunggu kesempatan datang ketika musuh menginjaknya, dan boom.
 
 Liverpool, kadang bermain kurang sabar, kadang malah terlalu sabar. Alhasil, gawang Alisson jebol 3 kali di babak kedua. Liverpool terpedaya, Ranjau yang ditebar, mampu menjegal misi mengejar _invincible_ Arsenal.
 
-...
+Menariknya, bukan kali ini saja Liverpool jadi korban _bullying_ Watford. Ketika awal-awal Jurgen Klopp datang, Watford mampu tumbangkan Liverpool di bulan Desember 2015. Dengan skor yang sama: 3-0, tanpa balas.
+
+{% include figure image_path="https://i2-prod.liverpool.com/incoming/article17832946.ece/ALTERNATES/s810/0_GettyImages-502055356.jpg" caption="Liverpool sudah pernah kalah 3-0 ketika bertandang ke Viacarage Road Stadium pada Desember 2015" %}
 
 Dan sepertinya, Liga Inggris tak akan membosankan lagi. Sejak para manajer di kasih bocoran pelatih Atleti.
 
