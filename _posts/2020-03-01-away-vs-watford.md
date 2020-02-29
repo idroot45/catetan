@@ -36,12 +36,12 @@ Tapi apa lacur, ketika butuh kemenangan, sang kapten sedang cuti.
 
 **#WATLIV 3-0**
 
-Permainan Liverpool kali ini hancur lebur, tanpa visi. Bermain dominan dengan penguasaan bola. Tapi sial, Watford lebih digdaya. Tank-tank, artileri, bahkan infanteri, terpakir rapi. Meninggalkan ranjau di baris depan, menunggu kesempatan pemain lawan menginjaknya, dan boom.
+Permainan Liverpool kali ini hancur lebur, tanpa visi. Bermain dominan dengan penguasaan bola yang luar biasa. Mo Salah dkk tak mampu tembus pertahanan Watford FC yang dikawal Ben Foster. Ternyata Watford lebih digdaya. Tank-tank, artileri, bahkan infanteri, terpakir rapi. Meninggalkan ranjau di garis depan, menunggu kesempatan datang ketika musuh menginjaknya, dan boom.
 
-Bermain kurang sabar, gawang Alisson jebol 3 kali di babak kedua. Liverpool terpedaya, Ranjau yang ditebar, menjegal misi mengejar _invincible_ Arsenal.
+Liverpool, kadang bermain kurang sabar, kadang malah terlalu sabar. Alhasil, gawang Alisson jebol 3 kali di babak kedua. Liverpool terpedaya, Ranjau yang ditebar, mampu menjegal misi mengejar _invincible_ Arsenal.
 
 ...
 
-Keinginan fans cilik MUnyuk pun sudah terkabul. Dan sepertinya, Liga Inggris tak akan membosankan lagi.
+Dan sepertinya, Liga Inggris tak akan membosankan lagi. Sejak para manajer di kasih bocoran pelatih Atleti.
 
-Still, #YNWA Lads..
+Still, #YNWA Lads.. Keinginan fans cilik MUnyuk pun sebagian sudah terkabul.
