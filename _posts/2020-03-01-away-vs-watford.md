@@ -14,5 +14,5 @@ Alternatif:
 
 |Normal|Normal|Normal|HD|HD|
 |:---:|:---:|:---:|:---:|:---:|
-|[LIVE 1 PC](/lfc-english){:.btn .btn--danger rel="nofollow noindex noreferer" target="_blank"}|[LIVE 2 English](/lfc-english){:.btn .btn--danger rel="nofollow noindex noreferer" target="_blank"}|[LIVE 3 Arabic](/lfc-arabic){:.btn .btn--danger rel="nofollow noindex noreferer" target="_blank"}|[HD LIVE 1 PC/Mobile](https://dailysport.pw/c3.php){:.btn .btn--danger rel="nofollow noindex noreferer" target="_blank"}|[HD LIVE 2 PC/Mobile](https://dailysport.pw/c4.php){:.btn .btn--danger rel="nofollow noindex noreferer" target="_blank"}|
+|[LIVE 1 PC](/lfc-pc-mobile){:.btn .btn--danger rel="nofollow noindex noreferer" target="_blank"}|[LIVE 2 English](/lfc-english){:.btn .btn--danger rel="nofollow noindex noreferer" target="_blank"}|[LIVE 3 Arabic](/lfc-arabic){:.btn .btn--danger rel="nofollow noindex noreferer" target="_blank"}|[HD LIVE 1 PC/Mobile](https://dailysport.pw/c3.php){:.btn .btn--danger rel="nofollow noindex noreferer" target="_blank"}|[HD LIVE 2 PC/Mobile](https://dailysport.pw/c4.php){:.btn .btn--danger rel="nofollow noindex noreferer" target="_blank"}|
 
