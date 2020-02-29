@@ -1,12 +1,17 @@
 ---
 title: "EPL Game Week Ke-28: Watford FC vs Liverpool FC"
-excerpt: "Livestream EPL GW 28 Watford FC vs Liverpool FC. Minggu, 1 Maret 2020 Pukul 00.30 WIB (UTC+7)"
+excerpt: "Livestream EPL GW 28 Watford FC vs Liverpool FC. Minggu, 1 Maret 2020 Pukul 00.30 WIB (UTC+7). Skor akhir: 3-0 untuk kemenangan Watford"
 header:
  image: "https://3.bp.blogspot.com/--eBgLIJgXDk/Xlqns4n5zpI/AAAAAAAAUq0/kLxtSMzCjHEhn-NYCsMAyqKapOFAGUwUACLcBGAsYHQ/s1600/Screenshot_20200301-005856_Chrome.png"
  teaser: "https://3.bp.blogspot.com/--eBgLIJgXDk/Xlqns4n5zpI/AAAAAAAAUq0/kLxtSMzCjHEhn-NYCsMAyqKapOFAGUwUACLcBGAsYHQ/s400/Screenshot_20200301-005856_Chrome.png"
 categories: [liverpool]
 tags: [liga inggris, watford fc, liverpool fc]
 ---
+
+EPL GW 28: Watford FC vs Liverpool FC. Minggu, 1 Maret 2020 Pukul 00.30 WIB (UTC+7). Skor akhir: 3-0 untuk kemenangan Watford"
+{:.notice .notice--danger}
+
+### Tanpa Naruto, Konoha hancur lebur.
 
 Naruto, ialah sosok yang tak dianggap ada.
 
@@ -26,7 +31,7 @@ Tahu kan ketika tanpa Naruto, Konoha hancur lebur.
 
 Konoha gakure boleh punya ninja dengan kemampuan tingkat tinggi. Tapi, ketika Naruto tak hadir di sana, Konoha pun porak poranda.
 
-#WATLIV 3-0 
+**#WATLIV 3-0**
 
 Keinginan fans cilik MUnyuk pun sudah terkabul. Dan sepertinya, Liga Inggris tak akan membosankan lagi.
 
