@@ -1,17 +1,17 @@
 ---
-permalink: "/uclkamis3"
-layout: "stream"
+permalink: "/lfc-pc-mobile"
+layout: "fluidplayer"
 match:
- home: Olympic Lyon
- away: Juventus FC
- hashtag: OLYJUV
- ko: "03:00 WIB (UTC+7)"
- date: "Kamis, 27 Februari 2020"
+ home: Watford FC
+ away: Liverpool FC
+ hashtag: WATLIV
+ ko: "00:30 WIB (UTC+7)"
+ date: "Minggu, 01 Maret 2020"
  liga: UCL
- round: 16 Round 1st Leg
+ round: GW 28
 video:
- source: "https://g.dailysport.pw/x3/x3.m3u8"
- poster: "https://cdn0--production--images--kly-akamaized-net.cdn.ampproject.org/ii/w1200/s/cdn0-production-images-kly.akamaized.net/mIwfmiFSA1rCRtYWZIP4RsfZ6fo=/673x373/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/3059985/original/015700400_1582618287-Liga_Champions_-_Olympique_Lyon_Vs_Juventus.jpg"
+ source: "http://34.107.131.44/live/n/chunks.m3u8"
+ poster: "https://3.bp.blogspot.com/--eBgLIJgXDk/Xlqns4n5zpI/AAAAAAAAUq0/kLxtSMzCjHEhn-NYCsMAyqKapOFAGUwUACLcBGAsYHQ/s1600/WATLIV"
  logo: "https://cdn.statically.io/img/repo.catetan.pw/icon/favicon-32x32.png"
  link: "https://www.catetan.pw/liverpool"
  type: "application/x-mpegUrl"
