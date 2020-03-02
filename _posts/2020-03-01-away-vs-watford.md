@@ -38,25 +38,27 @@ Tapi apa lacur, ketika butuh kemenangan, sang kapten sedang cuti.
 
 **#WATLIV 3-0**
 
+Menariknya, bukan kali ini saja Liverpool jadi korban _bullying_ Watford. Ketika awal-awal Jurgen Klopp datang, Watford mampu tumbangkan Liverpool di bulan Desember 2015. Dengan skor yang sama: 3-0, tanpa balas.
+
 {% include figure image_path="https://i2-prod.liverpool.com/incoming/article17832946.ece/ALTERNATES/s810/0_GettyImages-502055356.jpg" caption="Liverpool sudah pernah kalah 3-0 ketika bertandang ke Viacarage Road Stadium pada Desember 2015" %}
 
 Permainan Liverpool kali ini hancur lebur, tanpa visi. Bermain dominan dengan penguasaan bola yang luar biasa. Mo Salah dkk. tak mampu tembus pertahanan Watford FC yang dikawal Ben Foster. Ternyata Watford lebih digdaya. Tank-tank, artileri, bahkan infanteri, terpakir rapi. Meninggalkan ranjau di garis depan, menunggu kesempatan datang ketika musuh menginjaknya, dan boom.
 
-Kali ini Liverpool bermain kurang sabar. Ketika mencoba sabar, malah terlalu sabar. Alhasil, gawang Alisson jebol 3 kali di babak kedua. Liverpool terpedaya, Ranjau yang ditebar, mampu menjegal misi mengejar _invincible_ Arsenal.
+{% include figure image_path="https://4.bp.blogspot.com/-KrY0xZvb81A/XlregFCgicI/AAAAAAAAUrY/7cBFcVP_5PkXvniBurcUb5sy2Dq6Wwm7gCLcBGAsYHQ/s1600/Ismaila_Sarr" %}
 
-{% include figure image_path="https://cdn.statocally.io/img/i2-prod.liverpool.com/incoming/article17602649.ece/ALTERNATES/s615b/2_GettyImages-1194758540.jpg" url="https://cdn.staticalli.io/img/i2-prod.liverpool.com/incoming/article17602649.ece/ALTERNATES/s810/2_GettyImages-1194758540.jpg" caption="Virgil van Dijk is an organiser supreme for Liverpool, but needs help. (Image: Photo by Matthew Ashton - AMA/Getty Images)" %}
+Liverpool bermain kurang sabar. Ketika mencoba sabar, malah terlalu sabar. Alhasil, gawang Alisson jebol 3 kali di babak kedua. Liverpool terpedaya, Ranjau yang ditebar, mampu menjegal misi mengejar _invincible_ Arsenal.
 
-Menariknya, bukan kali ini saja Liverpool jadi korban _bullying_ Watford. Ketika awal-awal Jurgen Klopp datang, Watford mampu tumbangkan Liverpool di bulan Desember 2015. Dengan skor yang sama: 3-0, tanpa balas.
+<blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">And still the only Invincible team in Premier League history…<br><br>Arsenal 2003/04 🏆 <a href="https://t.co/R4Jn8v1j8q">pic.twitter.com/R4Jn8v1j8q</a></p>&mdash; B/R Football (@brfootball) <a href="https://twitter.com/brfootball/status/1233836198210260992?ref_src=twsrc%5Etfw">February 29, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### Dejan Lovren, Raja Lawak.
 
 Entah apa yang dipikirkan oleh Klop. Lovren boleh jadi bek tengah yang lumayan, setidaknya pernah menyumbang beberapa goal yang menyelamatkan Liverpool. Tetapi, jika ada pemilihan Raja Lawak, fans pasti sepakat bahwa bek antik yang satu ini adalah yang paling layak mendapatkannya. Meskipun terkesan tak adil, memang kenyataannya demikian. 
 
+{% include figure image_path="https://cdn.statocally.io/img/i2-prod.liverpool.com/incoming/article17602649.ece/ALTERNATES/s615b/2_GettyImages-1194758540.jpg" url="https://cdn.staticalli.io/img/i2-prod.liverpool.com/incoming/article17602649.ece/ALTERNATES/s810/2_GettyImages-1194758540.jpg" caption="Virgil van Dijk is an organiser supreme for Liverpool, but needs help. (Image: Photo by Matthew Ashton - AMA/Getty Images)" %}
+
 Dan Watford sepertinya sadar betul bagaimana meng-eksploitasi bek yang menjadi kelemahan Liverpool malam ini.
 
 > Watford striker Troy Deeney has admitted that the Hornets had identified defender Dejan Lovren as a weak point in the Liverpool defence ahead of the Reds' shock 3-0 defeat. — via LiverpoolEcho
-
-{% include figure image_path="https://4.bp.blogspot.com/-KrY0xZvb81A/XlregFCgicI/AAAAAAAAUrY/7cBFcVP_5PkXvniBurcUb5sy2Dq6Wwm7gCLcBGAsYHQ/s1600/Ismaila_Sarr" %}
 
 Gol pertama, Lovren milih bertarung dengan Troy dan malah kena _kempit_. Gol ke-dua Ismaila Sarr juga berkat andil Troy.
 
@@ -66,6 +68,6 @@ Dan sebagai Raja Lawak, Lovren punya pengaruh besar. Vand Dijk, Robertsorn dan A
 
 Sepertinya, Liga Inggris tak akan membosankan lagi. Sejak para manajer di kasih bocoran pelatih Atleti.
 
-Still, #YNWA Lads.. Keinginan fans cilik MUnyuk pun sebagian sudah terkabul. Dan Eyang Wenger boleh tersenyum lebar.
+Still, #YNWA Lads.. Keinginan fans cilik MUnyuk pun sebagian sudah terkabul. Big thanks to Watford, dan Eyang Wenger boleh tersenyum lebar.
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">And still the only Invincible team in Premier League history…<br><br>Arsenal 2003/04 🏆 <a href="https://t.co/R4Jn8v1j8q">pic.twitter.com/R4Jn8v1j8q</a></p>&mdash; B/R Football (@brfootball) <a href="https://twitter.com/brfootball/status/1233836198210260992?ref_src=twsrc%5Etfw">February 29, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">Dear <a href="https://twitter.com/Arsenal?ref_src=twsrc%5Etfw">@Arsenal</a>, <br><br>You&#39;re welcome. <a href="https://t.co/YBdLFn2ZJ5">https://t.co/YBdLFn2ZJ5</a> <a href="https://t.co/7H20xG275r">pic.twitter.com/7H20xG275r</a></p>&mdash; Watford Football Club (@WatfordFC) <a href="https://twitter.com/WatfordFC/status/1233853877126123522?ref_src=twsrc%5Etfw">February 29, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
