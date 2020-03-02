@@ -17,6 +17,8 @@ Liverpool yang akan bermain sebagai tim tamu sepertinya akan kesulitan ketika be
 
 Hanya 3 laga Piala FA yang akan disiarkan Live RCTI dan sisa keseluruhannya akan disiarkan di Bein Sports.
 
+|Kick Off|Laga|Saluran TV|
+|---|---|---|
 ||Selasa|03 Maret 2020|
 |02:45 WIB|Portsmouth vs Arsenal FC|Live RCTI|
 ||Rabu|04 Maret 2020|
