@@ -1,7 +1,7 @@
 ---
 sitemap: false
 permalink: "/lfc-facup"
-layout: "stream"
+layout: "fluidplayer"
 match:
  home: Chelsea FC
  away: Liverpool FC
@@ -14,6 +14,6 @@ video:
  source: "http://34.107.131.44/live/n/chunks.m3u8"
  poster: "https://3.bp.blogspot.com/--eBgLIJgXDk/Xlqns4n5zpI/AAAAAAAAUq0/kLxtSMzCjHEhn-NYCsMAyqKapOFAGUwUACLcBGAsYHQ/s1600/WATLIV"
  logo: "https://cdn.statically.io/img/repo.catetan.pw/icon/favicon-32x32.png"
- link: "https://www.catetan.pw/liverpool"
- type: "application/x-mpegUrl"
+ link: "{{ page.video.link }}"
+ type: "application/x-mpegURL"
 ---
