@@ -1,4 +1,5 @@
 ---
+sitemap: false
 permalink: "/lfc-pc-mobile"
 layout: "fluidplayer"
 match:
