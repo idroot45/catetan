@@ -7,6 +7,7 @@ header:
  teaser: "https://s2.reutersmedia.net/resources/r/?m=02&d=20190222&t=2&i=1359255499&w=480&r=LYNXNPEF1L0WD"
 categories: [liverpool]
 tags: [liverpool fc, chelsea fc, fa cup]
+last_modified_at: 2020-03-03 03:30:03
 ---
 **Chelsea FC vs Liverpool FC!** Ditayangkan langsung oleh Beinsport. Alternatif [cek di bawah](#live).
 {:.notice .notice--info}
