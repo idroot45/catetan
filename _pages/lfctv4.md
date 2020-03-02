@@ -1,4 +1,5 @@
 ---
+sitemap: false
 permalink: "/uclkamis4"
 layout: "fluidplayer"
 match:
