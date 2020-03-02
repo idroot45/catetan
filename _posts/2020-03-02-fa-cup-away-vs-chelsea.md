@@ -13,7 +13,7 @@ tags: [liverpool fc, chelsea fc, fa cup]
 
 Laga Chelsea vs Liverpool akan menjadi salah satu yang paling panas dalam lanjutan Piala FA (FA Cup) yang memasuki babak ke-lima.
 
-Liverpool yang akan bermain sebagai tim tamu sepertinya akan kesulitan Setelah kalah "memalukan" lawan tim juru kunci Watford. Meskipun Liverpool kini sedang menempati puncak Klasemen Liga Inggris, ada isyarat bahwa Liverpool akan memainkan pemain akademi mereka di laga ini..
+Liverpool yang akan bermain sebagai tim tamu sepertinya akan kesulitan ketika bertandang ke markas Chelsea setelah [kalah "memalukan"](https://www.catetan.pw/liverpool/away-vs-watford/) lawan tim juru kunci Watford. Meskipun Liverpool kini sedang menempati puncak Klasemen Liga Inggris, ada isyarat bahwa Liverpool [akan memainkan pemain akademi](https://www.catetan.pw/liverpool/fa-cup-home-vs-shrewsburry/) mereka di laga ini..
 
 Sebagian laga Piala FA akan disiarkan RCTI dan sisa keseluruhannya akan disiarkan di Bein Sports.
 
