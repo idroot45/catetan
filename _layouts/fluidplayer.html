@@ -1,8 +1,7 @@
 <!doctype html>
 <html>
 <head>
-<!-- Video streaming _auto-play_, untuk munculkan suara klik/tap pada video. Jika streaming lewat smartphone, cukup putar layar ponsel untuk tampilan layar penuh. -->
-  <meta charset="utf-8">
+ <meta charset="utf-8">
   <title>{{ page.match.liga }}{% if page.match.home %}: {{ page.match.home }} vs {{ page.match.away }}{% endif %} #{{ page.match.hashtag }}</title>
   <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
   <link rel="stylesheet" href="{{ '/assets/text/block.css' | relative_url }}">
@@ -31,23 +30,48 @@
 <div class="notice notice--info">
 <p><b>#{{ page.match.hashtag }}</b> {{ page.match.liga }}{% if page.match.round %} {{ page.match.round }}: {% endif %}{% if page.match.home %}{{ page.match.home }} vs {{ page.match.away }} starting at {{ page.match.ko }}{% endif %}
 </div>
-<script type="text/javascript">
-fluidPlayer(
-   'fluid',
-    {
-        layoutControls: {
-            fillToContainer: true,
-            primaryColor: '#e40501',
-            title: 'Livestream {% if page.match.home && page.match.away %}{{ page.match.home }} vs {{ page.match.away }}{% endif %}',
-            logo: {
-                imageUrl: '{{ page.video.logo }}',
-                position: 'top right',
-                clickUrl: '{{ page.video.link }}',
-                opacity:  1
+<script>
+    var myFP = fluidPlayer(
+        'fluid',
+        {
+            layoutControls: {
+		fillToContainer: true,
+		primaryColor: "#1E88E5",
+		posterImage: '{{ page.video.poster }}',
+		autoPlay: true,
+		playButtonShowing: false,
+		playPauseAnimation: true,
+		mute: true,
+		title: 'Livestream {% if page.match.home && page.match.away %}{{ page.match.home }} vs {{ page.match.away }}{% endif %}',
+                logo: {
+			imageUrl: '{{ page.video.logo }}',
+			position: 'top right',
+			clickUrl: '{{ page.video.link }}',
+			opacity: 1,
+			mouseOverImageUrl: null,
+			imageMargin: '2px',
+			hideWithControls: false,
+			showOverAds: false
+		},
+		htmlOnPauseBlock: {
+			html: null,
+			height: null,
+			width: null
+		},
+		allowDownload: false,
+		allowTheatre: true,
+		playbackRateEnabled: false,
+		controlBar: {
+			autoHide: true,
+			autoHideTimeout: 3,
+			animated: true
+		},
             },
+            vastOptions: {
+                // To implement ads see http://docs.fluidplayer.com/ad_configuration/
+            }
         }
-    }
-);
+    );
 </script>
 <p>
 {% include tengah.html %}
