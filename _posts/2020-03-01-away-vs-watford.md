@@ -26,7 +26,7 @@ Konoha gakure boleh punya ninja dengan kemampuan tingkat tinggi. Tapi, ketika Na
 
 ### Merindukan Bekpass Lord Hendokage.
 
-[Henderson, Kapten Liverpool](https://www.catetan.pw/liverpool/mengagungkan-sosok-jordan-henderson/){: title="Mengagungkan Sosok Jordan Henderson"}, adalah pemain bola yang punya skill biasa-biasa saja. Tak bisa dipuja macam Messi, Ronaldo atau bahkan Gerrard. Tetapi, di masa ke-kapten-annya, Liverpool sudah mengangkat 3 trofi kejuaran. 
+**[Henderson, Kapten Liverpool](https://www.catetan.pw/liverpool/mengagungkan-sosok-jordan-henderson/){: title="Mengagungkan Sosok Jordan Henderson"}**, adalah pemain bola yang punya skill biasa-biasa saja. Tak bisa dipuja macam Messi, Ronaldo atau bahkan Gerrard. Tetapi, di masa ke-kapten-annya, Liverpool sudah mengangkat 3 trofi kejuaran. 
 
 {% include figure image_path="https://1.bp.blogspot.com/-xT0NNTD-G4Q/XlrFIKsfgII/AAAAAAAAUrA/MbYCQH70FP0CbY2dl74GP2LpIkirDaU7QCLcBGAsYHQ/s600/hancur.png" url="https://1.bp.blogspot.com/-xT0NNTD-G4Q/XlrFIKsfgII/AAAAAAAAUrA/MbYCQH70FP0CbY2dl74GP2LpIkirDaU7QCLcBGAsYHQ/s1600/hancur.png" caption="Tanpa Lord Henderson, Liverpool FC Hancur Lebur" %}
 
@@ -40,7 +40,7 @@ Tapi apa lacur, ketika butuh kemenangan, sang kapten sedang cuti.
 
 Menariknya, bukan kali ini saja Liverpool jadi korban _bullying_ Watford. Ketika awal-awal Jurgen Klopp datang, Watford mampu tumbangkan Liverpool di bulan Desember 2015. Dengan skor yang sama: 3-0, tanpa balas.
 
-{% include figure image_path="https://i2-prod.liverpool.com/incoming/article17832946.ece/ALTERNATES/s810/0_GettyImages-502055356.jpg" caption="Liverpool sudah pernah kalah 3-0 ketika bertandang ke Viacarage Road Stadium pada Desember 2015" %}
+{% include figure image_path="https://cdn.statically.io/img/i2-prod.liverpool.com/incoming/article17832946.ece/ALTERNATES/s810/0_GettyImages-502055356.jpg" caption="Liverpool sudah pernah kalah 3-0 ketika bertandang ke Viacarage Road Stadium pada Desember 2015" %}
 
 Permainan Liverpool kali ini hancur lebur, tanpa visi. Bermain dominan dengan penguasaan bola yang luar biasa. Mo Salah dkk. tak mampu tembus pertahanan Watford FC yang dikawal Ben Foster. Ternyata Watford lebih digdaya. Tank-tank, artileri, bahkan infanteri, terpakir rapi. Meninggalkan ranjau di garis depan, menunggu kesempatan datang ketika musuh menginjaknya, dan boom.
 
@@ -54,7 +54,7 @@ Liverpool bermain kurang sabar. Ketika mencoba sabar, malah terlalu sabar. Alhas
 
 Entah apa yang dipikirkan oleh Klop. Lovren boleh jadi bek tengah yang lumayan, setidaknya pernah menyumbang beberapa goal yang menyelamatkan Liverpool. Tetapi, jika ada pemilihan Raja Lawak, fans pasti sepakat bahwa bek antik yang satu ini adalah yang paling layak mendapatkannya. Meskipun terkesan tak adil, memang kenyataannya demikian. 
 
-{% include figure image_path="https://cdn.statocally.io/img/i2-prod.liverpool.com/incoming/article17602649.ece/ALTERNATES/s615b/2_GettyImages-1194758540.jpg" url="https://cdn.staticalli.io/img/i2-prod.liverpool.com/incoming/article17602649.ece/ALTERNATES/s810/2_GettyImages-1194758540.jpg" caption="Virgil van Dijk is an organiser supreme for Liverpool, but needs help. (Image: Photo by Matthew Ashton - AMA/Getty Images)" %}
+{% include figure image_path="https://cdn.statically.io/img/i2-prod.liverpool.com/incoming/article17602649.ece/ALTERNATES/s615b/2_GettyImages-1194758540.jpg" url="https://cdn.statically.io/img/i2-prod.liverpool.com/incoming/article17602649.ece/ALTERNATES/s810/2_GettyImages-1194758540.jpg" caption="Virgil van Dijk is an organiser supreme for Liverpool, but needs help. (Image: Photo by Matthew Ashton - AMA/Getty Images)" %}
 
 Dan Watford sepertinya sadar betul bagaimana meng-eksploitasi bek yang menjadi kelemahan Liverpool malam ini.
 
