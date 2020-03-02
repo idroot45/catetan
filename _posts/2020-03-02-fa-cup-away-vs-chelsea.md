@@ -15,27 +15,21 @@ Laga Chelsea vs Liverpool akan menjadi salah satu yang paling panas dalam lanjut
 
 Liverpool yang akan bermain sebagai tim tamu sepertinya akan kesulitan ketika bertandang ke markas Chelsea setelah [kalah "memalukan"](https://www.catetan.pw/liverpool/away-vs-watford/) lawan tim juru kunci Watford. Meskipun Liverpool kini sedang menempati puncak Klasemen Liga Inggris, ada isyarat bahwa Liverpool [akan memainkan pemain akademi](https://www.catetan.pw/liverpool/fa-cup-home-vs-shrewsburry/) mereka di laga ini..
 
-Sebagian laga Piala FA akan disiarkan RCTI dan sisa keseluruhannya akan disiarkan di Bein Sports.
+Hanya 3 laga Piala FA yang akan disiarkan Live RCTI dan sisa keseluruhannya akan disiarkan di Bein Sports.
 
-Selasa, 03 Maret 2020
+||Selasa|03 Maret 2020|
+|02:45 WIB|Portsmouth vs Arsenal FC|Live RCTI|
+||Rabu|04 Maret 2020|
+|02:45 WIB|**Chelsea FC vs Liverpool FC**|Bein Sport|
+|03:00 WIB|West Brom vs Newcastle|Bein Sport|
+|03:00 WIB|Reading vs Sheffield United|Bein Sport|
+||Kamis|05 Maret 2020|
+|02:45 WIB|Tottenham vs Norwich|Bein Sport|
+|02:45 WIB|Leicester vs Brimingham|Bein Sport|
+|02:45 WIB|Sheffield Wed vs Man City|Live RCTI|
+||Jumat|06 Maret 2020|
+|02:45 WIB|Derby County vs Manchester United|Live RCTI|
 
-02:45 WIB Portsmouth vs Arsenal FC - Live RCTI
-
-Rabu, 04 Maret 2020
-
-02:45 WIB Chelsea FC vs Liverpool FC - Bein Sport
-03:00 WIB West Brom vs Newcastle - Bein Sport
-03:00 WIB Reading vs Sheffield United - Bein Sport
-
-Kamis, 05 Maret 2020
-
-02:45 WIB Tottenham vs Norwich - Bein Sport
-02:45 WIB Leicester vs Brimingham - Bein Sport
-02:45 WIB Sheffield Wed vs Man City - Live RCTI
-
-Jumat, 06 Maret 2020
-
-02:45 WIB Derby County vs Manchester United - Live RCTI
 
 ### Match
 
