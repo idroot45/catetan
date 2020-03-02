@@ -19,17 +19,17 @@ Hanya 3 laga Piala FA yang akan disiarkan Live RCTI dan sisa keseluruhannya akan
 
 |Kick Off|Laga|Saluran TV|
 |---|---|---|
-||Selasa|03 Maret 2020|
+||_Selasa_|_03 Maret 2020_|
 |02:45 WIB|Portsmouth vs Arsenal FC|Live RCTI|
-||Rabu|04 Maret 2020|
+||_Rabu_|_04 Maret 2020_|
 |02:45 WIB|**Chelsea FC vs Liverpool FC**|Bein Sport|
 |03:00 WIB|West Brom vs Newcastle|Bein Sport|
 |03:00 WIB|Reading vs Sheffield United|Bein Sport|
-||Kamis|05 Maret 2020|
+||_Kamis|_05 Maret 2020_|
 |02:45 WIB|Tottenham vs Norwich|Bein Sport|
 |02:45 WIB|Leicester vs Brimingham|Bein Sport|
 |02:45 WIB|Sheffield Wed vs Man City|Live RCTI|
-||Jumat|06 Maret 2020|
+||_Jumat_|_06 Maret 2020_|
 |02:45 WIB|Derby County vs Manchester United|Live RCTI|
 
 
