@@ -68,4 +68,4 @@ Sepertinya, Liga Inggris tak akan membosankan lagi. Sejak para manajer di kasih 
 
 Still, #YNWA Lads.. Keinginan fans cilik MUnyuk pun sebagian sudah terkabul. Dan Eyang Wenger boleh tersenyum lebar.
 
-{% include twitter id="" user"" %}
+{% include twitter id="1233836198210260992" user"brfootball" %}
