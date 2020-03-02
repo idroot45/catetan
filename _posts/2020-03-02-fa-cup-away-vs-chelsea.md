@@ -1,6 +1,6 @@
 ---
 title: "FA CUP 5th Round : Liverpool FC vs Chelsea FC" 
-excerpt: "Tandang melawan Chelsea FC 5 Maret 2020, Kick-Off 19:45 WIB"
+excerpt: "Tandang melawan Chelsea FC. Kick-Off 02:45 WIB (UTC+7) Rabu, 4 Maret 2020"
 header:
  overlay_image: "https://s2.reutersmedia.net/resources/r/?m=02&d=20190222&t=2&i=1359255499&w=1200&r=LYNXNPEF1L0WD" 
  caption: "Stamford Bridge"
@@ -8,7 +8,7 @@ header:
 categories: [liverpool]
 tags: [liverpool fc, chelsea fc, fa cup]
 ---
-**Chelsea FC vs Liverpool FC!** Ditayangkan langsung oleh Beinsport.
+**Chelsea FC vs Liverpool FC!** Ditayangkan langsung oleh Beinsport. Alternatif [cek di bawah](#match).
 {:.notice .notice--info}
 
 Laga Chelsea vs Liverpool akan menjadi salah satu yang paling panas dalam lanjutan Piala FA (FA Cup) yang memasuki babak ke-lima.
@@ -36,3 +36,6 @@ Kamis, 05 Maret 2020
 Jumat, 06 Maret 2020
 
 02:45 WIB Derby County vs Manchester United - Live RCTI
+
+### Match
+
