@@ -39,3 +39,7 @@ Jumat, 06 Maret 2020
 
 ### Match
 
+Live streaming di halaman ini tersedia minimal 5 menit (bisa lebih cepat sih) sebelum laga dimulai dan akan diganti video higlights setelah laga berakhir.
+{:.notice .notice--info #live}
+
+{% include video provider="internal" id="lfc-facup" %}
