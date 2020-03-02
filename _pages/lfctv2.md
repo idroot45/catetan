@@ -1,14 +1,15 @@
 ---
-permalink: "/lfc-english"
+sitemap: false
+permalink: "/lfc-facup"
 layout: "stream"
 match:
- home: Watford FC
+ home: Chelsea FC
  away: Liverpool FC
- hashtag: WATLIV
+ hashtag: CHELIV
  ko: "00:30 WIB (UTC+7)"
  date: "Minggu, 01 Maret 2020"
- liga: EPL
- round: GW 28
+ liga: FA Cup
+ round: 5th Round
 video:
  source: "http://34.107.131.44/live/n/chunks.m3u8"
  poster: "https://3.bp.blogspot.com/--eBgLIJgXDk/Xlqns4n5zpI/AAAAAAAAUq0/kLxtSMzCjHEhn-NYCsMAyqKapOFAGUwUACLcBGAsYHQ/s1600/WATLIV"
