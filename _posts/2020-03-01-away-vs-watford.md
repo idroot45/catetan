@@ -68,4 +68,4 @@ Sepertinya, Liga Inggris tak akan membosankan lagi. Sejak para manajer di kasih 
 
 Still, #YNWA Lads.. Keinginan fans cilik MUnyuk pun sebagian sudah terkabul. Dan Eyang Wenger boleh tersenyum lebar.
 
-{% include twitter id="1233836198210260992" user"brfootball" %}
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">And still the only Invincible team in Premier League history…<br><br>Arsenal 2003/04 🏆 <a href="https://t.co/R4Jn8v1j8q">pic.twitter.com/R4Jn8v1j8q</a></p>&mdash; B/R Football (@brfootball) <a href="https://twitter.com/brfootball/status/1233836198210260992?ref_src=twsrc%5Etfw">February 29, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
