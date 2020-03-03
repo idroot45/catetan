@@ -6,8 +6,8 @@ match:
  home: Chelsea FC
  away: Liverpool FC
  hashtag: CHELIV
- ko: "00:30 WIB (UTC+7)"
- date: "Minggu, 01 Maret 2020"
+ ko: "00:45 WIB (UTC+7)"
+ date: "Minggu, 04 Maret 2020"
  liga: FA Cup
  round: 5th Round
 video:
