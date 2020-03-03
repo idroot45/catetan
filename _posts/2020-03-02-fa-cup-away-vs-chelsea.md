@@ -59,7 +59,8 @@ Hanya 3 laga Piala FA yang akan disiarkan Live RCTI dan sisa keseluruhannya akan
 ||_Jumat_|_06 Maret 2020_|
 |02:45 WIB|Derby County vs Manchester United|Live RCTI|
 
-Live streaming di halaman ini tersedia minimal 5 menit (bisa lebih cepat sih) sebelum laga dimulai dan akan diganti video higlights setelah laga berakhir.
+Live streaming di halaman ini tersedia minimal 5 menit (bisa lebih cepat sih) sebelum laga dimulai dan akan diganti video higlights setelah laga berakhir.<br/>
+Please note that your ISP may block these video. Use your own favourite VPN or just use [our favourite VPN](https://warp.plus/6SZjr)
 {:.notice .notice--info #live}
 
 {% include video provider="internal" id="lfc-facup" %}
