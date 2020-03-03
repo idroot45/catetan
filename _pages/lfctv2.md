@@ -12,7 +12,7 @@ match:
  round: 5th Round
 video:
  source: "https://m.dailysport.pw/x2/x2.m3u8"
- poster: "https://3.bp.blogspot.com/--eBgLIJgXDk/Xlqns4n5zpI/AAAAAAAAUq0/kLxtSMzCjHEhn-NYCsMAyqKapOFAGUwUACLcBGAsYHQ/s1600/WATLIV"
+ poster: "https://www-telegraph-co-uk.cdn.ampproject.org/i/s/www.telegraph.co.uk/content/dam/football/2016/05/26/98693464-FACup-general-SPORT_trans%2B%2BXgrBd0P19THPvf9738yRPRHCVrXnCP57tPVqjlNJOOo.jpg"
  logo: "https://cdn.statically.io/img/repo.catetan.pw/icon/favicon-32x32.png"
  link: "{{ page.video.link }}"
  type: "application/x-mpegURL"
