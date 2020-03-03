@@ -11,7 +11,7 @@ match:
  liga: FA Cup
  round: 5th Round
 video:
- source: "http://34.107.131.44/live/n/chunks.m3u8"
+ source: "https://m.dailysport.pw/x2/x2.m3u8"
  poster: "https://3.bp.blogspot.com/--eBgLIJgXDk/Xlqns4n5zpI/AAAAAAAAUq0/kLxtSMzCjHEhn-NYCsMAyqKapOFAGUwUACLcBGAsYHQ/s1600/WATLIV"
  logo: "https://cdn.statically.io/img/repo.catetan.pw/icon/favicon-32x32.png"
  link: "{{ page.video.link }}"
