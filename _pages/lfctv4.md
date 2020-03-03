@@ -1,6 +1,6 @@
 ---
 sitemap: false
-permalink: "/budesliga"
+permalink: "/lfctv4"
 layout: "fluidplayer"
 match:
  match:
