@@ -1,18 +1,19 @@
 ---
 sitemap: false
-permalink: "/uclkamis4"
+permalink: "/budesliga"
 layout: "fluidplayer"
 match:
- home: Olympic Lyon
- away: Juventus FC
- hashtag: OLYJUV
- ko: "03:00 WIB (UTC+7)"
- date: "Kamis, 27 Februari 2020"
- liga: UCL
- round: 16 Round 1st Leg
+ match:
+ home: Schalke 04
+ away: Bayern Munchen
+ hashtag: SCHBAY
+ ko: "01:00 WIB (UTC+7)"
+ date: "Minggu, 03 Maret 2020"
+ liga: Bundesliga
+ round: "[HD]"
 video:
- source: "https://g.dailysport.pw/x4/x4.m3u8"
- poster: "https://cdn0--production--images--kly-akamaized-net.cdn.ampproject.org/ii/w1200/s/cdn0-production-images-kly.akamaized.net/mIwfmiFSA1rCRtYWZIP4RsfZ6fo=/673x373/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/3059985/original/015700400_1582618287-Liga_Champions_-_Olympique_Lyon_Vs_Juventus.jpg"
+ source: "https://m.dailysport.pw/x4/x4.m3u8"
+ poster: "https://www.fifaworldcupnews.com/wp-content/uploads/2018/08/Bundesliga-Fixtures-2018-19-Table.jpg"
  logo: "https://cdn.statically.io/img/repo.catetan.pw/icon/favicon-32x32.png"
  link: "https://www.catetan.pw/liverpool"
  type: "application/x-mpegUrl"
