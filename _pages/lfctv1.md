@@ -7,7 +7,7 @@ match:
  away: Liverpool FC
  hashtag: CHELIV
  ko: "00:45 WIB (UTC+7)"
- date: "Minggu, 04 Maret 2020"
+ date: "Rabu, 04 Maret 2020"
  liga: FA Cup
  round: 5th Round
 video:
