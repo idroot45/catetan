@@ -1,13 +1,13 @@
 ---
 title: "FA CUP 5th Round : Liverpool FC vs Chelsea FC" 
-excerpt: "Livestream Chelsea FC vs Liverpool FC. Kick-Off 02:45 WIB (UTC+7) Rabu, 4 Maret 2020"
+excerpt: "Chelsea FC vs Liverpool FC. Kick-Off 02:45 WIB (UTC+7) Rabu, 4 Maret 2020. Skor akhir: 2-0"
 header:
  overlay_image: "https://s2.reutersmedia.net/resources/r/?m=02&d=20190222&t=2&i=1359255499&w=1200&r=LYNXNPEF1L0WD" 
  caption: "Stamford Bridge"
  teaser: "https://s2.reutersmedia.net/resources/r/?m=02&d=20190222&t=2&i=1359255499&w=480&r=LYNXNPEF1L0WD"
 categories: [liverpool]
 tags: [liverpool fc, chelsea fc, fa cup]
-last_modified_at: 2020-03-03 03:30:03
+last_modified_at: 2020-05-03 03:30:03
 ---
 **Chelsea FC vs Liverpool FC!** Ditayangkan langsung oleh Beinsport. Alternatif [cek di bawah](#live).
 {:.notice .notice--info}
@@ -38,7 +38,7 @@ Alternatifnya, memainkan Lewis di posisi bek kiri dengan dengan memainkan Milner
 
 ## Match
 
-
+😒 Liverpool kandas lagi diajang Piala FA. Skor akhir 2-0. No comment, ketiduran.
 
 ### Jadwal Piala FA
 
@@ -57,10 +57,12 @@ Hanya 3 laga Piala FA yang akan disiarkan Live RCTI dan sisa keseluruhannya akan
 |02:45 WIB|Leicester vs Brimingham|Bein Sport|
 |02:45 WIB|Sheffield Wed vs Man City|Live RCTI|
 ||_Jumat_|_06 Maret 2020_|
-|02:45 WIB|Derby County vs Manchester United|Live RCTI|
+|02:45 WIB|Derby County vs Manchester United|[Live RCTI](/pengganti-rcti)|
 
 Live streaming di halaman ini tersedia minimal 5 menit (bisa lebih cepat sih) sebelum laga dimulai dan akan diganti video higlights setelah laga berakhir.<br/>
 Please note that your ISP may block these video. Use your own favourite VPN or just use [our favourite VPN](https://warp.plus/6SZjr)
 {:.notice .notice--info #live}
 
-{% include video provider="internal" id="lfc-facup" %}
+<!--
+{% include video provider="internal" id="/lfc-facup" %}
+-->
