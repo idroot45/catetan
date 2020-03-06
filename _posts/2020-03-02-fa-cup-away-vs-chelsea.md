@@ -7,7 +7,7 @@ header:
  teaser: "https://s2.reutersmedia.net/resources/r/?m=02&d=20190222&t=2&i=1359255499&w=480&r=LYNXNPEF1L0WD"
 categories: [liverpool]
 tags: [liverpool fc, chelsea fc, fa cup]
-last_modified_at: 2020-05-03 03:30:03
+last_modified_at: 2020-03-05 03:30:03
 ---
 **Chelsea FC vs Liverpool FC!** Ditayangkan langsung oleh Beinsport. Alternatif [cek di bawah](#live).
 {:.notice .notice--info}
@@ -30,11 +30,11 @@ Via thisisanfield.com, kemungkinan besar Milner akannbermain sebagai bek kiri da
 
 {% include figure image_path="https://cdn.statically.io/img/www.thisisanfield.com/wp-content/uploads/Lineup1Chelsea.jpg?w=480px" url="https://cdn.statically.io/img/www.thisisanfield.com/wp-content/uploads/Lineup1Chelsea.jpg" caption="Adrian; Williams, Matip, Lovren, Milner; Chirivella, Lallana, Jones; Salah, Origi, Minamino" %}
 
-Alternatifnya, memainkan Lewis di posisi bek kiri dengan dengan memainkan Milner sebagai gelandang dengan menggeser Curtis lebih ke depan. Sementara Origi lebihbke tengah sebagai striker sedangkan Minamino menggantikan posisi Mo Salah/Elliot. Jika tanpa Lordvren, Klopp bisa menandemkan Matip dengan Gomez sebagai bek tengah dan Ki-Jana mungkin bisa dimainkan jika Neco Williams benar-benar tidak bisa tampil.
+Alternatifnya, memainkan Lewis di posisi bek kiri dengan dengan memainkan Milner sebagai gelandang dengan menggeser Curtis lebih ke depan. Sementara Origi lebih ke tengah sebagai striker sedangkan Minamino menggantikan posisi Mo Salah/Elliot. Jika tanpa Lordvren, Klopp bisa menandemkan Matip dengan Gomez sebagai bek tengah dan Ki-Jana mungkin bisa dimainkan jika Neco Williams benar-benar tidak bisa tampil.
 
 **Formasi kedua:**
 
-{% include figure image_path="https://cdn.statically.io/img/www.thisisanfield.com/wp-content/uploads/Lineup2Chelsea.jpg?w=480px" url="https://cdn.statically.io/img/www.thisisanfield.com/wp-content/uploads/Lineup2Chelsea.jpg" caption:"Adrian; Hoever, Gomez, Matip, Lewis; Chirivella, Lallana, Milner; Minamino, Jones, Origi" %}
+{% include figure image_path="https://cdn.statically.io/img/www.thisisanfield.com/wp-content/uploads/Lineup2Chelsea.jpg?w=480px" url="https://cdn.statically.io/img/www.thisisanfield.com/wp-content/uploads/Lineup2Chelsea.jpg" caption="Adrian; Hoever, Gomez, Matip, Lewis; Chirivella, Lallana, Milner; Minamino, Jones, Origi" %}
 
 ## Match
 
