@@ -1,4 +1,6 @@
 
+{% include video provider="youtube" id="bjFqZaNmuMw" %}
+
 Live streaming di halaman ini tersedia minimal 5 menit (bisa lebih cepat sih) sebelum laga dimulai dan akan diganti video higlights setelah laga berakhir.<br/>
 Please note that your ISP may block these video. Use your own favourite VPN or just use [our favourite VPN](https://warp.plus/6SZjr)
 {:.notice .notice--info #live}
