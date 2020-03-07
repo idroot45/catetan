@@ -1,6 +1,6 @@
 ---
 sitemap: false
-permalink: "/lfc-facup"
+permalink: "/facup"
 layout: "fluidplayer"
 match:
  home: Chelsea FC
