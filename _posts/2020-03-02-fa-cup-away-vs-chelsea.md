@@ -38,31 +38,8 @@ Alternatifnya, memainkan Lewis di posisi bek kiri dengan dengan memainkan Milner
 
 ## Match
 
-😒 Liverpool kandas lagi diajang Piala FA. Skor akhir 2-0. No comment, ketiduran.
+😒 Liverpool kandas (lagi) diajang Piala FA. Skor akhir 2-0. Ketiduran, cuma nonton highlights jadi **No Comment!**
 
-### Jadwal Piala FA
+### Highlights
 
-Hanya 3 laga Piala FA yang akan disiarkan Live RCTI dan sisa keseluruhannya akan disiarkan di Bein Sports.
-
-|Kick Off|Laga|Saluran TV|
-|---|---|---|
-||_Selasa_|_03 Maret 2020_|
-|02:45 WIB|Portsmouth vs Arsenal FC|Live RCTI|
-||_Rabu_|_04 Maret 2020_|
-|02:45 WIB|**Chelsea FC vs Liverpool FC**|Bein Sport|
-|03:00 WIB|West Brom vs Newcastle|Bein Sport|
-|03:00 WIB|Reading vs Sheffield United|Bein Sport|
-||_Kamis|_05 Maret 2020_|
-|02:45 WIB|Tottenham vs Norwich|Bein Sport|
-|02:45 WIB|Leicester vs Brimingham|Bein Sport|
-|02:45 WIB|Sheffield Wed vs Man City|Live RCTI|
-||_Jumat_|_06 Maret 2020_|
-|02:45 WIB|Derby County vs Manchester United|[Live RCTI](/pengganti-rcti)|
-
-Live streaming di halaman ini tersedia minimal 5 menit (bisa lebih cepat sih) sebelum laga dimulai dan akan diganti video higlights setelah laga berakhir.<br/>
-Please note that your ISP may block these video. Use your own favourite VPN or just use [our favourite VPN](https://warp.plus/6SZjr)
-{:.notice .notice--info #live}
-
-<!--
-{% include video provider="internal" id="/lfc-facup" %}
--->
+{% include video provider="youtube" id="ohSK9ciol6k" %}
