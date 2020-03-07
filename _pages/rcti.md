@@ -5,8 +5,8 @@ layout: "fluidplayer"
 match:
  hashtag: Live Streaming TV Swasta RCTI
 video:
- source: "https://cdn-livetv1.metube.id/hls/rcti.m3u8","https://cdn-livetv1.metube.id/hls/eplrcti.m3u8 ","https://cdn-stream6.metube.id/hls/CYeRTFCItNRRgRwPVrSvdeN4IR3UjF6P.m3u8","https://cdn-livetv1.metube.id/hls/rcti.m3u8"
- poster: "https://cdn-static.metube.id//live/logo/yjEPQBiSgLuUUCuNfAXe.png"
+ source: "https://cdn-stream6.metube.id/hls/CYeRTFCItNRRgRwPVrSvdeN4IR3UjF6P.m3u8"
+ poster: "https://cdn-static.metube.id/live/logo/yjEPQBiSgLuUUCuNfAXe.png"
  logo: "https://cdn.statically.io/img/repo.catetan.pw/icon/favicon-32x32.png"
  link: "/rcti"
  type: "application/x-mpegURL"
@@ -27,3 +27,7 @@ Pada tahun 2004, RCTI termasuk stasiun televisi yang besar di Indonesia.
 RCTI telah memiliki hak siar atas ajang sepak bola bergengsi Eropa, seperti Kejuaraan Eropa UEFA yang rutin ditayangkan setiap empat tahun sekali sejak 1992 hingga sekarang.
 
 Pada 1992 hingga 2000 tayang bersama SCTV, pada 2008 tayang bersama MNCTV dan GTV, dan 2020 akan tayang berkat kerjasama dengan Mola TV.
+
+<!--
+"https://cdn-livetv1.metube.id/hls/rcti.m3u8","https://cdn-livetv1.metube.id/hls/eplrcti.m3u8 ","https://cdn-stream6.metube.id/hls/CYeRTFCItNRRgRwPVrSvdeN4IR3UjF6P.m3u8","https://cdn-livetv1.metube.id/hls/rcti.m3u8"
+-->
