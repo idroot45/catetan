@@ -29,10 +29,6 @@ Lastly, Adrian, plis sow yur mejik!!! Kangen dengan penampilanmu di awal musim ð
 
 ## Match
 
-<!--
-
 {% include streamnotice %}
 
-{% include video provider="youtube" id="" %}
-
--->
+{% include video provider="youtube" id="YhVZvFEB6Jg" %}
