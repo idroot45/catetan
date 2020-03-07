@@ -9,7 +9,7 @@ categories: [liverpool]
 tags: [liverpool fc, chelsea fc, fa cup]
 last_modified_at: 2020-03-05 03:30:03
 ---
-**Chelsea FC vs Liverpool FC!** Ditayangkan langsung oleh Beinsport. Alternatif [cek di bawah](#live).
+**Chelsea FC vs Liverpool FC!** Ditayangkan langsung oleh Beinsport. Alternatif [cek di bawah](#highlights).
 {:.notice .notice--info}
 
 Laga Chelsea vs Liverpool akan menjadi salah satu yang paling panas dalam lanjutan Piala FA (FA Cup) yang memasuki babak ke-lima.
