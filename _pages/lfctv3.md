@@ -1,19 +1,20 @@
 ---
 sitemap: false
-permalink: "/lfc-backup"
+permalink: "/lfctv-02"
 layout: "fluidplayer"
 match:
- home: Chelsea FC
- away: Liverpool FC
+ away: AFC Bournemouth
+ home: Liverpool FC
  hashtag: CHELIV
- ko: "00:45 WIB (UTC+7)"
- date: "Rabu, 04 Maret 2020"
- liga: FA Cup
- round: 5th Round
+ ko: "19:30 WIB (UTC+7)"
+ date: "Sabtu, 07 Maret 2020"
+ liga: "EPL"
+ round: "Match Week 29"
 video:
- source: "http://34.107.131.44/live/n/chunks.m3u8"
+ source: "/assets/images/Premier%20League%20Intro%20(%20480%20X%20480%20).mp4"
  poster: "https://www-telegraph-co-uk.cdn.ampproject.org/i/s/www.telegraph.co.uk/content/dam/football/2016/05/26/98693464-FACup-general-SPORT_trans%2B%2BXgrBd0P19THPvf9738yRPRHCVrXnCP57tPVqjlNJOOo.jpg"
  logo: "https://cdn.statically.io/img/repo.catetan.pw/icon/favicon-32x32.png"
- link: "https://www.catetan.pw/liverpool"
- type: "application/x-mpegUrl"
+ link: "https://www.catetan.pw/liverpool/home-vs-bournemouth/"
+ type: "video/mp4" # "application/x-mpegURL"
 ---
+<!-- view-source:https://www.streamsports.in/2020/03/liverpool-vs-bournemouth-preview-and.html -->
