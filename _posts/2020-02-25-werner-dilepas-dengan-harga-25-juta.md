@@ -3,6 +3,7 @@ title: "Timo Werner Dilepas Dengan Harga £25 Juta"
 excerpt: "Liverpool kabarnya berada di barisan terdepan untuk mendapatkan Werner dari RB Leipzig."
 header:
  image: "/assets/images/timo-werner-rb-leipzig-liverpool.jpg"
+ teaser: "https://cdn.statically.io/img/i2-prod.mirror.co.uk/incoming/article21603611.ece/ALTERNATES/s615b/2_Tottenham-Hotspur-v-RB-Leipzig-UEFA-Champions-League-Round-of-16-First-Leg.jpg"
  caption: "Liverpool kabarnya berada di barisan terdepan untuk mendapatkan Werner."
 categories: [liverpool]
 tags: [timo werner, liverpool fc, rb leipzig]
