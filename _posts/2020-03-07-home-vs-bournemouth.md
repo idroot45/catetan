@@ -36,4 +36,6 @@ Lastly, Adrian, plis sow yur mejik!!! Kangen dengan penampilanmu di awal musim ð
 
 {% include streamnotice %}
 
+{% include video provider="internal" id="lctv-01" %}
+
 {% include video provider="youtube" id="YhVZvFEB6Jg" %}
