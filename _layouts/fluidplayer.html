@@ -69,7 +69,14 @@
 		},
             },
             vastOptions: {
-                /* To implement ads see http://docs.fluidplayer.com/ad_configuration/ */
+                 adList: [
+                    {
+                    roll: 'preRoll',
+                    vastTag: '/assets/vastxml/vastPreRoll_1.xml',
+                    adText: 'Advertising supports us directly'
+                    }
+                 ]
+              /* To implement ads see http://docs.fluidplayer.com/ad_configuration/ */
             }
         }
     );
