@@ -16,7 +16,7 @@ last_modified_at: 2020-02-27 01:12:08
 
 ### Babak 16 Besar
 
-Jadwal dan Hasil bal-balan **16 Besar** leg pertama UEFA Champions League 2019/2020
+Jadwal/Hasil bal-balan **16 Besar** leg pertama UEFA Champions League 2019/2020
 
 |Home|Away|Live|Result|Kick-off|Date|
 |---|---|:---:|---|---|---|
@@ -24,12 +24,12 @@ Jadwal dan Hasil bal-balan **16 Besar** leg pertama UEFA Champions League 2019/2
 |Borussia Dortmund|Paris Saint Germain|-|FT: 2-1|03.00 WIB (UTC+7)|Rabu, 19/02/2020|
 |Atalanta BC|Valencia CF|-|FT: 4-0|03.00 WIB (UTC+7)|Kamis, 20/02/2020|
 |Tottenham Hotspurs|RB Leipzig|-|FT: 0-1|03.00 WIB (UTC+7)|Kamis, 20/02/2020|
-|Chelsea FC|Bayern Muenchen||FT: 0-3|03.00 WIB (UTC+7)|Rabu, 26/02/2020|
-|SC Napoli|FC Barcelona||FT: 1-1|03.00 WIB (UTC+7)|Rabu, 26/02/2020|
-|Olympic Lyon|Juventus FC|[UCL 1](/uclkamis1){:.btn .btn--info} [UCL 2](/uclkamis2){:.btn .btn--info}|2nd: 1-0|03.00 WIB (UTC+7)|Kamis, 27/02/2020|
-|Manc. City|Real Madrid|[UCL 3](/uclkamis3){:.btn .btn--info} [UCL 4](/uclkamis4){:.btn .btn--info}|2nd: 1-0|03.00 WIB (UTC+7)|Kamis, 27/02/2020|
+|Chelsea FC|Bayern Muenchen|-|FT: 0-3|03.00 WIB (UTC+7)|Rabu, 26/02/2020|
+|SC Napoli|FC Barcelona|-|FT: 1-1|03.00 WIB (UTC+7)|Rabu, 26/02/2020|
+|Olympic Lyon|Juventus FC|-|Ft 1-0|03.00 WIB (UTC+7)|Kamis, 27/02/2020|
+|Manc. City|Real Madrid|-|FT: 2-1|03.00 WIB (UTC+7)|Kamis, 27/02/2020|
 
-Jadwal dan Hasil bal-balan **16 Besar** leg kedua UEFA Champions League 2019/2020
+Jadwal/Hasil bal-balan **16 Besar** leg kedua UEFA Champions League 2019/2020
 
 |Home|Away|Agregate|Kick-off|Date|
 |---|---|---|:---:|---|---|
