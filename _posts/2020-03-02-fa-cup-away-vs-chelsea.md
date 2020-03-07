@@ -43,3 +43,9 @@ Alternatifnya, memainkan Lewis di posisi bek kiri dengan dengan memainkan Milner
 ### Highlights
 
 {% include video provider="youtube" id="ohSK9ciol6k" %}
+
+### Klopp reactions
+
+{% include video provider="youtube" id="xYd0ksD6anc" %}
+
+Next match: [Home vs AFC Bournemouth](/liverpool/away-vs-bournemouth/)
