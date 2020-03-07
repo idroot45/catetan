@@ -2,9 +2,12 @@
 title: "EPL Game Week Ke-28: Watford FC vs Liverpool FC"
 excerpt: "Livestream EPL GW 28 Watford FC vs Liverpool FC. Minggu, 1 Maret 2020 Pukul 00.30 WIB (UTC+7). Skor akhir: 3-0 untuk kemenangan Watford"
 header:
- image: "https://i2-prod.liverpool.com/incoming/article17837599.ece/ALTERNATES/s810/2_GettyImages-1199494600.jpg"
+ video:
+  provider: youtube
+  id: "HcornGi_TqA"
+ og_image: "https://i2-prod.liverpool.com/incoming/article17837599.ece/ALTERNATES/s810/2_GettyImages-1199494600.jpg"
  teaser: "https://3.bp.blogspot.com/--eBgLIJgXDk/Xlqns4n5zpI/AAAAAAAAUq0/kLxtSMzCjHEhn-NYCsMAyqKapOFAGUwUACLcBGAsYHQ/s400/Screenshot_20200301-005856_Chrome.png"
- caption: "Tanpa Lord Henderson, Liverpool FC Hancur Lebur. #WATLIV 3-0"
+# caption: "Tanpa Lord Henderson, Liverpool FC Hancur Lebur. #WATLIV 3-0"
 categories: [liverpool]
 tags: [liga inggris, watford fc, liverpool fc]
 ---
