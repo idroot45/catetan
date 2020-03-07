@@ -2,6 +2,9 @@
 title: "EPL Game Week Ke-29: Liverpool FC vs AFC Bournemouth"
 excerpt: "Lawan Bornemouth di kandang, Liverpool perlu mantapkan pertahanan, dan kreatifitas serangan dari tengah."
 categories: [liverpool]
+header:
+ image: "https://cdn.statically.io/img/www.thisisanfield.com/wp-content/uploads/P2020-02-15_Norwich_Liverpool-91.jpg?filter=grayscale"
+ caption: "Alisson ruled out vs. Bournemouth& Atletico in major blow for Liverpool"
 tags: [liverpool fc, afc bournemouth, liga inggris]
 ---
 Usai keok dalam 2 laga tandang secara beruntun; [Watford: 3-0 (EPL)](/away-vs-watford/), [Chelsea: 2-0 (FA Cup)](https://www.catetan.pw/liverpool/fa-cup-away-vs-chelsea/), Liverpool FC perlu mantapkan pertahanan, dan kreatifitas serangan dari tengah kala jamu Bornemouth FC di Anfield.
@@ -23,3 +26,13 @@ _Opsi 2:_ Alternatively, a switch in formations to **4-2-3-1** could be just the
 Dengan menempatkan Wijnaldum sebagai tandem Fabinho untuk mengalirkan bola, juga sekaligusn membantu Fabinho ketila bertahan. Sementara urusan kreatifitas dalam membuat peluang, bisa diserahkan pada Mane, Firmino dan Minamino. Mo Salah, yang kala menggiring bola sering keserimpet (-kaki pemain lawan-) cukup berperan sebagai striker tunggal saja. Siapa tahu dapet penalti kan lumayan...
 
 Lastly, Adrian, plis sow yur mejik!!! Kangen dengan penampilanmu di awal musim 🥺
+
+## Match
+
+<!--
+
+{% include streamnotice %}
+
+{% include video provider="youtube" id="" %}
+
+-->
