@@ -4,7 +4,7 @@ excerpt: "Lawan Bornemouth di kandang, Liverpool perlu mantapkan pertahanan, dan
 categories: [liverpool]
 tags: [liverpool fc, afc bournemouth, liga inggris]
 ---
-Usai keok dalam 2 laga tandang secara beruntun; Wolves: 3-0 (EPL), Chelsea: 2-0 (FA Cup), Liverpool FC perlu mantapkan pertahanan, dan kreatifitas serangan dari tengah kala jamu Bornemouth FC di Anfield.
+Usai keok dalam 2 laga tandang secara beruntun; [Watford: 3-0 (EPL)](/away-vs-watford/), [Chelsea: 2-0 (FA Cup)](https://www.catetan.pw/liverpool/fa-cup-away-vs-chelsea/), Liverpool FC perlu mantapkan pertahanan, dan kreatifitas serangan dari tengah kala jamu Bornemouth FC di Anfield.
 
 Allison jelas akan absen dalam laga ke-29 Liga Inggris ini. Ketika Henderson belum pulih, tak ada yang membantu Fabinho ketika bertahan. Terlihat dalam 2 laga terakhir, Fabinho seperti keteteran.
 
