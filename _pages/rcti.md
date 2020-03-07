@@ -8,7 +8,7 @@ video:
  source: "https://cdn-livetv1.metube.id/hls/rcti.m3u8","https://cdn-livetv1.metube.id/hls/eplrcti.m3u8 ","https://cdn-stream6.metube.id/hls/CYeRTFCItNRRgRwPVrSvdeN4IR3UjF6P.m3u8","https://cdn-livetv1.metube.id/hls/rcti.m3u8"
  poster: "https://cdn-static.metube.id//live/logo/yjEPQBiSgLuUUCuNfAXe.png"
  logo: "https://cdn.statically.io/img/repo.catetan.pw/icon/favicon-32x32.png"
- link: "{{ page.video.link }}"
+ link: "/rcti"
  type: "application/x-mpegURL"
 ---
 
