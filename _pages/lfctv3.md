@@ -1,6 +1,6 @@
 ---
 sitemap: false
-permalink: "/lfctv-02"
+permalink: "/lfctv-03"
 layout: "fluidplayer"
 match:
  away: AFC Bournemouth
