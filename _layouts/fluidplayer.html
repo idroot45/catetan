@@ -2,12 +2,12 @@
 <html>
 <head>
  <meta charset="utf-8">
-  <title>{{ page.match.liga }}{% if page.match.home %}: {{ page.match.home }} vs {{ page.match.away }}{% endif %} #{{ page.match.hashtag }}</title>
+  <title>{% if page.title %}{{ page.title }}{% else %}{{ page.match.liga }}{% if page.match.home %}: {{ page.match.home }} vs {{ page.match.away }}{% endif %} #{{ page.match.hashtag }}{% endif %}</title>
   <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
   <link rel="stylesheet" href="{{ '/assets/text/block.css' | relative_url }}">
   <link rel="stylesheet" href="https://cdn.fluidplayer.com/v2/current/fluidplayer.min.css" type="text/css"/>
   <script src="https://cdn.fluidplayer.com/v2/current/fluidplayer.min.js"></script>
-  <link rel="canonical" href="{{ page.video.link }}">
+  <link rel="canonical" href="{% if page.video.link %}{{ page.video.link }}{% else %}{{ page.permalink }}{% endif %}">
   <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
   <script type="text/javascript">(adsbygoogle = window.adsbygoogle || []).push({ google_ad_client: "ca-pub-8526606076277673", enable_page_level_ads: true }); </script>
   <script type="text/javascript">var axefo = window.location.assign("googlechrome://navigate?url="+ window.location.href); var activity = axefo;document.getElementsByTagName('head')[0].appendChild(activity);}</script>
