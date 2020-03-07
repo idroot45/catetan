@@ -38,4 +38,6 @@ Lastly, Adrian, plis sow yur mejik!!! Kangen dengan penampilanmu di awal musim ð
 
 {% include video provider="internal" id="lctv-01" %}
 
+<center><a href="/lfctv-02" class=btn btn--success">English</a></center>
+
 {% include video provider="youtube" id="YhVZvFEB6Jg" %}
