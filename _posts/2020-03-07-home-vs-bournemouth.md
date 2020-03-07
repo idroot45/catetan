@@ -7,7 +7,7 @@ header:
  caption: "Alisson ruled out vs. Bournemouth& Atletico in major blow for Liverpool"
 tags: [liverpool fc, afc bournemouth, liga inggris]
 ---
-**Liverpool FC vs AFC Bournemouth** ditayangkan langsung oleh Mola.TV. Untuk alternatif channel [cek di bawah](#match).
+**Liverpool FC vs AFC Bournemouth** ditayangkan langsung oleh **Mola.TV Premium** 😒 pada hari Sabtu, 7 Maret 2020. Kick-Off: 19.30 WIB/UTC+7. Untuk alternatif channel [cek di bawah](#match).
 {:.notice .notice--info}
 
 Usai keok dalam 2 laga tandang secara beruntun; [Watford: 3-0 (EPL)](/away-vs-watford/), [Chelsea: 2-0 (FA Cup)](https://www.catetan.pw/liverpool/fa-cup-away-vs-chelsea/), Liverpool FC perlu mantapkan pertahanan, dan kreatifitas serangan dari tengah kala jamu Bornemouth FC di Anfield.
