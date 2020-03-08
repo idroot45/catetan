@@ -1,5 +1,5 @@
 ---
-permalink: /how-to-stream-with-vlc/
+permalink: /how-to-stream-with-vlc
 title: "How to Play M3U8 Streaming Files in VLC Media Player?"
 excerpt: "Cara memutar video streaming dengan file m3u8 dalam VLC Media Player (B. Inggris)"
 last_modified_at: 2019-10-18 20:25:03
@@ -25,4 +25,3 @@ http://5.196.138.6:1935/live/nrjbelgique/playlist.m3u8
 
 {% include tengah.html %}
 
-{% include bocoran.md %}
