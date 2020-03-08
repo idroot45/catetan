@@ -1,6 +1,6 @@
 ---
 sitemap: false
-permalink: "/lfctv-01"
+permalink: "/lfctv"
 layout: "fluidplayer"
 match:
  away: AFC Bournemouth
@@ -17,4 +17,7 @@ video:
  link: "https://www.catetan.pw/liverpool/home-vs-bournemouth/"
  type: "application/x-mpegURL"
 ---
+
+> Article you may interested: [How to stream with VLC](/how-to-stream-with-vlc)
+
 <!-- view-source:https://www.streamsports.in/2020/03/liverpool-vs-bournemouth-preview-and.html -->
