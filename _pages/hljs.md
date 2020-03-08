@@ -1,4 +1,5 @@
 ---
+sitemap: false
 title: "LFCTV Video Player"
 permalink: "/istimiwir"
 layout: "hlsjs"
