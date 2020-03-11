@@ -6,8 +6,8 @@ match:
  away: Atletico Madrid
  home: Liverpool FC
  hashtag: LIVATM
- ko: "19:30 WIB (UTC+7)"
- date: "Sabtu, 07 Maret 2020"
+ ko: "03:00 WIB (UTC+7)"
+ date: "Kamis, 12 Maret 2020"
  liga: "UCL"
  round: "2nd Leg"
 video:
