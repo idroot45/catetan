@@ -3,16 +3,16 @@ sitemap: false
 permalink: "/lfctv"
 layout: "stream"
 match:
- away: Atletico Madrid
- home: Liverpool FC
- hashtag: LIVATM
- ko: "03:00 WIB (UTC+7)"
- date: "Kamis, 12 Maret 2020"
+ away: " 3)Atletico Madrid"
+ home: "Liverpool FC (2 "
+ hashtag: "LIVATM"
+ ko: "Ended"
+ date: "12/03/2020"
  liga: "UCL"
  round: "2nd Leg"
 video:
- source: "https://cdndaily.troll.network/x2/x2.m3u8"
- poster: "https://1.bp.blogspot.com/-M9CcrGQeSns/XmkMvKt8A5I/AAAAAAAAUzE/RyhSZk6FKo4PHb7BxvmgEoVbnDlB2ZikwCLcBGAsYHQ/w720-h340-c/Liverpool-SPORT_trans%2B%2BXgrBd0P19THPvf9738yRPRHCVrXnCP57tPVqjlNJOOo.jpg"
+ source: ""
+ poster: ""
  logo: "https://cdn.statically.io/img/repo.catetan.pw/icon/favicon-32x32.png"
  link: "https://www.catetan.pw/liverpool/home-vs-bournemouth/"
  type: "application/x-mpegURL"
