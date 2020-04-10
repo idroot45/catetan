@@ -1,6 +1,6 @@
 ---
 title: "Download File from Google Drive"
-permalink: "/google-drive"
+permalink: "/drive.google.com"
 sitemap: false
 comment: false
 excerpt: Google Drive is the most popular cloud storage service in the world
