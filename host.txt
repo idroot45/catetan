@@ -24,9 +24,11 @@
 127.0.0.1  localhost
 ::1  localhost
 
+# [xHelper trojan]
+127.0.0.1 lp.cooktracking.com
+
 # [dramaencode.com]
 127.0.0.1 d22sfab2t5o9bq.cloudfront.net
-127.0.0.1 lp.cooktracking.com
 127.0.0.1 outlookabsorb.com
 127.0.0.1 shortenlink.me
 127.0.0.1 s10.histats.com
