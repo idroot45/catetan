@@ -77,3 +77,11 @@
 
 # [goal.com]
 127.0.0.1 player.daznservices.com
+
+# [tribunnews.com]
+127.0.0.1 cdn3.tstatic.net
+127.0.0.1 d31qbv1cthcecs.cloudfront.net
+127.0.0.1 d5nxst8fruw4z.cloudfront.net
+127.0.0.1 sb.scorecardresearch.com
+127.0.0.1 b.scorecardresearch.com
+127.0.0.1 impulse.forkcdn.com
