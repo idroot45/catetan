@@ -49,14 +49,14 @@ function getQueryVariable(e){
  return!1
 }
 window.onload=function(){
-  var klik=f=getQueryVariable("name"),
+  var klik=f=getQueryVariable("key"),
            e=getQueryVariable("file"),
            d=document.getElementById("download"),
            c=document.getElementById("notice"),
            x="https://mega.nz/file/";
   d.innerHTML=f,
-  d.href=x+e;
-  c.innerHTML="Your link now ready, click the button <b>"+f+"</b> above!";
+  d.href=x+f+"#"+e;
+  c.innerHTML="Your link now ready, click the button <b>"+e+"</b> above!";
   d.classList.remove("btn--primary");
   d.classList.add("btn--success");
   c.classList.remove("notice--primary");
