@@ -1,6 +1,7 @@
 # AdAway ad-on blocklist (AdAway.org)
 #
-# Blocking mobile ad providers and some analytics providers
+# Blocking mobile ad providers 
+# and some analytics providers
 #
 # Project home page:
 # https://www.catetan.pw/
@@ -8,13 +9,17 @@
 # Fetch the latest version of this file:
 # https://www.catetan.pw/host.txt
 #
-# This host list only include ad provider or annoying ads personally found while browsing.
-# Curated by my self manually. Therefore, this is very subjective.
-# And it should only used as an ad-on or a complementary for AdAway default host lists.
+# This host list only include ad provider
+# or annoying ads personally found while browsing.
+# Curated by my self manually. Therefore,
+# this list is very subjective.
+# And it should only used as an ad-on 
+# or a complementary for AdAway default host lists.
 #
 # License:
-# CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
-#
+# CC Attribution 3.0
+# (http://creativecommons.org/licenses/by/3.0/)
+# ------
 
 127.0.0.1  localhost
 ::1  localhost
