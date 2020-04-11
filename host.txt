@@ -2,14 +2,14 @@
 # Blocking mobile ad providers and some analytics providers
 #
 # Project home page:
-# https://www.catetan.pw/host.txt
+# https://www.catetan.pw/
 #
 # Fetch the latest version of this file:
 # https://www.catetan.pw/host.txt
 #
 # This host list only include ad provider or annoying ads personally found while browsing.
-# Therefore, this is very subjective.
-# And should only used as an ad-on or a complementary for AdAway default host lists.
+# Curated by my self manually. Therefore, this is very subjective.
+# And it should only used as an ad-on or a complementary for AdAway default host lists.
 #
 # License:
 # CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
@@ -55,6 +55,9 @@
 127.0.0.1 static.criteo.net
 127.0.0.1 bidder.criteo.com
 127.0.0.1 rtax.criteo.com
+
+# [grid.id]
+127.0.0.1 ads.gridtechno.com
 
 # [google]
 127.0.0.1 tpc.googlesyndication.com
