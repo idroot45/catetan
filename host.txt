@@ -1,20 +1,23 @@
 # AdAway ad-on blocklist (AdAway.org)
 #
-# Blocking mobile ad providers 
-# and some analytics providers
+# Blocking mobile ad providers,
+# some analytics providers,
+# and (maybe) dangerous Malware.
 #
-# Project home page:
-# https://www.catetan.pw/
+# Project home page: Seluk Beluk
+# (https://www.catetan.pw/)
 #
-# Fetch the latest version of this file:
-# https://www.catetan.pw/host.txt
+# Fetch the latest version of this file: Plain text.
+# (https://www.catetan.pw/host.txt)
 #
-# This host list only include ad provider
-# or annoying ads personally found while browsing.
-# Curated by my self manually. Therefore,
-# this list is very subjective.
-# And it should only used as an ad-on 
+# This host list only include ad provider wich
+# serve annoying ads while browsing using chrome.
+# Manually curated by my self.
+# Therefore, this list is very subjective.
+# 
+# As mentioned, it should only be used as an ad-on 
 # or a complementary for AdAway default host lists.
+# (https://adaway.org/hosts.txt)
 #
 # License:
 # CC Attribution 3.0
