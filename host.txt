@@ -46,6 +46,7 @@
 127.0.0.1 www.maxonclick.com
 127.0.0.1 p232207.clksite.com
 127.0.0.1 www.shrinkads.com
+127.0.0.1 mooantink.com
 
 # [detik.com]
 127.0.0.1 ads.pubmatic.com
