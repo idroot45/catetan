@@ -2,13 +2,13 @@
 permalink: "/mega.nz/"
 title: "Secure Cloud Storage: MEGA"
 header:
- og_image: "https://en.wikipedia.org/wiki/File:Mega.co.nz_file_uploader.PNG"
+ og_image: "https://cdn.statically.io/img/upload.wikimedia.org/wikipedia/en/b/b9/Mega.co.nz_file_uploader.PNG"
 ---
 **Overview**
 
 Mega (stylised in uppercase as MEGA) is a cloud storage and file hosting service offered by Mega Limited, an Auckland-based company.
 
-![MEGA](https://en.wikipedia.org/wiki/File:Mega.co.nz_file_uploader.PNG)
+![MEGA](https://cdn.statically.io/img/upload.wikimedia.org/wikipedia/en/b/b9/Mega.co.nz_file_uploader.PNG)
 
 The service is offered primarily through web-based apps. Mega mobile apps are also available for Windows Phone, Android and iOS. Mega is known for its large 50 GB storage allocation for free accounts.
 
@@ -24,7 +24,7 @@ Dotcom stated that encrypting files allows them to work with a larger number of 
 
 <div style="display:block;text-align:center">
 <a id="download" class="btn btn--primary" href="#notice" rel="nofollow noreferer noopener">
-Waiting Google drive..
+Waiting MEGA..
 </a>
 </div>
 <p id="notice" class="notice notice--primary">
