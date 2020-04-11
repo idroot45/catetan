@@ -1,4 +1,5 @@
-# AdAway ad-on blocklist
+# AdAway ad-on blocklist (AdAway.org)
+#
 # Blocking mobile ad providers and some analytics providers
 #
 # Project home page:
