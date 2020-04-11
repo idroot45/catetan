@@ -1,0 +1,47 @@
+# AdAway ad-on blocklist
+# Blocking mobile ad providers and some analytics providers
+#
+# Project home page:
+# https://www.catetan.pw/host.txt
+#
+# Fetch the latest version of this file:
+# https://www.catetan.pw/host.txt
+#
+# This host list only include ad provider or annoying ads personally found while browsing.
+# Therefore, this is very subjective.
+# And should only used as an ad-on or a complementary for AdAway default host lists.
+#
+# License:
+# CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
+#
+
+127.0.0.1  localhost
+::1  localhost
+
+# [dramaencode.com]
+127.0.0.1 d22sfab2t5o9bq.cloudfront.net
+127.0.0.1 lp.cooktracking.com
+127.0.0.1 outlookabsorb.com
+127.0.0.1 shortenlink.me
+127.0.0.1 s10.histats.com
+127.0.0.1 wizliebeg.com
+127.0.0.1 wts.pw
+127.0.0.1 www.adtival.com
+127.0.0.1 www.adtival.network
+127.0.0.1 www.safelinkblog.com
+127.0.0.1 www.wts.pw
+127.0.0.1 shortenlink.me
+
+# [zippyshare.com]
+127.0.0.1 d10lumateci472.cloudfront.net
+127.0.0.1 ds88pc0kw6cvc.cloudfront.net
+127.0.0.1 www.maxonclick.com
+127.0.0.1 p232207.clksite.com
+
+# [detik.com]
+# 127.0.0.1 
+# 127.0.0.1 
+
+# [detik.com]
+# 127.0.0.1 
+# 127.0.0.1 
