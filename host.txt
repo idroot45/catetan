@@ -37,11 +37,12 @@
 127.0.0.1 ds88pc0kw6cvc.cloudfront.net
 127.0.0.1 www.maxonclick.com
 127.0.0.1 p232207.clksite.com
+127.0.0.1 www.shrinkads.com
 
 # [detik.com]
 # 127.0.0.1 
 # 127.0.0.1 
 
-# [detik.com]
+# [kompas.com]
 # 127.0.0.1 
 # 127.0.0.1 
