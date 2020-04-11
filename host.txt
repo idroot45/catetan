@@ -47,6 +47,7 @@
 127.0.0.1 p232207.clksite.com
 127.0.0.1 www.shrinkads.com
 127.0.0.1 mooantink.com
+127.0.0.1 p232207.retdaz.fun
 
 # [detik.com]
 127.0.0.1 ads.pubmatic.com
