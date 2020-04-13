@@ -4,11 +4,13 @@ excerpt: "Beberapa buku elektronik (e-book) PDF premium yang bisa dinduh secara 
 categories: [ebook]
 tags: [javascript, referensi, ebook, buku pdf, download]
 header:
- og_image: "/assets/images/javascript-ebook.jpg"
+ og_image: "/assets/images/IMG_20200413_141933.jpg"
 ---
 Meskipun secara khusus postingan ini menyebut "javascript", namun buku-buku elektronik yang tercamtum dalam daftar ini tidak melulu berisi dan membahas bahasa JavaScript saja. Beberapa buku juga berisi pembahasan lanjutan tentang bahasa pemrograman lain yang berhubungan dengan pengembangan website. JavaScript, yang awalnya bernama Mocha dan sempat berganti nama menjadi LiveScript ini memang lebih akrab digunakan dalam dunia pengembangan website.
 
 Karena itu, kebanyakan buku juga akan membahas CSS dan HTML meskipun dalam takaran se-minimal mungkin. Namun ada juga beberapa buku elektronik (ebook) yang membahas secara menyeluruh web-development yang di dalamnya termasuk JavaScript sebagai salah satu komponen yang hampir mustahil terpisahkan dalam pengembangan website modern.
+
+{% include figure image_path="/assets/images/IMG_20200413_141933.jpg" alt="buku buku javascript" caption="Beberapa buku JavaScript yang populer" %}
 
 Berikut ini daftar e-book tentang JavaScript:
 
