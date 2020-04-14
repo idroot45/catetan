@@ -32,6 +32,7 @@
 
 # [zenomovie 91.209.70.119]
 127.0.0.1 safelinku.com
+127.0.0.1 jsc.mgid.com
 
 # [dramaencode.com]
 127.0.0.1 d22sfab2t5o9bq.cloudfront.net
