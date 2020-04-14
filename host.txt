@@ -31,6 +31,7 @@
 127.0.0.1 lp.cooktracking.com
 
 # [zenomovie 91.209.70.119]
+127.0.0.1 oloxtraffic.net
 127.0.0.1 www.safelinku.com
 127.0.0.1 safelinku.com
 127.0.0.1 jsc.mgid.com
