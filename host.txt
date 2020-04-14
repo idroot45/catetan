@@ -36,6 +36,10 @@
 127.0.0.1 safelinku.com
 127.0.0.1 jsc.mgid.com
 
+# [pastekuy.com]
+127.0.0.1 padsimz.com
+127.0.0.1 showyourresult.com
+
 # [dramaencode.com]
 127.0.0.1 d22sfab2t5o9bq.cloudfront.net
 127.0.0.1 outlookabsorb.com
