@@ -35,6 +35,7 @@
 127.0.0.1 www.safelinku.com
 127.0.0.1 safelinku.com
 127.0.0.1 jsc.mgid.com
+127.0.0.1 elfirkelk.com
 
 # [pastekuy.com]
 127.0.0.1 padsimz.com
