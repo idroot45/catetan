@@ -14,13 +14,13 @@ last_modified_at: 2020-04-15 02:36:00
 Ingin tahu caranya membeli teman?
 {:.notice .notice--warning}
 
-Serial drama Korea, How to Buy a Friend, akan segera tayang pada 6 April mendatang. Drama ini akan dibintangi oleh pemain muda yang namanya sedang naik daun.
+Serial drama Korea, How to Buy a Friend, tayang pada 6 April. Drama ini akan dibintangi oleh pemain muda yang namanya sedang naik daun.
 
 Sebut saja Lee Shin Young, yang dikenal melalui serial drama Crash Landing on You, dan Shin Seung Ho yang populer lewat drama Moment at Eighteen. Ada pula Kim So Hye eks girlband I.O.I, yang populer sejak debut bersama grup bentukan Produce 101 Season 1 tersebut.
 
 How to Buy a Friend sendiri menceritakan Chan Hong (Lee Shin Young), yang memulai pertemanan kontrak dengan petarung legendaris Dong Hyuk (Shin Sung Ho), karena puisi yang ia buat.
 
-{% include figure image_path="assets/images/htbf.jpg" caption="Sebuah tutorial lengkap bagaimana cara membeli teman 😌" %}
+{% include figure image_path="/assets/images/htbf.jpg" caption="Sebuah tutorial lengkap bagaimana cara membeli teman 😌" %}
 
 Sedangkan Kim So Hye akan memerankan Eom Se Yoon, gadis populer yang menyukai Chan Hong. Berlatar kehidupan siswa SMA, drama ini akan menampilkan kesegaran sekaligus permasalahan masa muda para remaja.
 
