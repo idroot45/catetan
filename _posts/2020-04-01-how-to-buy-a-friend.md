@@ -18,3 +18,5 @@ ep5-ep6|[360p](https://www.catetan.pw/zippyshare?srv=95&cde=UtiieB1l&st1=ep5-6&s
 ep7-ep8|[360p](https://www.catetan.pw/zippyshare?srv=73&st1=ep7-8&cde=ncZzqegL&st2=360p)|[540p](https://www.catetan.pw/zippyshare?srv=44&cde=DMYStcI2&st1=ep7-8&st2=540p)
 
 Selamat mempelajari cara membeli teman. 😁
+
+> Itewon Class [di sini](/video/itaewon-class/
