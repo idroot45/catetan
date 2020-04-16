@@ -65,6 +65,12 @@ Episode|Hard Sub|Tanpa sub|Subtitle
 5-6|[360p](https://www.catetan.pw/zippyshare?srv=95&cde=UtiieB1l&st1=ep5-6&st2=360p){:.btn .btn--info}|[540p](https://www.catetan.pw/zippyshare?srv=61&cde=vxuu4KjC&st1=ep5-6&st2=540p){:.btn .btn--info}|[ID](/subscene?subtitles=how-to-buy-a-friend-friendship-contract-gyeyakwoojung&lang=indonesian&id=2190773){:.btn .btn--info} [EN](/subscene?subtitles=how-to-buy-a-friend-friendship-contract-gyeyakwoojung&lang=english&id=2190200){:.btn .btn--info}
 7-8|[360p](https://www.catetan.pw/zippyshare?srv=73&st1=ep7-8&cde=ncZzqegL&st2=360p){:.btn .btn--info}|[540p](https://www.catetan.pw/zippyshare?srv=44&cde=DMYStcI2&st1=ep7-8&st2=540p){:.btn .btn--info}|[ID](/subscene?subtitles=how-to-buy-a-friend-friendship-contract-gyeyakwoojung&lang=indonesian&id=2191511){:.btn .btn--info} [EN](/subscene?subtitles=how-to-buy-a-friend-friendship-contract-gyeyakwoojung&lang=english&id=2190939){:.btn .btn--info}
 
+**Catatan:**
+√ _Hard Sub_: Subtitle sudah ada (Bahasa Indonesia)
+√ _Tanpa Sub_: Subtitle unduh sendiri di kolom selanjutnya, tersedia dalam Bahasa Indonesia (**IN**) dan English (**EN**)
+√ _360p_, _540p_ dan _720p_: Adalah resolusi video. Semakin tinggi file semakin besar yang juga berarti kualitas video semakin bagus.
+{:.notice .notice--info}
+
 Selamat mempelajari cara membeli teman. 😁
 
 > [Di sini](/video/meow-the-secret-boy/) juga ada drama terbaru **Meow the Secret Boy** yang diangkat dari webtoon.
