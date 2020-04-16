@@ -4,8 +4,8 @@ excerpt: "Yuk nonton cara membeli teman sambil rebahan #DiRumahAja"
 categories: [video]
 tags: [download, drama korea]
 header:
- teaser: "https://cdn.statically.io/img/blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_480/v1585901855/hkvaekly8douczryxlor.jpg"
- og_image: "https://cdn.statically.io/img/blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_1024/v1585901858/btvykb5jtfurbamxmflm.jpg"
+ teaser: "/assets/images/htbf-2.jpg"
+ og_image: "/assets/images/htbf.jpg"
 last_modified_at: 2020-04-15 02:36:00
 ---
 Ingin tahu caranya membeli teman?
@@ -17,7 +17,7 @@ Sebut saja Lee Shin Young, yang dikenal melalui serial drama Crash Landing on Yo
 
 How to Buy a Friend sendiri menceritakan Chan Hong (Lee Shin Young), yang memulai pertemanan kontrak dengan petarung legendaris Dong Hyuk (Shin Sung Ho), karena puisi yang ia buat.
 
-{% include figure image_path="https://cdn.statically.io/blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_1024/v1585901858/btvykb5jtfurbamxmflm.jpg" caption="Sebuah tutorial lengkap bagaimana cara membeli teman 😌" %}
+{% include figure image_path="assets/images/htbf.jpg" caption="Sebuah tutorial lengkap bagaimana cara membeli teman 😌" %}
 
 Sedangkan Kim So Hye akan memerankan Eom Se Yoon, gadis populer yang menyukai Chan Hong. Berlatar kehidupan siswa SMA, drama ini akan menampilkan kesegaran sekaligus permasalahan masa muda para remaja.
 
@@ -55,10 +55,10 @@ How to Buy a Friend tayang mulai 6 April, setiap Senin dan Selasa di KBS.
 
 Episode|Hard Sub|Tanpa sub|Subtitle
 ---|:---:|:---:|---
-ep1-ep2|[360p](https://www.catetan.pw/zippyshare?srv=106&cde=vy8lbC3C&st1=ep1-2&st2=360p)|[540p](https://www.catetan.pw/zippshare?srv=60&cde=NeXyj8kS&st1=ep1-2&st2=540p)|[ID](/subscene?subtitles=how-to-buy-a-friend-friendship-contract-gyeyakwoojung&lang=indonesian&id=2183718) [EN](/subscene?subtitles=how-to-buy-a-friend-friendship-contract-gyeyakwoojung&lang=english&id=2183056)
-ep3-ep4|[360p](https://www.catetan.pw/zippyshare?srv=9&cde=PePbotHo&st1=ep3-4&st2=360p)|[540p](https://www.catetan.pw/zippyshare?srv=101&cde=kG7hf4Q7&st1=ep3-4&st2=540p)|[ID](/subscene?subtitles=how-to-buy-a-friend-friendship-contract-gyeyakwoojung&lang=indonesian&id=2184717) [EN](/subscene?subtitles=how-to-buy-a-friend-friendship-contract-gyeyakwoojung&lang=english&id=2183729)
-ep5-ep6|[360p](https://www.catetan.pw/zippyshare?srv=95&cde=UtiieB1l&st1=ep5-6&st2=360p)|[540p](https://www.catetan.pw/zippyshare?srv=61&cde=vxuu4KjC&st1=ep5-6&st2=540p)|[ID](/subscene?subtitles=how-to-buy-a-friend-friendship-contract-gyeyakwoojung&lang=indonesian&id=2190773) [EN](/subscene?subtitles=how-to-buy-a-friend-friendship-contract-gyeyakwoojung&lang=english&id=2190200)
-ep7-ep8|[360p](https://www.catetan.pw/zippyshare?srv=73&st1=ep7-8&cde=ncZzqegL&st2=360p)|[540p](https://www.catetan.pw/zippyshare?srv=44&cde=DMYStcI2&st1=ep7-8&st2=540p)|[ID](/subscene?subtitles=how-to-buy-a-friend-friendship-contract-gyeyakwoojung&lang=indonesian&id=2191511) [EN](/subscene?subtitles=how-to-buy-a-friend-friendship-contract-gyeyakwoojung&lang=english&id=2190939)
+1-2|[360p](https://www.catetan.pw/zippyshare?srv=106&cde=vy8lbC3C&st1=ep1-2&st2=360p)|[540p](https://www.catetan.pw/zippshare?srv=60&cde=NeXyj8kS&st1=ep1-2&st2=540p)|[ID](/subscene?subtitles=how-to-buy-a-friend-friendship-contract-gyeyakwoojung&lang=indonesian&id=2183718) [EN](/subscene?subtitles=how-to-buy-a-friend-friendship-contract-gyeyakwoojung&lang=english&id=2183056)
+3-4|[360p](https://www.catetan.pw/zippyshare?srv=9&cde=PePbotHo&st1=ep3-4&st2=360p)|[540p](https://www.catetan.pw/zippyshare?srv=101&cde=kG7hf4Q7&st1=ep3-4&st2=540p)|[ID](/subscene?subtitles=how-to-buy-a-friend-friendship-contract-gyeyakwoojung&lang=indonesian&id=2184717) [EN](/subscene?subtitles=how-to-buy-a-friend-friendship-contract-gyeyakwoojung&lang=english&id=2183729)
+5-6|[360p](https://www.catetan.pw/zippyshare?srv=95&cde=UtiieB1l&st1=ep5-6&st2=360p)|[540p](https://www.catetan.pw/zippyshare?srv=61&cde=vxuu4KjC&st1=ep5-6&st2=540p)|[ID](/subscene?subtitles=how-to-buy-a-friend-friendship-contract-gyeyakwoojung&lang=indonesian&id=2190773) [EN](/subscene?subtitles=how-to-buy-a-friend-friendship-contract-gyeyakwoojung&lang=english&id=2190200)
+7-8|[360p](https://www.catetan.pw/zippyshare?srv=73&st1=ep7-8&cde=ncZzqegL&st2=360p)|[540p](https://www.catetan.pw/zippyshare?srv=44&cde=DMYStcI2&st1=ep7-8&st2=540p)|[ID](/subscene?subtitles=how-to-buy-a-friend-friendship-contract-gyeyakwoojung&lang=indonesian&id=2191511) [EN](/subscene?subtitles=how-to-buy-a-friend-friendship-contract-gyeyakwoojung&lang=english&id=2190939)
 
 Selamat mempelajari cara membeli teman. 😁
 
