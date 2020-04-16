@@ -3,7 +3,10 @@ title: "Meow the Secret Boy"
 categories: [video]
 tags: [drama korea, download]
 header:
- teaser: ""
+ video:
+  id: "plcg1m5fqz8"
+  provider: "youtube"
+ teaser: "https://cdn.statically.io/img/www.hancinema.net/photos/fullsizephoto1131728.jpg?w=480"
  og_image: "https://cdn.statically.io/img/dramaencode.com/wp-content/uploads/2020/03/Meow-The-Secret-Boy.jpg?w=678px&h=381px"
 last_modified_at: 2020-04-16 21:01:03
 ---
@@ -11,6 +14,8 @@ last_modified_at: 2020-04-16 21:01:03
 Sol-A (Shin Ye-Eun) adalah seorang wanita berusia pertengahan 20-an dan bekerja untuk sebuah perusahaan desain grafis. Dia bermimpi menjadi seniman webcomic dan dia adalah orang yang mudah bergaul. Sol-A kebetulan membawa pulang seekor kucing, Hong-Zo (Kim Myung-Soo).
 
 Sol-A tidak menyadari bahwa Hong-Zo bukan kucing biasa. Dia memiliki kemampuan untuk berubah menjadi manusia. Hidup dengan kucing Hong-Zo, Sol-A terlibat dalam kasus yang tidak terduga.
+
+{% include figure imgage_path="https://cdn.statically.io/img/img1.kpopmap.com/2019/08/welcome-drama-reading-kbs.jpg" caption="" %{
 
 Episode|Hard Sub|Tanpa Sub|Subtitle
 ---|---|---|---
@@ -33,7 +38,7 @@ Episode|Hard Sub|Tanpa Sub|Subtitle
 √ _360p_, _540p_ dan _720p_: Adalah resolusi video. Semakin tinggi file semakin besar yang juga berarti kualitas video semakin bagus.
 {:.notice .notice--info}
 
-{% include figure image_url="https://cdn.statically.io/img/dramaencode.com/wp-content/uploads/2020/03/Meow-The-Secret-Boy.jpg" caption="Meow the Secret Boy" %}
+{% include figure image_path="https://cdn.statically.io/img/dramaencode.com/wp-content/uploads/2020/03/Meow-The-Secret-Boy.jpg?w=678px&h=381px" title="Meow: The Secret Boy" url="https://cdn.statically.io/img/dramaencode.com/wp-content/uploads/2020/03/Meow-The-Secret-Boy.jpg" caption="Meow the Secret Boy" caption="Meow the Secret Boy" %}
 
 Info|Keterangan
 ---|---
