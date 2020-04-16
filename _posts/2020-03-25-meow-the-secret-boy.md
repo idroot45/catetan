@@ -15,7 +15,7 @@ Sol-A (Shin Ye-Eun) adalah seorang wanita berusia pertengahan 20-an dan bekerja 
 
 Sol-A tidak menyadari bahwa Hong-Zo bukan kucing biasa. Dia memiliki kemampuan untuk berubah menjadi manusia. Hidup dengan kucing Hong-Zo, Sol-A terlibat dalam kasus yang tidak terduga.
 
-{% include figure imgage_path="https://cdn.statically.io/img/img1.kpopmap.com/2019/08/welcome-drama-reading-kbs.jpg" caption="2 pemeran utama serial drama Meow the Secret Boy" %}
+{% include figure image_path="https://cdn.statically.io/img/dramaencode.com/wp-content/uploads/2020/03/Meow-The-Secret-Boy.jpg?w=678px&h=381px" title="Meow: The Secret Boy" url="https://cdn.statically.io/img/dramaencode.com/wp-content/uploads/2020/03/Meow-The-Secret-Boy.jpg" caption="Meow the Secret Boy" caption="Meow the Secret Boy" %}
 
 Episode|Hard Sub|Tanpa Sub|Subtitle
 ---|---|---|---
@@ -38,7 +38,7 @@ Episode|Hard Sub|Tanpa Sub|Subtitle
 √ _360p_, _540p_ dan _720p_: Adalah resolusi video. Semakin tinggi file semakin besar yang juga berarti kualitas video semakin bagus.
 {:.notice .notice--info}
 
-{% include figure image_path="https://cdn.statically.io/img/dramaencode.com/wp-content/uploads/2020/03/Meow-The-Secret-Boy.jpg?w=678px&h=381px" title="Meow: The Secret Boy" url="https://cdn.statically.io/img/dramaencode.com/wp-content/uploads/2020/03/Meow-The-Secret-Boy.jpg" caption="Meow the Secret Boy" caption="Meow the Secret Boy" %}
+{% include figure imgage_path="https://cdn.statically.io/img/img1.kpopmap.com/2019/08/welcome-drama-reading-kbs.jpg" caption="2 pemeran utama serial drama Meow the Secret Boy" %}
 
 Info|Keterangan
 ---|---
