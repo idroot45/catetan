@@ -4,6 +4,7 @@ excerpt: "Daftar link unduhan"
 categories: [video]
 tags: [download, drama korea]
 header:
+ teaser: "https://cdn.statically.io/img/blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_480/v1585901855/hkvaekly8douczryxlor.jpg"
  og_image: "https://cdn.statically.io/img/blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_1024/v1585901858/btvykb5jtfurbamxmflm.jpg"
 last_modified_at: 2020-04-15 02:36:00
 ---
