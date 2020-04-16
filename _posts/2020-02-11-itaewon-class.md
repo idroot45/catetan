@@ -21,6 +21,8 @@ Episode|Hard Sub|Tanpa Sub|Subtitle
 7|[360p](/zippyshare?st1=ep7&srv=78&cde=RzrHS8xd&st2=360p)|[540p](/zippyshare?st1=ep7&srv=2&cde=RMvjnswM&st2=540p) [720p](/drive.google.com/?id=1i4rWHBNvDM_dCFPbWKErMBBt_VKDAKJ3&name=&size=720p)|[ID](https://subscene.com/subtitles/itaewon-class-itaewon-kkeulasseu/indonesian/2149248) [EN](https://subscene.com/subtitles/itaewon-class-itaewon-kkeulasseu/english/2149399)
 8|[360p](/zippyshare?st1=ep8&srv=59&cde=TePAElnW&st2=360p)|[540p](/zippyshare&st1=ep8&srv=80&cde=HKa1bYXy&st2=540p) [720p](/drive.google.com/?id=1BgPW99mdaF4_DeJyjF85FqgClP5c3hdn&name=&size=720p)|[ID](https://subscene.com/subtitles/itaewon-class-itaewon-kkeulasseu/indonesian/2149934) [EN](https://subscene.com/subtitles/itaewon-class-itaewon-kkeulasseu/english/2149974)
 
+{% include tengah.html %}
+
 Episode|Hard Sub|Tanpa Sub|Subtitle
 ---|---|---|---
 9|[360p](/zippyshare?st1=ep9&srv=87&cde=PwgeLLaQ&st2=360p)|[540p](/zippyshare?st1=ep9&srv=35&cde=hUMqH86o&st2=540p) [720p]()|[ID](https://subscene.com/subtitles/itaewon-class-itaewon-kkeulasseu/indonesian/2154063) [EN](https://subscene.com/subtitles/itaewon-class-itaewon-kkeulasseu/english/2154068)
