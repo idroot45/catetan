@@ -67,4 +67,4 @@ Selamat mempelajari cara membeli teman. 😁
 
 > Barangkali kamu tertarik dan belum sempat nonton, serial drama korea **Iteawon Class** ada [di sini](/video/itaewon-class/).
 
-> [Di sini](/video/meow-the-secret-boy/) juga ada drama terbaru **Meow the Secret Boy* yang diangkat dari webtoon.
+> [Di sini](/video/meow-the-secret-boy/) juga ada drama terbaru **Meow the Secret Boy** yang diangkat dari webtoon.
