@@ -46,7 +46,7 @@ Sesuai judul, drama ini akan mengisahkan perjalanan Chan Hong dan Don Hyuk yang 
 
 ### 3. Diangkat dari webtoon
 
-Kebanyakan serial drama yang diangkat dari webtoon memiliki cerita yang unik. Drama jenis ini juga biasanya sangat dinantikan para penggemar webtoon, yang penasaran dengan jalan cerita yang diangkat ke layar kaca. Sebut saja Itaewon Class dan Extraordinary You, drama dari webtoon yang meraih rating tinggi.
+Kebanyakan serial drama yang diangkat dari webtoon] memiliki cerita yang unik. Drama jenis ini juga biasanya sangat dinantikan para penggemar webtoon, yang penasaran dengan jalan cerita yang diangkat ke layar kaca. Sebut saja Itaewon Class dan Extraordinary You, drama dari webtoon yang meraih rating tinggi.
 
 Tak berbeda dengan kedua drama tersebut, How to Buy a Friend juga diangkat dari webtoon populer berjudul sama. Drama ini akan mengkombinasikan cerita remaja, dengan kedalaman puisi.
 
@@ -66,3 +66,4 @@ Episode|Hard Sub|Tanpa sub|Subtitle
 Selamat mempelajari cara membeli teman. 😁
 
 > Barangkali kamu tertarik dan belum sempat nonton, serial drama korea **Iteawon Class** ada [di sini](/video/itaewon-class/)
+> [Di sini](/video/meow-the-secret-boy/) juga ada drama terbaru **Meow the Secret Boy* yang diangkat dari webtoon.
