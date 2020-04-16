@@ -30,7 +30,7 @@ Episode|Hard Sub|Tanpa Sub|Subtitle
 √ _360p_, _540p_ dan _720p_: Adalah resolusi video. Semakin tinggi file semakin besar yang juga berarti kualitas video semakin bagus.
 {:.notice .notice--info}
 
-{% include figure image_url="https://dramaencode.com/wp-content/uploads/2020/03/Meow-The-Secret-Boy.jpg" caption="Meow the Secret Boy" %}
+{% include figure image_url="https://cdn.statically.io/img/dramaencode.com/wp-content/uploads/2020/03/Meow-The-Secret-Boy.jpg" caption="Meow the Secret Boy" %}
 
 Info|Keterangan
 ---|---
