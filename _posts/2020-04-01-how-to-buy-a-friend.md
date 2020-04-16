@@ -8,7 +8,7 @@ last_modified_at: 2020-04-15 02:36:00
 Ingin tahu caranya membeli teman?
 {:.notice .notice--info}
 
-{include figure image_path="https://cdn.statically.io/img/dramaencode.com/wp-content/uploads/2020/04/Download-Drama-Korea-How-to-Buy-a-Friend-Subtitle-Indonesia.jpg" caption="sebuah tutorial lengkap cara membeli teman"}
+{% include figure image_path="https://cdn.statically.io/img/dramaencode.com/wp-content/uploads/2020/04/Download-Drama-Korea-How-to-Buy-a-Friend-Subtitle-Indonesia.jpg" caption="Sebuah tutorial lengkap bagaimana cara membeli teman 😌" %}
 
 Episode|Hardsub|Nosub
 ---|---|---
