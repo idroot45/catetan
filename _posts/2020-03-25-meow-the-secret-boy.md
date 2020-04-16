@@ -7,7 +7,7 @@ header:
   id: "plcg1m5fqz8"
   provider: "youtube"
  teaser: "https://cdn.statically.io/img/www.hancinema.net/photos/fullsizephoto1131728.jpg?w=480"
- og_image: "https://cdn.statically.io/img/dramaencode.com/wp-content/uploads/2020/03/Meow-The-Secret-Boy.jpg?w=678px&h=381px"
+ og_image: "https://cdn.statically.io/img/www.hancinema.net/photos/fullsizephoto1131728.jpg"
 last_modified_at: 2020-04-16 21:01:03
 ---
 
@@ -15,7 +15,7 @@ Sol-A (Shin Ye-Eun) adalah seorang wanita berusia pertengahan 20-an dan bekerja 
 
 Sol-A tidak menyadari bahwa Hong-Zo bukan kucing biasa. Dia memiliki kemampuan untuk berubah menjadi manusia. Hidup dengan kucing Hong-Zo, Sol-A terlibat dalam kasus yang tidak terduga.
 
-{% include figure imgage_path="https://cdn.statically.io/img/img1.kpopmap.com/2019/08/welcome-drama-reading-kbs.jpg" caption="" %{
+{% include figure imgage_path="https://cdn.statically.io/img/img1.kpopmap.com/2019/08/welcome-drama-reading-kbs.jpg" caption="2 pemeran utama serial drama Meow the Secret Boy" %}
 
 Episode|Hard Sub|Tanpa Sub|Subtitle
 ---|---|---|---
@@ -52,4 +52,3 @@ Network|KBS2
 Episodes|32
 Release Date|25 Maret 2020 —
 Runtime|Rabu & Kamis 22:00
-
