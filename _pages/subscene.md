@@ -101,7 +101,7 @@ window.onload=function(){
            x="https://subscene.com/subtitles/";
   d.innerHTML=f,
   d.href=x+g+"/"+f+"/"+e;
-  c.innerHTML="Your link now ready, click the button <b>"+e+f"</b> above!";
+  c.innerHTML="Your link now ready, click the button <b>"+e+f+"</b> above!";
   d.classList.remove("btn--primary");
   d.classList.add("btn--success");
   c.classList.remove("notice--primary");
