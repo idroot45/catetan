@@ -31,7 +31,6 @@ Episode|Hard Sub|Tanpa Sub|Subtitle
 {:.notice .notice--info}
 
 {% include figure image_url="https://dramaencode.com/wp-content/uploads/2020/03/Meow-The-Secret-Boy.jpg" caption="Meow the Secret Boy" %}
-Meow: The Secret Boy
 
 Info|Keterangan
 ---|---
