@@ -32,7 +32,7 @@ Episode|Hard Sub|Tanpa Sub|Subtitle
 15|[360p]()|[540p]()|[ID][EN]|
 16|[360p]()|[540p]()|[ID][EN]|
 
-
+Info|Keterangan
 ---|---
 Judul Drama:|Itaewon Class
 Revised romanization|Itaewon Kkeulasseu
