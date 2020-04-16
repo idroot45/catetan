@@ -48,6 +48,8 @@ Sesuai judul, drama ini akan mengisahkan perjalanan Chan Hong dan Don Hyuk yang 
 
 Kebanyakan serial drama yang diangkat dari webtoon] memiliki cerita yang unik. Drama jenis ini juga biasanya sangat dinantikan para penggemar webtoon, yang penasaran dengan jalan cerita yang diangkat ke layar kaca. Sebut saja Itaewon Class dan Extraordinary You, drama dari webtoon yang meraih rating tinggi.
 
+> Barangkali kamu tertarik dan belum sempat nonton, serial drama korea **Iteawon Class** ada [di sini](/video/itaewon-class/).
+
 Tak berbeda dengan kedua drama tersebut, How to Buy a Friend juga diangkat dari webtoon populer berjudul sama. Drama ini akan mengkombinasikan cerita remaja, dengan kedalaman puisi.
 
 Selain itu, drama ini akan diiringi oleh beragam soundtrack khas, karena disutradarai oleh sutradara Yoo Young yang dikenal sering memilih musik yang unik.
@@ -64,7 +66,5 @@ Episode|Hard Sub|Tanpa sub|Subtitle
 7-8|[360p](https://www.catetan.pw/zippyshare?srv=73&st1=ep7-8&cde=ncZzqegL&st2=360p){:.btn .btn--info}|[540p](https://www.catetan.pw/zippyshare?srv=44&cde=DMYStcI2&st1=ep7-8&st2=540p){:.btn .btn--info}|[ID](/subscene?subtitles=how-to-buy-a-friend-friendship-contract-gyeyakwoojung&lang=indonesian&id=2191511){:.btn .btn--info} [EN](/subscene?subtitles=how-to-buy-a-friend-friendship-contract-gyeyakwoojung&lang=english&id=2190939){:.btn .btn--info}
 
 Selamat mempelajari cara membeli teman. 😁
-
-> Barangkali kamu tertarik dan belum sempat nonton, serial drama korea **Iteawon Class** ada [di sini](/video/itaewon-class/).
 
 > [Di sini](/video/meow-the-secret-boy/) juga ada drama terbaru **Meow the Secret Boy** yang diangkat dari webtoon.
