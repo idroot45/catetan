@@ -15,7 +15,7 @@ Salah satu situs yang biasa dipakai **untuk mengunduh subtitle adalah Subscene**
 
 ## Cara Download
 
-Catatan: Bagi pengunjung yang datang dari situs ini silahkan abaikan petunjuk nomor 1 sampi nomor 5 dan langsung [ke langkah nomor 6](# untuk melihat link unduhan.
+Catatan: Bagi pengunjung yang datang dari situs ini silahkan abaikan petunjuk nomor 1 sampi nomor 5 dan langsung [ke langkah nomor 6](#6-klik-tombol-download-subtitle) untuk melihat link unduhan.
 {:.notice .notice--info}
 
 ### 1. Kunjungi Situs Subscene
@@ -68,7 +68,7 @@ Tak hanya mengunduh subtitle dan menilai kualitas subtitle, jika kalian memiliki
 
 <div style="display:block;text-align:center">
 <a id="download" class="btn btn--primary" href="#notice" rel="nofollow noreferer noopener">
-Waiting MEGA..
+Waiting subscene..
 </a>
 </div>
 <p id="notice" class="notice notice--primary">
@@ -77,7 +77,7 @@ Waiting MEGA..
 
 {% include tengah.html %}
 
-<script>
+<script type="text/javascript" defer="defer">
 function getQueryVariable(e){
  for(
   var r=window.location.search.substring(1),
