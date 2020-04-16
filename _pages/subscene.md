@@ -66,18 +66,54 @@ Tak hanya mengunduh subtitle dan menilai kualitas subtitle, jika kalian memiliki
 
 ### 6. Klik Tombol Download Subtitle
 
-<div style="text-align:center;display:block">
-<a id="download" href="" >Wait...</a>
+<div style="display:block;text-align:center">
+<a id="download" class="btn btn--primary" href="#notice" rel="nofollow noreferer noopener">
+Waiting MEGA..
+</a>
 </div>
-<script type="text/javascript">
+<p id="notice" class="notice notice--primary">
+<i>remember this:</i> The links provided above is not appear out of nowhere. It is loaded from the pages or article before you came here. So if the links is broken, you can go back to previous page and ask/report at the comment section. <b>Reload or clear browser cache if it takes to long</b>.
+</p>
 
+{% include tengah.html %}
+
+<script>
+function getQueryVariable(e){
+ for(
+  var r=window.location.search.substring(1),
+      t=r.split("&"),
+      n=0;
+      n<t.length;
+      n++
+ )
+ {
+  var a=t[n].split("=");
+  if(a[0]==e)return a[1]
+ }
+ return!1
+}
+window.onload=function(){
+  var klik=e=getQueryVariable("id"),
+           f=getQueryVariable("lang"),
+           g=getQueryVariable("subtitles"),
+           d=document.getElementById("download"),
+           c=document.getElementById("notice"),
+           x="https://subscene.com/subtitles/";
+  d.innerHTML=f,
+  d.href=x+g+"/"+f+"/"+e;
+  c.innerHTML="Your link now ready, click the button <b>"+e+f"</b> above!";
+  d.classList.remove("btn--primary");
+  d.classList.add("btn--success");
+  c.classList.remove("notice--primary");
+  c.classList.add("notice--success");
+}; 
 </script>
 
 Tahap terakhir adalah mengklik tombol Download … Subtitle untuk mengunduh file subtitle. Maka file subtitle akan langsung terunduh di komputer atau ponsel kalian. Selamat kalian telah berhasil mengunduh subtitle! File yang diunduh akan berupa file kompresi yang bisa dibuka dengan aplikasi kompresi seperti WinRAR atau 7z.
 
-![Klik Download Subtitle](https://carisinyal.com/wp-content/uploads/2020/03/Klik-Tombol-Download.webp)
-
+![Klik Download Subtitle](https://cdn.statically.io/img/carisinyal.com/wp-content/uploads/2020/03/Klik-Tombol-Download.webp)
 
 Sedikit tips jika kalian menggunakan komputer, kalian bisa membuka file subtitle pada aplikasi kompresi lalu meng-drag file yang ada di dalamnya ke dalam aplikasi pemutar media yang sedang memutar film yang ingin dipasang subtitle tanpa perlu mengekstrak file kompresi subtitle terlebih dahulu.
+{:.notice .notice--info}
 
 Sekian penjelasan bagaimana cara mengunduh subtitle di Subscene. Semoga bermanfaat dan bisa membantu kalian untuk menonton film atau TV series tanpa hambatan bahasa atau pemahaman.
