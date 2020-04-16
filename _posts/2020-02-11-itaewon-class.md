@@ -34,6 +34,8 @@ Episode|Hard Sub|Tanpa Sub|Subtitle
 15|[360p](/zippyshare?st1=ep15&srv=71&cde=E2N2uRkh&st2=360p)|[540p](/zippyshare?st1=ep15&srv=54&cde=G8kSDGnH&st2=540p) [720p]()|[ID](https://subscene.com/subtitles/itaewon-class-itaewon-kkeulasseu/indonesian/2168186) [EN](https://subscene.com/subtitles/itaewon-class-itaewon-kkeulasseu/english/2168180)
 16|[360p](/zippyshare?st1=ep16&srv=72&cde=1pP98lOP&st2=360p)|[540p](/zippyshare?st1=ep16&srv=33&cde=I67C8Jeo&st2=540p) [720p]()|[ID](https://subscene.com/subtitles/itaewon-class-itaewon-kkeulasseu/indonesian/2168998) [EN](https://subscene.com/subtitles/itaewon-class-itaewon-kkeulasseu/english/2169042)
 
+{% include figure image_path="https://4.bp.blogspot.com/-fRJxsczvmQg/XphKAlB0lrI/AAAAAAAAVL4/pEaCMxdiU2w9qliCELWvJlgowJqmBq5QgCLcBGAsYHQ/s600/itaewon-class.png" alt="Drama Korea Itaewon Class" title="Itaewon Class" url=https://4.bp.blogspot.com/-fRJxsczvmQg/XphKAlB0lrI/AAAAAAAAVL4/pEaCMxdiU2w9qliCELWvJlgowJqmBq5QgCLcBGAsYHQ/s1600/itaewon-class.png" caption="kolase scene Itaewon Class (JTBC)" %}
+
 Info|Keterangan
 ---|---
 Judul Drama:|Itaewon Class
