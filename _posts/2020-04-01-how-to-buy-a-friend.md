@@ -11,19 +11,19 @@ last_modified_at: 2020-04-15 02:36:00
 Ingin tahu caranya membeli teman?
 {:.notice .notice--warning}
 
-Serial drama Korea, How to Buy a Friend, akan segera tayang pada 6 April mendatang. Drama ini akan dibintangi oleh pemain muda yang namanya sedang naik daun.  
+Serial drama Korea, How to Buy a Friend, akan segera tayang pada 6 April mendatang. Drama ini akan dibintangi oleh pemain muda yang namanya sedang naik daun.
 
-Sebut saja Lee Shin Young, yang dikenal melalui serial drama Crash Landing on You, dan Shin Seung Ho yang populer lewat drama Moment at Eighteen. Ada pula Kim So Hye eks girlband I.O.I, yang populer sejak debut bersama grup bentukan Produce 101 Season 1 tersebut.  
+Sebut saja Lee Shin Young, yang dikenal melalui serial drama Crash Landing on You, dan Shin Seung Ho yang populer lewat drama Moment at Eighteen. Ada pula Kim So Hye eks girlband I.O.I, yang populer sejak debut bersama grup bentukan Produce 101 Season 1 tersebut.
 
-How to Buy a Friend sendiri menceritakan Chan Hong (Lee Shin Young), yang memulai pertemanan kontrak dengan petarung legendaris Dong Hyuk (Shin Sung Ho), karena puisi yang ia buat.  
+How to Buy a Friend sendiri menceritakan Chan Hong (Lee Shin Young), yang memulai pertemanan kontrak dengan petarung legendaris Dong Hyuk (Shin Sung Ho), karena puisi yang ia buat.
 
 {% include figure image_path="https://cdn.statically.io/blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_1024/v1585901858/btvykb5jtfurbamxmflm.jpg" caption="Sebuah tutorial lengkap bagaimana cara membeli teman 😌" %}
 
-Sedangkan Kim So Hye akan memerankan Eom Se Yoon, gadis populer yang menyukai Chan Hong. Berlatar kehidupan siswa SMA, drama ini akan menampilkan kesegaran sekaligus permasalahan masa muda para remaja. 
+Sedangkan Kim So Hye akan memerankan Eom Se Yoon, gadis populer yang menyukai Chan Hong. Berlatar kehidupan siswa SMA, drama ini akan menampilkan kesegaran sekaligus permasalahan masa muda para remaja.
 
-Meskipun KBS sudah sering menayangkan serial drama remaja bertema sekolah, How to Buy a Friend memiliki ciri khas tersendiri, yang membedakan drama ini dengan drama lainnya.  
+Meskipun KBS sudah sering menayangkan serial drama remaja bertema sekolah, How to Buy a Friend memiliki ciri khas tersendiri, yang membedakan drama ini dengan drama lainnya.
 
-Ini 3 alasan kenapa kamu harus nonton How to Buy a Friend: 
+**Ini 3 alasan kenapa kamu harus nonton How to Buy a Friend:**
 
 ## 1. Drama dengan unsur  cerita misteri
 
@@ -37,9 +37,9 @@ Peristiwa ini kemudian mengikat keduanya dengan pertemanan kontrak, sambil menca
 
 ## 2. Mengangkat tema pertemanan kontrak
 
-Biasanya, serial drama remaja akan mengutamakan sisi romansa. Namun, How to Buy a Friend justru mengutamakan kisah pertemanan kontrak antara Chan Hong dan Don Hyuk.  
+Biasanya, serial drama remaja akan mengutamakan sisi romansa. Namun, How to Buy a Friend justru mengutamakan kisah pertemanan kontrak antara Chan Hong dan Don Hyuk.
 
-Sesuai judul, drama ini akan mengisahkan perjalanan Chan Hong dan Don Hyuk yang tak memiliki kesamaan, lalu mengikat kontrak sebagai teman karena saling membutuhkan.  
+Sesuai judul, drama ini akan mengisahkan perjalanan Chan Hong dan Don Hyuk yang tak memiliki kesamaan, lalu mengikat kontrak sebagai teman karena saling membutuhkan.
 
 ### 3. Diangkat dari webtoon
 
@@ -53,7 +53,7 @@ How to Buy a Friend tayang mulai 6 April, setiap Senin dan Selasa di KBS.
 
 ## Yuk Nonton Di Sini
 
-Episode|Hard Sub|Tanpa sub|Subtitle|
+Episode|Hard Sub|Tanpa sub|Subtitle
 ---|:---:|:---:|---
 ep1-ep2|[360p](https://www.catetan.pw/zippyshare?srv=106&cde=vy8lbC3C&st1=ep1-2&st2=360p)|[540p](https://www.catetan.pw/zippshare?srv=60&cde=NeXyj8kS&st1=ep1-2&st2=540p)|[ID](/subscene?subtitles=how-to-buy-a-friend-friendship-contract-gyeyakwoojung&lang=indonesian&id=2183718) [EN](/subscene?subtitles=how-to-buy-a-friend-friendship-contract-gyeyakwoojung&lang=english&id=2183056)
 ep3-ep4|[360p](https://www.catetan.pw/zippyshare?srv=9&cde=PePbotHo&st1=ep3-4&st2=360p)|[540p](https://www.catetan.pw/zippyshare?srv=101&cde=kG7hf4Q7&st1=ep3-4&st2=540p)|[ID](/subscene?subtitles=how-to-buy-a-friend-friendship-contract-gyeyakwoojung&lang=indonesian&id=2184717) [EN](/subscene?subtitles=how-to-buy-a-friend-friendship-contract-gyeyakwoojung&lang=english&id=2183729)
