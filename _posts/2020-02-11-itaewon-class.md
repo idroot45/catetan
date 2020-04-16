@@ -23,14 +23,14 @@ Episode|Hard Sub|Tanpa Sub|Subtitle
 
 Episode|Hard Sub|Tanpa Sub|Subtitle
 ---|---|---|---
-9|[360p]()|[540p]()|[ID][EN]|
-10|[360p]()|[540p]()|[ID][EN]|
-11|[360p]()|[540p]()|[ID][EN]|
-12|[360p]()|[540p]()|[ID][EN]|
-13|[360p]()|[540p]()|[ID][EN]|
-14|[360p]()|[540p]()|[ID][EN]|
-15|[360p]()|[540p]()|[ID][EN]|
-16|[360p]()|[540p]()|[ID][EN]|
+9|[360p]()|[540p]()|[ID]() [EN]|
+10|[360p]()|[540p]()|[ID]() [EN]|
+11|[360p]()|[540p]()|[ID]() [EN]|
+12|[360p]()|[540p]()|[ID]() [EN]|
+13|[360p](https://www50.zippyshare.com/v/sRBGupc3/file.html)|[540p](https://www22.zippyshare.com/v/I3Ec577T/file.html)|[ID](https://subscene.com/subtitles/itaewon-class-itaewon-kkeulasseu/indonesian/2162630) [EN](https://subscene.com/subtitles/itaewon-class-itaewon-kkeulasseu/english/2162622)
+14|[360p](https://www81.zippyshare.com/v/idoq5hlG/file.html)|[540p](https://www17.zippyshare.com/v/9vluEzF6/file.html)|[ID](https://subscene.com/subtitles/itaewon-class-itaewon-kkeulasseu/indonesian/2163554) [EN](https://subscene.com/subtitles/itaewon-class-itaewon-kkeulasseu/english/2163529)
+15|[360p](https://www71.zippyshare.com/v/E2N2uRkh/file.html|[540p](https://www54.zippyshare.com/v/G8kSDGnH/file.html|[ID](https://subscene.com/subtitles/itaewon-class-itaewon-kkeulasseu/indonesian/2168186) [EN](https://subscene.com/subtitles/itaewon-class-itaewon-kkeulasseu/english/2168180)
+16|[360p](https://www72.zippyshare.com/v/1pP98lOP/file.html)|[540p](https://www33.zippyshare.com/v/I67C8Jeo/file.html)|[ID](https://subscene.com/subtitles/itaewon-class-itaewon-kkeulasseu/indonesian/2168998) [EN](https://subscene.com/subtitles/itaewon-class-itaewon-kkeulasseu/english/2169042)
 
 Info|Keterangan
 ---|---
