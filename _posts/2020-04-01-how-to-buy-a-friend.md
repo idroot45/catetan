@@ -4,6 +4,9 @@ excerpt: "Yuk nonton cara membeli teman sambil rebahan #DiRumahAja"
 categories: [video]
 tags: [download, drama korea]
 header:
+ video:
+  id: "Y5o_i6_V198"
+  provider: "youtube"
  teaser: "/assets/images/htbf-2.jpg"
  og_image: "/assets/images/htbf.jpg"
 last_modified_at: 2020-04-15 02:36:00
