@@ -12,8 +12,8 @@ Anak-anak muda ini dikomandoi karakter utama Park Sae Roy (Park Seo Joon). Seora
 
 Episode|Hard Sub|Tanpa Sub|Subtitle
 ---|---|---|---
-1|[360p](/zippyshare?st1=ep1&srv=104&cde=eoukj6mK&st2=360p)|[540p](/zippyshare?st1=ep1&srv=7&cde=VKaLu2Fp&st2=540p)|[ID][EN]|
-2|[360p](/zippyshare?st1=ep2&srv=65&cde=OTUgu5bv&st2=360p)|[540p](/zippyshare?st1=ep2&srv=119gcde=G46GffPF&st2=540p)|[ID][EN]|
+1|[360p](/zippyshare?st1=ep1&srv=104&cde=eoukj6mK&st2=360p)|[540p](/zippyshare?st1=ep1&srv=7&cde=VKaLu2Fp&st2=540p)|[ID](https://subscene.com/subtitles/itaewon-class-itaewon-kkeulasseu/indonesian/2136307) [EN](https://subscene.com/subtitles/itaewon-class-itaewon-kkeulasseu/english/2136207)
+2|[360p](/zippyshare?st1=ep2&srv=65&cde=OTUgu5bv&st2=360p)|[540p](/zippyshare?st1=ep2&srv=119gcde=G46GffPF&st2=540p)|[ID](https://subscene.com/subtitles/itaewon-class-itaewon-kkeulasseu/indonesian/2137045) [EN](https://subscene.com/subtitles/itaewon-class-itaewon-kkeulasseu/english/2137048)
 3|[360p](/zippyshare?st1=ep3&srv=27&cde=IN90rEMd&st2=360p)|[540p](/zippyshare?st1=ep3&srv=107&cde=fvGoXJON&st2=540p)|[ID][EN]|
 4|[360p](/zippyshare?st1=ep4&srv=101&cde=pH8mSkQA&st2=360p)|[540p](/zippyshare?st1=ep4&srv=64&cde=6DSVsJoW&st2=540p)|[ID][EN]|
 5|[360p](/zippyshare?st1=ep5&srv=81&cde=aLHdoubU&st2=360p)|[540p](/zippyshare?st1=ep5&srv=100&cde=rceCMsYe&st2=540p)|[ID][EN]|
