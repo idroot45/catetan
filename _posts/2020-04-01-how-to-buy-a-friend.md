@@ -19,4 +19,4 @@ ep7-ep8|[360p](https://www.catetan.pw/zippyshare?srv=73&st1=ep7-8&cde=ncZzqegL&s
 
 Selamat mempelajari cara membeli teman. 😁
 
-> Itewon Class [di sini](/video/itaewon-class/
+> Itewon Class [di sini](/video/itaewon-class/)
