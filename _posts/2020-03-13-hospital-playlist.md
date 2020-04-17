@@ -93,6 +93,7 @@ Episode|Hard sub|Tanpa Sub|Subtitle
 > √ _Tanpa Sub_: Subtitle unduh sendiri di kolom selanjutnya, tersedia dalam Bahasa Indonesia (ID) dan English (EN) <br/>
 > √ _360p_, _540p_ dan _720p_: Adalah resolusi video. Semakin tinggi resolusi, file semakin besar. Yang juga berarti kualitas video semakin bagus.
 
+{: style="display:block;text-align:center"}
 Info|Keterangan
 ---:|:---
 Judul Drama|Hospital Playlist
@@ -107,4 +108,3 @@ Tanggal rilis|12 Maret 2020 —
 Runtime|Jum'at 21:00
 Bahasa|Korean
 Negara|Korea Selatan
-{: style="display:block"}
