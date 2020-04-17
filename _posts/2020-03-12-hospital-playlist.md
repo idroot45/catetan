@@ -4,8 +4,11 @@ excerpt: "Yuk, Kenalan dengan 5 Dokter Kocak dalam Drama Korea Hospital Playlist
 categories: [video]
 tags: [drama korea, download]
 header:
- og_image:
- teaser:
+ og_image: "/assets/images/hospital-playlist.jpg"
+ teaser: "/assets/images/hospital-playlist-2.jpg"
+ video:
+  provider: "youtube"
+  id: "m29lUyODfzk"
 last_modified_at: 2020-04-16 22:00:00
 ---
 Salah satu tema yang sering diangkat dalam drama Korea adalah mengenai pekerja medis. Tema ini juga lah yang diangkat dalam drama terbaru tvN yang berjudul Hospital Playlist.
@@ -72,13 +75,13 @@ Drama ini makin diminati penonton. Rating Hospital Playlist saat masuk episode k
 {:.notice .notice--info}
 
 Episode|Hard sub|Tanpa Sub|Subtitle
----|---|---|---
-1|[360p](/zippyshare?st1=ep1&srv=100&cde=PBOki7mW&st2=360p)|[540p](/zippyshare?st1=ep1&srv=102&&cde=xMfbu3ks&st2=540p) [720p](/drive.google.com/?name=ep1&id=1NeN5GZCCdCuW6ysAeg4iDXofB5g5BZ2i&size=720p)|[ID](/subscene?subtitles=hospital-playlist-wise-doctor-life-seulkirowoon-uisasaenghwal&lang=indonesian&id=2161873) [EN](/subscene?subtitles=hospital-playlist-wise-doctor-life-seulkirowoon-uisasaenghwal$lang=english&id=2161880)
-2|[360p](/zippyshare?st1=ep2&srv=38&cde=XZZsk0lQ&st2=360p)|[540p](/zippyshare?st1=ep2&srv=39&cde=I11oiNo3&st2=540p) [720p](/drive.google.com/?name=ep2&id=17jF4kgdvzTC4LwsEe9UQI6O9HcrTzCkI&size=720p)|[ID](/subscene?subtitles=hospital-playlist-wise-doctor-life-seulkirowoon-uisasaenghwal&lang=indonesian&id=2167421) [EN](/subscene?subtitles=hospital-playlist-wise-doctor-life-seulkirowoon-uisasaenghwal&lang=english&id=2167210)
-3|[360p](/zippyshare?st1=ep3&srv=23&cde=uWE51jsB&st2=360p)|[540p](/zippyshare?st1=ep3&srv=70&cde=JvcwRSfI&st2=540p) [720p](/drive.google.com/?name=ep2&id=1pvnT166kcq13OVUi5PIErk6GpwDsT147&size=720p)|[ID](/subscene?subtitles=hospital-playlist-wise-doctor-life-seulkirowoon-uisasaenghwal&lang=indonesian&id=2172552 [EN](/subscene?subtitles=hospital-playlist-wise-doctor-life-seulkirowoon-uisasaenghwal&lang=english&id=)
-4|[360p](/zippyshare&st1=ep4&srv=17&cde=hb4MBDyn&st2=360p)|[540p](/zippyshare?st1=ep4&srv=21&cde=OxfRAzWI&st2=540p) [720p](/drive.google.com/?name=ep4&id=1Kc135gqbUfJwmJB2Sgzsg8s4wGNpEIL&size=720p)|[ID](/subscene?subtitles=hospital-playlist-wise-doctor-life-seulkirowoon-uisasaenghwal&lang=indonesian&id=) [EN](/subscene?subtitles=hospital-playlist-wise-doctor-life-seulkirowoon-uisasaenghwal&lang=english&id=)
-5|[360p]()|[540p]() [720p]()|[ID]() [EN]()
-6|[360p]()|[540p]() [720p]()|[ID]() [EN]()
+---:|:---:|:---:|:---:|
+1|[360p](/zippyshare?st1=ep1&srv=100&cde=PBOki7mW&st2=360p){:.btn .btn--success}|[540p](/zippyshare?st1=ep1&srv=102&&cde=xMfbu3ks&st2=540p{:.btn .btn--success} [720p](/drive.google.com/?name=ep1&id=1NeN5GZCCdCuW6ysAeg4iDXofB5g5BZ2i&size=720p){:.btn .btn--success}|[ID](/subscene?subtitles=hospital-playlist-wise-doctor-life-seulkirowoon-uisasaenghwal&lang=indonesian&id=2161873){:.btn .btn--info} [EN](/subscene?subtitles=hospital-playlist-wise-doctor-life-seulkirowoon-uisasaenghwal$lang=english&id=2161880){:.btn .btn--info}
+2|[360p](/zippyshare?st1=ep2&srv=38&cde=XZZsk0lQ&st2=360p){:.btn .btn--success}|[540p](/zippyshare?st1=ep2&srv=39&cde=I11oiNo3&st2=540p){:.btn .btn--success} [720p](/drive.google.com/?name=ep2&id=17jF4kgdvzTC4LwsEe9UQI6O9HcrTzCkI&size=720p){:.btn .btn--success}|[ID](/subscene?subtitles=hospital-playlist-wise-doctor-life-seulkirowoon-uisasaenghwal&lang=indonesian&id=2167421){:.btn .btn--info} [EN](/subscene?subtitles=hospital-playlist-wise-doctor-life-seulkirowoon-uisasaenghwal&lang=english&id=2167210){:.btn .btn--info}
+3|[360p](/zippyshare?st1=ep3&srv=23&cde=uWE51jsB&st2=360p){:.btn .btn--success}|[540p](/zippyshare?st1=ep3&srv=70&cde=JvcwRSfI&st2=540p){:.btn .btn--success} [720p](/drive.google.com/?name=ep2&id=1pvnT166kcq13OVUi5PIErk6GpwDsT147&size=720p){:.btn .btn--success}|[ID](/subscene?subtitles=hospital-playlist-wise-doctor-life-seulkirowoon-uisasaenghwal&lang=indonesian&id=2172552){:.btn .btn--info} [EN](/subscene?subtitles=hospital-playlist-wise-doctor-life-seulkirowoon-uisasaenghwal&lang=english&id=2172584){:.btn .btn--info}
+4|[360p](/zippyshare?st1=ep4&srv=17&cde=hb4MBDyn&st2=360p){:.btn .btn--success}|[540p](/zippyshare?st1=ep4&srv=21&cde=OxfRAzWI&st2=540p){:.btn .btn--success} [720p](/drive.google.com/?name=ep4&id=1Kc135gqbUfJwmJB2Sgzsg8s4wGNpEIL&size=720p){:.btn .btn--success}|[ID](/subscene?subtitles=hospital-playlist-wise-doctor-life-seulkirowoon-uisasaenghwal&lang=indonesian&id=2179325){:.btn .btn--info} [EN](/subscene?subtitles=hospital-playlist-wise-doctor-life-seulkirowoon-uisasaenghwal&lang=english&id=2179328){:.btn .btn--info}
+5|[360p](/zippyshare?st1=ep5&srv=15&cde=DpqZjlm8&st2=360p){:.btn .btn--success}|[540p](/zippyshare?st1=ep5&srv=106&cde=isSJOew2&st2=540p){:.btn .btn--success} [720p](/drive.google.com/?name=ep5&id=1KpoqZgvzrkpTqHXxkzBywBt6mT9nh9Qg&size=720p){:.btn .btn--success}|[ID](/subscene?subtitles=hospital-playlist-wise-doctor-life-seulkirowoon-uisasaenghwal&lang=indonesian&id=2185895){:.btn .btn--info} [EN](/subscene?subtitles=hospital-playlist-wise-doctor-life-seulkirowoon-uisasaenghwal&lang=english&id=2185818){:.btn .btn--info}
+6|[360p](/zippyshare?st1=ep6&srv=112&cde=yaLBcIdK&st2=360p){:.btn .btn--success}|[540p](/zippyshare?st1=ep6&srv=6&cde=fxl5oBOY&st2=540p){:.btn .btn--success} [720p](/drive.google.com/?name=ep6&id=1vAEWZXUv05u_B_GblA-j4W9uGIRkI6Ys&size=720p){:.btn .btn--success}|[ID](/subscene=subtitles=hospital-playlist-wise-doctor-life-seulkirowoon-uisasaenghwal&lang=indonesian&id=2192168){:.btn .btn--info} [EN](/subscene?subtitles=hospital-playlist-wise-doctor-life-seulkirowoon-uisasaenghwal&lang=english&id=2192194){:.btn .btn--info}
 
 <!--
 7|[360p]()|[540p]() [720p]()|[ID]() [EN]()
@@ -86,9 +89,9 @@ Episode|Hard sub|Tanpa Sub|Subtitle
 -->
 
 Info|Keterangan
----|---
+---:|:---
 Judul Drama|Hospital Playlist
--|Wise Doctor Life
+ |Wise Doctor Life
 Revised|Seulkirowoon Uisasaenghwal
 Hangul|슬기로운 의사생활
 Director|Shin Won-Ho
