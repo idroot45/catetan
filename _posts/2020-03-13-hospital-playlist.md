@@ -23,11 +23,11 @@ Sejak saat itu persahabatan mereka tetap kuat dan bersama-sama kerja di Yulje Me
 
 ## Kenalan
 
-Yuk, kenalan duli dengan kelima anggota geng dokter dalam drama Korea Hospital Playlist ini.
+Siapa sajakah kelima dokter tengil ini? Yuk, kenalan dulu dengan kelima anggota geng dokter dalam drama Korea Hospital Playlist ini.
 
 ### 1. Lee Ik Joon
 
-{% include figure image_path="/assets/images/hospital-playlist-2.jpg" caption="Lee Ik Joon" %}
+{% include figure image_path="/assets/images/hospital-playlist-2.jpg" caption="Lee Ik Joon; Dokter Bedah Umum" %}
 
 Di antara kelima anggota geng ini, hanya Lee Ik Joon yang sudah punya anak. Ia LDR-an dengan istrinya dan hanya tinggal bersama putranya yang berusia lima tahun di Korea, sedangkan istrinya bekerja dan tinggal di Jerman.
 
@@ -35,7 +35,7 @@ Karakter yang diperankan aktor Jo Jung Suk ini merupakan seorang dokter bedah um
 
 ### 2. Ahn Jung Won
 
-{% include figure image_path="/assets/images/hospital-playlist-3.jpg" caption="Ahn Jung Won" %}
+{% include figure image_path="/assets/images/hospital-playlist-3.jpg" caption="Ahn Jung Won; Dokter Bedah Pediatrik" %}
 
 Ahn Jung Won merupakan seorang dokter bedah pediatrik. Ia memiliki hati yang sangat lembut dan dekat dengan semua anak-anak yang dirawatnya. Suasana hatinya selalu dipengaruhi oleh kondisi pasiennya. Ahn Jung Won akan sedih kalau ada pasiennya meninggal, sebaliknya ia akan sangat senang saat pasien yang dirawatnya semakin baik. Ia juga menjadi sosok penengah dan yang paling 'dewasa' di gengnya.
 
@@ -43,7 +43,7 @@ Diperankan oleh aktor Yoo Yeon Seok, Ahn Jung Won digambarkan sebagai putra dari
 
 ### 3. Kim Joon Wan
 
-{% include figure image_path="/assets/images/hospital-playlist-4.jpg" caption="Kim Joon Wan" %}
+{% include figure image_path="/assets/images/hospital-playlist-4.jpg" caption="Kim Joon Wan; Dokter Bedah Kardiotiraks" %}
 
 Kim Joon Wan diperankan oleh aktor Jung Kyung Ho. Ia merupakan seorang dokter bedah kardiotoraks. Sifat Kim Joon Wan yang sangat berbeda saat bekerja dengan ketika ia sedang bersama para sahabatnya.
 
@@ -53,7 +53,7 @@ Meski terkesan dingin, namun Kim Joon Wan merupakan orang yang sangat perhatian.
 
 ### 4. Yang Seok Hyung
 
-{% include figure image_path="/assets/images/hospital-playlist-5.jpg" caption="Yang Seok Hyung" %}
+{% include figure image_path="/assets/images/hospital-playlist-5.jpg" caption="Yang Seok Hyung; Dokter Bedah Kebidana dan Ginekologi" %}
 
 Selain Lee Ik Joon, Yang Seok Hyung juga pernah menikah meski berakhir dengan perceraian. Yang Seok Hyung sudah berusia 40 tahun, namun ia selalu bersikap seperti anak-anak terutama bila bersama sahabatnya. Layaknya anak kecil, Yang Seok Hyung selalu menceritakan dan mengadu semua hal kepada ibunya.
 
@@ -61,7 +61,7 @@ Karakter Yang Seok Hyung yang merupakan dokter bedah kebidanan dan ginekologi in
 
 ### 5. Chae Song Hwa
 
-{% include figure image_path="/assets/images/hospital-playlist-6.jpg" caption="Chae Song Hwa" %}
+{% include figure image_path="/assets/images/hospital-playlist-6.jpg" caption="Chae Song Hwa; Dokter Bedah Saraf" %}
 
 Menjadi satu-satunya cewek di gengnya membuat Chae Song Hwa sering diandalkan teman-temannya. Karakter yang diperankan aktris Jeon Mi Do ini merupakan seorang dokter serta seorang profesor bedah saraf.
 
