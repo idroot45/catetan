@@ -91,7 +91,7 @@ Episode|Hard sub|Tanpa Sub|Subtitle
 Info|Keterangan
 ---:|:---
 Judul Drama|Hospital Playlist
- |Wise Doctor Life
+a.k.a|Wise Doctor Life
 Revised|Seulkirowoon Uisasaenghwal
 Hangul|슬기로운 의사생활
 Director|Shin Won-Ho
