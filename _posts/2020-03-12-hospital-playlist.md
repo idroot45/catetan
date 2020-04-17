@@ -11,7 +11,7 @@ header:
   id: "m29lUyODfzk"
 last_modified_at: 2020-04-16 22:00:00
 ---
-Salah satu tema yang sering diangkat dalam drama Korea adalah mengenai pekerja medis. Tema ini juga lah yang diangkat dalam drama terbaru tvN yang berjudul Hospital Playlist.
+Salah satu tema yang sering diangkat dalam drama Korea adalah mengenai pekerja medis. Tema ini juga lah yang diangkat dalam drama terbaru tvN yang berjudul **Hospital Playlist**.
 
 Berbeda dengan kebanyakan drama bertema sama, _Hospital Playlist_ mampu mengemas cerita soal kehidupan para dokter dan kesehariannya di rumah sakit dengan cara yang menyenangkan. Jalan ceritanya tak begitu kaku dan permasalahan yang disajikan juga ringan. _Hospital Playlist_ mampu membuat penonton tertawa karena tingkah laku kelima tokoh utamanya, yaitu _Lee Ik Joon_, _Ahn Jung Won_, _Kim Joon Wan_, _Yang Seok Hyung_, dan _Chae Song Hwa_.
 
