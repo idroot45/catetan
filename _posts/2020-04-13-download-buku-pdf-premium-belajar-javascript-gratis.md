@@ -1,5 +1,5 @@
 ---
-title: "Beberapa Buku Premium Elektronik [PDF] Untuk Belajar Javascript [GRATIS]"
+title: "Beberapa Ebook [PDF] Premium Untuk Belajar Javascript [GRATIS]"
 excerpt: "Beberapa buku elektronik (e-book) PDF premium yang bisa dinduh secara gratis untuk belajar javascript sendiri hingga mahir"
 categories: [ebook]
 tags: [javascript, referensi, ebook, buku pdf, download]
