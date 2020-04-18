@@ -88,12 +88,13 @@ Episode|Hard sub|Tanpa Sub|Subtitle
 8|[360p]()|[540p]() [720p]()|[ID]() [EN]()
 -->
 
-> **Catatan:** <br/>
-> √ _Hard Sub_: Subtitle sudah ada (Bahasa Indonesia) <br/>
-> √ _Tanpa Sub_: Subtitle unduh sendiri di kolom selanjutnya, tersedia dalam Bahasa Indonesia (ID) dan English (EN) <br/>
-> √ _360p_, _540p_ dan _720p_: Adalah resolusi video. Semakin tinggi resolusi, file semakin besar. Yang juga berarti kualitas video semakin bagus.
+**Catatan:**
+√ _Hard Sub_: Subtitle sudah ada (Bahasa Indonesia)
+√ _Tanpa Sub_: Subtitle unduh sendiri di kolom selanjutnya, tersedia dalam Bahasa Indonesia (**ID**) dan English (**EN**)
+√ _360p_, _540p_ dan _720p_: Adalah resolusi video. Semakin tinggi resolusi, file juga semakin besar yang berarti kualitas video semakin bagus.
+{:.notice .notice--info}
 
-{: style="display:block;text-align:center"}
+{: style="width=100%;display:block;text-align:center"}
 Info|Keterangan
 ---:|:---
 Judul Drama|Hospital Playlist
