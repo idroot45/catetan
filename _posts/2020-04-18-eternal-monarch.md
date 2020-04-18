@@ -27,7 +27,7 @@ Tertarik untuk menonton drama Lee Min Ho terbaru ini? Kamu bisa menyimak tiap ep
 Episode|Hard sub|Tanpa sub|Subtitle
 ---:|:---:|:---:|:---:
 1|[360p](/zippyshare?st1=ep1&srv=58&cde=Z39oSkg4&st2=360p){:.btn .btn--info}|[540p](/zippyshare?st1=ep1&srv=75&cde=FpXWASmx&st2=540p){:.btn .btn--info} [720p](/drive.google.com/?name=ep1&id=1YCLr22k-DGZgUZyWkh5s0uwisBktykgF&size=720p){:.btn .btn--info}|[ID](/subscene?subtitles=the-king-eternal-monarch-the-king-monarch-of-eternity--deo-king-youngwonui-gunjoo&lang=indonesian&id=2193198){:.btn .btn--danger} [EN](/subscene?subtitles=the-king-eternal-monarch-the-king-monarch-of-eternity--deo-king-youngwonui-gunjoo&lang=english&id=2193196){:.btn .btn--danger}
-2| besok | besok | lusa |
+2|[360p](/zippyshare?st1=ep2&srv=19&cde=5t3r59WF&st2=360p){:.btn .btn--info}|[540p](/zippyshare?st1=ep2&srv=37&cde=YU8DwIe2&st2=540p){:.btn .btn--info} [720p](/drive.google.com/?name=ep2&id=1ZmSgopft2Gw1QqMra6_SoIsHtl8K3yKf&size=720p){:.btn .btn--info}|[ID](/subscene?subtitles=the-king-eternal-monarch-the-king-monarch-of-eternity--deo-king-youngwonui-gunjoo&lang=indonesian&id=2194078){:.btn .btn--danger} [EN](/subscene?subtitles=the-king-eternal-monarch-the-king-monarch-of-eternity--deo-king-youngwonui-gunjoo&lang=english&id=2194012){:.btn .btn--danger}|
 
 {% include figure image_path="https://cdn.statically.io/img/dramaencode.com/wp-content/uploads/2020/04/Download-Drama-Korea-The-King-Eternal-Monarch-Subtitle-Indonesia.jpg?w=678px&h=381px" caption="**The King: Eternal Monarch**, drama korea terbaru Lee Min Ho" %}
 
