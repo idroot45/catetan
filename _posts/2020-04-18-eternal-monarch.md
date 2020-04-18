@@ -12,9 +12,9 @@ header:
 last_modified_at: 2020-04-18 14:07:00
 ---
 
-Barangkali, nama aktor korea yang paling membekas di ingatan saya adalah **Lee Min Ho** ini. Bukan karena "kegantengannnya", tetapi gegara nama ini pernah disebutkan oleh komika Aris Al-katiri dalam materi _standup comedy_-nya ketika tampil di ajang SUCI. Aktor yang diklaimnya sebagai lelaki sempurna pujaan wanita Indonesia, yang secara lebih spesifik, adalah idola dari cewek yang sedang dicoba untuk didekati.  
+Barangkali, nama aktor korea yang paling membekas di ingatan saya adalah **Lee Min Ho** ini. Bukan karena "kegantengannnya", tetapi gegara nama ini pernah disebutkan oleh komika Mamat Al-katiri ketika membawakan materinya dalam _standup comedy_ ketika [tampil di ajang SUCI](https://www.youtube.com/watch?v=xajKKkSWGno). Aktor yang diklaimnya sebagai lelaki sempurna pujaan wanita Indonesia, yang secara lebih spesifik, adalah idola dari cewek yang sedang dicoba untuk didekati.  
 
-Drama ber-_genre_ fantasi ini boleh jadi sudah dinantikan wanita-wanita Indonesia yang (masih menurut Aris) adalah figur ideal seorang laki-laki yang ingin dimiliki.
+Drama _genre_ fantasi ini boleh jadi memang sudah dinantikan dan dirindukan, wanita-wanita Indonesia yang (masih menurut Mamat) adalah figur ideal seorang laki-laki yang ingin dimiliki.
 
 {% include figure image_path="/assets/images/lee-min-ho-punya-i.jpg" caption="Lee Min Ho" %}
 
@@ -32,8 +32,8 @@ Episode|Hard sub|Tanpa sub|Subtitle
 {% include figure image_path="https://cdn.statically.io/img/dramaencode.com/wp-content/uploads/2020/04/Download-Drama-Korea-The-King-Eternal-Monarch-Subtitle-Indonesia.jpg?w=678px&h=381px" caption="**The King: Eternal Monarch**, drama korea terbaru Lee Min Ho" %}
 
 Info|Keterangan
----::---
-Title| 더 킹: 영원의 군주
+---:|:---
+Title|더 킹: 영원의 군주
 Revised|Deo King: Yeong-wonui Gunju
 Genre|Drama, fantasy, romance
 Episodes|16
