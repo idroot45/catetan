@@ -2,14 +2,17 @@
 title: "Download FMWhatsApp APK v8.26 Terbaru 2020"
 excerpt: "Aplikasi WhatsApp mod bagi yang suka stalking mantan: FMWhatsApp APK v8.26 versi Terbaru 2020"
 header:
- image: "https://cdn.statically.io/img/www.winfixer.com/wp-content/uploads/2020/04/FM-WhatsApp.jpg"
- caption: "FMWhatsApp"
+ og_image: "https://cdn.statically.io/img/www.winfixer.com/wp-content/uploads/2020/04/FM-WhatsApp.jpg"
+ teaser: "https://cdn.statically.io/img/www.winfixer.com/wp-content/uploads/2020/04/FM-WhatsApp.jpg?w=480px"
 categories: [aplikasi]
 tags: [whatsapp mod, fmwhatsapp]
+last_modified_at: 2020-04-21 00:09:01
 ---
 Hingga saat ini, sudah banyak _developer_ yang mencoba mengembangkan (lebih tepatnya me-modifikasi) aplikasi WhatsApp agar memiliki **fitur tambahan** yang lebih bagus daripada WhatsApp versi resmi, salah satunya adalah **FMWhatsApp**.
 
 **FMWhatsApp** Adalah aplikasi hasil ubahan WhatsApp yang dikembangkan oleh **Fouad Mokdad**. Layaknya **GB WhatsApp**, aplikasi ini memiliki banyak keunggulan dibanding WhatsApp resmi dari segi fiturnya.
+
+{% include figure alt="FMWhatsApp APK v8.26" image_path="https://cdn.statically.io/img/www.winfixer.com/wp-content/uploads/2020/04/FM-WhatsApp.jpg?w=720px" %}
 
 ## Fitur FMWhatsApp
 
@@ -49,7 +52,7 @@ Sebab FMWhatsApp akan tetap menyimpan dan menampilkan pesan teman tersebut sekal
 
 ### 7. Update Rutin
 
-Fitur ini menurut saya merupaka nilai lebih dari FMWhatsApp. Dengan fitur _reguler update_, kamu akan terus menerima update penyempurnaan fitur dan perbaikan _bugs_ layaknya WhatsApp original.
+Fitur ini menurut saya merupakan nilai lebih dari FMWhatsApp. Dengan fitur _reguler update_, kamu akan terus menerima update penyempurnaan fitur dan perbaikan _bugs_ layaknya WhatsApp original.
 
 Nama Aplikasi|FMWhatsApp _(FMWA8.26_By_gbplus*net)_
 ---|---
