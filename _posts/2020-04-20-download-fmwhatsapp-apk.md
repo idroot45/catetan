@@ -47,8 +47,8 @@ Ya, karena FMWhatsApp akan tetap menyimpan dan menampilkan pesan teman tersebut 
 
 Fitur ini menurut kami adalah nilai plus dari FMWhatsApp. Dengan fitur bernama reguler update. Anda akan terus menerima update penyempurnaan fitur dan perbaikan bugs.
 
----|---
 Nama Aplikasi|FMWhatsApp _(FMWA8.26_By_gbplus*net)_
+---|---
 Ukuran Aplikasi|52 MB
 Versi|v8.26
 Root|Tidak
