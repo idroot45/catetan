@@ -1,21 +1,23 @@
 ---
 title: "Download FMWhatsApp APK v8.26 Terbaru 2020"
+excerpt: "Aplikasi WhatsApp mod bagi yang suka stalking mantan: FMWhatsApp APK v8.26 versi Terbaru 2020"
 header:
  image: "https://cdn.statically.io/img/www.winfixer.com/wp-content/uploads/2020/04/FM-WhatsApp.jpg"
  caption: "FMWhatsApp"
-excerpt: "Aplikasi WhatsApp bagi yang suka stalking mantan; FMWhatsApp APK v8.26 versi Terbaru 2020"
+categories: [aplikasi]
+tags: [whatsapp mod, fmwhatsapp]
 ---
-Selama ini, sudah banyak developer yang mencoba mengembangkan (lebih tepatnya memodifikasi) aplikasi WhatsApp agar memiliki **fitur tambahan** yang lebih bagus daripada WhatsApp versi resmi, salah satunya adalah **FMWhatsApp**.
+Hingga saat ini, sudah banyak _developer_ yang mencoba mengembangkan (lebih tepatnya me-modifikasi) aplikasi WhatsApp agar memiliki **fitur tambahan** yang lebih bagus daripada WhatsApp versi resmi, salah satunya adalah **FMWhatsApp**.
 
 **FMWhatsApp** Adalah aplikasi hasil ubahan WhatsApp yang dikembangkan oleh **Fouad Mokdad**. Layaknya **GB WhatsApp**, aplikasi ini memiliki banyak keunggulan dibanding WhatsApp resmi dari segi fiturnya.
 
-### Fitur FMWhatsApp
+## Fitur FMWhatsApp
 
 Apa saja fitur yang bisa kamu dapatkan dalam aplikasi FMWhatsApp ini? Berikut adalah fitur-fitur yang lebih baik atau bahkan tidak ada dalam 
 
 ### 1. Anti banned 
 
-Pada dasarnya aplikasi WhatsApp mod seperti FMWhatsApp ini bukanlah aplikasi resmi yang dikeluarkan oleh pengembang aplikasi WhatsApp. Maka fitur _anti banned_ sangat diperlukan agar akun yang kamu gunakan dengan aplikasi semacam ini aman dari resiko pemblokiran WhatsApp.
+Pada dasarnya aplikasi _WhatsApp mod_ seperti **FMWhatsApp** ini bukanlah aplikasi resmi yang dikeluarkan oleh pengembang aplikasi WhatsApp. Maka fitur _anti banned_ sangat diperlukan agar akun yang kamu gunakan dengan aplikasi semacam ini aman dari resiko pemblokiran WhatsApp.
    
 Kamu tidak perlu kuatir ketika menggunakan FMWhatsapp karena di dalamnya sudah diberikan fitur _anti banned_, supaya kamu dapat menggunakannya dengan aman tanpa ada rasa kuatir akun akan diblokir.
 
