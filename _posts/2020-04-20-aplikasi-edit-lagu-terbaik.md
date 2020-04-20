@@ -34,7 +34,7 @@ Seperti namanya, aplikasi ini berfungsi untuk memotong file mp3. Kamu bisa memak
 
 Ada banyak fitur baru juga di aplikasi ini yang akan kamu ketahui setelah menggunakan aplikasi ini di perangkat Android kamu. MP3 Cutter bisa dibilang sebagai aplikasi paling sederhana yang bahkan bagi pengguna awam.
 
-_Link Download_: [/]
+Link download: [-](#)
 
 ### 3. Media Converter
 
@@ -114,7 +114,7 @@ Link Download: [AudiDroid](https://apkpure.com/id/audiodroid-audio-mix-studio/co
 
 ![Audio Editor](https://i0.wp.com/www.winfixer.com/wp-content/uploads/2019/11/Audio-Editor.jpg?crop=345px,100px,680px,460px)
 
-Versi lebih lanjut jika dibanding kan dengan [MP3 Cutter](#2-mp3-cutter) atau [MP3 Cutter & Merger]#5-mp3-cutter-merger). Jika 2 aplikasi tersebut harus menyimpan potongan-potongan file audio sebelum menggabungkan menjadi satu file audio lain, Maka **Audio Editor** adalah aplikasi edit lagu Android yang memungkinkan pengguna memotong file audio menjadi beberapa bagian dan bagian-bagian yang berbeda itu bisa digabungkan untuk membuat file audio baru sekali jalan.
+Versi lebih lanjut jika dibanding kan dengan [MP3 Cutter](#2-mp3-cutter) atau [MP3 Cutter & Merger](#5-mp3-cutter-merger). Jika 2 aplikasi tersebut harus menyimpan potongan-potongan file audio sebelum menggabungkan menjadi satu file audio lain, Maka **Audio Editor** adalah aplikasi edit lagu Android yang memungkinkan pengguna memotong file audio menjadi beberapa bagian dan bagian-bagian yang berbeda itu bisa digabungkan untuk membuat file audio baru sekali jalan.
 
 Aplikasi sangat berguna bagi kamu yang ingin mengambil bagian paling kamu sukai musik dari file audio panjang (lagu utuh) namun sulit ditemukan dari internet atau sumber lain.
 
