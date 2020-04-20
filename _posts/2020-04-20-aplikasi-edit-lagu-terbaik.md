@@ -10,13 +10,11 @@ header:
 ---
 Saat ini ponsel cerdas tak cuma dipakai sebagai alat komunikasi saja. _Smartphone_ bisa menjadi sarana hiburan hingga sebagai penunjang dalam berkreasi. Misalnya edit lagu, edit video, edit foto dan berbagai fungsi lain yang membantu pemakainya mempermudah hal-hal yang sebelumnya rumit dengan aplikasi aplikasi yang relatif mudah digunakan.
 
-![Aplikasi Edit Lagu](https://i0.wp.com/www.winfixer.com/wp-content/uploads/2019/11/Aplikasi-Edit-Mp3-Android.jpg?crop=80px,60px,1200px,720px)
+![Aplikasi Edit Lagu](https://i0.wp.com/www.winfixer.com/wp-content/uploads/2019/11/Aplikasi-Edit-Mp3-Android.jpg?crop=80px,60px,1200px,720px){: title="Daftar Aplikasi Edit Lagu untuk Android"}
+
+{% include toc icon="audio" title="Daftar Aplikasi"  %}
 
 Bagi kamu yang memiliki minat dalam penyuntingan suara atau secara khusus lagu, berikut adalah beberapa aplikasi _audio editing_ Android terbaik yang disusun sesuai dengan peringkat, ulasan, dan tingkat unduhan yang diberikan oleh pengguna. Kamu dapat mengunduh salah satu dari beberapa aplikasi berikut. Pilih sesuai selera kamu:
-
-## Daftar Aplikasi Edit Lagu untuk Android
-
-{% include toc %}
 
 ### 1. PocketBand Pro – DAW Sosial
 
@@ -28,7 +26,7 @@ Menambahkan FX (efek) ke saluran dan ekspor menjadi audio mp3 atau sebagai nada 
 
 _Link Download_: [PocketBand Pro](https://pocketband-pro.id.aptoide.com/)
 
-### 2. MP3 Cutter
+## 2. MP3 Cutter
 
 Seperti namanya, aplikasi ini berfungsi untuk memotong file mp3. Kamu bisa memakai **MP3 Cutter** untuknmengedit file musik dengan cara paling gampang. Tak cuma urusan potong memotong lagu mp3, aplikasi ini juga mendukung penggabungan (menyambung) dua file audio. Aplikasi ini memang dirancang untuk membuat pengeditan musik menjadi lebih mudah dan tidak merepotkan.
 
@@ -36,7 +34,7 @@ Ada banyak fitur baru juga di aplikasi ini yang akan kamu ketahui setelah menggu
 
 Link download: [-](#)
 
-### 3. Media Converter
+## 3. Media Converter
 
 ![Media Converter](https://i0.wp.com/www.winfixer.com/wp-content/uploads/2019/11/Media-Converter.jpg?crop=330px,100px,680px,460px )
 
@@ -46,7 +44,7 @@ Media Converter juga mendukung profil audio lain semisal m4a (aac-audio saja), 3
 
 Link Download: [Media Converter](https://play.google.com/store/apps/details?id=com.AndroidA.MediaConverter&hl=en_ID)
 
-### 4. WavePad Free Audio Editor
+## 4. WavePad Free Audio Editor
 
 Aplikasi audio editor yang cukup keren yang pasti kamu sukai setelah menggunakannya pada perangkat Android kamu. Seperti yang tercantum secara ekplisit dalam embel namanya, WavePad adalah aplikasi sunting audio gratis.
 
@@ -54,7 +52,7 @@ Dengan fitur untuk merekam, menyunting, menambahkan efek tertentu kedalam audio.
 
 Link download: [WavePad](https://wavepad.id.uptodown.com/windows)
 
-### 5. Music Maker Jam
+## 5. Music Maker Jam
 
 ![Music Maker Jam](https://i0.wp.com/www.winfixer.com/wp-content/uploads/2019/11/Music-Maker-JAM.jpg?crop=350px,100px,680px,460px)
 
@@ -66,7 +64,7 @@ Ermm, mungkin dalam bahasa yang lebih mudah: gunakan aplikasi Music Maker Jam ji
 
 Link download: [Music Maker Jam](https://play.google.com/store/apps/details?id=com.magix.android.mmjam&hl=en_ID)
 
-### 6. Mp3 Cutter & Merger
+## 6. Mp3 Cutter & Merger
 
 Hampir sama dengan [aplikasi #2](#2-mp3-cutter), **Mp3 Cutter & Merger** kurang lebih kurang punya fungsi yang sama. Bisa digunakan untuk memotong dan menggabungkan file Mp3.
 
@@ -74,7 +72,7 @@ Kamu dapat menyesuaikan lagu sesuai keinginan. Saat memutar bagian audio yang di
 
 Link download: [Mp3 Cutter & Merger](//play.google.com/store/apps/details?id=igost.music.mp3cutter&hl=en_ID)
 
-### 7. Lexis Audio Editor
+## 7. Lexis Audio Editor
 
 ![Lexis Audio Editor](https://i0.wp.com/www.winfixer.com/wp-content/uploads/2019/11/Lexis-Audio-Editor.jpg?crop=345px,100px,680px,460px)
 
@@ -84,7 +82,7 @@ Versi uji coba dari **Android Lexis Audio Editor** memiliki semua fitur [versi b
 
 Link download: [Lexis Audio Editor](https://play.google.com/store/apps/details?id=com.pamsys.lexisaudioeditor&hl=en_ID)
 
-### 8. Walk Band – Multitrack Music
+## 8. Walk Band – Multitrack Music
 
 **Walk Band** adalah studio musik virtual (toolkit alat musik virtual) yang disesuaikan untuk Android. Aplikasi ini berisi banyak fitur termasuk Piano, Gitar, Drum Kit, Mesin Drum, Bass, synthesizer Multi-trek, dll. Kurang lebih seperti [Music Maker Jam](#5-music-maker-jam).
 
@@ -92,7 +90,7 @@ Semua instrumen tersedia menggunakan suara instrumen yang realistis. Kamu dapat 
 
 Link Download: [Walk Band](https://play.google.com/store/apps/details?id=com.gamestar.pianoperfect&hl=en_ID)
 
-### 9. Android Audio Editor
+## 9. Android Audio Editor
 
 Meski lebih memberi perhatian lebih dalam editing nada dering, **Android Audio Editor** adalah alat multi-fungsi untuk mengelola dan mengedit file audio kamu. Punya tiga fungsi utama: ekstraksi audio, konversi audio, dan editor audio.
 
@@ -102,7 +100,7 @@ Untuk antarmuka terlihat intuitif dan mudah digunakan. Kamu dapat memilih bagian
 
 Link Download: –
 
-### 10. AudioDroid: Audio Mix Studio
+## 10. AudioDroid: Audio Mix Studio
 
 **AudioDroid: Audio Mix Studio** adalah perekam suara, musik, dan mixer. kamu dapat mengedit dan mencampur file audio MP3, MP4, WAV, AAC, OGG dan AMR dan membuat nada dering, alarm, dan notifikasi dari hasil suntingan kamu.
 
@@ -120,7 +118,7 @@ Aplikasi sangat berguna bagi kamu yang ingin mengambil bagian paling kamu sukai 
 
 Link download: [Audio Editor Mixer and Combiner](https://play.google.com/store/apps/details?id=com.andromania.audioeditor&hl=en_ID)
 
-### 12. ZeoRing – Ringtone Editor
+## 12. ZeoRing – Ringtone Editor
 
 **ZeoRing** menyediakan antarmuka pengguna yang praktis **untuk mengedit nada dering** secara lebih mudah, menetapkan nada dering ini ke kontak kamu atau menjadikan audio hasil edit menjadi nada dering default. 
 
