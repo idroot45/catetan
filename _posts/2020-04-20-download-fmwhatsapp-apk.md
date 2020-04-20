@@ -1,7 +1,7 @@
 ---
 title: "Download FMWhatsApp APK v8.26 Terbaru 2020"
 header:
- image: https://cdn.statically.io/img/www.winfixer.com/wp-content/uploads/2020/04/FM-WhatsApp.jpg"
+ image: "https://cdn.statically.io/img/www.winfixer.com/wp-content/uploads/2020/04/FM-WhatsApp.jpg"
  caption: "FMWhatsApp"
 excerpt: "Aplikasi WhatsApp bagi yang suka stalking mantan; FMWhatsApp APK v8.26 versi Terbaru 2020"
 ---
@@ -47,18 +47,19 @@ Ya, karena FMWhatsApp akan tetap menyimpan dan menampilkan pesan teman tersebut 
 
 Fitur ini menurut kami adalah nilai plus dari FMWhatsApp. Dengan fitur bernama reguler update. Anda akan terus menerima update penyempurnaan fitur dan perbaikan bugs.
 
-Nama Aplikasi|FMWhatsApp (FMWA8.26_By_gbplus*net)
+---|---
+Nama Aplikasi|FMWhatsApp _(FMWA8.26_By_gbplus*net)_
 Ukuran Aplikasi|52 MB
 Versi|v8.26
 Root|Tidak
 Developer|Fouad Mokdad
-Android Require|4.0+ ( Ice Cream+)
+Android Require|4.0+ (ICS+)
 
 ## Download dan Cara Install FMWhastApp
 
 Hal pertama yang mesti kamu lakukan adalah melakukan _backup_ (mencadangkan) data aplikasi WhatsApp yang lama. Pastikan semua tercadangkan dengan baik.
 
-- Download FMWhatsApp [di sini](https://bit.ly/2XOsken){: rel="nofollow noopener"}. Simpan file (FMWA8.26_By_gbplus*net) di smartphone Anda.
+- Download FMWhatsApp [di sini](https://bit.ly/2XOsken){: rel="nofollow noopener"}. Simpan file `FMWA8.26_By_gbplus.net.apk` di smartphone kamu.
 - Buka berkas berakhiran `.apk` hasil unduhan dan pilih Install FMWhatsApp. Pastikan Anda mengizinkan smartphone Anda untuk melakukan pemasangan aplikasi selain dari Google PlayStore.
 - Buka aplikasi **FMWhatsaApp** di Laci Aplikasi (App Drawer) ponsel android kamu.
 - Silahkan malakukan _setup_ atau _login_ dengan aplikasi **FMWhatsApp** seperti layaknya _login_ **WhatsApp** biasanya.
