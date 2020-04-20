@@ -10,9 +10,9 @@ header:
 ---
 Saat ini ponsel cerdas tak cuma dipakai sebagai alat komunikasi saja. _Smartphone_ bisa menjadi sarana hiburan hingga sebagai penunjang dalam berkreasi. Misalnya edit lagu, edit video, edit foto dan berbagai fungsi lain yang membantu pemakainya mempermudah hal-hal yang sebelumnya rumit dengan aplikasi aplikasi yang relatif mudah digunakan.
 
-{% include figure alt="Aplikasi Edit Lagu" image_path="https://i0.wp.com/www.winfixer.com/wp-content/uploads/2019/11/Aplikasi-Edit-Mp3-Android.jpg?crop=80px,60px,1200px,720px){: title="Daftar Aplikasi Edit Lagu untuk Android"}
+{% include figure alt="Aplikasi Edit Lagu" image_path="https://i0.wp.com/www.winfixer.com/wp-content/uploads/2019/11/Aplikasi-Edit-Mp3-Android.jpg?crop=80px,60px,1200px,720px){: title="Daftar Aplikasi Edit Lagu untuk Android" %}
 
-{% include toc icon="music" title="Daftar Aplikasi Edit Audio"  %}
+{% include toc icon="music" title="Daftar Aplikasi Edit Audio" %}
 
 Bagi kamu yang memiliki minat dalam penyuntingan suara atau secara khusus lagu, berikut adalah beberapa aplikasi _audio editing_ Android terbaik yang disusun sesuai dengan peringkat, ulasan, dan tingkat unduhan yang diberikan oleh pengguna. Kamu dapat mengunduh salah satu dari beberapa aplikasi berikut. Pilih sesuai selera kamu:
 
@@ -24,7 +24,7 @@ Ini adalah salah satu aplikasi terbaik yang kamu bisa kamu gunakan di ponsel/tab
 
 Menambahkan FX (efek) ke saluran dan ekspor menjadi audio mp3 atau sebagai nada dering. Kamu juga dapat mengunggah file audio yang kamu buat, memainkannya, me-<i>remix</i> audio dalam komunitas (forum) resminya juga berkolaborasi dengan anggota forum lain.
 
-_Link Download_: [PocketBand Pro](https://pocketband-pro.id.aptoide.com/)
+Link Download: [PocketBand Pro](https://pocketband-pro.id.aptoide.com/)
 
 ## 2. MP3 Cutter
 
@@ -106,7 +106,7 @@ Link Download: –
 
 AudioDroid memungkinkan kamu untuk menambahkan trek baru, mencampur trek dan menyimpan file audio campuran dalam format mp3. Versi lebih sederhana dari [aplikasi Walk Band](#8-walkband-multitrack-music)
 
-Link Download: [AudiDroid](https://apkpure.com/id/audiodroid-audio-mix-studio/com.fsm.audiodroid)
+Link download: [AudiDroid](https://apkpure.com/id/audiodroid-audio-mix-studio/com.fsm.audiodroid)
 
 ## 11. Audio Editor Mixer and Combiner
 
