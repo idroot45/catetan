@@ -12,7 +12,7 @@ Saat ini ponsel cerdas tak cuma dipakai sebagai alat komunikasi saja. _Smartphon
 
 ![Aplikasi Edit Lagu](https://i0.wp.com/www.winfixer.com/wp-content/uploads/2019/11/Aplikasi-Edit-Mp3-Android.jpg?crop=80px,60px,1200px,720px){: title="Daftar Aplikasi Edit Lagu untuk Android"}
 
-{% include toc icon="audio" title="Daftar Aplikasi"  %}
+{% include toc icon="android" title="Daftar Aplikasi Edit Audio"  %}
 
 Bagi kamu yang memiliki minat dalam penyuntingan suara atau secara khusus lagu, berikut adalah beberapa aplikasi _audio editing_ Android terbaik yang disusun sesuai dengan peringkat, ulasan, dan tingkat unduhan yang diberikan oleh pengguna. Kamu dapat mengunduh salah satu dari beberapa aplikasi berikut. Pilih sesuai selera kamu:
 
