@@ -10,7 +10,7 @@ header:
 ---
 Saat ini ponsel cerdas tak cuma dipakai sebagai alat komunikasi saja. _Smartphone_ bisa menjadi sarana hiburan hingga sebagai penunjang dalam berkreasi. Misalnya edit lagu, edit video, edit foto dan berbagai fungsi lain yang membantu pemakainya mempermudah hal-hal yang sebelumnya rumit dengan aplikasi aplikasi yang relatif mudah digunakan.
 
-![Aplikasi Edit Lagu](https://i0.wp.com/www.winfixer.com/wp-content/uploads/2019/11/Aplikasi-Edit-Mp3-Android.jpg?crop=80px,60px,1200px,720px){: title="Daftar Aplikasi Edit Lagu untuk Android"}
+{% include figure alt="Aplikasi Edit Lagu" image_path="https://i0.wp.com/www.winfixer.com/wp-content/uploads/2019/11/Aplikasi-Edit-Mp3-Android.jpg?crop=80px,60px,1200px,720px){: title="Daftar Aplikasi Edit Lagu untuk Android"}
 
 {% include toc icon="music" title="Daftar Aplikasi Edit Audio"  %}
 
@@ -18,7 +18,7 @@ Bagi kamu yang memiliki minat dalam penyuntingan suara atau secara khusus lagu, 
 
 ### 1. PocketBand Pro – DAW Sosial
 
-![DAW Sosial](https://i0.wp.com/www.winfixer.com/wp-content/uploads/2019/11/Social-DAW.jpg?crop=345px,110px,680px,460px)
+{% include figure alt="DAW Sosial" image_path="https://i0.wp.com/www.winfixer.com/wp-content/uploads/2019/11/Social-DAW.jpg?crop=345px,110px,680px,460px" %}
 
 Ini adalah salah satu aplikasi terbaik yang kamu bisa kamu gunakan di ponsel/tablet kamu. Dengan **PocketBand Pro**, kamu dapat membuat trek audio berkualitas tinggi sebagai urutan loop, mixing synths, drum, sampler, rekaman audio, modulator analog, dan arpeggiator. 
 
@@ -36,7 +36,7 @@ Link download: [-](#)
 
 ## 3. Media Converter
 
-![Media Converter](https://i0.wp.com/www.winfixer.com/wp-content/uploads/2019/11/Media-Converter.jpg?crop=330px,100px,680px,460px )
+{% include figure alt="Media Converter" image_path="https://i0.wp.com/www.winfixer.com/wp-content/uploads/2019/11/Media-Converter.jpg?crop=330px,100px,680px,460px" %}
 
 Aplikasi edit lagu Android ini lebih kompleks dibanding aplikasi sebelumnya. Selain membantu kamu menyunting media sesuai dengan keinginan kamu, **Media Converter** lebih cocok untuk kamu jika kamu berniat mengkonversi (convert) jenis format audio tertentu ke format lainnya. Semua jenis format media bisa dirubah menjadi format audio populer seperti: mp3, mp4 mpeg4, aac, ogg, wav. Juga beberapa format video seperti: AVI (mpeg4, mp3), MPEG (mpeg1, mp2), FLV (flv, mp3).
 
@@ -54,7 +54,7 @@ Link download: [WavePad](https://wavepad.id.uptodown.com/windows)
 
 ## 5. Music Maker Jam
 
-![Music Maker Jam](https://i0.wp.com/www.winfixer.com/wp-content/uploads/2019/11/Music-Maker-JAM.jpg?crop=350px,100px,680px,460px)
+{% include figure alt="Music Maker Jam" image_path="https://i0.wp.com/www.winfixer.com/wp-content/uploads/2019/11/Music-Maker-JAM.jpg?crop=350px,100px,680px,460px" %}
 
 Dengan Music Maker Jam, kamu dapat menggabungkan ribuan sampel profesional dan menghidupkan ide musik kamu. Rekam vokal, rap, atau suara acak dan gunakan mixer 8-channel untuk memberi kamu keseimbangan yang tepat. Kamu akan mendapatkan fitur yang diperluas seperti editor harmoni dan efek secara _real-time_.
 
@@ -74,7 +74,7 @@ Link download: [Mp3 Cutter & Merger](//play.google.com/store/apps/details?id=igo
 
 ## 7. Lexis Audio Editor
 
-![Lexis Audio Editor](https://i0.wp.com/www.winfixer.com/wp-content/uploads/2019/11/Lexis-Audio-Editor.jpg?crop=345px,100px,680px,460px)
+{% include figure alt="Lexis Audio Editor" image_path="https://i0.wp.com/www.winfixer.com/wp-content/uploads/2019/11/Lexis-Audio-Editor.jpg?crop=345px,100px,680px,460px" %}
 
 Dengan aplikasi edit lagu satu ini, kamu dapat membuat rekaman audio baru atau cukup mengedit file audio dengan editor. Simpan file dalam format audio yang diinginkan.
 
@@ -110,7 +110,7 @@ Link Download: [AudiDroid](https://apkpure.com/id/audiodroid-audio-mix-studio/co
 
 ## 11. Audio Editor Mixer and Combiner
 
-![Audio Editor](https://i0.wp.com/www.winfixer.com/wp-content/uploads/2019/11/Audio-Editor.jpg?crop=345px,100px,680px,460px)
+{% include figure alt="Audio Editor Mixer" image_path="https://i0.wp.com/www.winfixer.com/wp-content/uploads/2019/11/Audio-Editor.jpg?crop=345px,100px,680px,460px" %}
 
 Versi lebih lanjut jika dibanding kan dengan [MP3 Cutter](#2-mp3-cutter) atau [MP3 Cutter & Merger](#5-mp3-cutter-merger). Jika 2 aplikasi tersebut harus menyimpan potongan-potongan file audio sebelum menggabungkan menjadi satu file audio lain, Maka **Audio Editor** adalah aplikasi edit lagu Android yang memungkinkan pengguna memotong file audio menjadi beberapa bagian dan bagian-bagian yang berbeda itu bisa digabungkan untuk membuat file audio baru sekali jalan.
 
