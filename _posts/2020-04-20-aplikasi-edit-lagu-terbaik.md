@@ -10,7 +10,7 @@ header:
 ---
 Saat ini ponsel cerdas tak cuma dipakai sebagai alat komunikasi saja. _Smartphone_ bisa menjadi sarana hiburan hingga sebagai penunjang dalam berkreasi. Misalnya edit lagu, edit video, edit foto dan berbagai fungsi lain yang membantu pemakainya mempermudah hal-hal yang sebelumnya rumit dengan aplikasi aplikasi yang relatif mudah digunakan.
 
-{% include figure alt="Aplikasi Edit Lagu" image_path="https://i0.wp.com/www.winfixer.com/wp-content/uploads/2019/11/Aplikasi-Edit-Mp3-Android.jpg?crop=80px,60px,1200px,720px){: title="Daftar Aplikasi Edit Lagu untuk Android" %}
+{% include figure alt="Aplikasi Edit Lagu" image_path="https://i0.wp.com/www.winfixer.com/wp-content/uploads/2019/11/Aplikasi-Edit-Mp3-Android.jpg?crop=80px,60px,1200px,720px" title="Daftar Aplikasi Edit Lagu untuk Android" %}
 
 {% include toc icon="music" title="Daftar Aplikasi Edit Audio" %}
 
