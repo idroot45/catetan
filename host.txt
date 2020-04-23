@@ -56,6 +56,7 @@
 127.0.0.1 dash.tmearn.com
 127.0.0.1 dc5k8fg5ioc8s.cloudfront.net
 127.0.0.1 ofgogoatan.com
+127.0.0.1 mob1ledev1ces.com
 
 # [dramaencode.com]
 127.0.0.1 d22sfab2t5o9bq.cloudfront.net
