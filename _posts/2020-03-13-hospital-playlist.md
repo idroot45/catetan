@@ -9,7 +9,7 @@ header:
  video:
   provider: "youtube"
   id: "m29lUyODfzk"
-last_modified_at: 2020-04-16 22:00:00
+last_modified_at: 2020-04-24 12:24:00
 ---
 Salah satu tema yang sering diangkat dalam drama Korea adalah mengenai pekerja medis. Tema ini juga lah yang diangkat dalam drama terbaru tvN yang berjudul **Hospital Playlist**.
 
@@ -69,7 +69,7 @@ Chae Song Hwa dijuluki sebagai 'setan' oleh koleganya di rumah sakit. Julukan in
 
 Jadi, karakter siapa yang paling kamu suka? Yuk nonton drama korea Hospital Playlist sambil #Rebahan untuk mengisi waktu kala mejalani aktifitas #DiRumahAja.
 
-### Episode 6 Sudah Tayang
+### Episode 7 Sudah Tayang
 
 Drama ini makin diminati penonton. Rating Hospital Playlist saat masuk episode ke-6 terus meroket.
 {:.notice .notice--info}
