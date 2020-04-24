@@ -83,15 +83,21 @@ Episode|Hard sub|Tanpa Sub|Subtitle
 5|[360p](/zippyshare?st1=ep5&srv=15&cde=DpqZjlm8&st2=360p){:.btn .btn--success}|[540p](/zippyshare?st1=ep5&srv=106&cde=isSJOew2&st2=540p){:.btn .btn--success} [720p](/drive.google.com/?name=ep5&id=1KpoqZgvzrkpTqHXxkzBywBt6mT9nh9Qg&size=720p){:.btn .btn--success}|[ID](/subscene?subtitles=hospital-playlist-wise-doctor-life-seulkirowoon-uisasaenghwal&lang=indonesian&id=2185895){:.btn .btn--info} [EN](/subscene?subtitles=hospital-playlist-wise-doctor-life-seulkirowoon-uisasaenghwal&lang=english&id=2185818){:.btn .btn--info}
 6|[360p](/zippyshare?st1=ep6&srv=112&cde=yaLBcIdK&st2=360p){:.btn .btn--success}|[540p](/zippyshare?st1=ep6&srv=6&cde=fxl5oBOY&st2=540p){:.btn .btn--success} [720p](/drive.google.com/?name=ep6&id=1vAEWZXUv05u_B_GblA-j4W9uGIRkI6Ys&size=720p){:.btn .btn--success}|[ID](/subscene=subtitles=hospital-playlist-wise-doctor-life-seulkirowoon-uisasaenghwal&lang=indonesian&id=2192168){:.btn .btn--info} [EN](/subscene?subtitles=hospital-playlist-wise-doctor-life-seulkirowoon-uisasaenghwal&lang=english&id=2192194){:.btn .btn--info}
 
-<!--
-7|[360p]()|[540p]() [720p]()|[ID]() [EN]()
-8|[360p]()|[540p]() [720p]()|[ID]() [EN]()
--->
+{% include tengah.html %}
 
-**Catatan:**
-√ _Hard Sub_: Subtitle sudah ada (Bahasa Indonesia)
-√ _Tanpa Sub_: Subtitle unduh sendiri di kolom selanjutnya, tersedia dalam Bahasa Indonesia (**ID**) dan English (**EN**)
-√ _360p_, _540p_ dan _720p_: Adalah resolusi video. Semakin tinggi resolusi, file juga semakin besar yang berarti kualitas video semakin bagus.
+Episode|Hard sub|Tanpa Sub|Subtitle
+---:|:---:|:---:|:---:|
+7|[360p](/zippyshare?st1=ep7&srv=67&cde=F0sMYWq1&st2=360p){:.btn .btn--success}|[540p](/zippyshare?st1=ep7&srv=52&cde=DGHm32oJ&st2=540p){:.btn .btn--success} [720p](/drive.google.com/?name=ep7&id=1vAEWZXUv05u_B_GblA-j4W9uGIRkI6Ys&size=720p){:.btn .btn--success}|[ID](/subscene?subtitles=hospital-playlist-wise-doctor-life-seulkirowoon-uisasaenghwal&lang=indonesian&id=2197810){:.btn .btn--info} [EN](){:.btn .btn--disabled}
+8|[360p](){:.btn .btn--disabled}|[540p](){:.btn .btn--disabled} [720p](){:.btn .btn--disabled}|[ID](){:.btn .btn--disabled} [EN](){:.btn .btn--disabled}
+9|[360p](){:.btn .btn--disabled}|[540p](){:.btn .btn--disabled} [720p](){:.btn .btn--disabled}|[ID](){:.btn .btn--disabled} [EN](){:.btn .btn--disabled}
+10|[360p](){:.btn .btn--disabled}|[540p](){:.btn .btn--disabled} [720p](){:.btn .btn--disabled}|[ID](){:.btn .btn--disabled} [EN](){:.btn .btn--disabled}
+11|[360p](){:.btn .btn--disabled}|[540p](){:.btn .btn--disabled} [720p](){:.btn .btn--disabled}|[ID](){:.btn .btn--disabled} [EN](){:.btn .btn--disabled}
+12|[360p](){:.btn .btn--disabled}|[540p](){:.btn .btn--disabled} [720p](){:.btn .btn--disabled}|[ID](){:.btn .btn--disabled} [EN](){:.btn .btn--disabled}
+
+**Catatan:**)<br/>
+√ _Hard Sub_: Subtitle sudah ada (Bahasa Indonesia)<br/>
+√ _Tanpa Sub_: Subtitle unduh sendiri di kolom selanjutnya, tersedia dalam Bahasa Indonesia (**ID**) dan English (**EN**))<br/>
+√ _360p_, _540p_ dan _720p_: Adalah resolusi video. Semakin tinggi resolusi, file juga semakin besar yang berarti kualitas video semakin bagus.)
 {:.notice .notice--info}
 
 {: style="width=100%;display:block;text-align:center"}
