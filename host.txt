@@ -92,6 +92,10 @@
 127.0.0.1 apis.kompas.com
 127.0.0.1 player.ivideosmart.com
 127.0.0.1 scripts.jixie.io
+127.0.0.1 15elon9.umzzaftkqgx.com
+127.0.0.1 cdn.spotxcdn.com
+127.0.0.1 kompascybermedia-d.openx.net
+127.0.0.1 match.adsrvr.org
 
 # [criteo]
 127.0.0.1 static.criteo.net
