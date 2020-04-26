@@ -41,9 +41,10 @@
 127.0.0.1 padsimz.com
 127.0.0.1 showyourresult.com
 
-# [yasir252.com]
-
+# [yasir252.com, alex71.com]
 127.0.0.1 safelink.kadal.club
+127.0.0.1 gets.kadal.club
+127.0.0.1 kadal.club
 127.0.0.1 serconmp.com
 127.0.0.1 www.serconmp.com
 127.0.0.1 serconmp.com
@@ -69,7 +70,7 @@
 127.0.0.1 www.adtival.network
 127.0.0.1 www.safelinkblog.com
 127.0.0.1 www.wts.pw
-127.0.0.1 shortenlink.me
+127.0.0.1 www.shortenlink.me
 
 # [zippyshare.com]
 127.0.0.1 d10lumateci472.cloudfront.net
