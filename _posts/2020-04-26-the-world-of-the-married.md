@@ -16,6 +16,8 @@ Episode terbaru: Episode 10
 
 > a.k.a A World of Married Couple
 
+{% include image_path="https://cdn.statically.io/img/dramaencode.com/wp-content/uploads/2020/03/Download-Drama-Korea-The-World-of-the-Married.jpg?w=720" title="The World of The Married Couple - JTBC" alt="Download-Drama-Korea-The-World-of-the-Married.jpg" caption="The World of The Married Couple - JTBC" url="https://cdn.statically.io/img/dramaencode.com/wp-content/uploads/2020/03/Download-Drama-Korea-The-World-of-the-Married.jpg" %}
+
 ||Episode|360p|540p|720p|Subs|
 |---:|:---:|:---:|:---:|:---|
 |1|[zippy](/zippyshare?st1=&srv=1&cde=WTOyTsbQ&st2=x){:.btn .btn--danger}|[zippy](/zippyshare?st1=&srv=47&cde=7qmHcjyS&st2=x){:.btn .btn--info}|[drive](#){:.btn .btn--disabled}|[ID](https://subscene.com/subtitles=the-world-of-the-married-a-world-of-married-couple-couples-world-boobooui-sekye&lang=indonesian&id=2174115){:.btn .btn--info} [EN](https://subscene.com/subtitles=the-world-of-the-married-a-world-of-married-couple-couples-world-boobooui-sekye&lang=english&id=2173849){:.btn .btn--info}|
