@@ -5,6 +5,7 @@ categories: [video]
 tags: [drama korea, download]
 header:
  og_image: https://i.ytimg.com/vi/vnEdoVKxeNY/maxresdefault.jpg
+ teaser: https://i.ytimg.com/vi/ovms5U_zAIU/hqdefault.jpg
  video:
   id: "vnEdoVKxeNY"
   provider: "youtube"
