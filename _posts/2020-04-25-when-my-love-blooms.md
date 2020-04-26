@@ -30,7 +30,7 @@ Air time: Saturday & Sunday 21:00
 
 |Episode|360p|540p|720p|Subs|
 |---:|:---:|:---:|:---:|:---:|
-|1|[]()
-|2|
+|1|[zippy](/zippyshare?st1=ep1&srv=84&cde=HDx7i46k&st2=360p){:.btn .btn--danger}|[zippy](/zippyshare?st1=ep1&srv=10&cde=X2W1lmzQ&st2=540p){:.btn .btn--info}|[zippy](/zippyshare?st1=ep1&srv=39&cde=9OmDb9fU&st2=720p){:.btn .btn--success} [drive](/drive.google.com/?name=ep1&id=16syZy8QdZ6oyMHruUKAEjQGK5sLGIZ23&size=720p){:.btn .btn--success}|[ID](/subscene?subtitles=when-my-love-blooms-the-most-beautiful-moment-in-life-hwayangyeonhwa-salmi-kkochi-dweneun-soongan&lang=indonesian&id=2199877){:.btn .btn--info} [EN](/subscene?subtitles=when-my-love-blooms-the-most-beautiful-moment-in-life-hwayangyeonhwa-salmi-kkochi-dweneun-soongan&lang=english&id=2199655){:.btn .btn--info}|
+|2|[zippy](#){:.btn .btn--disabled}|[zippy](/zippyshare?st1=ep2&srv=50&cde=791fYoLD&st2=){:.btn .btn--info}|[zippy](/zippyshare?st1=ep2&srv=93&cde=r0DiKD1T&st2=720p){:.btn .btn--success} [drive](https://drive.google.com/?name=ep2&id=1gxr-pkRBY1KvrIqaL_TXNPm6RvGWjH4K&size=720p){:.btn .btn--success}|[ID](#){:.btn .btn--disabled} [EN](#){:.btn .btn--disabled}|
 
 ## Next: Episode 3
