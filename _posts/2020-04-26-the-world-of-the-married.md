@@ -1,5 +1,5 @@
 ---
-title: "The World of The Married Couple - JTBC"
+title: "The World of The Married - JTBC"
 excerpt: "Drama korea JTBC terbaru. Rating tertinggi Bulan April 2020"
 categories: [video]
 tags: [drama korea, download]
@@ -11,11 +11,10 @@ header:
   provider: "youtube"
 last_modified_at: 2020-04-26 01:36:00
 ---
+> a.k.a A World of Married Couple
 
 Episode terbaru: Episode 10
 {:.notice .notice--info}
-
-> a.k.a A World of Married Couple
 
 {% include image_path="https://cdn.statically.io/img/dramaencode.com/wp-content/uploads/2020/03/Download-Drama-Korea-The-World-of-the-Married.jpg?w=720" title="The World of The Married Couple - JTBC" alt="Download-Drama-Korea-The-World-of-the-Married.jpg" caption="The World of The Married Couple - JTBC" url="https://cdn.statically.io/img/dramaencode.com/wp-content/uploads/2020/03/Download-Drama-Korea-The-World-of-the-Married.jpg" %}
 
