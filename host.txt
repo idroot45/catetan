@@ -66,22 +66,30 @@
 127.0.0.1 s10.histats.com
 127.0.0.1 wizliebeg.com
 127.0.0.1 wts.pw
+127.0.0.1 www.wts.pw
 127.0.0.1 www.adtival.com
 127.0.0.1 www.adtival.network
 127.0.0.1 www.safelinkblog.com
-127.0.0.1 www.wts.pw
+127.0.0.1 adtival.com
+127.0.0.1 adtival.network
+127.0.0.1 safelinkblog.com
 127.0.0.1 www.shortenlink.me
 127.0.0.1 jetsowilk.com
+127.0.0.1 www.jetsowilk.com
 
 # [zippyshare.com]
 127.0.0.1 d10lumateci472.cloudfront.net
 127.0.0.1 ds88pc0kw6cvc.cloudfront.net
 127.0.0.1 www.maxonclick.com
+127.0.0.1 maxonclick.com
 127.0.0.1 p232207.clksite.com
 127.0.0.1 www.shrinkads.com
+127.0.0.1 shrinkads.com
 127.0.0.1 mooantink.com
+127.0.0.1 www mooantink.com
 127.0.0.1 p232207.retdaz.fun
 127.0.0.1 ssacredvecto.info
+127.0.0.1 www.ssacredvecto.info
 
 # [detik.com]
 127.0.0.1 ads.pubmatic.com
@@ -94,19 +102,22 @@
 127.0.0.1 apis.kompas.com
 127.0.0.1 player.ivideosmart.com
 127.0.0.1 scripts.jixie.io
+127.0.0.1 jixie.io
 127.0.0.1 15elon9.umzzaftkqgx.com
 127.0.0.1 cdn.spotxcdn.com
 127.0.0.1 kompascybermedia-d.openx.net
 127.0.0.1 match.adsrvr.org
+127.0.0.1 adsrvr.org
 
 # [criteo]
 127.0.0.1 static.criteo.net
 127.0.0.1 bidder.criteo.com
 127.0.0.1 rtax.criteo.com
+127.0.0.1 criteo.com
+127.0.0.1 www.criteo.com
 
 # [grid.id]
 127.0.0.1 ads.gridtechno.com
-127.0.0.1 match.adsrvr.org
 
 # [google]
 127.0.0.1 tpc.googlesyndication.com
