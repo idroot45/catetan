@@ -71,6 +71,7 @@
 127.0.0.1 www.safelinkblog.com
 127.0.0.1 www.wts.pw
 127.0.0.1 www.shortenlink.me
+127.0.0.1 jetsowilk.com
 
 # [zippyshare.com]
 127.0.0.1 d10lumateci472.cloudfront.net
