@@ -16,7 +16,7 @@ last_modified_at: 2020-04-26 01:36:00
 Episode terbaru: Episode 10
 {:.notice .notice--info}
 
-{% include image_path="https://cdn.statically.io/img/dramaencode.com/wp-content/uploads/2020/03/Download-Drama-Korea-The-World-of-the-Married.jpg?w=720" title="The World of The Married Couple - JTBC" alt="Download-Drama-Korea-The-World-of-the-Married.jpg" caption="The World of The Married Couple - JTBC" url="https://cdn.statically.io/img/dramaencode.com/wp-content/uploads/2020/03/Download-Drama-Korea-The-World-of-the-Married.jpg" %}
+{% include figure image_path="https://cdn.statically.io/img/dramaencode.com/wp-content/uploads/2020/03/Download-Drama-Korea-The-World-of-the-Married.jpg?w=720" title="The World of The Married Couple - JTBC" alt="Download-Drama-Korea-The-World-of-the-Married.jpg" caption="The World of The Married Couple - JTBC" url="https://cdn.statically.io/img/dramaencode.com/wp-content/uploads/2020/03/Download-Drama-Korea-The-World-of-the-Married.jpg" %}
 
 |Episode|360p|540p|720p|Subs|
 |---:|:---:|:---:|:---:|:---:|
