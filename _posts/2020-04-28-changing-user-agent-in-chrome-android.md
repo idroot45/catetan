@@ -11,8 +11,11 @@ Question: {{ page.excerpt }}
 Answer:
 
 Well, I finally managed to do it manually.
-If someone is not familiar with adb, you can do like this **using a rooted Phone and explorer with super user rights** (I'm using Antek explorer, editor is included):
- 
+If someone is not familiar with adb, you can do like this **using a rooted Phone and explorer with super user rights** (I'm using [Antek explorer (4.58 MB)](/mega.nz/?key=&file=), editor is included):
+
+Alternative: [ES File Explorer Pro (18.11 MB)](/mega.nz/?key=&file=)
+{:.notice .notice--info}
+
 1. Allow to see hidden files through Explorer
 2. Navigate to Device root/data/local
 3. Make a new file called "chrome-command-line"
