@@ -4,7 +4,8 @@ title: "Changing the User Agent in Chrome for Android"
 categories: [tips]
 tags: [user agent, chrome android]
 header:
- image: "https://cdn.statically.io/img/www.macobserver.com/wp-content/uploads/2018/06/Browser-icons.jpg"
+ og_image: "https://cdn.statically.io/img/www.macobserver.com/wp-content/uploads/2018/06/Browser-icons.jpg"
+ teaser: "https://cdn.statically.io/img/www.macobserver.com/wp-content/uploads/2018/06/Browser-icons.jpg?w=480"
 ---
 
 Question: {{ page.excerpt }}
@@ -31,9 +32,12 @@ I setted the user-agent to Ipad in this exemple
 
 ***
 
+## User agents
+
 For other agents replace the `chrome --user-agent` variable by the following value:
 
-## User agents
+{% include figure image_path="https://cdn.statically.io/img/www.macobserver.com/wp-content/uploads/2018/06/Browser-icons.jpg" %}
+
 
 Theese user agents are updated per 2020 April 28:
 
