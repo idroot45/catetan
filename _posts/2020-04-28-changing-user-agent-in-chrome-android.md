@@ -1,9 +1,10 @@
 ---
 excerpt: "How do I change the user agent string in the Chrome release for Android?"
 title: "Changing the User Agent in Chrome for Android"
-link: "https://support.google.com/chrome/forum/AAAAP1KN0B0wz20WE2NGg8/?hl=id"
 categories: [tips]
 tags: [user agent, chrome android]
+header:
+ image: "https://cdn.statically.io/img/www.macobserver.com/wp-content/uploads/2018/06/Browser-icons.jpg"
 ---
 
 Question: {{ page.excerpt }}
@@ -21,10 +22,11 @@ I setted the user-agent to Ipad in this exemple
 3. Make a new file called "chrome-command-line"
 4. Fill the file with the following :
    ```html
-   chrome --user-agent="Mozilla/5.0 (iPad; U; CPU OS 3_2 like Mac OS X; en-us) AppleWebKit/531.21.10 (KHTML, like Gecko) Version/4.0.4 Mobile/7B334b Safari/531.21.10"
+   chrome --user-agent="Mozilla/5.0 (iPad; CPU OS 13_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/81.0.4044.124 Mobile/15E148 Safari/604.1"
+
    ```
 
-¹ - Use Antek Explorer alternative as it doesn't support Oreo and above: [ES File Explorer Pro (18.11 MB)](/mega.nz/?key=&file=)
+¹ - Use Antek Explorer alternative as it doesn't support Oreo and above: [ES File Explorer Pro (18.11 MB)](/mega.nz/?key=AtlCiKhY&file=ZYxd01hxhgjIyPDvm9Ahwv1sQ7wE-pB_EUfCOaJvbkg) or [Root Explorer (4.4 MB)](/mega.nz/?key=Mpl0hIQZ&file=ibT3dnHmJZLRMMoPyqNh3TNoLFCTJFVa3fn94byFEHM)
 {:.notice .notice--info}
 
 ***
