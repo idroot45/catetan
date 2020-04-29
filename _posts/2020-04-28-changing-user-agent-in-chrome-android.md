@@ -70,7 +70,7 @@ Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:75.0) Gecko/20100101 Firefox/75.0
 
 ### Mobile
 
-iPhone Safari
+iPhone Safari [log](https://www.whatismybrowser.com/w/NFDSWWT)
 ```text
 Mozilla/5.0 (iPhone; CPU iPhone OS 13_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/81.0.4044.124 Mobile/15E148 Safari/604.1
 ```
