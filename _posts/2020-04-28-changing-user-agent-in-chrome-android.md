@@ -75,7 +75,7 @@ iPhone Safari [log](https://whatismybrowser.com/w/N8XT6H4?utm_source=www.catetan
 Mozilla/5.0 (iPhone; CPU iPhone OS 13_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/81.0.4044.124 Mobile/15E148 Safari/604.1
 ```
 
-iPad Safari:
+iPad Safari [log](https://whatismybrowser.com/w/D2GFRN2?utm_source=www.catetan.pw&utm_medium=external&utm_campaign=posts&utm_content=changing-user-agent)
 ```text
 Mozilla/5.0 (iPad; CPU OS 13_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/81.0.4044.124 Mobile/15E148 Safari/604.1
 ```
