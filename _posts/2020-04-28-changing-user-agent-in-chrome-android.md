@@ -80,7 +80,7 @@ iPad Safari [log](https://whatismybrowser.com/w/D2GFRN2?utm_source=www.catetan.p
 Mozilla/5.0 (iPad; CPU OS 13_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/81.0.4044.124 Mobile/15E148 Safari/604.1
 ```
 
-Android Firefox 
+Android Firefox [log](https://whatismybrowser.com/w/FFZRY5Q?utm_source=www.catetan.pw&utm_medium=external&utm_campaign=posts&utm_content=changing-user-agent)
 ```
 Mozilla/5.0 (Android 10; Mobile; rv:68.0) Gecko/68.0 Firefox/68.0
 ```
