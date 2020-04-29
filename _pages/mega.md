@@ -56,7 +56,7 @@ window.onload=function(){
            x="https://mega.nz/file/";
   d.innerHTML=f,
   d.href=x+f+"#"+e;
-  c.innerHTML="Your link now ready, click the button <b>"+e+"</b> above!";
+  c.innerHTML="Your link now ready, click the button <b>"+f+"</b> above!";
   d.classList.remove("btn--primary");
   d.classList.add("btn--success");
   c.classList.remove("notice--primary");
