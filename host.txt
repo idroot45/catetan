@@ -41,6 +41,12 @@
 127.0.0.1 padsimz.com
 127.0.0.1 showyourresult.com
 
+# [tachiomi (app)]
+127.0.0.1 poweredby.jads.co
+127.0.0.1 js.juicyads.com
+127.0.0.1 www.juicyads.rocks
+127.0.0.1 a.adtng.com
+
 # [yasir252.com, alex71.com]
 127.0.0.1 safelink.kadal.club
 127.0.0.1 gets.kadal.club
