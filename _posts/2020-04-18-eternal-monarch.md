@@ -9,7 +9,7 @@ header:
   id: "vvCJfn9T3JE"
  og_image: "https://cdn.statically.io/img/dramaencode.com/wp-content/uploads/2020/04/Download-Drama-Korea-The-King-Eternal-Monarch-Subtitle-Indonesia.jpg"
  teaser: "/assets/images/lee-min-ho-punya-i.jpg"
-last_modified_at: 2020-04-18 14:07:00
+last_modified_at: 2020-05-02 23:07:00
 ---
 
 Update terbaru: Episode 6 (2 Mei 2020)
