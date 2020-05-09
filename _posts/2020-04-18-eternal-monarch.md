@@ -12,7 +12,7 @@ header:
 last_modified_at: 2020-05-02 23:07:00
 ---
 
-Update terbaru: Episode 6 (2 Mei 2020)
+Update terbaru: Episode 8 (10 Mei 2020)
 {:.notice .notice--info}
 
 Barangkali, nama aktor korea yang paling membekas di ingatan saya adalah **Lee Min Ho** ini. Bukan karena "kegantengannnya", tetapi gegara nama ini pernah disebutkan oleh komika Mamat Al-katiri ketika membawakan materinya dalam _standup comedy_ ketika [tampil di ajang SUCI](https://www.youtube.com/watch?v=xajKKkSWGno). Aktor yang diklaimnya sebagai lelaki sempurna pujaan wanita Indonesia, yang secara lebih spesifik, adalah idola dari cewek yang sedang dicoba untuk didekati.  
@@ -36,6 +36,8 @@ Episode|Hard sub|Tanpa sub|Subtitle
 5|[360p](/zippyshare?st1=ep5&srv=94&cde=FnX5zn16&st2=360p){:.btn .btn--info}|[540p](/zippyshare?st1=ep5&srv=20&cde=2Toaw3J0&st2=540p){:.btn .btn--info} [720p](/drive.google.com/?name=ep5&id=1P9K3ncQ6cxyRRo_Sx-EZrvgE6ppeN-QD&size=720p){:.btn .btn--info}|[ID](/subscene?subtitles=the-king-eternal-monarch-the-king-monarch-of-eternity--deo-king-youngwonui-gunjoo&lang=indonesian&id=2204126){:.btn .btn--danger} [EN](/subscene?subtitles=the-king-eternal-monarch-the-king-monarch-of-eternity--deo-king-youngwonui-gunjoo&lang=english&id=X){:.btn .btn--disabled}
 6|[360p](/zippyshare?st1=ep6&srv=84&cde=e4cEPwHy&st2=360p){:.btn .btn--info}|[540p](/zippyshare?st1=ep6&srv=61&cde=k08mbrez&st2=540p){:.btn .btn--info} [720p](/drive.google.com/?name=ep6&id=12S5i1g7btGs7o11VvPMrcd5NWCTE3Vdn&size=720p){:.btn .btn--info}|[ID](/subscene?subtitles=the-king-eternal-monarch-the-king-monarch-of-eternity--deo-king-youngwonui-gunjoo&lang=indonesian&id=2205023){:.btn .btn--danger} [EN](/subscene?subtitles=the-king-eternal-monarch-the-king-monarch-of-eternity--deo-king-youngwonui-gunjoo&lang=english&id=2194012){:.btn .btn--disabled}|
 7|[360p](/zippyshare?st1=ep7&srv=13&cde=95ch404T&st2=360p){:.btn .btn--info}|[540p](/zippyshare?st1=ep7&srv=94&cde=wIZiFCvJ&st2=540p){:.btn .btn--info} [720p](/drive.google.com/?name=ep7&id=1Rkwsj81c5Ep4w8MvEjqRMWEsoap9QWGQ&size=720p){:.btn .btn--info}|[ID](/subscene?subtitles=the-king-eternal-monarch-the-king-monarch-of-eternity--deo-king-youngwonui-gunjoo&lang=indonesian&id=2209703){:.btn .btn--danger} [EN](/subscene?subtitles=the-king-eternal-monarch-the-king-monarch-of-eternity--deo-king-youngwonui-gunjoo&lang=english&id=2209701){:.btn .btn--danger}|
+7|[360p](/zippyshare?st1=ep8&srv=112&cde=rzxvXEhs&st2=360p){:.btn .btn--info}|[540p](/zippyshare?st1=ep8&srv=74&cde=MWTJX3EA&st2=540p){:.btn .btn--info} [720p](/drive.google.com/?name=ep7&id=1KF6FylYqCX2X4px9_rYU1bbPfNoWT3-7&size=720p){:.btn .btn--info}|[ID](/subscene?subtitles=the-king-eternal-monarch-the-king-monarch-of-eternity--deo-king-youngwonui-gunjoo&lang=indonesian&id=2210655){:.btn .btn--danger} [EN](/subscene?subtitles=the-king-eternal-monarch-the-king-monarch-of-eternity--deo-king-youngwonui-gunjoo&lang=english&id=2210657){:.btn .btn--danger}|
+https://www74.zippyshare.com/v//file.html
 
 {% include figure image_path="https://cdn.statically.io/img/dramaencode.com/wp-content/uploads/2020/04/Download-Drama-Korea-The-King-Eternal-Monarch-Subtitle-Indonesia.jpg?w=678px&h=381px" caption="**The King: Eternal Monarch**, drama korea terbaru Lee Min Ho" %}
 
