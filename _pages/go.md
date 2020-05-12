@@ -5,7 +5,7 @@ excerpt: "This page will only give you the link provided at the previous page, d
 header:
  og_image: "https://cdn.statically.io/img/www.leskompi.com/wp-content/uploads/2018/08/Cara-Mengganti-Background-Foto-Online.png"
 ---
-{% include figure image_path="https://cdn.statically.io/img/www.leskompi.com/wp-content/uploads/2018/08/Cara-Mengganti-Background-Foto-Online.png" caption="gambar via leskompi"%}
+{% include figure image_path="https://cdn.statically.io/img/www.leskompi.com/wp-content/uploads/2018/08/Cara-Mengganti-Background-Foto-Online.png" title="Dapatkan link unduhan!"%}
 
 {{ page.excerpt }}
 {:.notice .notice-danger}
@@ -48,3 +48,12 @@ window.onload=function(){
   c.classList.add("notice--success");
 }; 
 </script>
+
+### How to use this page?
+
+1. Copy the original url you desired!
+2. Remove the protocol
+3. Prepend with `https://www.catetan.pw/go?url=`
+4. Share the your new links!
+
+Yes, it's just as simple as that. 🖕
