@@ -7,12 +7,17 @@ header:
 ---
 {% include figure image_path="https://cdn.statically.io/img/www.leskompi.com/wp-content/uploads/2018/08/Cara-Mengganti-Background-Foto-Online.png" caption="gambar via leskompi"%}
 
-<div style="display:block;text-align:center">
-<a href="#main" id="download" rel="nofollow noreferer noopener" target="_blank">Wait...</a>
-</div>
-
 {{ page.excerpt }}
 {:.notice .notice-danger}
+
+{% include tengah.html %}
+
+<div style="display:block;text-align:center">
+<a class="btn btn--primary" href="#main" id="download" rel="nofollow noreferer noopener" target="_blank">Wait...</a>
+</div>
+
+Tunggu hingga link muncul ya gaiss...
+{:#notice .notice .notice--primary}
 
 <script>
 function getQueryVariable(e){
