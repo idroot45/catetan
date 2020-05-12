@@ -38,7 +38,7 @@ window.onload=function(){
   var klik=e=getQueryVariable("url"),
            d=document.getElementById("download"),
            c=document.getElementById("notice"),
-           x="https://";
+           x="http://";
   d.innerHTML="Go to link!",
   d.href=x+e;
   c.innerHTML="Your link now ready, click the <b>Go to link!</b> button above!";
