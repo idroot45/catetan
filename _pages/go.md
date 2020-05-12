@@ -5,7 +5,7 @@ excerpt: "This page will only give you the link provided at the previous page, d
 header:
  og_image: "https://cdn.statically.io/img/www.leskompi.com/wp-content/uploads/2018/08/Cara-Mengganti-Background-Foto-Online.png"
 ---
-{% include figure image_path="https://cdn.statically.io/img/www.leskompi.com/wp-content/uploads/2018/08/Cara-Mengganti-Background-Foto-Online.png" %}
+{% include figure image_path="https://cdn.statically.io/img/www.leskompi.com/wp-content/uploads/2018/08/Cara-Mengganti-Background-Foto-Online.png" caption="gambar via leskompi"%}
 
 <div style="display:block;text-align:center">
 <a href="#main" id="download" rel="nofollow noreferer noopener" target="_blank">Wait...</a>
