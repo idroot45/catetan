@@ -52,7 +52,7 @@ window.onload=function(){
 ### How to use this page?
 
 1. Copy the original url you desired!
-2. Remove the protocol
+2. Remove the protocol. (`http://` or `https://`)
 3. Prepend with `https://www.catetan.pw/go?url=`
 4. Share the your new links!
 
