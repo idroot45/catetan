@@ -37,6 +37,9 @@
 127.0.0.1 jsc.mgid.com
 127.0.0.1 elfirkelk.com
 
+# [dunia21 149.56.24.226]
+127.0.0.1 terafile.net
+
 # [pastekuy.com]
 127.0.0.1 padsimz.com
 127.0.0.1 showyourresult.com
