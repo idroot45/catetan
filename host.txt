@@ -39,6 +39,13 @@
 
 # [dunia21 149.56.24.226]
 127.0.0.1 terafile.net
+127.0.0.1 luxury138.link
+127.0.0.1 m.luxury138android.com
+127.0.0.1 www.luxury138android.com
+127.0.0.1 luxury138android.com
+127.0.0.1 luxury138emas.com
+127.0.0.1 www.luxury138emas.com
+127.0.0.1 www.pagcor.ph
 
 # [pastekuy.com]
 127.0.0.1 padsimz.com
