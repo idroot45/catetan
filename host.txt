@@ -111,6 +111,7 @@
 127.0.0.1 ads.pubmatic.com
 127.0.0.1 cdnv.detik.com
 127.0.0.1 newrevive.detik.com
+127.0.0.1 scorecardresearch.com
 
 # [kompas.com]
 127.0.0.1 s0.2mdn.net
