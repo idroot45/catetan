@@ -1,7 +1,7 @@
 main:
   - title: "Arsip"
     icon: "fa fa-home"
-    url: "/arsip/?utm_source=navigation"
+    url: "https://www.knoacc.org/"
   - title: "Tentang"
     url: "/about/?utm_source=navigation"
   - title: "Liverpool FC"
