@@ -4,5 +4,7 @@ main:
     url: "https://www.knoacc.org/"
   - title: "Tentang"
     url: "/about/?utm_source=navigation"
+  - title: "Youtube Vanced"
+    url: "/youtube.vanced/"
   - title: "Liverpool FC"
     url: "/liverpool/catatan-tanding-dan-jadwal-streaming/?utm_source=navigation"
