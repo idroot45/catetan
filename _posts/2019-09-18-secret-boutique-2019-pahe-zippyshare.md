@@ -47,18 +47,33 @@ Jung Wook Jin (정욱진)
 {% include tengah.html %}
 
 [ep1](https://www35.zippyshare.com/v/AmyQNmUN/file.html)
-[ep2](https://www2.zippyshare.com/v/w78IagxZ/file.html)
-[ep3](https://www57.zippyshare.com/v/gocgG7L4/file.html)
-[ep4](https://www57.zippyshare.com/v/kRY03Lq6/file.html)
-[ep5](https://www55.zippyshare.com/v/QXI06az3/file.html)
-[ep6](https://www69.zippyshare.com/v/9XHyM6Xe/file.html)
-[ep7](https://www38.zippyshare.com/v/3ZaArijC/file.html)
-[ep8](https://www108.zippyshare.com/v/UddR8T64/file.html)
-[ep9](https://www117.zippyshare.com/v/zp8eT8ka/file.html)
-[ep10](https://www29.zippyshare.com/v/vX1VLUM1/file.html)
-[ep11](https://www83.zippyshare.com/v/pqWdjbV2/file.html)
-[ep12](https://www60.zippyshare.com/v/OTK2BQnI/file.html)
-[ep13](https://www108.zippyshare.com/v/7Cjp1yCk/file.html)
-[ep14](https://www70.zippyshare.com/v/QRzzgwAf/file.html)
-[ep15](https://www24.zippyshare.com/v/99ypFqYR/file.html)
-[ep16](https://www10.zippyshare.com/v/IUpq0Lnt/file.html)
+
+[ep2](https://www2.zippyshare.com/v/w78IagxZ/file.html){:.btn .btn--info .btn--large rel="nofollow external" target="_blank"}
+
+[ep3](https://www57.zippyshare.com/v/gocgG7L4/file.html){:.btn .btn--info .btn--large rel="nofollow external" target="_blank"}
+
+[ep4](https://www57.zippyshare.com/v/kRY03Lq6/file.html){:.btn .btn--info .btn--large rel="nofollow external" target="_blank"}
+
+[ep5](https://www55.zippyshare.com/v/QXI06az3/file.html){:.btn .btn--info .btn--large rel="nofollow external" target="_blank"}
+
+[ep6](https://www69.zippyshare.com/v/9XHyM6Xe/file.html){:.btn .btn--info .btn--large rel="nofollow external" target="_blank"}
+
+[ep7](https://www38.zippyshare.com/v/3ZaArijC/file.html){:.btn .btn--info .btn--large rel="nofollow external" target="_blank"}
+
+[ep8](https://www108.zippyshare.com/v/UddR8T64/file.html){:.btn .btn--info .btn--large rel="nofollow external" target="_blank"}
+
+[ep9](https://www117.zippyshare.com/v/zp8eT8ka/file.html){:.btn .btn--info .btn--large rel="nofollow external" target="_blank"}
+
+[ep10](https://www29.zippyshare.com/v/vX1VLUM1/file.html){:.btn .btn--info .btn--large rel="nofollow external" target="_blank"}
+
+[ep11](https://www83.zippyshare.com/v/pqWdjbV2/file.html){:.btn .btn--info .btn--large rel="nofollow external" target="_blank"}
+
+[ep12](https://www60.zippyshare.com/v/OTK2BQnI/file.html){:.btn .btn--info .btn--large rel="nofollow external" target="_blank"}
+
+[ep13](https://www108.zippyshare.com/v/7Cjp1yCk/file.html){:.btn .btn--info .btn--large rel="nofollow external" target="_blank"}
+
+[ep14](https://www70.zippyshare.com/v/QRzzgwAf/file.html){:.btn .btn--info .btn--large rel="nofollow external" target="_blank"}
+
+[ep15](https://www24.zippyshare.com/v/99ypFqYR/file.html){:.btn .btn--info .btn--large rel="nofollow external" target="_blank"}
+
+[ep16](https://www10.zippyshare.com/v/IUpq0Lnt/file.html){:.btn .btn--info .btn--large rel="nofollow external" target="_blank"}
