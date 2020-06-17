@@ -3,10 +3,13 @@ categories: [video]
 tags: [drama korea, download]
 title: "Secret Boutique - 2019 (zippyshare only)"
 header:
+ teaser: "https://newsimg.hankookilbo.com/2019/09/06/201909061316099208_1.jpg"
+ og_image: "https://cdn.statically.io/img/blog.asianwiki.com/wp-content/uploads/2019/09/Secret_Boutique-CP111-SM1.jpg"
  video:
   id: "bEV8xSJtzas"
   provider: "youtube"
 excerpt: "link download dan streaming paket hemat (360p) drama korea secret boutique (2019) via zippyshare only"
+last_modified_at: 2020-06-17 11:17:00
 ---
 
 Sinopsis Drama Korea Secret Boutique Subtitle Indonesia:
