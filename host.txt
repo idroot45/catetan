@@ -155,3 +155,7 @@
 127.0.0.1 sb.scorecardresearch.com
 127.0.0.1 b.scorecardresearch.com
 127.0.0.1 impulse.forkcdn.com
+
+# [android-feedback.com has expired but some apps still using it
+
+127.0.0.1 android-feedback.com
