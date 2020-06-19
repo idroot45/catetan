@@ -125,6 +125,7 @@
 127.0.0.1 kompascybermedia-d.openx.net
 127.0.0.1 match.adsrvr.org
 127.0.0.1 adsrvr.org
+127.0.0.1 umzzaftkqgx.com
 
 # [criteo]
 127.0.0.1 static.criteo.net
