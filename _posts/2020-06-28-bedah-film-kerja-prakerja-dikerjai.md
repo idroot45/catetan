@@ -14,4 +14,4 @@ Dalam diskusi bertajuk "Membedah Film Kerja, Prakerja, Dikerjai", sang sutradara
 > "Tapi ternyata kita kerja terus, ada problem, prakerja, unjung-ujungnya jadinya dikerjai. Itu sebenarnya tujuan dari judulnya,"
 > **Sindy Febriyani** dalam diskusi bertajuk "Membedah Film Kerja, Prakerja, Dikerjai" seperti disiarkan dari kanal YouTube Greenpeace Indonesia, Selasa (16/6/2020) malam.
 
-Film tersebut bisa [ditonton](/video/kerja-prakerja-dikerjai) melalui kanal Youtube Greenpeace.
+Film yang dibedah tersebut bisa [ditonton](/video/kerja-prakerja-dikerjai) melalui kanal YouTube **Watchdoc Documentary**.
