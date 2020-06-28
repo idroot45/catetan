@@ -1,6 +1,6 @@
 ---
 title: "Video “Kerja, Prakerja, Dikerjai” Sebuah Dokumenter"
-excerpt: "Film Dokumenter mengenai polemik kebijakan kartu pra-kerja era Presiden Jokowi"
+excerpt: "Nonton film dokumenter mengenai polemik kebijakan kartu pra-kerja era Presiden Jokowi"
 header:
  video:
   provider: "youtube"
@@ -15,6 +15,8 @@ tags: [prakerja, youtube, dokumenter]
 Film dokumenter ini berdurasi 53 menit. Disutradarai oleh Sindy Febriyani. Sejak diunggah di kanal YouTube Watchdoc Documentary pada 13 Juni 2020, telah ditonton lebih dari 190 ribu kali.
 
 Video yang diprakarsai Watchdoc Documentary bersama Greenpeace Indonesia tersebut adalah film berbasis data berjudul "Kerja, Prakerja, Dikerjai". Film ini mengulas tentang beragam permasalahan kebijakan pemerintah terkait ketenagakerjaan di Indonesia termasuk dalam masa pandemi Covid-19.
+
+> Tonton juga video Bedah Film "Kerja, Prakerja, Dikerjai" [di sini](https://www.catetan.pw/video/bedah-film-kerja-prakerja-dikerjai/)
 
 Setidaknya, dalam film itu ia mencantumkan data ada sekitar 1,7 juta pekerja yang di-PHK dan dirumahkan akibat pandemi Covid-19. Meski, seiring berjalannya waktu angka itu menurutnya semakin bertambah.
 
