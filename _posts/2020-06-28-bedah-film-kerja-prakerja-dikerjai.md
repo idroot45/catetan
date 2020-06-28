@@ -1,6 +1,6 @@
 ---
 title: "Video Bedah Film Dokumenter “Kerja, Prakerja, Dikerjai” di Youtube"
-excerpt: "Sebuah video berduaris 1 jam lebih yang membedah film dokumenter polemik kebijakan kartu pra-kerja yang viral di platform YouTube"
+excerpt: "Sebuah video berduarsi 1 jam lebih yang membedah film dokumenter polemik kebijakan kartu pra-kerja yang viral di platform YouTube"
 header:
  video:
   provider: "youtube"
@@ -13,3 +13,5 @@ Dalam diskusi bertajuk "Membedah Film Kerja, Prakerja, Dikerjai", sang sutradara
 
 > "Tapi ternyata kita kerja terus, ada problem, prakerja, unjung-ujungnya jadinya dikerjai. Itu sebenarnya tujuan dari judulnya,"
 > **Sindy Febriyani** dalam diskusi bertajuk "Membedah Film Kerja, Prakerja, Dikerjai" seperti disiarkan dari kanal YouTube Greenpeace Indonesia, Selasa (16/6/2020) malam.
+
+Film tersebut bisa [ditonton](/video/kerja-prakerja-dikerjai) melalui kanal Youtube Greenpeace.
