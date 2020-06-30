@@ -30,6 +30,9 @@
 # [xHelper trojan]
 127.0.0.1 lp.cooktracking.com
 
+# [telkom injector]
+127.0.0.1 p01.notifa.info
+
 # [zenomovie 91.209.70.119]
 127.0.0.1 oloxtraffic.net
 127.0.0.1 www.safelinku.com
@@ -75,7 +78,7 @@
 127.0.0.1 ofgogoatan.com
 127.0.0.1 mob1ledev1ces.com
 
-# [dramaencode.com]
+# [dramaencode.com & koreanlovers.co]
 127.0.0.1 d22sfab2t5o9bq.cloudfront.net
 127.0.0.1 outlookabsorb.com
 127.0.0.1 shortenlink.me
@@ -92,6 +95,10 @@
 127.0.0.1 www.shortenlink.me
 127.0.0.1 jetsowilk.com
 127.0.0.1 www.jetsowilk.com
+127.0.0.1 campaign.kdaffiliates.com
+127.0.0.1 open.gobnz.com
+127.0.0.1 presbanise.pw
+127.0.0.1 www.presbanise.pw
 
 # [zippyshare.com]
 127.0.0.1 d10lumateci472.cloudfront.net
