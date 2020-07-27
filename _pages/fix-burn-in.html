@@ -1,0 +1,90 @@
+---
+permalink: /fix-burn-in
+---
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+<meta charset="utf-8">
+
+<title>JScreenFix - JavaScript Screen Pixel Repair</title> 
+
+<meta name="viewport" content="width=1000">
+<meta name="keywords" content="jscreenfix, screen, display, LCD, OLED, AMOLED, pixel, repair, fix, dot, bright, red, green, blue" >
+<meta name="description" content="Repair stuck pixels using the JScreenFix algorithm. A burn-in fix online">
+
+<link href="https://www.jscreenfix.com/Flat-UI-master/bootstrap/css/bootstrap.css" rel="stylesheet">
+<link href="https://www.jscreenfix.com/Flat-UI-master/css/flat-ui.css" rel="stylesheet">
+<link rel="stylesheet" type="text/css" href="//ajax.googleapis.com/ajax/libs/jqueryui/1.7.1/themes/base/jquery-ui.css"/>
+<link rel="stylesheet" href="https://www.jscreenfix.com/css/style.2.css" />
+
+<script type="text/javascript" src="//code.jquery.com/jquery-2.0.3.min.js"></script>
+<script type="text/javascript" src="//code.jquery.com/ui/1.10.3/jquery-ui.min.js"></script>
+<script type="text/javascript" src="https://www.jscreenfix.com/js/jquery.ui.touch-punch.min.js"></script>
+<script type="text/javascript" src="https://www.jscreenfix.com/js/jscreenfix.2.js"></script>
+
+</head>
+
+<body onload="jscreenfix();">
+
+<div id="fixScreen">
+
+<div id="sponsorFrame" class="moveTop moveRight">
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- jscreenfix-fix-block -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:336px;height:280px"
+     data-ad-client="ca-pub-8526606076277673"
+     data-ad-slot="8329832968"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+</div>
+
+<div id="sponsorFrameLeaderboardWrapper" class="moveBottom">
+<div id="sponsorFrameLeaderboard">
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- jscreenfix-fix-banner -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-8526606076277673"
+     data-ad-slot="5670056822"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+</div>
+</div>
+
+<div id="backButtonWrapper" class="moveBottom moveLeft">       
+	<a href="/" class="btn btn-large btn-danger">
+	<img src="https://www.jscreenfix.com/images/back.png" alt="Go back">
+	</a>
+</div>
+
+<div id="fullscreenButtonWrapper" class="moveBottom moveRight">       
+	<a onclick="javascript:toggleFullscreen()" class="btn btn-large btn-primary">
+	<img src="https://www.jscreenfix.com/images/fullscreen.png" alt="Go Fullscreen">
+	</a>
+</div>
+
+<div class="span3">
+<div id="canvasFrame" onmousedown="javascript:hideDragTip()">
+<canvas width="256" height="256" id="canvas"></canvas>
+</div>
+</div>
+
+<div class="span3">
+<div id="dragTip" class="login-form">
+<div class="control-group">
+Drag the pixel fixer over the stuck pixel and leave running for at least 10 minutes.
+</div>
+</div>
+</div>
+
+</div>
+</body>
+</html>
