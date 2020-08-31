@@ -2,7 +2,7 @@
 title: "Perbandingan Flagship Murah: Xiaomi Mi 10 vs Poco F2 Pro vs realme X50 Pro 5G"
 categories: [review]
 tags: [adu banteng, poco f2 pro, xiaomi mi 10, realme x50 pro, snapdragon 865]
-excerpt: adu banteng 3 Flagship murah snapdragon 865 mulai harga, desain, hingga performa. mana yang layak beli dari 
+excerpt: "Xiaomi Mi 10 vs Poco F2 Pro vs realme X50 Pro 5G. Adu banteng 3 Flagship murah snapdragon 865 mulai harga, desain, hingga performa. mana yang layak beli?"
 ---
 Meski identik dengan pandemi yang menghantam semua segi kehidupan manusia di seluruh dunia, tahun 2020 juga merupakan tahunnya konsumen ponsel yang mendambakan kinerja ponsel flagship dalam rentang harga yang masih terjangkau.
 
@@ -13,6 +13,9 @@ Sebenarnya dengan membawa chipset yang sama, ponsel-ponsel ini akan memiliki kem
 Tapi, ya tetap kita penasaran nih, gimana sih kinerja ponsel dengan Snapdragon 865 yang ada di pasar Indonesia saat ini. Oh iya ya, syarat pertama harus terjangkau, alias memiliki harga di bawah rata-rata flagship yang menjual produknya di kisaran harga 15 juta ke atas.
 
 Kami menemukan tiga produk yang tepat, yakni Xiaomi Mi 10, Poco F2 Pro dan terakhir ada realme X50 Pro 5G. Kira-kira dari penerawangan kami, apa saja sih bedanya? Check this out!
+
+![Xiaomi Mi 10](https://i2.wp.com/itc.ua/wp-content/uploads/2020/07/dsc_0262.jpg?quality=90&strip=all&ssl=1)
+_Xiaomi Mi 10 via itc.ua_
 
 ## Harga dan Pilihan Varian
 
@@ -50,6 +53,9 @@ realme X50 Pro 5G menawarkan dua warna gradasi yang menarik. Yakni Moss Green al
 
 Tentu akan sangat subyektif sekali, karena setiap dari kita memiliki warna favorit masing-masing. Tapi ulasan warna ini sepertinya harus menutup perbandingan ketiga produk ini di sisi desain dan display.
 
+![Realme X50 Pro](https://images.indianexpress.com/2020/03/Realme-X50-Pro-review-1.jpg)
+_Realme X50 Pro via indianexpress.com_
+
 ## Software UI
 
 Selanjutnya kita masuk ke pembahasan user interface atau tampilan antar muka. Seperti yang kita ketahui ketiga ponsel ini menawarkan UI yang berbeda. Ya, setidaknya dua di antara mereka ya. Yakni realme UI dan MIUI.
@@ -65,6 +71,9 @@ Demikian pula dengan MIUI, saat ini, terutama yang digunakan secara pre instal o
 Poco F2 Pro saat dijual pertama kali masih membawa MIUI versi 11. Namun tidak lama setelah itu update MIUI 12 sudah dapat diinstal oleh seluruh pengguna Poco F2 Pro dimana pun berada, termasuk di pasar Indonesia.
 
 ## Hardware
+
+![Poco F2 Pro](https://media.gizmologi.com/file/w_1200,h_675,c_fit,q_80/advantages-disadvantages-of-pocophone-idr-6-millions.jpg)
+_Poco F2 Pro via gizmologi.com_
 
 Sekarang kita ulas bagian terpenting dari sebuah ponsel pintar, apalagi kalau bukan performa hardware. Di awal pembahasan sudah sedikit disinggung, bahwa ketiga smartphone ini membawa jeroan yang sama-sama tangguh yakni chipset Snapdragon 865 yang dibangun dengan pabrikasi 7nm.
 
@@ -108,4 +117,6 @@ Poco F2 Pro menerapkan model kamera depan pop-up dengan kekuatan 20 MP, f/2.2, (
 
 Poco F2 Pro, realme X50 Pro 5G dan Xiaomi Mi 10 sama-sama menawarkan performa smartphone flagship yang sebenar-benarnya. Baik dari sisi hardware, fotografi, maupun kemampuan lainnya. Setidaknya untuk saat ini. Masing-masing perangkat pun punya kekuatan dan fitur jagoan tersendiri yang masih bisa dijadikan kebanggaan. 
 
-Hanya saja, dengan banderolan harga yang lebih terjangkau, Poco F2 Pro dan Xiaomi Mi 10 sepertinya lebih masuk akal untuk dijadikan buruan, ketimbang realme X50 Pro 5G yang bisa dibilang over price. Tapi kembali lagi, soal pilihan tetap ada di tangan Anda, dan yang pasti sesuaikan dengan kebutuhan serta isi dompet. (Ahmad Sanusi)
+Hanya saja, dengan banderolan harga yang lebih terjangkau, Poco F2 Pro dan Xiaomi Mi 10 sepertinya lebih masuk akal untuk dijadikan buruan, ketimbang realme X50 Pro 5G yang bisa dibilang over price. Tapi kembali lagi, soal pilihan tetap ada di tangan Anda, dan yang pasti sesuaikan dengan kebutuhan serta isi dompet.
+
+_Sumber artikel: Ponsel.id (Ahmad Sanusi)_
