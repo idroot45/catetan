@@ -72,8 +72,8 @@ Poco F2 Pro saat dijual pertama kali masih membawa MIUI versi 11. Namun tidak la
 
 ## Hardware
 
-![Poco F2 Pro](https://media.gizmologi.com/file/w_1200,h_675,c_fit,q_80/advantages-disadvantages-of-pocophone-idr-6-millions.jpg)
-_Poco F2 Pro via gizmologi.com_
+![Poco F2 Pro](https://www.jd.id/news/wp-content/uploads/2020/07/POCO-F2-Pro-Header-1140x733.jpg)
+_Poco F2 Pro via jd.id_
 
 Sekarang kita ulas bagian terpenting dari sebuah ponsel pintar, apalagi kalau bukan performa hardware. Di awal pembahasan sudah sedikit disinggung, bahwa ketiga smartphone ini membawa jeroan yang sama-sama tangguh yakni chipset Snapdragon 865 yang dibangun dengan pabrikasi 7nm.
 
@@ -117,6 +117,6 @@ Poco F2 Pro menerapkan model kamera depan pop-up dengan kekuatan 20 MP, f/2.2, (
 
 Poco F2 Pro, realme X50 Pro 5G dan Xiaomi Mi 10 sama-sama menawarkan performa smartphone flagship yang sebenar-benarnya. Baik dari sisi hardware, fotografi, maupun kemampuan lainnya. Setidaknya untuk saat ini. Masing-masing perangkat pun punya kekuatan dan fitur jagoan tersendiri yang masih bisa dijadikan kebanggaan. 
 
-Hanya saja, dengan banderolan harga yang lebih terjangkau, Poco F2 Pro dan Xiaomi Mi 10 sepertinya lebih masuk akal untuk dijadikan buruan, ketimbang realme X50 Pro 5G yang bisa dibilang over price. Tapi kembali lagi, soal pilihan tetap ada di tangan Anda, dan yang pasti sesuaikan dengan kebutuhan serta isi dompet.
+Hanya saja, dengan banderolan harga yang lebih terjangkau, Poco F2 Pro dan Xiaomi Mi 10 sepertinya lebih masuk akal untuk dijadikan buruan, ketimbang **realme X50 Pro 5G yang bisa dibilang over price**. Tapi kembali lagi, soal pilihan tetap ada di tangan Anda, dan yang pasti sesuaikan dengan kebutuhan serta isi dompet.
 
 _Sumber artikel: Ponsel.id (Ahmad Sanusi)_
