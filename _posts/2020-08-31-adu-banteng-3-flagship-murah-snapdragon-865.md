@@ -14,8 +14,8 @@ Tapi, ya tetap kita penasaran nih, gimana sih kinerja ponsel dengan Snapdragon 8
 
 Kami menemukan tiga produk yang tepat, yakni Xiaomi Mi 10, Poco F2 Pro dan terakhir ada realme X50 Pro 5G. Kira-kira dari penerawangan kami, apa saja sih bedanya? Check this out!
 
-![Xiaomi Mi 10](https://i2.wp.com/itc.ua/wp-content/uploads/2020/07/dsc_0262.jpg?quality=90&strip=all&ssl=1)
-_Xiaomi Mi 10 via itc.ua_
+https://media.gizmologi.com/file/w_1200,h_675,c_fit,q_80/advantages-disadvantages-of-pocophone-idr-6-millions.jpg)
+_Poco F2 Pro via gizmologi.com_
 
 ## Harga dan Pilihan Varian
 
@@ -26,6 +26,9 @@ Poco F2 Pro merupakan produk yang paling murah yang kita bandingkan kali ini. Da
 Paling mahal ada realme X50 Pro 5G yang dibanderol denga harga resmi Rp 11.999.000. Tapi menawarkan varian memori yang paling besar, yakni RAM 12GB + ROM 256GB. Bagaimana dengan Mi 10?
 
 Xiaomi Mi 10 awalnya dijual dengan harga resmi Rp 9.999.000 atau menyentuh batas ambang 10 juta. Tapi kabar gembira buat kamu yang sempat tertarik lalu mundur pelan-pelan melihat harganya, karena sekarang produk dengan RAM 8GB + ROM256GB ini dibanderol hanya Rp 8.999.000. Turun sejuta gan! Lumayan, sisa sejutanya bisa dibelikan casing yang bagus dan traktir pasangan, mungkin. Halo, jomblo!
+
+![Xiaomi Mi 10 Pro](https://cdn.4gnews.pt/imagens/xiaomi-mi-note-10-6-cke.jpg)
+_Xiaomi Mi 10 Pro via 4gnews.pt_
 
 ## Desain dan Display
 
@@ -53,10 +56,10 @@ realme X50 Pro 5G menawarkan dua warna gradasi yang menarik. Yakni Moss Green al
 
 Tentu akan sangat subyektif sekali, karena setiap dari kita memiliki warna favorit masing-masing. Tapi ulasan warna ini sepertinya harus menutup perbandingan ketiga produk ini di sisi desain dan display.
 
-![Realme X50 Pro](https://images.indianexpress.com/2020/03/Realme-X50-Pro-review-1.jpg)
-_Realme X50 Pro via indianexpress.com_
-
 ## Software UI
+
+![Xiaomi Mi 10](https://i2.wp.com/itc.ua/wp-content/uploads/2020/07/dsc_0262.jpg?quality=90&strip=all&ssl=1)
+_Xiaomi Mi 10 via itc.ua_
 
 Selanjutnya kita masuk ke pembahasan user interface atau tampilan antar muka. Seperti yang kita ketahui ketiga ponsel ini menawarkan UI yang berbeda. Ya, setidaknya dua di antara mereka ya. Yakni realme UI dan MIUI.
 
@@ -98,6 +101,9 @@ Ketiganya juga mendukung reverse charging, yakni kemampuan untuk mendelivery day
 Di sektor koneksi, ketiga perangkat sudah mendukung network 5G, 4G LTE, WiFi6, Bluetooth 5.1, NFC dan USB type-C. Poin plusnya, Poco F2 Pro dan Xiaomi Mi 10 punya tambahan IR Blaster. Dengan koneksi ini, F2 Pro dan Mi 10 bisa difungsikan sebagai remote control perangkat elektronik rumah tangga.
 
 ## Kamera
+
+![Realme X50 Pro](https://images.indianexpress.com/2020/03/Realme-X50-Pro-review-1.jpg)
+_Realme X50 Pro via indianexpress.com_
 
 Sektor fotografi, ketiga smartphone flagship ini sama-sama membawa Quad Camera di bagian belakang. Xiaomi Mi 10 dan realme X50 Pro 5G menerapkan struktur modul kamera berbentuk vertikal, dengan posisi di sisi kiri. Sedangkan Poco F2 Pro tampil lebih unik dengan susunan kamera melingkar di bagian tengah-atas.
 
