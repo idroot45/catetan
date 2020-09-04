@@ -1,6 +1,11 @@
 ---
 title: "JavaScript: Mengenal Variable Scope Lokal dan Global"
 categories: [javascript]
+tags: [mengenal javascript, variable scope, scope lokal javascript, scope global javascript]
+excerpt: "Mengetahui perbedaan dan penggunaan cakupan variabel (variable scope) lokal dan global dalam bahasa JavaScript"
+header:
+ overlay_image: "https://cdn.statically.io/img/www.boleh.id/bolehtau/wp-content/uploads/2019/09/js.jpg"
+---
 ---
 Sejauh ini kita sudah mengenal `function`. Ada satu hal lagi yang harus kita tahu mengenai dasar JavaScript, yakni `scoping variable`. Ada banyak keadaan di mana kita membutuhkan variabel untuk diakses di seluruh script yang kita buat. Tetapi ada juga keadaan di mana kita ingin variabel tersebut hanya dapat diakses pada [cakupan fungsi](/javascript/cakupan-variabel-javascript/) dan fungsi turunannya saja.
 
