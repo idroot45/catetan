@@ -1,4 +1,7 @@
 main:
+  - title: "Javascript"
+    icon: "fa fa-javascript"
+    url: "/javascript/"
   - title: "Arsip"
     icon: "fa fa-home"
     url: "https://www.knoacc.org/"
