@@ -3,6 +3,8 @@ title: "Mengenal JavaScript: Arrays dan Objek"
 categories: [javascript]
 tags: [mengenal javascript, arrays javascript, inject javascript]
 excerpt: "Mengenal array dan objek pada JavaScript"
+header:
+ overlay_image: "https://cdn.statically.io/img/www.boleh.id/bolehtau/wp-content/uploads/2019/09/js.jpg"
 ---
 Kita sudah [mengenal tipe data dasar](https://www.catetan.pw/pengenalan-javascript/) yang ada pada JavaScript. Kali ini kita akan membahas mengenai array dan objek pada JavaScript. Keduanya dapat menampung lebih dari satu tipe data dasar yang digunakan untuk mengelola sebuah data.
 
