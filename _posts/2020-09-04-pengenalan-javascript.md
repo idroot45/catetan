@@ -5,7 +5,7 @@ JavaScript merupakan bahasa pemrograman client-side sehingga seluruh prosesnya b
 
 Karena diolah pada sisi client, JavaScript sangat bergantung pada pengaturan dan kemampuan browser ketika melakukan sebuah proses (compiling atau rendering pada DOM). Bahkan pengguna dapat sepenuhnya tidak mengizinkan JavaScript berjalan pada browser dengan menonaktifkan dukungan JavaScript pada browser.
 
-Meskipun memiliki nama JavaScript bahasa pemrograman ini sama sekali tidak ada hubungannya dengan bahasa pemrograman Java. Sebenarnya pada tahun 1995 Netscape melahirkan bahasa pemrograman ini dengan nama “LiveScript”, namun pada saat itu bahasa pemrograman Java sedang populer. Untuk memanfaatkan kepopulerannya, namanya pun diubah menjadi “JavaScript” dan benar bahasa pemrograman ini pun akhirnya memiliki popularitas yang tidak kalah dari Java.
+Meskipun memiliki nama _**Java**Script_ bahasa pemrograman ini sama sekali **tidak ada hubungannya dengan bahasa pemrograman Java**. Sebenarnya pada tahun 1995 Netscape melahirkan bahasa pemrograman ini dengan nama “LiveScript”, namun pada saat itu bahasa pemrograman Java sedang populer. Untuk memanfaatkan kepopulerannya, namanya pun diubah menjadi “JavaScript” dan benar bahasa pemrograman ini pun akhirnya memiliki popularitas yang tidak kalah dari Java.
 
 Setelah diadopsi di luar Netscape, JavaScript distandarisasi oleh European Computer Manufacturer’s Association (ECMA) itulah sebabnya terkadang ada yang menyebutnya dengan ECMAScript.
 
