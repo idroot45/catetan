@@ -1,5 +1,5 @@
 ---
-title: "Mengenal JavaScript: Arrays dan Objek"
+title: "JavaScript: Mengenal Arrays dan Objek"
 categories: [javascript]
 tags: [mengenal javascript, arrays javascript, inject javascript]
 excerpt: "Mengenal array dan objek pada JavaScript"
