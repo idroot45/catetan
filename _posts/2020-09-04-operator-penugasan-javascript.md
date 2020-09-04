@@ -1,5 +1,5 @@
 ---
-title: "Mengenal JavaScript: Mengenal Operator Penugasan"
+title: "JavaScript: Mengenal Operator Penugasan"
 categories: [javascript]
 tags: [mengenal javascript, mengenal operator, operator penugasan]
 excerpt: "Mengenal operator javascript: mentukan nilai variabel melalui operator penugasan (assignment operator) dalam bahasa JavaScript"
