@@ -1,5 +1,5 @@
 ---
-title: "Mengenal JavaScript: Tipe Data"
+title: "JavaScript: Mengenal Tipe Data"
 categories: [javascript]
 tags: [mengenal javascript, mengenal tipe data, tipe data javascript]
 excerpt: "Mengetahui tipe-tipe data pada nila dalam bahasa JavaScript"
