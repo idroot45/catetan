@@ -2,7 +2,7 @@
 title: "JavaScript: Mengenal Tipe Data"
 categories: [javascript]
 tags: [mengenal javascript, mengenal tipe data, tipe data javascript]
-excerpt: "Mengetahui tipe-tipe data pada nila dalam bahasa JavaScript"
+excerpt: "Mengetahui tipe-tipe data pada nilai (value) dalam bahasa JavaScript"
 header:
  overlay_image: "https://cdn.statically.io/img/www.boleh.id/bolehtau/wp-content/uploads/2019/09/js.jpg"
 ---
