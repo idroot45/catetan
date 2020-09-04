@@ -1,8 +1,8 @@
 ---
-title: "Mengenal JavaScript: "
+title: "Mengenal JavaScript: Mengenal Operator Penugasan"
 categories: [javascript]
-tags: [mengenal javascript, mengenal assignment operator, operator penugasan]
-excerpt: "Menentukan nilai variabel melalui operator penugasan (assignment operator) dalam bahasa JavaScript"
+tags: [mengenal javascript, mengenal operator, operator penugasan]
+excerpt: "Mengenal operator javascript: mentukan nilai variabel melalui operator penugasan (assignment operator) dalam bahasa JavaScript"
 header:
  overlay_image: "https://cdn.statically.io/img/www.boleh.id/bolehtau/wp-content/uploads/2019/09/js.jpg"
 ---
