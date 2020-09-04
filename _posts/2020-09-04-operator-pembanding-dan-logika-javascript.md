@@ -1,5 +1,5 @@
 ---
-title: "Mengenal JavaScript: Mengenal Operator Pembanding dan Logika"
+title: "JavaScript: Mengenal Operator Pembanding dan Logika"
 categories: [javascript]
 tags: [mengenal javascript, mengenal operator, operator penugasan]
 excerpt: "Mengenal operator javascript: mentukan nilai variabel melalui operator penugasan (assignment operator) dalam bahasa JavaScript"
