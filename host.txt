@@ -176,6 +176,17 @@
 127.0.0.1 adsrvr.org
 127.0.0.1 umzzaftkqgx.com
 
+# [indosport]
+127.0.0.1 anymind360.com
+127.0.0.1 acdn.adnxs.com
+127.0.0.1 ads.vidoomy.com
+127.0.0.1 vidoomy.com
+127.0.0.1 st-n.ads5-adnow.com
+127.0.0.1 ads5-adnow.com
+127.0.0.1 ambientindo.cachefly.net
+127.0.0.1 embed.dugout.com
+127.0.0.1 static.ads-twitter.com
+
 # [criteo]
 127.0.0.1 static.criteo.net
 127.0.0.1 bidder.criteo.com
@@ -206,6 +217,6 @@
 127.0.0.1 b.scorecardresearch.com
 127.0.0.1 impulse.forkcdn.com
 
-# [android-feedback.com has expired but some apps still using it
+# [android-feedback.com] has expired but some apps still using it
 
 127.0.0.1 android-feedback.com
