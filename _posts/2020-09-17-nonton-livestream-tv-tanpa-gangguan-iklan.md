@@ -3,6 +3,9 @@ title: "Nonton Live Stream TV Tanpa Diganggu Iklan"
 excerpt: "Cara menonton live stream TV tanpa diganggu iklan ala saya. Bonus: Tak ada data pribadi yang tercuri, privacy aman"
 categories: [tips]
 tags: [livestream, streaming tv, tv online]
+header:
+ image: assets/images/Screenshot_20200917-221326~2.png
+ caption: mencari url streaming tv
 ---
 Nonton TV mungkin sudah tidak jaman. Kekinian banyak muncul layanan VOD (video on demanad) hingga memaksa beberapa stasiun TV swasta nasional ikut-ikutan mengonlinekan siarannya.
 
