@@ -135,10 +135,32 @@
 127.0.0.1 www.ssacredvecto.info
 
 # [detik.com]
-127.0.0.1 ads.pubmatic.com
-127.0.0.1 cdnv.detik.com
+127.0.0.1 cdn.detik.net.id
+127.0.0.1 akcdn.detik.net.id
+127.0.0.1 cdnv.detik.net.id
+127.0.0.1 rec.detik.com
+127.0.0.1 connect.detik.com
 127.0.0.1 newrevive.detik.com
-127.0.0.1 scorecardresearch.com
+127.0.0.1 cdnstatic.detik.com
+127.0.0.1 analytic.detik.com
+127.0.0.1 mood.detik.com
+127.0.0.1 connect.facebook.net
+# i don't use Facebook anymore
+127.0.0.1 www.googletagmanager.com
+127.0.0.1 platform.twitter.com
+127.0.0.1 b.scorecardresearch.com
+127.0.0.1 securepubads.g.doubleclick.net
+127.0.0.1 pubads.g.doubleclick.net
+127.0.0.1 ads.pubmatic.com
+127.0.0.1 www.gstatic.com
+127.0.0.1 www.google-analytics.com
+127.0.0.1 partner.googleadservices.com
+127.0.0.1 gum.criteo.com
+127.0.0.1 certify-js.alexametrics.com
+127.0.0.1 ps.eyeota.net
+127.0.0.1 vars.hotjar.com
+127.0.0.1 script.hotjar.com
+127.0.0.1 t.pubmatic.com
 
 # [kompas.com]
 127.0.0.1 s0.2mdn.net
