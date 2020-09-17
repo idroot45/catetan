@@ -18,7 +18,9 @@ Yang saya cari pertama adalah tag `<video>` dan memburu properti `src`-nya. Jika
 
 Bisa jadi sebuah laman streaming malah memasang `<iframe>` untuk menyisipkan laman lain di situ. Maka, proses perburuan pun berulang dengan alamat yang ada dalam tag `iframe` ke addres bar dengan prefik `view-source` lagi hingga mendapatkan tautan dengan ekstensi m3u8.
 
-Jika sudah maka perburuan pun selesai. Tinggal membuka aplikasi pemutar video yang bisa memutar live stream seperti VLC atau MX Player Pro.
+Jika sudah mendapatkan sebuah url yang ekstensinya adalah **m3u8** maka perburuan pun selesai. Tinggal membuka aplikasi pemutar video yang bisa memutar live stream seperti VLC atau MX Player Pro.
+
+[![kode sumber streaming](https://github.com/knoacc/catetan/blob/master/assets/images/Screenshot_20200917-221426.png)](https://github.com/knoacc/catetan/blob/master/assets/images/Screenshot_20200917-221426.png)
 
 Contohnya adalah tautan yang saya dapatkan dari 20detik.com untuk channel TRANSTV dan TRANS7 berikut ini:
 - **Trans TV**: `https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8`
