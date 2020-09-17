@@ -14,13 +14,17 @@ Wujud live stream TV tersebut menjadi tidak begitu menarik bagi saya. Yang menar
 
 Maka, ketika mengakses situs tersebut (seperti biasa) saya ketikkan `view-source:` di depan alamat situs yang ada di address bar menjadi seperti ini: `view-source:https://domain.com/nganu` dan isi laman streaming tersebut pun menampilkan informasi yang cukup banyak.
 
+[![akses kode sumber laman](assets/images/Screenshot_20200917-221404~2.png)](assets/images/Screenshot_20200917-221404~2.png)
+
 Yang saya cari pertama adalah tag `<video>` dan memburu properti `src`-nya. Jika tidak ada maka tujuan selanjutnya adalah mencari elemen yang punya property `player` atau semacamnya. Misalnya `<div id=`player`> kemudian memburu tautan yang ada didalamnya.
 
 Bisa jadi sebuah laman streaming malah memasang `<iframe>` untuk menyisipkan laman lain di situ. Maka, proses perburuan pun berulang dengan alamat yang ada dalam tag `iframe` ke addres bar dengan prefik `view-source` lagi hingga mendapatkan tautan dengan ekstensi m3u8.
 
+[![iframe streaming tv](assets/images/Screenshot_20200917-221326~2.png)]assets/images/Screenshot_20200917-221326~2.png)
+
 Jika sudah mendapatkan sebuah url yang ekstensinya adalah **m3u8** maka perburuan pun selesai. Tinggal membuka aplikasi pemutar video yang bisa memutar live stream seperti VLC atau MX Player Pro.
 
-[![kode sumber streaming](https://github.com/knoacc/catetan/blob/master/assets/images/Screenshot_20200917-221426.png)](https://github.com/knoacc/catetan/blob/master/assets/images/Screenshot_20200917-221426.png)
+[![kode sumber streaming](assets/images/Screenshot_20200917-221426.png)](assets/images/Screenshot_20200917-221426.png)
 
 Contohnya adalah tautan yang saya dapatkan dari 20detik.com untuk channel TRANSTV dan TRANS7 berikut ini:
 - **Trans TV**: `https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8`
