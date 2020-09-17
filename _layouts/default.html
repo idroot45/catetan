@@ -1,10 +1,9 @@
 ---
 layout: compress
----
-<!doctype html>
+---<!doctype html>
 <!--
-  Minimal Mistakes Jekyll Theme 4.17.2 by Michael Rose
-  Copyright 2013-2019 Michael Rose - mademistakes.com | @mmistakes
+  Minimal Mistakes Jekyll Theme 4.20.2 by Michael Rose
+  Copyright 2013-2020 Michael Rose - mademistakes.com | @mmistakes
   Free for personal and commercial use under the MIT license
   https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
 -->
@@ -18,9 +17,8 @@ layout: compress
     {% include_cached skip-links.html %}
     {% include_cached browser-upgrade.html %}
     {% include_cached masthead.html %}
-  <div id="fb-root></div>
-    <div class="initial-content">
-    <div><center>Browser tanpa iklan: <a href="https://brave.com/cat416">Brave Browser</a></center></div>
+
+    <div id="fb-root"class="initial-content">
       {{ content }}
     </div>
 
@@ -37,7 +35,7 @@ layout: compress
       </footer>
     </div>
 
-    {% include scripts.html %}
-    {% include addon %}
+    {% include scripts.html %}{% include addon %}
+
   </body>
 </html>
