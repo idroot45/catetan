@@ -13,6 +13,5 @@ Berikut ini adalah kumpulan artikel materi pembelajaran bahasa pemrograman JavaS
 6. **Mengenal JavaScript: Statemen  `If` dan `Else`** - [link](https://www.catetan.pw/javascript/statemen-if-else-javascript/)
 7. **Mengenal JavaScript: Perulangan (Loop)** - [link](https://www.catetan.pw/javascript/perulangan-for-loop-dan-for-of-loop-javascript/)
 8. **Mengenal JavaScript: Function dan Cara Kerjanya** - [link](https://www.catetan.pw/javascript/cara-kerja-function-javascript/)
-9. **Mengenal JavaScript: Membedakan dan Menggunakan Variable Scope Local dan Global** - [link](https://www.catetan.pw/javascript/cakupan-variabel-javascript/
+9. **Mengenal JavaScript: Membedakan dan Menggunakan Variable Scope Local dan Global** - [link](https://www.catetan.pw/javascript/cakupan-variabel-javascript/)
 
-{% include tengah.html %}
