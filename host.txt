@@ -15,10 +15,11 @@
 # Manually curated by my self.
 # Therefore, this list is very subjective.
 # 
-# As mentioned, it should only be used as an ad-on 
-# or a complementary for AdAway default host lists.
+# As mentioned, it should only be used as a complementary
+# for AdAway default host lists:
 # (https://adaway.org/hosts.txt)
-#
+# or you can choose Energized hosts list instead:
+# (https://block.energized.pro/spark/formats/hosts.txt)
 # License:
 # CC Attribution 3.0
 # (http://creativecommons.org/licenses/by/3.0/)
