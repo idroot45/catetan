@@ -141,7 +141,7 @@
 127.0.0.1 rec.detik.com
 127.0.0.1 connect.detik.com
 127.0.0.1 newrevive.detik.com
-127.0.0.1 cdnstatic.detik.com
+# 127.0.0.1 cdnstatic.detik.com
 127.0.0.1 analytic.detik.com
 127.0.0.1 mood.detik.com
 127.0.0.1 connect.facebook.net
