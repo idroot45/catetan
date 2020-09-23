@@ -71,6 +71,11 @@
 127.0.0.1 www.luxury138emas.com
 127.0.0.1 www.pagcor.ph
 
+# [cloudvideo.tv]
+127.0.0.1 fryawlauk.com
+127.0.0.1 overkirliaan.com
+127.0.0.1 d3ithbwcmjcxl7.cloudfront.net
+
 # [pastekuy.com]
 127.0.0.1 padsimz.com
 127.0.0.1 showyourresult.com
