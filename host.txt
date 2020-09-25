@@ -54,6 +54,10 @@
 127.0.0.1 upoint.id
 127.0.0.1 uzone.id
 
+# [samehadaku.tv]
+127.0.0.1 breedtagask.com
+127.0.0.1 ewedivotsfop.com
+
 # [zenomovie 91.209.70.119]
 127.0.0.1 oloxtraffic.net
 127.0.0.1 www.safelinku.com
