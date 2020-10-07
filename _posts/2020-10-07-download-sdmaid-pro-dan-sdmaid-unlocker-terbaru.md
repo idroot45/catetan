@@ -44,7 +44,7 @@ Lengkapnya, SD Maid Premium berguna untuk:
 - Mendeteksi beberapa gambar yang terduplikasi, musik atau dokumen, yang bergantung kepada nama atau lokasi.
 - Menjalankan alat secara otomatis dengan jadwal atau dengan widget pada android.
 
-[![SD Maid Premium Unlocked](assets/images/20201007_093319_0000.png)](#download-apk)
+[![SD Maid Premium Unlocked](/assets/images/20201007_093319_0000.png)](#download-apk)
 
 ## Cara Menggunakan SD Maid (Premium dan Unlocked)
 
