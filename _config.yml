@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-url: https://www.catetan.pw
+url: https://www.catetan.online
 title: Catetan SeBel
 subtitle: Catetan dan Seluk Beluk
 masthead_title: "SeBel"
