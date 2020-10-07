@@ -5,7 +5,7 @@ categories: [aplikasi]
 tags: [apk premium, sd maid pro, system cleaning tool]
 header:
  og_image: "https://cdn.statically.io/img/www.androidappsmirror.com/wp-content/uploads/2018/02/SD-Maid-System-Cleaning-Tool-App.jpg"
- teaser: "https://cdn.statically.io/img/www.androidappsmirror.com/wp-content/uploads/2018/02/SD-Maid-System-Cleaning-Tool-App.jpg?w=460"
+ teaser: "https://cdn.statically.io/img/www.androidappsmirror.com/wp-content/uploads/2018/02/SD-Maid-System-Cleaning-Tool-App.jpg?w=460px"
 redirect_from:
  - /sd-maid
  - /eu.thedarken.sdm.unlocker/
@@ -15,7 +15,7 @@ Aplikasi Pembantu untuk Android Anda, untuk tetap bersih dan rapi.
 SD Maid akan membantu menjaga perangkat Anda agar tetap bersih dan rapi!
 Ini menawarkan beberapa koleksi dari peralatan yang dapat memanajemen aplikasi dan berkas.
 
-[![sd maid premium](https://cdn.statically.io/img/www.androidappsmirror.com/wp-content/uploads/2018/02/SD-Maid-System-Cleaning-Tool-App.jpg)](#download-apk)
+[![sd maid premium](https://cdn.statically.io/img/www.androidappsmirror.com/wp-content/uploads/2018/02/SD-Maid-System-Cleaning-Tool-App.jpg?w=720)](https://cdn.statically.io/img/www.androidappsmirror.com/wp-content/uploads/2018/02/SD-Maid-System-Cleaning-Tool-App.jpg)
 
 ## Alasan memakai SD Maid System Cleaning Tool
 
@@ -60,10 +60,12 @@ Tertarik mencoba aplikasi ini? Anda dapat langsung mengambil dan mengunduh SD Ma
 
 ### Google Playstore link:
 
-- SD Maid System Cleaning Tool: [link](https://play.google.com/store/apps/details?id=eu.thedarken.sdm)
-- SD Maid Pro (Unlocker): [link](https://play.google.com/store/apps/details?id=eu.thedarken.sdm.unlocker)
+|---|:---:|
+| SD Maid System Cleaning Tool | [link](https://play.google.com/store/apps/details?id=eu.thedarken.sdm) |
+| SD Maid Pro (Unlocker) | [link](https://play.google.com/store/apps/details?id=eu.thedarken.sdm.unlocker) |
 
 ### Download mirror:
 
-- SD Maid System Cleaning Tool **v4.15.14** [download apk](#){:.btn .btn--danger}
-- SD Maid Pro (Unlocker) **v4.4.1** [download apk](#){:.btn .btn--danger}
+|---|:---:|
+|SD Maid System Cleaning Tool **v4.15.14** | [download apk](#){:.btn .btn--danger} |
+|SD Maid Pro (Unlocker) **v4.4.1** | [download apk](#){:.btn .btn--danger} |
