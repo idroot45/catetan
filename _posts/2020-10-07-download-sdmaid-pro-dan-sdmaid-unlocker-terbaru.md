@@ -6,8 +6,11 @@ tags: [apk premium, sd maid pro, system cleaning tool]
 header:
  og_image: "https://cdn.statically.io/img/www.androidappsmirror.com/wp-content/uploads/2018/02/SD-Maid-System-Cleaning-Tool-App.jpg"
  teaser: "https://cdn.statically.io/img/www.androidappsmirror.com/wp-content/uploads/2018/02/SD-Maid-System-Cleaning-Tool-App.jpg?w=460"
+redirect_from:
+ - /sd-maid
+ - /eu.thedarken.sdm.unlocker/
 ---
-Pembantu untuk Android Anda, untuk tetap bersih dan rapi.
+Aplikasi Pembantu untuk Android Anda, untuk tetap bersih dan rapi.
 
 SD Maid akan membantu menjaga perangkat Anda agar tetap bersih dan rapi!
 Ini menawarkan beberapa koleksi dari peralatan yang dapat memanajemen aplikasi dan berkas.
