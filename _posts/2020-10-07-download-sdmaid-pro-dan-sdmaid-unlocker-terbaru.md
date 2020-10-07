@@ -67,5 +67,5 @@ Tertarik mencoba aplikasi ini? Anda dapat langsung mengambil dan mengunduh SD Ma
 ### Download mirror:
 
 |---|:---:|
-|SD Maid System Cleaning Tool **v4.15.14** | [download apk](#){:.btn .btn--danger} |
-|SD Maid Pro (Unlocker) **v4.4.1** | [download apk](#){:.btn .btn--danger} |
+|SD Maid System Cleaning Tool **v4.15.14** | [download apk](http://go.knoacc.org/7q){:.btn .btn--danger} |
+|SD Maid Pro (Unlocker) **v4.4.1** | [download apk](http://go.knoacc.org/7p){:.btn .btn--danger} |
