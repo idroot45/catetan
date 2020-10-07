@@ -32,6 +32,8 @@ Dengan menggunakan aplikasi SD Maid, Anda dapat mengecek dan membersihkan sisa d
 
 Kemudian, tingginya cache yang tersimpan untuk menjalankan aplikasi juga dapat memicu terjadinya penurunan performa. Aplikasi-aplikasi yang Anda jalankan pada gadget hampir seluruhnya akan menghasilkan cache sebagai data sementara yang digunakan untuk mempercepat buka-tutup aplikasi, terutama saat multitasking.
 
+[![SD Maid Premium Unlocked](/assets/images/20201007_093319_0000.png)](#download-apk)
+
 Lengkapnya, SD Maid Premium berguna untuk:
 - Menjelajah seluruh perangkat dan memanipulasi berkas melalui penjelajah berkas dengan penuh.
 - Menghilangkan berkas tidak berguna dalam sistem anda.
@@ -43,8 +45,6 @@ Lengkapnya, SD Maid Premium berguna untuk:
 - Melakukan pembersihan aplikasi secara aktual dan menghapus beberapa berkas yang tidak digunakan, yang hampir sama istilahnya seperti dengan 'pembersih cache'.
 - Mendeteksi beberapa gambar yang terduplikasi, musik atau dokumen, yang bergantung kepada nama atau lokasi.
 - Menjalankan alat secara otomatis dengan jadwal atau dengan widget pada android.
-
-[![SD Maid Premium Unlocked](/assets/images/20201007_093319_0000.png)](#download-apk)
 
 ## Cara Menggunakan SD Maid (Premium dan Unlocked)
 
