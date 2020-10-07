@@ -15,7 +15,7 @@ Aplikasi Pembantu untuk Android Anda, untuk tetap bersih dan rapi.
 SD Maid akan membantu menjaga perangkat Anda agar tetap bersih dan rapi!
 Ini menawarkan beberapa koleksi dari peralatan yang dapat memanajemen aplikasi dan berkas.
 
-[![](https://cdn.statically.io/img/www.androidappsmirror.com/wp-content/uploads/2018/02/SD-Maid-System-Cleaning-Tool-App.jpg)](#download-apk)
+[![sd maid premium](https://cdn.statically.io/img/www.androidappsmirror.com/wp-content/uploads/2018/02/SD-Maid-System-Cleaning-Tool-App.jpg)](#download-apk)
 
 ## Alasan memakai SD Maid System Cleaning Tool
 
@@ -44,6 +44,8 @@ Lengkapnya, SD Maid Premium berguna untuk:
 - Mendeteksi beberapa gambar yang terduplikasi, musik atau dokumen, yang bergantung kepada nama atau lokasi.
 - Menjalankan alat secara otomatis dengan jadwal atau dengan widget pada android.
 
+[![SD Maid Premium Unlocked](assets/images/20201007_093319_0000.png)](#download-apk)
+
 ## Cara Menggunakan SD Maid (Premium dan Unlocked)
 
 Cara penggunaannya cukup mudah. Setelah selesai mengunduh SD Maid (v.4.15.14), memasang Unlocker (v4.4.1) dan menjalankannya untuk pertama kali, Anda akan menemukan berbagai pilihan yang seluruhnya dapat digunakan untuk mempercepat kinerja gadget Android.
@@ -63,5 +65,5 @@ Tertarik mencoba aplikasi ini? Anda dapat langsung mengambil dan mengunduh SD Ma
 
 ### Download mirror:
 
-- SD Maid System Cleaning Tool **v4.15.14** [download apk](#){.btn .btn--danger}
-- SD Maid Pro (Unlocker) **v4.4.1** [download apk](#){.btn .btn--danger}
+- SD Maid System Cleaning Tool **v4.15.14** [download apk](#){:.btn .btn--danger}
+- SD Maid Pro (Unlocker) **v4.4.1** [download apk](#){:.btn .btn--danger}
