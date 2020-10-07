@@ -15,7 +15,7 @@ intro:
 excerpt: "SD Maid Pro v3.4.9 membuka fitur **Pro** pada SD Maid versi gratis." 
 categories: [aplikasi]
 tags: [pubg mobile, gfx pubgm]
-redirect_from:
+redirect_to:
  - /sd-maid
  - /eu.thedarken.sdm.unlocker/
 ---
