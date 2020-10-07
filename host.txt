@@ -5,7 +5,7 @@
 # and (maybe) dangerous Malware.
 #
 # Project home page: Seluk Beluk
-# (https://www.catetan.pw/)
+# (https://www.catetan.online/)
 #
 # Fetch the latest version of this file: Plain text.
 # (https://www.catetan.pw/host.txt)
