@@ -65,7 +65,7 @@ File ebook 31.62 MB bisa diunduh di sini: [Download PDF](/mega.nz/file/Th4hmK6R#
 
 Judul lengkapnya _Machine Learning with Python Cookbook Practical Solutions from Preprocessing to Deep Learning_. Buku yang ditulis oleh **Chris Albon** ini ditujukan bagi pengguna tingkat lanjut bahasa Python yang ingin mempelajari _machine learning_ memakai bahasa pemrograman python. Materi buku termasuk **berat** dan **lebih spesifik** membahas solusi praktis mulai _preprocessing_ hingga _deep learning_.  
 
-Buku PDF 4 bisa diunduh dari sini: [Download PDF](/mega.nz/?key=jsxGjLoS&file=lZ2VqqtOA041VDm8BssIHZ5vFx76ONA0vJ5GnXGBy-s)
+Buku PDF 4 bisa diunduh dari sini: [Download PDF](/mega.nz/?key=jsxGjLoS&file=lZ2VqqtOA041VDm8BssIHZ5vFx76ONA0vJ5GnXGBy-s){:.btn .btn--default}
 
 ### 7. Data Analysis From Scratch With Python
 
