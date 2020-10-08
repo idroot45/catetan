@@ -2,8 +2,8 @@
 title: "Daftar Buku (e-Book PDF) Referensi Belajar Python"
 excerpt: "Daftar link download PDF buku referensi untuk mempelajari bahasa pemrograman Python dari tingkat dasar, menengah, hingga tingkat lanjut (expert) gratis"
 header:
- og_image:
- teaser:
+ og_image: "https://i2.wp.com/i112.fastpic.ru/big/2020/0630/fe/5e90066cda148d7cf9d4033db05301fe.jpg?ssl=1"
+ teaser: "https://i2.wp.com/i112.fastpic.ru/big/2020/0630/fe/5e90066cda148d7cf9d4033db05301fe.jpg?resize=460,250"
 categories: [ebook]
 tags: [data analysis, machine learning, python, python ebook]
 toc: true
