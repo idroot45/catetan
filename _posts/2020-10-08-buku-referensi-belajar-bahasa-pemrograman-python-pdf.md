@@ -34,9 +34,9 @@ Meskipun demikian, buku ini tetap direkomendasikan bagi yang ingin belajar Pytho
 
 Berjumlah 480 halaman, file ebook sebesar 12.57 MB bisa diunduh dari sini: [Download PDF](/mega.nz/?key=OxhG1SyQ&file=JdUS65Oohfr_J8V9B_L0k0nPZyyPcW6PklQWNGiKZXE){:.btn .btn--default}
 
-### 3. Python Programming (edisi ketiga), oleh Adam Stewart, 2016
+### 3. Python Programming
 
-Buku berjudul **Python Programming** 'hanya' terdiri dari 115 halaman. Memuat materi _Programming for Beginners_ dan _Python Programming for Intermediates_. 
+Buku berjudul **Python Programming** (edisi ketiga) 'hanya' terdiri dari 115 halaman. Memuat materi _Programming for Beginners_ dan _Python Programming for Intermediates_. 
 Ebook PDF ini cukup singkat dan sederhana karena memang ditujukan untuk pemula hingga tingkat menengah. 
 
 File PDF sebesar 9.89 MB dan bisa diunduh dari: [Download PDF](/mega.nz/?key=30o2nK7D&file=MUmBnMGGlJcMzkuQebLpTcFYYyUkPDuX-3zNG_1pLpk){:.btn .btn--default}
