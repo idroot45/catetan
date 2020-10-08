@@ -17,7 +17,18 @@ Berikut beberapa judul buku PDF belajar Python beserta link untuk download [seca
 
 ## Buku Belajar Bahasa Pemrograman Python
 
-### 1. Learning Python
+### 1. Belajar Pemrograman Dasar Python
+
+Buku ini ditulis oleh **Ridwan Fajar Septian** dan benar benar disusun untuk pemula yang baru belajar Python.
+
+Bisa diunduh dari sini: [Download PDF](/mega.nz/file/ep5AlTqb#InIeUOsvFJ85w1pjKlFOEdfegnuV_Qcj_CNHCYfY-Ok){:.btn .btn--default}
+
+### 2. Membuat Aplikasi Bisnis dengan Pythin dan MySql
+
+Buku ini berisi cara membuat aplikasi bisnis menggunakan bahasa Python dan database berbasis MySql. Bahasan materi dimulai dari pemahaman konsep kemudian dilanjutkan dengan ulasan teknis pemrigraman secara rinci. Contih aplikasi yang dibuat dalam buku ini berupa aplikasi kasir.
+
+Ebook brformat PDF bisa diunduh dari sini: [Download PDF](/mega.nz/?key=Chhy3bKR&file=PElFErCc6KDXmrKHgSWjOEWa0JVX4I8BWDiNig_GeLE
+### 3. Learning Python
 
 Buku **Learning Python** berjumlah 1213 halaman. File PDF 8.3 MB. Materi pembelajaran disajikan dalam bahasa Inggris ditulis oleh **Mark Lutz**. 
 
@@ -25,7 +36,7 @@ Materi buku sangat lengkap dan mencakup keseluruhan aspek dalam belajar Python. 
 
 Buku bisa diunduh dari: [Download PDF](/mega.nz/?key=6ooUDayS&file=n20NoxpLDv4i0OJ-487w-jeLznv5zk8znK-Tyc3aXOE){:.btn .btn--default}
 
-### 2. Python Programming for the Absolute Beginner
+### 4. Python Programming for the Absolute Beginner
 
 Buku PDF ini adalah edisi ketiga dari *Python Programming for the Absolute Beginner* yang ditulis oleh **Michael Dawson**.
 Penulis pernah bekerja sebagai programmer dan desainer game komputer. Sehingga isi bukunya lebih cocok bagi yang ingin belajar Python dan ingin menjadi _game developer_.
@@ -34,14 +45,14 @@ Meskipun demikian, buku ini tetap direkomendasikan bagi yang ingin belajar Pytho
 
 Berjumlah 480 halaman, file ebook sebesar 12.57 MB bisa diunduh dari sini: [Download PDF](/mega.nz/?key=OxhG1SyQ&file=JdUS65Oohfr_J8V9B_L0k0nPZyyPcW6PklQWNGiKZXE){:.btn .btn--default}
 
-### 3. Python Programming
+### 5. Python Programming
 
 Buku berjudul **Python Programming** (edisi ketiga) 'hanya' terdiri dari 115 halaman. Memuat materi _Programming for Beginners_ dan _Python Programming for Intermediates_. 
 Ebook PDF ini cukup singkat dan sederhana karena memang ditujukan untuk pemula hingga tingkat menengah. 
 
 File PDF sebesar 9.89 MB dan bisa diunduh dari: [Download PDF](/mega.nz/?key=30o2nK7D&file=MUmBnMGGlJcMzkuQebLpTcFYYyUkPDuX-3zNG_1pLpk){:.btn .btn--default}
 
-### 4. Learn Python 3 the Hard Way
+### 6. Learn Python 3 the Hard Way
 
 Berjudul lengkap **Learn Python 3 the Hard Way: A Very Simple Introduction to the Terrifyingly Beautiful World of Computers and Code** disusun oleh Zed A. Shaw dalam bahasa Inggris.
 
@@ -54,20 +65,20 @@ File ebook EPUB (original) sebesar 12.38 bisa diunduh gratis di sini: [Download 
 
 Berikut ini adalah buku yang menyasar topik dan penggunaan Python dalam bidang _machine learning_. Bukan untuk kalangan umum.
 
-### 5. Introduction to Machine Learning with Python
+### 7. Introduction to Machine Learning with Python
 
 Buku yang ditulis oleh **Andreas C Muller** dan **Sarah Guido** ini fokus pada penggunaan Python dengan `scikit-learn` library untuk _machine learning_ atau _artificial intelegence_ (AI).
 Cakupan bahasa yang berat lebih cocok bagi kalangan akademisi/peneiti dan ilmuwan.
 
 File ebook 31.62 MB bisa diunduh di sini: [Download PDF](/mega.nz/file/Th4hmK6R#20MG3Q3gOodpGzovmCNXL4zeLXZ-gRsPrNUnHsgbceA){:.btn .btn--default}
 
-### 6. Machine Learning with Python Cookbook
+### 8. Machine Learning with Python Cookbook
 
 Judul lengkapnya _Machine Learning with Python Cookbook Practical Solutions from Preprocessing to Deep Learning_. Buku yang ditulis oleh **Chris Albon** ini ditujukan bagi pengguna tingkat lanjut bahasa Python yang ingin mempelajari _machine learning_ memakai bahasa pemrograman python. Materi buku termasuk **berat** dan **lebih spesifik** membahas solusi praktis mulai _preprocessing_ hingga _deep learning_.  
 
 Buku PDF 4 bisa diunduh dari sini: [Download PDF](/mega.nz/?key=jsxGjLoS&file=lZ2VqqtOA041VDm8BssIHZ5vFx76ONA0vJ5GnXGBy-s){:.btn .btn--default}
 
-### 7. Data Analysis From Scratch With Python
+### 9. Data Analysis From Scratch With Python
 
 Judul lengkap **Data Analysis From Scratch With Python: Step-by-step Guide** adalah buku oanduan untuk pemula menggunakan Python, Pandas, NumPy, Scikit-Learn, IPython, TensorFlow and Matplotlib.
 
