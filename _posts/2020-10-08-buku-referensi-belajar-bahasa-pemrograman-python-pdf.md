@@ -67,6 +67,14 @@ Judul lengkapnya _Machine Learning with Python Cookbook Practical Solutions from
 
 Buku PDF 4 bisa diunduh dari sini: [Download PDF](/mega.nz/?key=jsxGjLoS&file=lZ2VqqtOA041VDm8BssIHZ5vFx76ONA0vJ5GnXGBy-s)
 
+### 7. Data Analysis From Scratch With Python
+
+Judul lengkap **Data Analysis From Scratch With Python: Step-by-step Guide** adalah buku oanduan untuk pemula menggunakan Python, Pandas, NumPy, Scikit-Learn, IPython, TensorFlow and Matplotlib.
+
+Materi buku terkait pengumpulan/pengolahan data, visualisasi data, penggolongan hingga pembagian data. Kesemuanya itu mengarah pada konsep pembentukan Artificial Intelegence (kecerdasan buatan)
+
+*Data Analysis From Scratch With Python* ditulis oleh **Peter Morgan** dengan jumlah halaman 104. Buku PDF bisa diunduh di sini: [Download PDF](/mega.nz/?key=O4pmATQD&file=CcYqS7RRMaV0HlDe8r0ZvrZ6kWCuaiGUnnw66gldL6Q){:.btn .btn--default}
+
 -- more to be added --
 
 Buku-buku di atas saya gunakan untuk media belajar Python secara mandiri. Jika ada saran buku lain yang bermanfaat silahkan tulis dikolom komentar.
