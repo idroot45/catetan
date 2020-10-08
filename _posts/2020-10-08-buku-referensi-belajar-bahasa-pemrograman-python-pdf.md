@@ -32,27 +32,40 @@ Penulis pernah bekerja sebagai programmer dan desainer game komputer. Sehingga i
 
 Meskipun demikian, buku ini tetap direkomendasikan bagi yang ingin belajar Python tanpa tendensi mengingat materi yang disajikan dalam buku dari tingkat dasar/pemula.
 
-Berjumlah 480 halaman, file ebook sebesar 12.57 MB bisa diunduh dari sini: [Download PDF]()
+Berjumlah 480 halaman, file ebook sebesar 12.57 MB bisa diunduh dari sini: [Download PDF](/mega.nz/?key=OxhG1SyQ&file=JdUS65Oohfr_J8V9B_L0k0nPZyyPcW6PklQWNGiKZXE){:.btn .btn--default}
+
 ### 3. Python Programming (edisi ketiga), oleh Adam Stewart, 2016
 
 Buku berjudul **Python Programming** 'hanya' terdiri dari 115 halaman. Memuat materi _Programming for Beginners_ dan _Python Programming for Intermediates_. 
-Ebook PDF ini memang ditujukan untuk pemula hingga tingkat menengah. 
+Ebook PDF ini cukup singkat dan sederhana karena memang ditujukan untuk pemula hingga tingkat menengah. 
 
-File PDF sebesar 9.89 MB dan bisa diunduh dari: [Download PDF]()
+File PDF sebesar 9.89 MB dan bisa diunduh dari: [Download PDF](/mega.nz/?key=30o2nK7D&file=MUmBnMGGlJcMzkuQebLpTcFYYyUkPDuX-3zNG_1pLpk){:.btn .btn--default}
 
-### 4. Learn Python the Hard Way
+### 4. Learn Python 3 the Hard Way
 
 Berjudul lengkap **Learn Python 3 the Hard Way: A Very Simple Introduction to the Terrifyingly Beautiful World of Computers and Code** disusun oleh Zed A. Shaw dalam bahasa Inggris.
 
 Buku berisi 563 halaman yang memuat materi koding dalam bahasa Python. Meskipun judulnya menakutkan, tetapi materi cukup mudah dipelajari dan bisa digunakan sebagai pendamping dan pelengkao koleksi buku belajar python sebelumnya.
 
-File ebook PDF sebesar 15.6 MB bisa diunduh gratis di sini: [Download PDF]()
+File ebook PDF (converted) sebesar 15.6 MB bisa diunduh gratis di sini: [Download PDF](/mega.nz/?key=K8pTGAJJ&file=Gq9TvHrUibqRp8NdtvnWEWB-iAvpk7-cvgIFFoQqOK4){:.btn .btn--default}
+File ebook EPUB (original) sebesar 12.38 bisa diunduh gratis di sini: [Download EPUB](/mega.nz/?key=KhhxVSIY&file=4Z3tKYH3_JOWTKgFrs4SXMs6L8U6U1bkWahOzaYzgug){:.btn .btn--default}
 
-## Machine Learning dengan Python
+## Machine Learning dan Data Analysis dengan Python
 
--- to be added --
+Berikut ini adalah buku yang menyasar topik dan penggunaan Python dalam bidang _machine learning_. Bukan untuk kalangan umum.
 
-## Data Analisis dengan Python
+### 5. Introduction to Machine Learning with Python
 
--- to be added --
+Buku yang ditulis oleh **Andreas C Muller** dan **Sarah Guido** ini fokus pada penggunaan Python dengan `scikit-learn` library untuk _machine learning_ atau _artificial intelegence_ (AI).
+Cakupan bahasa yang berat lebih cocok bagi kalangan akademisi/peneiti dan ilmuwan.
+
+File ebook 31.62 MB bisa diunduh di sini: [Download PDF](/mega.nz/file/Th4hmK6R#20MG3Q3gOodpGzovmCNXL4zeLXZ-gRsPrNUnHsgbceA){:.btn .btn--default}
+
+### 6. Machine Learning with Python Cookbook
+
+Judul lengkapnya _Machine Learning with Python Cookbook Practical Solutions from Preprocessing to Deep Learning_. Buku yang ditulis oleh **Chris Albon** ini ditujukan bagi pengguna tingkat lanjut bahasa Python yang ingin mempelajari _machine learning_ memakai bahasa pemrograman python. Materi buku termasuk **berat** dan **lebih spesifik** membahas solusi praktis mulai _preprocessing_ hingga _deep learning_.  
+
+Buku PDF 4 bisa diunduh dari sini: [Download PDF](/mega.nz/?key=jsxGjLoS&file=lZ2VqqtOA041VDm8BssIHZ5vFx76ONA0vJ5GnXGBy-s)
+
+-- more to be added --
 
