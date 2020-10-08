@@ -69,3 +69,4 @@ Buku PDF 4 bisa diunduh dari sini: [Download PDF](/mega.nz/?key=jsxGjLoS&file=lZ
 
 -- more to be added --
 
+Buku-buku di atas saya gunakan untuk media belajar Python secara mandiri. Jika ada saran buku lain yang bermanfaat silahkan tulis dikolom komentar.
