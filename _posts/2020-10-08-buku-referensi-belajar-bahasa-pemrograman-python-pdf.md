@@ -89,3 +89,5 @@ Materi buku terkait pengumpulan/pengolahan data, visualisasi data, penggolongan 
 -- more to be added --
 
 Buku-buku di atas saya gunakan untuk media belajar Python secara mandiri. Jika ada saran buku lain yang bermanfaat silahkan tulis dikolom komentar.
+
+_aplikasi pembaca file PDF untuk ponsel android bisa diunduh [di sini](/aplikasi/adobe-acrobat-reader-for-android)_
