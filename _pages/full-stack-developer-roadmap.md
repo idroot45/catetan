@@ -31,6 +31,7 @@ Here are some resources for full stack development that you can save for later.
 ### Languages 📕
 
 ✨ Know PHP [read](https://en.wikibooks.org/wiki/PHP_Programming)
+🌟 Learn Python 3 [read](https://devguide.python.org/)
 🎉 Learn Ruby [read](https://www.rubyguides.com/ruby-tutorial/)
 💫 Learn Rust [read](https://doc.rust-lang.org/stable/rust-by-example/)
 🎊 Learn Go [read](https://gobyexample.com/)
