@@ -4,7 +4,7 @@ main:
     url: "/javascript/"
   - title: "Full-stack Dev Roadmap"
     icon: "fa fa-dev"
-    url: "https://www.knoacc.org/"
+    url: "/full-stack-developer-roadmap/"
   - title: "Tentang"
     url: "/about/?utm_source=navigation"
 #  - title: "Youtube Vanced"
