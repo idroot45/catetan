@@ -1,5 +1,9 @@
 ---
 title: "Full Stack Developer's Roadmap 🗺"
+permalink: "/full-stack-developer-roadmap/"
+header:
+ image: "https://source.unsplash.com/weekly/coding"
+ caption: "Coding via Unsplash"
 ---
 It's easy to focus on the front end of web development, but what about the back end? Learning about the back end improves your front end skills.
 
