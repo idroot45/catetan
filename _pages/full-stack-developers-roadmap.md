@@ -4,7 +4,7 @@ permalink: "/full-stack-developer-roadmap/"
 header:
  image: "https://source.unsplash.com/weekly/?code"
  caption: "`code` via _unsplash.com_"
----`
+---
 It's easy to focus on the front end of web development, but what about the back end? Learning about the back end improves your front end skills.
 
 Here are some resources for full stack development that you can save for later.
