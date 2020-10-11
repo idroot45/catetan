@@ -25,7 +25,7 @@ Here are some resources for full stack development that you can save for later.
 
 ### Advanced Front End 🔚
 
-✨ HTML & CSS [read](https://learn.shayhowe.com/advanced-html-css/
+✨ HTML & CSS [read](https://learn.shayhowe.com/advanced-html-css/)
 
 💫 JavaScript [read](https://github.com/getify/You-Dont-Know-JS)
 
