@@ -1,6 +1,6 @@
 ---
 title: "Live Stream TransTV - TV Online"
-permalink: "/transtv/"
+permalink: "/live/transtv/"
 layout: "fluidplayer"
 match:
  hashtag: "transTV"
@@ -8,16 +8,16 @@ video:
  source: "https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8"
  poster: "https://cdn.statically.io/img/tv.detik.com/image/TransTV.jpg"
  logo: "https://cdn.statically.io/img/repo.catetan.online/icon/favicon-32x32.png"
- link: "https://www.catetan.online/transtv"
+ link: "https://www.catetan.online/live/transtv"
  type: "application/x-mpegURL"
 ---
-[Trans TV](/transtv/) adalah sebuah stasiun televisi swasta nasional di Indonesia yang dimiliki oleh Trans Media.
+[Trans TV](/live/transtv/) adalah sebuah stasiun televisi swasta nasional di Indonesia yang dimiliki oleh Trans Media.
 
 Dengan moto **Milik Kita Bersama**, konsep tayang stasiun ini tidak banyak berbeda dengan stasiun swasta lainnya. Trans TV adalah anak perusahaan dari Trans Media.
 
 ![logo transtv](https://upload.wikimedia.org/wikipedia/id/thumb/6/62/Trans_TV_2013.svg/400px-Trans_TV_2013.svg.png){:style="display:block;margin:0 auto"}
 
-Kantor pusat stasiun ini berada di Gedung Trans TV, Jalan Kapten Pierre Tendean, Jakarta Selatan. Direktur Utama Trans TV saat ini adalah Atiek Nur Wahyuni yang juga merupakan Direktur Utama [Trans7](/trans7/
+Kantor pusat stasiun ini berada di Gedung Trans TV, Jalan Kapten Pierre Tendean, Jakarta Selatan. Direktur Utama Trans TV saat ini adalah Atiek Nur Wahyuni yang juga merupakan Direktur Utama [Trans7](/live/trans7/)
 
 Pada tahun 2017, Trans TV memiliki hak siar dalam ajang sepak bola Piala Dunia 2018 Rusia, bersama Trans7 dan Transvision.
 
