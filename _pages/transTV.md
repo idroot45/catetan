@@ -1,9 +1,9 @@
 ---
-title: "Live Stream Trans TV
+title: "Live Stream TransTV - TV Online"
 permalink: "/transtv/"
 layout: "fluidplayer"
 match:
- hashtag: Live Streaming TV Swasta RCTI
+ hashtag: "transTV"
 video:
  source: "https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8"
  poster: "https://cdn.statically.io/img/tv.detik.com/image/TransTV.jpg"
