@@ -4,7 +4,8 @@ categories: [javascript]
 tags: [mengenal javascript, mengenal perulangan nila, javascript loop]
 excerpt: "Mengetahui cara melakukan perulangan objek dalam bahasa JavaScript"
 header:
- overlay_image: "https://cdn.statically.io/img/www.boleh.id/bolehtau/wp-content/uploads/2019/09/js.jpg"
+ teaser: "https://cdn.statically.io/img/www.boleh.id/bolehtau/wp-content/uploads/2019/09/js.jpg?w=420px"
+ og_image: "https://cdn.statically.io/img/www.boleh.id/bolehtau/wp-content/uploads/2019/09/js.jpg"
 ---
 Sejauh ini kita sudah [mengenal array](https://www.catetan.pw/javascript/javascript-arrays-dan-objek/) sebagai tempat untuk menyimpan banyak data. Ada beberapa kasus dimana kita ingin memeriksa setiap item dalam sebuah array dan melakukan sesuatu dengannya, tetapi kita tidak ingin menuliskan seluruh daftar nilai pada array secara manual, dan menyibukkan diri untuk melakukan hal yang berulang. Maka dari itu kita perlu mempelajari teknik yang dapat mengatasi permasalahan tersebut, teknik ini disebut dengan **loops**.
 
