@@ -1,5 +1,6 @@
 ---
-title: "Mengenal Bahasa Pemrograman Client-side, JavaScript"
+permalink: "/javascript/mengenal-javascript/"
+title: "Mengenal Bahasa Pemrograman Client-side: JavaScript"
 categories: [javascript]
 tags: [dasar javascript, mengenal javascript]
 excerpt: "JavaScript merupakan bahasa pemrograman client-side sehingga seluruh prosesnya berjalan pada sisi pengguna bukan server"
