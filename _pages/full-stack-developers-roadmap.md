@@ -91,11 +91,11 @@ Here are some resources for full stack development that you can save for later.
 
 🎊 Learn MariaDB [read](https://www.tutorialspoint.com/mariadb/index.htm)
 
-🌟 Learn MS SQL [https://www.tutorialspoint.com/ms_sql_server/index.htm)
+🌟 Learn MS SQL [read](https://www.tutorialspoint.com/ms_sql_server/index.htm)
 
 ### NoSQL Databases 📗
 
-✨ Learning MongoDB [read](ttps://github.com/evanlucas/learnyoumongo)
+✨ Learning MongoDB [read](https://github.com/evanlucas/learnyoumongo)
 
 🎉 Learn CouchDB [read](http://guide.couchdb.org/editions/1/en/index.html)
 
