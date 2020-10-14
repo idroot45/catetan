@@ -4,7 +4,8 @@ categories: [javascript]
 tags: [mengenal javascript, mengenal operator, operator penugasan]
 excerpt: "Mengenal pernyataan if (jika) dan else (jika tidak) dan penggunaannya dalam kerangka logika bahasa JavaScript"
 header:
- overlay_image: "https://cdn.statically.io/img/www.boleh.id/bolehtau/wp-content/uploads/2019/09/js.jpg"
+ teaser: "https://cdn.statically.io/img/www.boleh.id/bolehtau/wp-content/uploads/2019/09/js.jpg?w=420px"
+ og_image: "https://cdn.statically.io/img/www.boleh.id/bolehtau/wp-content/uploads/2019/09/js.jpg"
 ---
 If/Else Statement punya peran penting dalam membangun kerangka logika pemrograman, termasuk dalam bahas JavaScript.
 
