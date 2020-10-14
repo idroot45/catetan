@@ -2,6 +2,9 @@
 permalink: "/javascript/"
 title: "Javascript Dasar"
 excerpt: "Kumpulan artikel materi pembelajaran bahasa pemrograman JavaScript tingkat dasar"
+header:
+ teaser: "https://cdn.statically.io/img/www.boleh.id/bolehtau/wp-content/uploads/2019/09/js.jpg?w=420px"
+ og_image: "https://cdn.statically.io/img/www.boleh.id/bolehtau/wp-content/uploads/2019/09/js.jpg"
 ---
 Berikut ini adalah kumpulan artikel materi pembelajaran bahasa pemrograman JavaScript tingkat dasar secara berurutan.
 
