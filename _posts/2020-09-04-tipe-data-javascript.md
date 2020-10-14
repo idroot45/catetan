@@ -4,7 +4,8 @@ categories: [javascript]
 tags: [mengenal javascript, mengenal tipe data, tipe data javascript]
 excerpt: "Mengetahui tipe-tipe data pada nilai (value) dalam bahasa JavaScript"
 header:
- overlay_image: "https://cdn.statically.io/img/www.boleh.id/bolehtau/wp-content/uploads/2019/09/js.jpg"
+ teaser: "https://cdn.statically.io/img/www.boleh.id/bolehtau/wp-content/uploads/2019/09/js.jpg?w=420"
+ og_image: "https://cdn.statically.io/img/www.boleh.id/bolehtau/wp-content/uploads/2019/09/js.jpg"
 ---
 Setelah mengenal apa itu JavaScript dan dasarnya, maka selanjutnya yang perlu diketahui adalah tipe data yang ada dalam bahasa pemrograman JavaScript.
 
