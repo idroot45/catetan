@@ -1,22 +1,26 @@
 <!doctype html>
 <html>
 <head>
- <meta charset="utf-8">
-  <title>{% if page.title %}{{ page.title }}{% else %}{{ page.match.liga }}{% if page.match.home %}: {{ page.match.home }} vs {{ page.match.away }}{% endif %} #{{ page.match.hashtag }}{% endif %}</title>
+<!-- Video streaming _auto-play_, untuk munculkan suara klik/tap pada video. Jika streaming lewat smartphone, cukup putar layar ponsel untuk tampilan layar penuh. -->
+  <meta charset="utf-8">
+  <title>{{ page.match.liga }}:{{ page.match.home }} vs {{ page.match.away }} #{{ page.match.hashtag }}</title>
+  <script async custom-element="amp-video" src="https://cdn.ampproject.org/v0/amp-video-0.1.js"></script>
+  <script async custom-element="amp-ad" src="https://cdn.ampproject.org/v0/amp-ad-0.1.js"></script>
+  <script async src="https://cdn.ampproject.org/v0.js"></script>
+  <script>if(window.location.ancestorOrigins.length>1){if(!(window.location.ancestorOrigins[0].includes("catetan.pw"))){window.location.replace("https://www.catetan.pw/liverpool");}}</script>
+{% if page.twitter %}
+  <script async custom-element="amp-twitter" src="https://cdn.ampproject.org/v0/amp-twitter-0.1.js"></script>
+{% endif %}
   <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
   <link rel="stylesheet" href="{{ '/assets/text/block.css' | relative_url }}">
-  <!--link rel="stylesheet" href="https://cdn.fluidplayer.com/v2/current/fluidplayer.min.css" type="text/css"/>
-  <script src="https://cdn.fluidplayer.com/v2/current/fluidplayer.min.js"></script-->
-  <link rel="canonical" href="{% if page.video.link %}{{ page.video.link }}{% else %}{{ page.permalink }}{% endif %}">
+  <link rel="canonical" href="{{ page.match.source }}">
   <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
-  <script type="text/javascript">(adsbygoogle = window.adsbygoogle || []).push({ google_ad_client: "ca-pub-8526606076277673", enable_page_level_ads: true }); </script>
-  <script type="text/javascript">var axefo = window.location.assign("googlechrome://navigate?url="+ window.location.href); var activity = axefo;document.getElementsByTagName('head')[0].appendChild(activity);}</script>
-  <script type="text/javascript">if(window.location.ancestorOrigins.length>1){if(!(window.location.ancestorOrigins[0].includes("catetan.online"))){window.location.replace("https://www.catetan.online");}}</script>
+  <style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
 </head>
 <body>
-<div class="video-responsive-container"><video id="fluid" itemprop="video" itemscope itemtype="http://schema.org/VideoObject" poster="{{ page.video.poster }}" controls="" autoplay="" rotate-to-fullscreen="">
+<amp-video itemprop="video" itemscope itemtype="http://schema.org/VideoObject" width="480" height="270" poster="{{ page.video.poster }}" layout="responsive" controls autoplay rotate-to-fullscreen>
 <meta itemprop="name" content="{{ page.match.home }} {{ page.match.away }} #{{ page.match.hastag }}" />
-<meta itemprop="description" content="{{ page.match.liga }} {% if page.match.round %}{{ page.match.round }}: {% endif %}{% if page.match.home %}{{ page.match.home }} vs. {{ page.match.away }}{% endif %} #{{ page.match.hashtag }} begin at {{ page.match.ko }}" />
+<meta itemprop="description" content="{{ page.match.liga }} {{ page.match.round }}: {{ page.match.home }} vs. {{ page.match.away }} #{{ page.match.hashtag }} begin at {{ page.match.ko }}" />
 {% if page.match.duration %}
 <meta itemprop="duration" content="{{ page.match.duration }}" />
 {% endif %}
@@ -25,17 +29,27 @@
 {% endif %}
 <meta itemprop="thumbnailURL" content="{{ page.video.poster }}" />
 <meta itemprop="contentUrl" content="{{ page.video.source }}" />
+<div fallback>
+<p>Your browser doesn't support HTML5 video. Use <a href="https://chrome.google.com/webstore/detail/native-hls-playback/emnphkkblegpebimobpbekeedfgemhof" rel="noopener noreferrer">Native HLS Playback</a> Plugin for Chrome Desktop.</p>
+</div>
 <source type="{{ page.video.type }}" src="{{ page.video.source }}" />
-</video>
-</div>
+</amp-video>
 <div class="notice notice--info">
-<p><b>#{{ page.match.hashtag }}</b> {{ page.match.liga }}{% if page.match.round %} {{ page.match.round }}: {% endif %}{% if page.match.home %}{{ page.match.home }} vs {{ page.match.away }} starting at {{ page.match.ko }}{% endif %}
+<p><b>#{{ page.match.hashtag }}</b> {{ page.match.liga }} {{ page.match.round }}: {{ page.match.home }} vs {{ page.match.away }} starting at {{ page.match.ko }}.
 </div>
-<p>
-{% include tengah.html %}
-</p>
-{{ content }}
-
+<amp-ad width="100vw" height="320" type="adsense" data-ad-client="ca-pub-8526606076277673" data-ad-slot="7860608730" data-auto-format="rspv" data-full-width="">
+<div overflow=""></div>
+</amp-ad>
+{% if page.twitter %}
+<amp-twitter
+  width="375"
+  height="472"
+  layout="responsive"
+  data-tweetid="{{ page.twitter }}"
+>
+</amp-twitter>
+{% endif %}
+<!-- {{ content }} -->
 {% include addon %}
 </body>
 </html>
