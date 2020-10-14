@@ -30,8 +30,8 @@ Jika sudah mendapatkan sebuah url yang ekstensinya adalah **m3u8** maka perburua
 [![kode sumber streaming](/assets/images/Screenshot_20200917-221426.png)](/assets/images/Screenshot_20200917-221426.png)
 
 Contohnya adalah tautan yang saya dapatkan dari 20detik.com untuk channel TRANSTV dan TRANS7 berikut ini:
-- **Trans TV**: `https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8`
-- **Trans 7**: `https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8`
+*Trans TV**: ```https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8```
+**Trans 7**: ```https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8```
 
 _Note: Jangan sarankan memakai `inspect element` ya? Saya tidak punya laptop. Ngoding pun seadanya via ponsel android._
 
