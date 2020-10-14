@@ -4,8 +4,9 @@ excerpt: "Cara menonton live stream TV tanpa diganggu iklan ala saya. Bonus: Tak
 categories: [tips]
 tags: [livestream, streaming tv, tv online]
 header:
- image: "/assets/images/Screenshot_20200917-221326~2.png"
+ image: "https://cdn.statically.io/img/www.useetv.com/pimages/tvposter/trans7.png"
  caption: "mencari url streaming tv"
+ teaser: "https://www.useetv.com/pimages/tvposter/trans7.png?w=420px"
 ---
 Nonton TV mungkin sudah tidak jaman. Kekinian banyak muncul layanan VOD (video on demanad) hingga memaksa beberapa stasiun TV swasta nasional ikut-ikutan mengonlinekan siarannya.
 
