@@ -23,11 +23,12 @@ Buku ini ditulis oleh **Ridwan Fajar Septian** dan benar benar disusun untuk pem
 
 Bisa diunduh dari sini: [Download PDF](/mega.nz/file/ep5AlTqb#InIeUOsvFJ85w1pjKlFOEdfegnuV_Qcj_CNHCYfY-Ok){:.btn .btn--default}
 
-### 2. Membuat Aplikasi Bisnis dengan Pythin dan MySql
+### 2. Membuat Aplikasi Bisnis dengan Python dan MySql
 
 Buku ini berisi cara membuat aplikasi bisnis menggunakan bahasa Python dan database berbasis MySql. Bahasan materi dimulai dari pemahaman konsep kemudian dilanjutkan dengan ulasan teknis pemrigraman secara rinci. Contih aplikasi yang dibuat dalam buku ini berupa aplikasi kasir.
 
-Ebook brformat PDF bisa diunduh dari sini: [Download PDF](/mega.nz/?key=Chhy3bKR&file=PElFErCc6KDXmrKHgSWjOEWa0JVX4I8BWDiNig_GeLE
+Ebook brformat PDF bisa diunduh dari sini: [Download PDF](/mega.nz/?key=Chhy3bKR&file=PElFErCc6KDXmrKHgSWjOEWa0JVX4I8BWDiNig_GeLE)
+
 ### 3. Learning Python
 
 Buku **Learning Python** berjumlah 1213 halaman. File PDF 8.3 MB. Materi pembelajaran disajikan dalam bahasa Inggris ditulis oleh **Mark Lutz**. 
