@@ -3,6 +3,8 @@ title: "Download Adobe Acrobat Reader untuk Android"
 excerpt: "Adobe Acrobat Reader 20.6.2 (Full) APK for Android"
 categories: [aplikasi]
 tags: [acrobat reader, pdf reader]
+header:
+ teaser: "https://cdn.statically.io/img/apkhubs.com/img/adobe-acrobat-reader-1900-apk-for-android.jpg"
 ---
 Adobe Acrobat adalah perangkat lunak pertama yang mendukung Portable Document Format (PDF) milik Adobe Systems, sejenis format data dokumen. Terdiri dari **Adobe Reader** yang hanya dapat menampilkan dan mencetak dokumen dan tersedia secara cuma-cuma, dan **Adobe Acrobat**_untuk menyunting dokumen.
 
