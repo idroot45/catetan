@@ -145,7 +145,7 @@
 127.0.0.1 www.ssacredvecto.info
 
 # [detik.com]
-127.0.0.1 cdn.detik.net.id
+# 127.0.0.1 cdn.detik.net.id
 127.0.0.1 akcdn.detik.net.id
 127.0.0.1 cdnv.detik.net.id
 127.0.0.1 rec.detik.com
