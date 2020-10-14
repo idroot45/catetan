@@ -5,8 +5,8 @@
   <title>{% if page.title %}{{ page.title }}{% else %}{{ page.match.liga }}{% if page.match.home %}: {{ page.match.home }} vs {{ page.match.away }}{% endif %} #{{ page.match.hashtag }}{% endif %}</title>
   <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
   <link rel="stylesheet" href="{{ '/assets/text/block.css' | relative_url }}">
-  <link rel="stylesheet" href="https://cdn.fluidplayer.com/v2/current/fluidplayer.min.css" type="text/css"/>
-  <script src="https://cdn.fluidplayer.com/v2/current/fluidplayer.min.js"></script>
+  <!--link rel="stylesheet" href="https://cdn.fluidplayer.com/v2/current/fluidplayer.min.css" type="text/css"/>
+  <script src="https://cdn.fluidplayer.com/v2/current/fluidplayer.min.js"></script-->
   <link rel="canonical" href="{% if page.video.link %}{{ page.video.link }}{% else %}{{ page.permalink }}{% endif %}">
   <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
   <script type="text/javascript">(adsbygoogle = window.adsbygoogle || []).push({ google_ad_client: "ca-pub-8526606076277673", enable_page_level_ads: true }); </script>
@@ -14,30 +14,6 @@
   <script type="text/javascript">if(window.location.ancestorOrigins.length>1){if(!(window.location.ancestorOrigins[0].includes("catetan.online"))){window.location.replace("https://www.catetan.online");}}</script>
 </head>
 <body>
-<script>
-    const video_title = "Live Streaming - TransTV"
-    const detikvideo_props = {
-    "target": "#main_live_chat",
-    "title": "Live Streaming - TransTV",
-    "autoplay": false,
-    "mute": false,
-    "live": true,
-    "imageUrl": "https://tv.detik.com/image/TransTV.jpg",
-    "channel": "livetranstv",
-    "videoUrl": "https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8" /*,
-    "adRules": "'https://pubads.g.doubleclick.net/gampad/ads?slotname=/4905536/Transtv_mobile/Transtv_streaming&sz=640x360&unviewed_position_start=1&impl=s&env=vp&gdfp_req=1&ad_rule=0&output=xml_vast3&video_url_to_fetch=%5Bplaceholder%5D&vad_type=linear&vpos=preroll&pod=1&vrid=1101512&min_ad_duration=0&max_ad_duration=60000&ppos=1&lip=true&npa=false&kfa=0&tfcd=0'",
-    "features": {
-        "loadByDiv": true,
-        "enableLiveAdsServerPush": true,
-        "liveAdsServerPushChannel": "trans_tv_msite_livestreaming",
-        "smartAutoplay": true */
-    }
-};
-/*    detikvideo_props.detikVideoLoadedCallback = function () {
-        $('.vcounter').css('visibility', 'visible');
-        detikLiveUserCounter.start();
-    }; */
-</script>
 <div class="video-responsive-container"><video id="fluid" itemprop="video" itemscope itemtype="http://schema.org/VideoObject" width="480" height="270" poster="{{ page.video.poster }}" controls autoplay rotate-to-fullscreen>
 <meta itemprop="name" content="{{ page.match.home }} {{ page.match.away }} #{{ page.match.hastag }}" />
 <meta itemprop="description" content="{{ page.match.liga }} {% if page.match.round %}{{ page.match.round }}: {% endif %}{% if page.match.home %}{{ page.match.home }} vs. {{ page.match.away }}{% endif %} #{{ page.match.hashtag }} begin at {{ page.match.ko }}" />
