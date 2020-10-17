@@ -73,6 +73,7 @@ timezone: Asia/Jakarta
 
 include:
   - _pages
+  - _demystifying-computers
 #  - arsip
 exclude:
   - Gemfile
@@ -156,7 +157,7 @@ defaults:
   # _demystifying-computers
   - scope:
       path: ""
-      type: demystifying-computers
+      type: portofolio
     values:
       layout: single
       author_profile: false
