@@ -81,4 +81,4 @@ You see, that's the magic of Von Neumann's architecture. Even though he had no i
 
 In the next posts of the series we'll answer questions like "why isn't storage classified as memory but as an I/O device?" or "what are the differences between CPUs and GPUs?" and "how do CPUs add and subtract numbers?".
 
-[Demystifying Computers Series](/demystifying-computers/]
+[Demystifying Computers Series](/demystifying-computers/)
