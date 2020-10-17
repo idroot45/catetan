@@ -154,10 +154,10 @@ defaults:
     values:
       layout: single
       author_profile: false
-  # _demystifying-computers
+  # demystifying-computers
   - scope:
       path: ""
-      type: demystifying-computers
+      type: collection
     values:
       layout: single
       author_profile: false
