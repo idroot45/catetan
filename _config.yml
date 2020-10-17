@@ -73,7 +73,7 @@ timezone: Asia/Jakarta
 
 include:
   - _pages
-  - _demystifying-computers
+#  - demystifying-computers
 #  - arsip
 exclude:
   - Gemfile
