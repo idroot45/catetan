@@ -1,12 +1,12 @@
 ---
 title: "Demystifying Computers: Intro to Computer Architecture"
-excerpt: "This post is the first in a series where I try to dissect the inners of computers in just enough detail so you can understand the _magic_ that goes on behind the curtains when you write a _hello world_ program or open up your browser."
+excerpt: "This post is the first in a series where I try to dissect the inners of computers in just enough detail so you can understand the **magic** that goes on behind the curtains when you write a **hello world** program or open up your browser."
 header:
  caption: "Architecture"
  image: "https://cdn.statically.io/img/dev-to-uploads.s3.amazonaws.com/i/ad6xwyk6nsy8zrnqqgt6.jpg?w=740px"
  teaser: "https://cdn.statically.io/img/dev-to-uploads.s3.amazonaws.com/i/ad6xwyk6nsy8zrnqqgt6.jpg?w=460px"
 ---
-This post is the first in a series where I try to dissect the inners of computers in just enough detail so you can understand the "magic" that goes on behind the curtains when you write a "hello world" program or open up your browser.
+> {{ page.excerpt }}
 
 ## Introduction
 A while back I visited the [Palace of Versailles](http://en.chateauversailles.fr/) and boy was it big. I thought "How could something this big have been someone's house?". One thing's for sure: houses can be very, very different.
