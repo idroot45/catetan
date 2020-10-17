@@ -1,8 +1,8 @@
 ---
 title: "Demystifying Computers (Series)"
 layout: collection
-permalink: "/demistifying-computers/"
-collection: demistifying-computers
+permalink: "/demystifying-computers/"
+collection: demystifying-computers
 entries_layout: grid
 classes: wide
 ---
