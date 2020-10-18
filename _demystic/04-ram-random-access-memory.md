@@ -89,6 +89,8 @@ In general, more RAM is better than faster RAM. RAM is supposed to be a fast mem
 
 As we've touched in Hard Drives and SSDs, I think some further explanation on I/O devices is in order. In the next post we'll talk about how this "external" devices interact and why are they treated differently as well as the hacks we've created to make them as efficient as possible.
 
+[Demystifying Computers Series](/demystifying-computers/)
+
 ## References
 - RAM Access Time vs HDD Access Time [link](https://www.webopedia.com/TERM/A/access_time.html)
 - Different Types of RAM (Random Access Memory) Explained [link](https://www.guru99.com/different-types-ram-random-access-memory.html)
