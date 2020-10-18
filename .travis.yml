@@ -1,10 +1,8 @@
-dist: trusty
-sudo: false
 language: ruby
 cache: bundler
-gemfile: Gemfile
+gemfile: docs/Gemfile
 script:
-  - bundle exec jekyll algolia site:deploy --quiet
+  - bundle exec jekyll algolia --source --destination _site --config _config.yml
 branches:
   only:
     # Change this to gh-pages if you're deploying using the gh-pages branch
