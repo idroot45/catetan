@@ -40,10 +40,10 @@ image: https://cdn.statically.io/img/www.catetan.pw/assets/images/catetan.gif
 logo: https://cdn.statically.io/img/www.catetan.pw/assets/images/photo45.gif
 #Search
 search: true
-search_provider: google
-google:
-  search_engine_id: "012409504556434517711:oxyvbv1u6ko"
-  instant_search: true
+search_provider: algolia
+#google:
+#  search_engine_id: "012409504556434517711:oxyvbv1u6ko"
+#  instant_search: true
 words_per_minute: 200
 comments:
   provider: utterances
