@@ -157,7 +157,7 @@ defaults:
   # demystifying-computers
   - scope:
       path: ""
-      type: collection
+      type: portofolio
     values:
       layout: single
       author_profile: false
