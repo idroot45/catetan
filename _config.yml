@@ -35,9 +35,9 @@ facebook:
  app_id: 720457594754641
  publisher: https://www.facebook.com/pssi.vi
 # Images
-teaser: https://cdn.statically.io/img/www.catetan.pw/assets/images/teaser.gif
-image: https://cdn.statically.io/img/www.catetan.pw/assets/images/catetan.gif
-logo: https://cdn.statically.io/img/www.catetan.pw/assets/images/photo45.gif
+teaser: https://cdn.statically.io/img/www.catetan.online/assets/images/teaser.gif
+image: https://cdn.statically.io/img/www.catetan.online/assets/images/catetan.gif
+logo: https://cdn.statically.io/img/www.catetan.online/assets/images/photo45.gif
 #Search
 search: true
 search_provider: algolia
@@ -73,8 +73,8 @@ timezone: Asia/Jakarta
 
 include:
   - _pages
-#  - demystifying-computers
-#  - arsip
+  - _demystic
+
 exclude:
   - Gemfile
   - Gemfile.lock
@@ -87,12 +87,13 @@ exclude:
 
 # Plugins (previously gems:)
 plugins:
+  - jekyll-feed
   - jekyll-paginate
   - jekyll-redirect-from
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
-#  - jemoji
+  - jemoji
   - jekyll-include-cache
 
 author:
@@ -163,7 +164,7 @@ defaults:
       author_profile: false
       share: true
   # arsip
-  - scope:
+#  - scope:
 #      path: "arsip/*/*/"
 #      type: pages
 #    values:
