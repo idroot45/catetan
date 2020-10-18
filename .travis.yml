@@ -12,11 +12,11 @@ install:
   - gem install jekyll-feed
   - gem install jekyll-paginate
   - gem install jekyll-redirect-from
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
-  - jemoji
-  - jekyll-include-cache
+  - gem jekyll-sitemap
+  - gem jekyll-gist
+  - gem jekyll-feed
+  - gem jemoji
+  - gem jekyll-include-cache
   - bundle install
 
 script: bundle exec rake site:deploy --quiet #--trace
