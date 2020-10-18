@@ -13,6 +13,13 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+username: knoacc
+repo: catetan
+branch: master
+relative_source: ../catetan/
+destination: _site/
+production_url: https://www.catetan.online/
+source_url: https://github.com/knoacc/catetan/
 url: https://www.catetan.online
 title: Catetan SeBel
 subtitle: Catetan dan Seluk Beluk
@@ -79,11 +86,19 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - _draft
-  - vendor/bundle/
-  - vendor/cache/
-  - vendor/gems/
-  - vendor/ruby/
+  - vendor
   - arsip
+  - node_modules
+  - vendor
+  - .travis.yml
+  - Gemfile
+  - Gemfile.lock
+  - GHOST.txt
+  - gulpfile.js
+  - LICENSE
+  - package.json
+  - Rakefile
+  - README.md
 
 # Plugins (previously gems:)
 plugins:
