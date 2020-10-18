@@ -72,6 +72,8 @@ The best example I can think of is fetching data on a Hard Drive. This is one of
 
 When the CPU asks the Hard Drive for some data, it doesn't wait around until it receives the data. Instead, a concurrent program could context switch out of the CPU while the data isn't retrieved, allowing it to make 1000 other operations and, when the data is finally ready, it resumes execution of the original task. In this case, the Hard Drive data fetching and the other calculations are decoupled, making the execution concurrent.
 
+[Demystifying Computers Series](/demystifying-computers/)
+
 ## References
 What’s the Difference Between a CPU and a GPU? (Nvidia Blog) [link](https://blogs.nvidia.com/blog/2009/12/16/whats-the-difference-between-a-cpu-and-a-gpu/)
 
