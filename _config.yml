@@ -20,17 +20,17 @@ repo: catetan
 branch: master
 relative_source: ../catetan/
 destination: _site/
-production_url: https://www.catetan.online/
-source_url: https://github.com/knoacc/catetan/
-url: https://www.catetan.online
-baseurl: /
-CNAME: www.catetan.online
-title: Catetan SeBel
-subtitle: Catetan dan Seluk Beluk
+production_url: "https://www.catetan.online/"
+source_url: "https://github.com/knoacc/catetan/"
+url: "https://www.catetan.online"
+baseurl: "/"
+CNAME: *www.catetan.online"
+title: "Catetan SeBel"
+subtitle: "Catetan dan Seluk Beluk"
 masthead_title: "SeBel"
 # email:
-description: Seluk Beluk catatan yang tak terlalu penting tentang Web Development, Distro Linux, Android OS, Security Vulnerabilities hingga club sepakbola Liverpool FC"
-twitter_username: knoacc
+description: "Seluk Beluk catatan yang tak terlalu penting tentang Web Development, Distro Linux, Android OS, Security Vulnerabilities hingga club sepakbola Liverpool FC"
+twitter_username: "knoacc"
 # github_username: username
 # minimal_mistakes_skin: default
 # Social
