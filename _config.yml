@@ -13,6 +13,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+safe: False
+lsi: False
 username: knoacc
 repo: catetan
 branch: master
@@ -21,6 +23,8 @@ destination: _site/
 production_url: https://www.catetan.online/
 source_url: https://github.com/knoacc/catetan/
 url: https://www.catetan.online
+baseurl: /
+CNAME: www.catetan.online
 title: Catetan SeBel
 subtitle: Catetan dan Seluk Beluk
 masthead_title: "SeBel"
@@ -91,9 +95,8 @@ exclude:
   - node_modules
   - vendor
   - .travis.yml
-  - Gemfile
-  - Gemfile.lock
-  - GHOST.txt
+  - script.py
+  -.git*
   - gulpfile.js
   - LICENSE
   - package.json
