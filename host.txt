@@ -215,6 +215,7 @@
 
 # [outbrain]
 127.0.0.1 mcdp-sadc1.outbrain.com
+127.0.0.1 outbrain.com
 
 # [goal.com]
 127.0.0.1 player.daznservices.com
