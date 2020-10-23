@@ -15,16 +15,16 @@
 # in the templates via {{ site.myvariable }}.
 safe: False
 lsi: False
-username: knoacc
-repo: catetan
-branch: master
-relative_source: ../catetan/
-destination: _site/
-production_url: "https://www.catetan.online/"
-source_url: "https://github.com/knoacc/catetan/"
-url: "https://www.catetan.online"
-baseurl: "/"
-CNAME: "www.catetan.online"
+#username: knoacc
+#repo: catetan
+#branch: master
+#relative_source: ../catetan/
+#destination: _site/
+#production_url: "https://www.catetan.online/"
+#source_url: "https://github.com/knoacc/catetan/"
+#url: "https://www.catetan.online"
+#baseurl: "/"
+#CNAME: "www.catetan.online"
 title: "Catetan SeBel"
 subtitle: "Catetan dan Seluk Beluk"
 masthead_title: "SeBel"
