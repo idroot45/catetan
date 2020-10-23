@@ -30,7 +30,7 @@ subtitle: "Catetan dan Seluk Beluk"
 masthead_title: "SeBel"
 # email:
 description: "Seluk Beluk catatan yang tak terlalu penting tentang Web Development, Distro Linux, Android OS, Security Vulnerabilities hingga club sepakbola Liverpool FC"
-twitter_username: "knoacc"
+twitter_username: knoacc
 # github_username: username
 # minimal_mistakes_skin: default
 # Social
@@ -44,24 +44,24 @@ social:
   - https://www.paciran.com/author/mukidi
 facebook:
  app_id: 720457594754641
- publisher: https://www.facebook.com/pssi.vi
+ publisher: https://www.facebook.com/nasyrih
 # Images
 teaser: https://cdn.statically.io/img/www.catetan.online/assets/images/teaser.gif
 image: https://cdn.statically.io/img/www.catetan.online/assets/images/catetan.gif
 logo: https://cdn.statically.io/img/www.catetan.online/assets/images/photo45.gif
 #Search
 search: true
-search_provider: algolia
-#google:
-#  search_engine_id: "012409504556434517711:oxyvbv1u6ko"
-#  instant_search: true
+search_provider: google
+google:
+  search_engine_id: "012409504556434517711:oxyvbv1u6ko"
+  instant_search: true
 words_per_minute: 200
 comments:
   provider: utterances
   utterances:
    theme: "github-light"
    issue_term: "pathname"
-repository: "knoacc/catetan"
+repository: knoacc/catetan
 # SEO Related
 google_site_verification: "fYYFFxxNEP5-9x_N0og0owVt8q6EGqmmIwOCMRvin0s"
 bing_site_verification: "DA3D4C0368D7AE1105218F7F5B5BD6AC"
@@ -75,10 +75,10 @@ analytics:
 
 # Build settings
 markdown: kramdown
-remote_theme: "mmistakes/minimal-mistakes@4.20.2"
+remote_theme: "mmistakes/minimal-mistakes"
 # Outputting
 permalink: /:categories/:title/
-paginate: 10 # amount of posts to show
+paginate: 10
 paginate_path: /page:num/
 timezone: Asia/Jakarta
 
@@ -96,7 +96,7 @@ exclude:
   - vendor
   - .travis.yml
   - script.py
-  -.git*
+  - .git*
   - gulpfile.js
   - LICENSE
   - package.json
