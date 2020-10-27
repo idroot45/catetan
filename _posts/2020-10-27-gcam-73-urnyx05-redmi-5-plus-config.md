@@ -11,7 +11,7 @@ Kamera Google Modifikasi Urnyx05. Google Cam rekomdasi untuk Xiaomi Redmi 5 Plus
 
 ![Google Camera 7.3 Urnyx05](https://www.celsoazevedo.com/files/android/p/f/2020/09/Urnyx05-GCam-7.3-v2.2.png)
 
-Paket aplikasi (apk) bisa diunduh dari celzoazevedo.com di link berikut: [unduh apk](https://1-dontsharethislink.celsoazevedo.com/file/filesc/GCam_7.3.018_Urnyx05-v2.2-fix.apk) atau sever mirror di mega.nz berikut ini: [unduh apk]()
+Paket aplikasi (apk) bisa diunduh dari celzoazevedo.com (lambat) di tautan berikut: [unduh apk](https://1-dontsharethislink.celsoazevedo.com/file/filesc/GCam_7.3.018_Urnyx05-v2.2-fix.apk) atau sever mirror di mega.nz (cepat) berikut ini: [unduh apk](/mega.nz/?key=w2IxEKjD&file=1Idtltf4G64njG-Eo4v8ii8kBvzv761hqrW0g4NK1OE)
 Untuk file config (xml) bisa diunduh dari sini: [unduh config](https://www.celsoazevedo.com/files/android/p/f/2020/04/urnyx05-7.3.xml) atau dari sini: [unduh config](/raw/urnyx05-7.3.xml).
 
 Aplikasi GCam Urnyx05 bisa dipasang dengan paket aplikasi GCam Original maupun GCam modifikasi lain karena berbeda nama paket (`com.google.camera.urnyx`) 
