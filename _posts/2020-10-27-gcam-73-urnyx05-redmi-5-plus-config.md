@@ -28,4 +28,4 @@ Aplikasi modifikasi Urnyx05 bisa berjalan normal dan minim bug pada Xiaomi Redmi
 
 [![mode malam](https://cdn.statically.io/img/www.catetan.online/assets/images/IMG_20201027_220905.jpg?w=320px)](/assets/images/IMG_20201027_220905.jpg)
 
-* _foto di atas diambil ketika lensa kamera berminyak._
+* _foto di atas diambil ketika lensa kamera berminyak. Klik gambar untuk melihat foto asli._
