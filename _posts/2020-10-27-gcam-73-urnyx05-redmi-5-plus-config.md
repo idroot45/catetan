@@ -25,3 +25,7 @@ Ini merupakan kamera google modifikasi versi terbaru, yakni dari GCam versi 7.3 
 Saya untuk saat ini masih memakai Custom ROM Resurrection Remix yang berbasis Android 10.
 
 Aplikasi modifikasi Urnyx05 bisa berjalan normal dan minim bug pada Xiaomi Redmi 5 Plus (India: Redmi Note 5).
+
+[![mode malam](https://cdn.statically.io/img/www.catetan.online/assets/images/IMG_20201027_220905.jpg?w=320px)](/assets/images/IMG_20201027_220905.jpg)
+
+* _foto di atas diambil ketika lensa kamera berminyak._
