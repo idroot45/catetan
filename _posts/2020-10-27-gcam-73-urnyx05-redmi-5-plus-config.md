@@ -1,5 +1,5 @@
 ---
-title: "Goigle Camera (G-Cam) 7.3 for Redmi 5 Plus & Config"
+title: "Google Camera (G-Cam) 7.3 for Redmi 5 Plus & Config"
 categories: [aplikasi]
 tags: [gcam, vince]
 header:
