@@ -22,7 +22,7 @@ relative_source: ../catetan/
 destination: _site/
 production_url: https://words.biz.id/
 #source_url: https://github.com/knoacc/catetan/
-url: https://www.
+url: https://
 baseurl: /
 CNAME: words.biz.id
 title: "Catetan SeBel"
@@ -61,7 +61,7 @@ comments:
   utterances:
    theme: "github-light"
    issue_term: "pathname"
-repository: knoacc/catetan
+repository: idroot45/catetan
 # SEO Related
 google_site_verification: "fYYFFxxNEP5-9x_N0og0owVt8q6EGqmmIwOCMRvin0s"
 bing_site_verification: "DA3D4C0368D7AE1105218F7F5B5BD6AC"
