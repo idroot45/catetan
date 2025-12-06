@@ -20,11 +20,11 @@ repo: catetan
 branch: master
 relative_source: ../catetan/
 destination: _site/
-production_url: https://www.catetan.online/
+production_url: https://words.biz.id/
 #source_url: https://github.com/knoacc/catetan/
-url: https://www.catetan.online
+url: https://www.
 baseurl: /
-CNAME: www.catetan.online
+CNAME: words.biz.id
 title: "Catetan SeBel"
 subtitle: "Catetan dan Seluk Beluk"
 masthead_title: "SeBel"
@@ -38,17 +38,17 @@ social:
  type: person
  name: Idlohulhaq Nasyrih
  links:
-  - https://www.twitter.com/knoacc
+  - https://www.twitter.com/ph66
   - https://www.facebook.com/nasyrih
-  - https://instagram.com/lautansyair
-  - https://www.paciran.com/author/mukidi
+  - https://instagram.com/jon_mukidi
+  - https://www.gootech.my.id
 facebook:
  app_id: 720457594754641
  publisher: https://www.facebook.com/nasyrih
 # Images
-teaser: https://cdn.statically.io/img/www.catetan.online/assets/images/teaser.gif
-image: https://cdn.statically.io/img/www.catetan.online/assets/images/catetan.gif
-logo: https://cdn.statically.io/img/www.catetan.online/assets/images/photo45.gif
+teaser: https://cdn.statically.io/img/words.biz.id/assets/images/teaser.gif
+image: https://cdn.statically.io/img/words.biz.id/assets/images/catetan.gif
+logo: https://cdn.statically.io/img/words.biz.id/assets/images/photo45.gif
 #Search
 search: true
 search_provider: google
@@ -131,7 +131,7 @@ author:
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://www.paciran.com/author/mukidi"
+      url: "https://gootech.my.id/"
 #   - label: "Twitter"
 #     icon: "fab fa-fw fa-twitter-square"
 #     url: "https://twitter.com/knoacc"
@@ -140,7 +140,7 @@ author:
       url: "https://www.facebook.com/nasyrih"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/lautansyair"
+      url: "https://instagram.com/jon_mukidi"
 
 footer:
   links:
